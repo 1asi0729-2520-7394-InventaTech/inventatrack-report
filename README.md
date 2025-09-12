@@ -133,3 +133,73 @@
 - [Anexos](#anexos)
 
 ## Student Outcome
+
+<table>
+  <tr>
+     <th colspan="2">Criterio Específico</th>
+     <th colspan="10">Acciones Realizadas</th>
+     <th colspan="2">Conclusiones</th>
+  </tr>
+  <tr>
+     <td colspan="2">Comunica oralmente con efectividad a diferentes rangos de audiencia.</td>
+     <td colspan="10">
+        <b>Nombre: Gonzalo Alonso Carhuancote Dominguez</b><br><br>
+        TB1:<br><br>
+        TP:<br><br>
+        TB2:<br><br>
+        TF:<br><br>
+        <b>Nombre:</b><br><br>
+        TB1:<br><br>
+        TP:<br><br>
+        TB2:<br><br>
+        TF:<br><br>
+        <b>Nombre:</b><br><br>
+        TB1:<br><br>
+        TP:<br><br>
+        TB2:<br><br>
+        TF:<br><br>
+        <b>Nombre:</b><br><br>
+        TB1:<br><br>
+        TP:<br><br>
+        TB2:<br><br>
+        TF:<br><br>
+        <b>Nombre:</b><br><br>
+        TB1:<br><br>
+        TP:<br><br>
+        TB2:<br><br>
+        TF:<br><br>
+     </td>
+     <td colspan="2"></td>
+  </tr>
+  <tr>
+     <td colspan="2">Comunica por escrito con efectividad a diferentes rangos de audiencia.</td>
+     <td colspan="10">
+        <b>Nombre: Gonzalo Alonso Carhuancote Dominguez</b><br><br>
+        TB1:<br><br>
+        TP:<br><br>
+        TB2:<br><br>
+        TF:<br><br>
+        <b>Nombre:</b><br><br>
+        TB1:<br><br>
+        TP:<br><br>
+        TB2:<br><br>
+        TF:<br><br>
+        <b>Nombre:</b><br><br>
+        TB1:<br><br>
+        TP:<br><br>
+        TB2:<br><br>
+        TF:<br><br>
+        <b>Nombre:</b><br><br>
+        TB1:<br><br>
+        TP:<br><br>
+        TB2:<br><br>
+        TF:<br><br>
+        <b>Nombre:</b><br><br>
+        TB1:<br><br>
+        TP:<br><br>
+        TB2:<br><br>
+        TF:<br><br>
+     </td>
+     <td colspan="2"></td>
+  </tr>
+</table>
