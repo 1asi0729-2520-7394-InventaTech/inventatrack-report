@@ -133,3 +133,46 @@
 - [Anexos](#anexos)
 
 ## Student Outcome
+
+
+# Capitulo I: Introducción
+## 1.1. StartUp Profile
+### 1.1.1. Descripción de la StartUp
+<div align="justify">
+
+InventaTrack surge al identificar un problema común en muchos negocios que trabajan diariamente con alimentos perecederos, como restaurantes, cocinas ocultas, hoteles y supermercados. Muchos aún usan métodos manuales o desorganizados para controlar sus productos, lo que genera pérdidas económicas, desperdicio de comida e incluso problemas con normativas sanitarias, afectando la experiencia del cliente final.
+
+Muchos negocios de este sector no pueden o no quieren invertir en sensores, cámaras o sistemas automáticos costosos. Por eso, nuestra solución simple, eficiente y digital es una plataforma web que permite registrar productos, controlar fechas de caducidad, recibir alertas cuando hay poco stock o algún insumo está por vencer, y hacer seguimiento de todo con reportes fáciles de entender.
+
+---
+## Misión
+Nuestra misión es digitalizar la gestión de inventario alimentario para que cualquier negocio, sin importar su tamaño, pueda reducir pérdidas, evitar desperdicios y tener un mejor control de sus insumos de forma práctica y accesible.
+
+---
+## Visión
+Queremos que InventaTrack sea la herramienta número uno preferida para la gestión inteligente de inventarios en negocios que trabajan con alimentos. Buscamos que más empresas puedan dejar el papel y Excel, y empiecen a gestionar su stock de forma más moderna, eficiente y segura.
+
+### 1.1.2. Perfiles de integrantes del equipo
+|    Nombre Completo del integrante   | Descripcion de Carrera | Fotografía | Conocimientos y Habilidades a apuntar|
+| ------------------------------------| ---------------------- | ---------- | ------------------------------------ |
+| Gonzalo Alonso Carhuancote Dominguez| 
+| Juan Carlos Alvarado de la Cruz| 
+| Joan Fernando Teves Samaniego| 
+| Antonio Rodrigo Duran Díaz| 
+| Daiki Oscar Oshiro Yamashita| 
+
+## 1.2. Solution Profile
+
+### 1.2.1 Antecedentes y Problemática
+
+### 1.2.2 Lean UX Proces
+
+#### 1.2.2.1 Lean UX Problem Statements 
+
+#### 1.2.2.2 Lean UX Assumptions
+
+#### 1.2.2.3 Lean UX Hyphotesis Statements
+
+#### 1.2.2.1 Lean UX Canvas
+
+## 1.3 Segmentos Objetivo
