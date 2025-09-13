@@ -215,16 +215,103 @@ Enlace para acceder al Lean UX Canvas en Lucid: https://lucid.app/lucidspark/36d
 - **Restaurantes y cocinas ocultas**  
    Negocios gastronómicos que operan en ambientes de alta rotación de insumos y, en el caso de las cocinas ocultas, centrados exclusivamente en delivery.  
    - Problemática: dificultades para controlar fechas de vencimiento, compras mal planificadas y mermas por preparación.  
-   - Necesidad: contar con una solución digital que les permita registrar insumos, recibir alertas de caducidad y reducir pérdidas.  
-
+   - Necesidad: contar con una solución digital que les permita registrar insumos, recibir alertas de caducidad y reducir pérdidas.<br><br>
 - **Hoteles y supermercados**  
    Establecimientos de gran escala que manejan altos volúmenes de productos perecederos, con operaciones distribuidas en varios puntos de consumo (buffets, restaurantes internos, góndolas).  
    - Problemática: pérdidas significativas por falta de rotación, exceso de stock y deficiencias en la cadena de frío.  
-   - Necesidad: implementar un sistema que asegure control de inventarios, optimice la planificación de compras y apoye el cumplimiento de normativas sanitarias.
-
+   - Necesidad: implementar un sistema que asegure control de inventarios, optimice la planificación de compras y apoye el cumplimiento de normativas sanitarias.<br><br>
 - **Entidades regulatorias** 
    Organismos como DIGESA u oficinas municipales de fiscalización sanitaria, responsables de verificar el cumplimiento de normas de higiene y salubridad en el manejo de alimentos.  
-   - Necesidad: disponer de reportes o datos estandarizados que respalden las inspecciones.
+   - Necesidad: disponer de reportes o datos estandarizados que respalden las inspecciones.<br><br>
+   
+# Capitulo II: Requirements Elicitation & Analysis
+## 2.1. Competidores
+### 2.1.1. Análisis competitivo
+El mercado de soluciones para gestión de inventarios alimentarios cuenta con diversos competidores, tanto directos como indirectos.  
+
+**Competidores directos:**  
+
+- **Oracle NetSuite Inventory Management**  
+  - Software integral de ERP con módulo de inventarios.  
+  - Fortalezas: integración con otras áreas de negocio, análisis en tiempo real.  
+  - Debilidades: implementación compleja y costosa.  
+
+- **Zoho Inventory**  
+  - Solución en la nube enfocada en inventario y facturación.  
+  - Fortalezas: interfaz amigable, precios accesibles.  
+  - Debilidades: funcionalidades limitadas para control de caducidad alimentaria.  
+
+**Competidores indirectos:**  
+- **Microsoft Excel / Google Sheets**  
+  - Herramientas comunes en pequeños negocios.  
+  - Fortalezas: bajo costo, fácil acceso.  
+  - Debilidades: alta propensión a errores manuales, no generan alertas automáticas.  
+
+**Posicionamiento de InventaTrack:**  
+- Se diferencia por enfocarse en PYMEs gastronómicas y de retail, ofreciendo una herramienta accesible, simple y especializada en alimentos perecederos.  
+- Ventaja competitiva: control de fechas de vencimiento, alertas automáticas y reportes, algo que la mayoría de competidores no prioriza. 
+
+### 2.1.2. Estrategias y tácticas frente a competidores
+Para destacar frente a los competidores identificados, planteamos las siguientes estrategias:  
+
+- **Estrategias de diferenciación:**  
+  - Enfoque en **alimentos perecederos** y problemas reales de restaurantes, cocinas ocultas, hoteles y supermercados.  
+  - Interfaz intuitiva y accesible para usuarios no técnicos.  
+  - Reportes claros y pérdidas económicas.  
+
+- **Estrategias de costo:**  
+  - Modelo de precios flexible y accesible para PYMEs, con opciones gratuitas limitadas.
+  - Uso de tecnologías open source para reducir costos de desarrollo y mantenimiento.  
+
+- **Táctica de entrada al mercado:**  
+  - Validación inicial con negocios locales (pruebas piloto en restaurantes y cocinas ocultas).  
+  - Generación de confianza a través de testimonios y casos de éxito.  
+  - Enfoque en marketing digital dirigido a emprendedores gastronómicos y cadenas medianas.  
+
+- **Tácticas de escalabilidad:**  
+  - Integración futura con sistemas de facturación y POS.  
+  - Posible apertura de una API para conexión con apps de delivery.  
+  - Expansión a segmentos más grandes (cadenas de hoteles y supermercados a nivel nacional).  
+
+## 2.2. Entrevistas
+### 2.2.1. Diseño de entrevistas
+El objetivo de las entrevistas es identificar las principales necesidades, difucultades y expectativas de los segmentos objetivo frente a la gestión de inventarios de alimentos perecederos.  
+- **Segmentos entrevistados:**  
+    - Restaurantes y cocinas ocultas.  
+    - Hoteles y supermercados. 
+
+- **Objetivos específicos de las entrevistas:**
+    - Conocer cómo gestionan actualmente sus inventarios.  
+    - Identificar los principales problemas en caducidad, sobrestock y pérdidas.  
+    - Explorar el interés en soluciones digitales accesibles.  
+    - Validar la disposición a pagar por una aplicación como InventaTrack. 
+
+**Guía de preguntas:**  
+1. ¿Cómo gestionan actualmente sus inventarios de alimentos perecederos?  
+2. ¿Con qué frecuencia enfrentan problemas de caducidad o pérdidas por mermas?  
+3. ¿Qué herramientas utilizan (Excel, software, registros en papel)?  
+4. ¿Cuáles son las mayores dificultades al planificar compras de insumos?  
+5. ¿Qué impacto tienen las mermas en los costos de su negocio?  
+6. ¿Les resultaría útil una aplicación que alerte sobre fechas de caducidad y niveles de stock?  
+7. ¿Qué características consideran más importantes en una herramienta de gestión de inventarios?  
+8. ¿Estarían dispuestos a invertir en una solución digital de bajo costo para mejorar el control de inventarios?  
+
+### 2.2.2. Registro de entrevistas
+
+### 2.2.3. Análisis de entrevistas
+
+## 2.3. Needfinding
+### 2.3.1. User Persona
+
+### 2.3.2. User Task Matrix
+### 2.3.3. User Journey Mapping
+### 2.3.3. User Journey Mapping
+### 2.3.4. Empathy Mapping
+## 2.4. Big Picture Event Storming
+## 2.5. Ubiquitous Language
+
+
+
 # Bibliografía
 ## Referencias
 - Agencia Agraria de Noticias. (2020, 16 de octubre). *[Perú desperdicia 12,8 millones de toneladas de alimentos cada año](https://agraria.pe/noticias/peru-desperdicia-12-8-millones-de-toneladas-de-alimentos-cad-23953)*. Agraria.pe.  
