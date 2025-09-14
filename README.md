@@ -133,3 +133,159 @@
 - [Anexos](#anexos)
 
 ## Student Outcome
+
+# Capítulo IV: Product Design
+## 4.1 Style Guidelines
+## 4.1.1 Gereral Style Guidelines
+
+El diseño de InventaTrack se basa en una estética moderna, limpia y funcional, priorizando la legibilidad y la rapidez de adopción por usuarios no técnicos (restaurantes, hoteles y supermercados).
+
+- **Tipografía principal:** `Inter` (sistema `-apple-system, BlinkMacSystemFont, sans-serif`) por su alta legibilidad en interfaces web.  
+- **Tono y voz:** profesional, claro y cercano; textos breves que dirigen a la acción.  
+- **Patrón visual:** bordes redondeados, sombras suaves y gradientes sutiles para profundidad sin saturación.
+
+**Paleta de colores**
+
+| Rol | HEX | Uso |
+|---|---:|---|
+| Primary | `#2563eb` | Títulos, enlaces y elementos de marca |
+| Primary Dark | `#1e40af` | Gradientes y fondos de énfasis |
+| Secondary | `#10b981` | Indicadores (éxito, progreso) |
+| Accent | `#f59e0b` | Llamadas de atención / acentos |
+| Text Dark | `#1f2937` | Texto principal |
+| Text Light | `#6b7280` | Texto secundario |
+| Background Light | `#f8fafc` | Fondos generales |
+| White | `#ffffff` | Fondos de tarjetas / botones claros |
+
+
+**Variables CSS**
+```css
+:root {
+  --primary-color: #2563eb;
+  --primary-dark: #1e40af;
+  --secondary-color: #10b981;
+  --accent-color: #f59e0b;
+  --text-dark: #1f2937;
+  --text-light: #6b7280;
+  --bg-light: #f8fafc;
+  --white: #ffffff;
+}
+```
+## 4.1.1 Gereral Style Guidelines
+- <b>Botones:</b>
+
+    - btn-primary → acción principal (estilo destacado).
+
+    - btn-secondary → acción secundaria (borde/transparent).
+
+    - Bordes redondeados (50px) para una apariencia amigable.
+
+- Tarjetas y contenedores: esquinas redondeadas (border-radius: 12–20px) y sombras sutiles (box-shadow) para jerarquía visual.
+
+- Iconografía: uso de emojis simples como íconos en tarjetas de features para comunicar rápidamente (se recomienda, a futuro, iconos SVG consistentes).
+
+- Accesibilidad: comprobar contraste (WCAG AA) para texto sobre fondos coloreados; todos los elementos interactivos deben ser focuseables y navegables por teclado.
+
+## 4.2. Information Architecture
+
+### 4.2.1. Organization Systems
+La landing está organizada en bloques secuenciales y jerárquicos que guían al usuario desde la propuesta de valor hasta la conversión:
+
+1. **Header** (logo + navegación)  
+2. **Hero** (título, subtítulo, CTA, mockup visual)  
+3. **Features** (tarjetas con beneficios)  
+4. **Industries** (segmentos objetivo)  
+5. **CTA final** (refuerzo para conversión)  
+6. **Footer** (enlaces a producto, soporte y compañía)
+
+### 4.2.2. Labeling Systems
+
+Se define cómo se nombran y presentan los elementos de la interfaz, para asegurar que el usuario pueda comprender de manera inmediata cada sección, botón o funcionalidad.  
+
+#### Principios aplicados
+- **Claridad:** se usan palabras simples y comprensibles como Features, Industries, Contact.  
+- **Consistencia:** los mismos términos se repiten en todas las secciones y no se cambian según el contexto.
+- **Orientación al dominio:** las etiquetas reflejan el vocabulario del negocio gastronómico y de retail (*Productos*, *Caducidad*, *Reportes*).  
+
+#### Implementación técnica con *data-key*
+Para soportar internacionalización (i18n), se implementó un sistema de etiquetas dinámicas usando el atributo personalizado `data-key`.  
+Cada etiqueta está vinculada a un archivo de traducciones JSON que facilita el cambio de idioma sin modificar el HTML.
+
+Ejemplo tomado del `index.html`:
+```html
+<h2 data-key="features.title">Powerful Features for Food Businesses</h2>
+```
+
+Ejemplo tomado de `locales/en.json`:
+```json
+{
+  "features": {
+    "title": "Powerful Features for Food Businesses",
+    "subtitle": "Everything you need to manage your food inventory efficiently and reduce operational costs."
+    }
+}
+
+```
+
+Ejemplo tomado de `locales/es.json`:
+```json
+{
+  "features": {
+    "title": "Funcionalidades Poderosas para Negocios Alimentarios",
+    "subtitle": "Todo lo que necesitas para gestionar tu inventario alimentario de manera eficiente y reducir costos operativos."
+    }
+}
+```
+### 4.2.3. SEO Tags and Meta Tags
+
+Para garantizar la visibilidad del producto en motores de búsqueda y mejorar la experiencia en redes sociales, se implementaron etiquetas **SEO (Search Engine Optimization)** y **meta tags** en el archivo `index.html`.  
+
+#### Meta tags básicas
+```html
+<meta charset="UTF-8" />
+<meta name="viewport" content="width=device-width, initial-scale=1.0" />
+<title>InventaTrack - Smart Food Inventory Management</title>
+
+```
+#### Open Graph y redes sociales
+```html
+
+```
+
+### 4.2.4 Searching Systems
+
+Se planifica incluir un sistema de búsqueda en la aplicación principal que permita:
+
+- Buscar insumos por nombre o categoría.
+
+- Filtrar por fecha de caducidad, lote o stock disponible.
+
+- Sugerencias automáticas mediante autocompletado.
+
+- Integración con etiquetas para búsquedas rápidas
+
+Este buscador permitirá a los usuarios localizar información crítica en segundos, reduciendo errores y mejorando la eficiencia operativa. 
+
+### 4.2.5 Navigation Systems
+
+El sistema de navegación de la landing page se compone de:
+
+- **Menú principal (Header):**  
+  Ubicado en la parte superior, contiene enlaces ancla hacia las secciones *Features*, *Industries* y *Contact*. Incluye además un botón para cambiar de idioma (`language-switcher`).  
+
+- **Menú móvil (Hamburger menu):**  
+  Para dispositivos con pantallas pequeñas, se implementa un botón tipo hamburguesa que despliega los enlaces en columna (`.nav-links.active`).  
+
+- **Footer:**  
+  Contiene enlaces secundarios agrupados en cuatro columnas: *Product*, *Support*, *Company* y *Brand description*.  
+
+- **Interactividad:**  
+  El archivo `main.js` implementa un **scroll suave** al hacer clic en los enlaces, mejorando la experiencia de navegación.  
+  Además, el header cambia de estilo visual al desplazarse la página (`window.scroll` event).  
+
+## 4.3. Landing Page UI Design
+
+### 4.3.1. Landing Page Wireframe
+
+El wireframe define la estructura básica de la landing page en bloques principales:
+
