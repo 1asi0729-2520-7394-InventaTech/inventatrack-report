@@ -133,3 +133,37 @@
 - [Anexos](#anexos)
 
 ## Student Outcome
+
+# Capitulo III: Requirements Specification
+# 3.1 User Stories
+
+| Epic / Story ID | Título | Descripción | Criterios de Aceptación | Relacionado con (Epic ID) |
+|-----------------|--------|-------------|--------------------------|---------------------------|
+| US-01           |        |             |                          |                           |
+| US-02           |        |             |                          |                           |
+| US-03           |        |             |                          |                           |
+| US-04           |        |             |                          |                           |
+| US-05           |        |             |                          |                           |
+| US-06           |        |             |                          |                           |
+| US-07           |        |             |                          |                           |
+| US-08           |        |             |                          |                           |
+| US-09           |        |             |                          |                           |
+| US-10           |        |             |                          |                           |
+| US-11           |        |             |                          |                           |
+| US-12           |        |             |                          |                           |
+| US-13           |        |             |                          |                           |
+| US-14           |        |             |                          |                           |
+| US-15           |        |             |                          |                           |
+| US-16           |        |             |                          |                           |
+| US-17           |        |             |                          |                           |
+| US-18           |        |             |                          |                           |
+| US-19           |        |             |                          |                           |
+| US-20           |        |             |                          |                           |
+
+# 3.2 Impact Mapping
+
+# 3.3 Product Backlog
+
+| # Orden | User Story Id | Título | Descripción                 | Story Points (1 / 2 / 3 / 5 / 8) |
+|---------|---------------|--------|-----------------------------|----------------------------------|
+| 1       | US01          | AAA... | Como... deseo... para....   | 3                                |
