@@ -302,12 +302,99 @@ El objetivo de las entrevistas es identificar las principales necesidades, difuc
 
 ## 2.3. Needfinding
 ### 2.3.1. User Persona
+Hemos creado User Personas para los segmentos clave del proyecto, lo que nos permitió definir perfiles representativos y comprender mejor a nuestros usuarios. Con ello, podremos diseñar soluciones alineadas a sus necesidades, expectativas y contextos.
+
+- User Persona 1
+<br>
+  <img src="./assets/UserPersona1.png" alt="UserPersona_1">
+<br>
+- User Persona 2
+<br>
+  <img src="./assets/UserPersona2.png" alt="UserPersona_2">
+<br>
 
 ### 2.3.2. User Task Matrix
+
+La **User Task Matrix** permite identificar y priorizar las actividades más importantes que realizan los usuarios en su día a día relacionadas con la gestión de inventarios.  
+A través de esta matriz, se analizan las tareas clave, la frecuencia con la que se realizan y su nivel de importancia dentro de las operaciones. Esto permite reconocer cuáles son las acciones críticas que InventaTrack debe apoyar y cuáles tienen menor prioridad. 
+
+#### Administrador de restaurante
+| **Activities** | **Frequency** | **Importance** |
+|----------------|---------------|----------------|
+| Registrar insumos recibidos | Diario | Alta |
+| Verificar fechas de caducidad | Diario | Alta |
+| Controlar niveles de stock | Diario | Alta |
+| Planificar compras semanales | Semanal | Alta |
+| Preparar reportes de mermas | Semanal | Media |
+| Coordinar pedidos con proveedores | Semanal | Media |
+| Organizar insumos en almacén | Diario | Media |
+| Revisar condiciones de almacenamiento | Diario | Alta |
+| Capacitar al personal en rotación FIFO | Mensual | Media |
+| Ajustar compras por cambios de demanda | Ocasional | Media |
+---
+
+#### Supervisor de alimentos
+| **Activities** | **Frequency** | **Importance** |
+|----------------|---------------|----------------|
+| Registrar insumos recibidos | Diario | Alta |
+| Verificar fechas de caducidad y lotes | Diario | Alta |
+| Controlar niveles de stock | Diario | Alta |
+| Generar reportes de pérdidas y consumos | Semanal | Alta |
+| Coordinar con equipo de compras | Semanal | Media |
+| Atender auditorías de inventario | Mensual | Alta |
+| Validar cumplimiento de normas sanitarias | Diario | Alta |
+| Analizar rotación de productos perecibles | Semanal | Alta |
+| Ajustar pedidos según consumo real | Semanal | Media |
+| Implementar acciones correctivas por caducidad | Ocasional | Alta |
+---
+Con ayuda del User Task Matrix se muestra que en ambos las tareas más críticas son las de gestión diaria del inventario como registrar insumos, revisar caducidad y controlar stock.
+
 ### 2.3.3. User Journey Mapping
-### 2.3.3. User Journey Mapping
+
+### AS-Is (Actual)
+#### Segmento Objetivo 1: Administrador de restaurante
+| **Etapa** | **Acciones** | **Pensamientos** | **Emociones** | **Oportunidades** |
+|-----------|--------------|------------------|---------------|-------------------|
+| Compra de insumos | Realiza pedidos a proveedores de acuerdo a la demanda estimada | “¿Estoy comprando lo justo o me voy a exceder?” | Duda | Sugerencias basadas en consumo histórico |
+| Recepción de productos | Registra manualmente insumos en papel/Excel | “Tengo que hacerlo rápido para no atrasar la operación” | Estrés | Registro digital inmediato con lector o app |
+| Almacenamiento | Organiza productos en cámara o despensa | “Espero que nada se pierda o venza” | Preocupación | Alertas de caducidad y rotación FIFO |
+| Consumo de insumos | Cocina con productos disponibles | “Otra vez se pasó la fecha de algunos insumos” | Frustración | Notificaciones automáticas de vencimiento |
+| Evaluación de inventario | Revisa stock semanalmente | “Siempre hay pérdidas, esto me hace perder dinero” | Desmotivación | Reportes de mermas y recomendaciones |
+---
+
+#### Segmento Objetivo 2: Supervisor de alimentos
+| **Etapa** | **Acciones** | **Pensamientos** | **Emociones** | **Oportunidades** |
+|-----------|--------------|------------------|---------------|-------------------|
+| Planificación de compras | Coordina con proveedores grandes volúmenes de productos | “¿Tendremos demasiado stock otra vez?” | Estrés | Optimización de compras según demanda real |
+| Recepción de productos | Ingresa datos en POS/ERP sin registrar caducidad | “El sistema no me muestra fechas de vencimiento” | Frustración | Registro digital con control de lotes |
+| Almacenamiento | Se almacenan productos en cámaras o almacenes generales | “¿Se cumplirá la rotación FIFO?” | Inseguridad | Seguimiento automático de rotación |
+| Supervisión de inventario | Controla stock disponible y verifica pérdidas | “Es difícil saber qué productos están próximos a vencer” | Cansancio | Alertas de stock crítico y vencimiento |
+| Reportes y auditorías | Prepara informes manuales de pérdidas y consumos | “Esto toma demasiado tiempo cada mes” | Sobrecarga | Generación automática de reportes exportables |
+
+### To-Be (Con Inventatrack)
+#### Segmento Objetivo 1: Administrador de restaurante
+| **Etapa** | **Acciones** | **Pensamientos** | **Emociones** | **Oportunidades** |
+|-----------|--------------|------------------|---------------|-------------------|
+| Compra de insumos | Usa datos de consumo histórico para pedidos | “Ahora sé cuánto debo comprar” | Confianza | Sugerencias automáticas de compras |
+| Recepción de productos | Registra insumos digitalmente con fechas/lotes | “Es rápido y no se me escapa nada” | Tranquilidad | App móvil para ingreso inmediato |
+| Almacenamiento | Organiza productos con rotación FIFO | “Sé qué usar primero” | Seguridad | Alertas de caducidad y stock crítico |
+| Consumo de insumos | Cocina usando productos más antiguos primero | “Ya no pierdo insumos” | Satisfacción | Uso guiado por notificaciones |
+| Evaluación de inventario | Consulta reportes digitales en minutos | “Puedo ver pérdidas y planificar mejor” | Motivación | Dashboard de mermas y ahorro |
+---
+
+#### Segmento Objetivo 2: Supervisor de alimentos
+| **Etapa** | **Acciones** | **Pensamientos** | **Emociones** | **Oportunidades** |
+|-----------|--------------|------------------|---------------|-------------------|
+| Planificación de compras | Usa reportes de consumo y rotación para pedir stock justo | “Ahora evitamos exceso de inventario” | Alivio | Compras optimizadas con sugerencias |
+| Recepción de productos | Registra lotes con fechas de ingreso y vencimiento | “Tengo visibilidad completa del inventario” | Confianza | Integración con sistemas existentes |
+| Almacenamiento | Gestiona insumos con control FIFO digital | “Sé cuál debo usar primero” | Seguridad | Alertas automáticas de rotación |
+| Supervisión de inventario | Monitorea stock y vencimientos desde dashboard | “Ya no se me pasan productos vencidos” | Tranquilidad | Panel de alertas críticas |
+| Reportes y auditorías | Genera informes automáticos y confiables | “Es rápido y listo para auditorías” | Satisfacción | Exportación inmediata de reportes |
+
 ### 2.3.4. Empathy Mapping
+
 ## 2.4. Big Picture Event Storming
+
 ## 2.5. Ubiquitous Language
 
 
