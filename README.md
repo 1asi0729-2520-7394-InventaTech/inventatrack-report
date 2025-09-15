@@ -1,16 +1,29 @@
+<h3 align="center"> Universidad Peruana de Ciencias Aplicadas </h3>
+
+<h3 align="center"> Ingeniería de Software </h3>
+<h3 align="center"> Ciclo 2025 - 2</h3>
+
+<br>
+
 <div align="center">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/f/fc/UPC_logo_transparente.png"></img><br>
+</div>
 
-<h1>Informe del Trabajo Final</h1>
-<h2>Universidad Peruana de Ciencias Aplicadas</h2>
-<img src="./assets/Logo-UPC.png" alt="Logo UPC" width="200">
-<h4>Ingeniería de Software</h4>
-<h4>Desarrollo de Aplicaciones Open Source</h4>
-<h4>1ASI0729-2520-7394</h4>
-<h4>Docente: Hugo Allan Mori Paiva</h4>
-<h4>Startup: InventaTech</h4>
-<h4>Producto: InventaTrack</h4>
+<br>
 
-## Team memebers:
+<h1 align="center"> TB1 Report </h1>
+
+<h3 align="center"> Desarrollo de Aplicaciones Open Source </h3>
+
+<h3 align="center"> 1ASI0729-2520-7394 </h3>
+
+<h3 align="center"> Docente: Hugo Allan Mori Paiva </h3>
+
+<h3 align="center"> Startup: InventaTech </h3>
+
+<h3 align="center"> Producto: InventaTrack </h3>
+
+<h3> Team Members: </h3>
 
 |                Nombre                |   Código   |
 | :----------------------------------: | :--------: |
@@ -19,36 +32,60 @@
 |    Joan Fernando Teves Samaniego     | U202117303 |
 |      Antonio Rodrigo Duran Díaz      | U202215721 |
 |     Daiki Oscar Oshiro Yamashita     | U20201f846 |
+<h3 align="center">Septiembre, 2025</h3>
 
-<h4>Ciclo 2025-02</h4>
-</div>
+<div style="page-break-after: always;"></div>
 
-<div>
-  
+
 ## Registro de Versiones del Informe
 
-| Versión | Fecha      | Autor                                                                                                                                                                                      | Descripción de modificación                                                                                                                  |
-| ------- | ---------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ | -------------------------------------------------------------------------------------------------------------------------------------------- |
-| **TB1** | 15/09/2025 | Gonzalo Alonso Carhuancote Dominguez <br><br> Juan Carlos Alvarado de la Cruz <br><br> Joan Fernando Teves Samaniego<br><br>Antonio Rodrigo Duran Díaz<br><br>Daiki Oscar Oshiro Yamashita | Para esta primera entrega, realizamos los primeros 5 capítulos del informe y desarrollamos la primera versión del landing page del Producto. |
+| Versión | Fecha | Autor | Descripción de modificación |
+| :-------: | :---------: | :----------------: | :----------------------:|
+|TB1|15/09/25|Gonzalo Carhuancote, Juan Carlos Alvarado, Joan Teves, Antonio Duran, Daiki Oshiro|Para esta primera entrega, realizamos los primeros 5 capítulos del informe y desarrollamos la primera versión del landing page|
 
-</div>
 
 ## Project Report Collaboration Insights
 
-<div>
-<p>Para este informe se ha dividido de la siguiente forma para cada integrante del grupo:</p>
-</div>
-  
-  ## 
-  
-  |  Integrantes   | Tarea asignada |
-  |:--------------:|:--------------:|
-  | Gonzalo Carhuancote | U202210720   |
+A continuación, se detallan los repositorios utilizados a lo largo del proyecto:
+
+#### Link del repositorio del Reporte: 
+
+- 
+
+#### Link del repositorio de la Landing Page: 
+
+-
+
+### Entrega TB1:
+
+Durante esta entrega se elaboraron los capítulos 1 al 5 del informe. La redacción fue dividida equitativamente entre los integrantes del equipo, quienes se encargaron de desarrollar sus respectivas secciones de manera paralela. Cada miembro subió sus contribuciones directamente al repositorio de GitHub, asegurando así un seguimiento claro de los avances y la colaboración conjunta.
+
+##### Participación por integrante:
+
+- Gonzalo Alonso Carhuancote Dominguez:
+
+- Juan Carlos Alvarado de la Cruz:
+
+- Joan Fernando Teves Samaniego:
+
+- Antonio Rodrigo Duran Díaz:
+
+- Daiki Oscar Oshiro Yamashita:
+
+
 # Contenido
 
 ## Índice
 
-- [Capítulo I: Introducción]()
+- [Registro de versiones del informe](#registro-de-versiones-del-informe)
+
+- [Project Report Collaboration Insights](#project-report-collaboration-insights)
+
+- [Contenido](#contenido)
+
+- [Student Outcome](#student-outcome-1)
+
+- [Capítulo I: Introducción](#capitulo-i-introduccion)
     - [1.1. StartUp Profile](#11-startup-profile)
         - [1.1.1. Descripción de la StartUp](#111-descripción-de-la-startup)
         - [1.1.2. Perfiles de Integrantes del equipo](#112-perfiles-de-integrantes-del-equipo)
@@ -134,9 +171,20 @@
 
 ## Student Outcome
 
+Objetivo general, ABET – EAC - Student Outcome 3: Capacidad de comunicarse efectivamente con un rango de audiencias.
 
-# Capitulo I: Introducción
+| **Criterio específico** | **Acciones realizadas** | **Conclusiones** |
+|-------------------------|--------------------------|------------------|
+| **Comunica oralmente con efectividad a diferentes rangos de audiencia** | Gonzalo Alonso Carhuancote Dominguez <br>**TB1**: <br> Juan Carlos Alvarado de la Cruz <br>**TB1**: <br> Joan Fernando Teves Samaniego <br>**TB1**: <br> Antonio Rodrigo Duran Díaz <br>**TB1**: <br> Daiki Oscar Oshiro Yamashita <br>**TB1**: <br> | Gonzalo Alonso Carhuancote Dominguez <br>**TB1**: <br> Juan Carlos Alvarado de la Cruz <br>**TB1**: <br> Joan Fernando Teves Samaniego <br>**TB1**: <br> Antonio Rodrigo Duran Díaz <br>**TB1**: <br> Daiki Oscar Oshiro Yamashita <br>**TB1**: <br> |
+| **Comunica por escrito con efectividad a diferentes rangos de audiencia** | Gonzalo Alonso Carhuancote Dominguez <br>**TB1**: <br> Juan Carlos Alvarado de la Cruz <br>**TB1**: <br> Joan Fernando Teves Samaniego <br>**TB1**: <br> Antonio Rodrigo Duran Díaz <br>**TB1**: <br> Daiki Oscar Oshiro Yamashita <br>**TB1**: <br> | Gonzalo Alonso Carhuancote Dominguez <br>**TB1**: <br> Juan Carlos Alvarado de la Cruz <br>**TB1**: <br> Joan Fernando Teves Samaniego <br>**TB1**: <br> Antonio Rodrigo Duran Díaz <br>**TB1**: <br> Daiki Oscar Oshiro Yamashita <br>**TB1**: <br> |
+<div style="page-break-after: always;"></div>
+
+<div style="page-break-after: always;"></div>
+
+# Capitulo I: Introduccion
+
 ## 1.1. StartUp Profile
+
 ### 1.1.1. Descripción de la StartUp
 <div align="justify">
 
@@ -153,13 +201,14 @@ Nuestra misión es digitalizar la gestión de inventario alimentario para que cu
 Queremos que InventaTrack sea la herramienta número uno preferida para la gestión inteligente de inventarios en negocios que trabajan con alimentos. Buscamos que más empresas puedan dejar el papel y Excel, y empiecen a gestionar su stock de forma más moderna, eficiente y segura.
 
 ### 1.1.2. Perfiles de integrantes del equipo
+
 |    Nombre Completo del integrante   | Descripcion de Carrera | Fotografía | Conocimientos y Habilidades a apuntar|
 | ------------------------------------| ---------------------- | ---------- | ------------------------------------ |
 | Gonzalo Alonso Carhuancote Dominguez| Ingenieria de Software <br>Universiad Peruana de Ciencias Aplicadas | ![Gonzalo Alonso](./assets/foto%20Gonzalo.jpg) | - Tengo 20 años, estudio la carrera de ingeniería de software en la UPC. En mis tiempos libres estudio, juego videojuegos y me informo del mundo actual y moderno. Me apasiona la tecnología y manejo lenguajes como C++, Java, Typescript y Python. |
 | Juan Carlos Alvarado de la Cruz| Ingenieria de Software <br>Universiad Peruana de Ciencias Aplicadas |
 | Joan Fernando Teves Samaniego| Ingenieria de Software <br>Universiad Peruana de Ciencias Aplicadas | ![Joan Fernando](./assets/foto%20joan.jpg) | Tengo 22 años estoy estudiando actualmente en la Univeridad Peruana de Ciencias Aplicadas. Tengo interes por el mundo de la cibersegurirdad y el primer paso es enteder al derecho y al revez las aplicaciones web , se c++ , javascript , html , css , mongodb ,sql , sqlserver , posgresql,python, soy creativo , responsable , trabajo en equipo , me gusta resolver problemas   me adaptofacilmente y gestiono muy bien mi tiempo.Espero que en este proyecto pueda incrementar mis habilidades y conocimiento sobre las aplicaciones web y demas . |
 | Antonio Rodrigo Duran Díaz| Ingenieria de Software <br>Universiad Peruana de Ciencias Aplicadas | ![Antonio Rodrigo](./assets/foto%20Antonio.jpg)  | - Soy estudiante de la carrera de Ingeniería de Software en la Universidad Peruana de Ciencias Aplicadas y tengo 20 años. Estoy avanzando en mi formación académica y reforzando mis conocimientos en los diferentes temas relacionados con la creación de software. Durante mis estudios me ha gustado trabajar con gestores de bases de datos, en especial con SQL Server y MongoDB. En este proyecto espero seguir mejorando mis habilidades y conocimientos, además de lograr un buen desempeño en el trabajo grupal. |
-| Daiki Oscar Oshiro Yamashita| Ingenieria de Software <br>Universiad Peruana de Ciencias Aplicadas |
+| Daiki Oscar Oshiro Yamashita| Ingenieria de Software <br>Universiad Peruana de Ciencias Aplicadas | <img src=".assets/Daiki.png" alt="Daiki" width="100" height="120"> | Soy estudiante de la carrera de Ingeniería de Software. Tengo interés en obtener nuevos conocimientos relacionados con mi carrera que me sean de utilidad para el futuro. |
 
 ## 1.2. Solution Profile
 ### 1.2.1 Antecedentes y Problemática
