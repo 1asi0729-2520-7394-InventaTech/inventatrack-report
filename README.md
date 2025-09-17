@@ -249,7 +249,7 @@ Esta situación provoca pérdidas económicas, desperdicio de alimentos y proble
 
 #### 1.2.2.1 Lean UX Problem Statements 
 
-Los negocios que manejan alimentos perecederos —como restaurantes, cocinas ocultas, hoteles y supermercados— enfrentan grandes dificultades para controlar sus inventarios de manera eficiente. Actualmente, la mayoría utiliza métodos manuales, como registros en papel o Excel, que resultan poco confiables y dificultan la gestión adecuada de insumos. Esta situación genera caducidad de productos, mermas operativas y sobrecostos que afectan directamente la rentabilidad y la calidad del servicio.
+Los negocios que manejan alimentos perecederos, como restaurantes, cocinas ocultas, hoteles y supermercados, enfrentan grandes dificultades para controlar sus inventarios de manera eficiente. Actualmente, la mayoría utiliza métodos manuales, como registros en papel o Excel, que resultan poco confiables y dificultan la gestión adecuada de insumos. Esta situación genera caducidad de productos, mermas operativas y sobrecostos que afectan directamente la rentabilidad y la calidad del servicio.
 
 El problema central es que administradores y encargados de inventarios carecen de una herramienta digital accesible y adaptada a sus necesidades, que les permita registrar insumos, recibir alertas oportunas sobre fechas de vencimiento y generar reportes claros sobre pérdidas y consumo. La ausencia de esta solución contribuye a pérdidas económicas que representan entre el 10 % y el 15 % de los costos operativos, según datos recientes (La República, 2024).
 
@@ -259,35 +259,31 @@ InventaTrack responde a esta necesidad con una plataforma web intuitiva y asequi
 
 ###### ¿Quién es el usuario?
 
-- Los usuarios principales de InventaTrack son los administradores, encargados de almacén y personal operativo de negocios que manejan alimentos perecederos, como restaurantes, cocinas ocultas, hoteles y supermercados. Estos usuarios necesitan herramientas que les permitan gestionar sus inventarios de forma práctica y eficiente, sin depender de métodos manuales que generan pérdidas.
+Los usuarios principales de InventaTrack se dividen en dos grupos: por un lado, los usuarios operativos, como administradores, encargados de almacén y personal de cocina que manejan diariamente el inventario y necesitan una herramienta práctica para registrar y controlar los productos. Por otro lado, los usuarios estratégicos, como dueños, gerentes y administradores, que supervisan la operación, analizan reportes y toman decisiones para mejorar la rentabilidad y eficiencia del negocio.
 
 ###### ¿Dónde encaja nuestro producto, en su trabajo o en su vida?
 
-- InventaTrack se integra en el día a día laboral de los usuarios, siendo una herramienta clave para controlar el stock, evitar desperdicios y cumplir con normas sanitarias. Facilita la gestión desde el almacenamiento hasta la preparación de alimentos, ayudando a mejorar la operación y reducir costos.
+InventaTrack se integra en el día a día laboral de los usuarios, siendo una herramienta clave para controlar el stock, evitar desperdicios y cumplir con normas sanitarias. Facilita la gestión desde el almacenamiento hasta la preparación de alimentos, ayudando a mejorar tanto la operación diaria (usuarios operativos) como la supervisión y planificación estratégica (usuarios gerenciales).
 
 ###### ¿Qué problema resuelve nuestro producto?
 
-- InventaTrack soluciona la falta de control y visibilidad en la gestión de insumos perecederos. Permite registrar productos con fechas de caducidad, recibir alertas oportunas, evitar sobrecompras y generar reportes que apoyan la toma de decisiones para reducir mermas y desperdicios.
+InventaTrack soluciona la falta de control y visibilidad en la gestión de insumos perecederos. Permite registrar productos con fechas de caducidad, recibir alertas oportunas, evitar sobrecompras y generar reportes que apoyan la toma de decisiones para reducir mermas y desperdicios, aportando valor tanto en la operación diaria como en la gestión estratégica del negocio.
 
 ###### ¿Cuándo y cómo se utiliza nuestro producto?
 
-- La plataforma se utiliza de manera continua durante las operaciones diarias, especialmente en la recepción de mercadería, almacenamiento y preparación. Los usuarios ingresan la información del stock, reciben notificaciones de vencimientos próximos y consultan reportes desde cualquier dispositivo con conexión a Internet, facilitando una gestión ágil y efectiva.
+La plataforma se utiliza de manera continua durante las operaciones diarias, especialmente en la recepción de mercadería, almacenamiento y preparación. Los usuarios operativos ingresan la información del stock y reciben notificaciones de vencimientos próximos para actuar rápidamente, mientras que los dueños y gerentes consultan reportes y análisis desde cualquier dispositivo con conexión a Internet, facilitando una gestión ágil y basada en datos.
 
 ###### ¿Qué características son importantes?
 
-- Registro digital de productos con lotes y fechas de caducidad.
-
-- Alertas automáticas sobre productos próximos a vencer o bajo stock.
-
-- Reportes de merma, consumo y rotación de inventarios.
-
-- Accesibilidad desde dispositivos móviles y computadoras, sin necesidad de hardware adicional.
-
+- Registro digital de productos con lotes y fechas de caducidad.  
+- Alertas automáticas sobre productos próximos a vencer o bajo stock.  
+- Reportes de merma, consumo y rotación de inventarios.  
+- Accesibilidad desde dispositivos móviles y computadoras, sin necesidad de hardware adicional.  
 - Interfaz sencilla y amigable que permita a usuarios sin conocimientos técnicos usar la plataforma fácilmente.
 
 ###### ¿Cómo debe verse y comportarse nuestro producto?
 
-- InventaTrack debe contar con una interfaz clara, intuitiva y profesional que transmita confianza y simplicidad. La navegación debe ser rápida y fácil, con alertas visibles y reportes accesibles. Cada acción debe estar acompañada de mensajes claros que orienten al usuario, minimizando la curva de aprendizaje y facilitando la adopción.
+InventaTrack debe contar con una interfaz clara, intuitiva y profesional que transmita confianza y simplicidad. La navegación debe ser rápida y fácil, con alertas visibles y reportes accesibles. Cada acción debe estar acompañada de mensajes claros que orienten al usuario, minimizando la curva de aprendizaje y facilitando la adopción.
 
 #### 1.2.2.3 Lean UX Hyphotesis Statements
 
@@ -295,41 +291,42 @@ InventaTrack responde a esta necesidad con una plataforma web intuitiva y asequi
 
 Creemos que al ofrecer una plataforma digital para que los administradores y encargados de cocina registren y monitoreen insumos perecederos, estos podrán reducir significativamente el desperdicio de alimentos y los costos por caducidad y mermas. Esto será posible gracias a alertas automáticas y reportes claros que facilitarán la planificación y control.
 
-**Business Outcome:** Disminución de pérdidas económicas y reducción del 10-15 % en costos operativos relacionados con mermas.
-**Users:** Administradores y encargados de inventarios en restaurantes, cocinas ocultas, hoteles y supermercados.
-**User Outcome:** Mejor control y reducción de desperdicios gracias a información en tiempo real.
+**Business Outcome:** Disminución de pérdidas económicas y reducción del 10-15 % en costos operativos relacionados con mermas.  
+**Users:** Administradores y encargados de inventarios en restaurantes, cocinas ocultas, hoteles y supermercados.  
+**User Outcome:** Mejor control y reducción de desperdicios gracias a información en tiempo real.  
 **Feature:** Registro digital de productos, alertas automáticas de vencimiento y reportes de consumo y merma.
 
 ###### Hipótesis 2:
 
 Consideramos que si InventaTrack es accesible desde cualquier dispositivo móvil o computadora, sin necesidad de hardware adicional, más PYMEs del sector alimentario adoptarán la plataforma por su facilidad y bajo costo.
 
-**Business Outcome:** Incremento en la cantidad de usuarios activos y mayor penetración en el mercado de PYMEs.
-**Users:** Propietarios y personal operativo de pequeños y medianos negocios alimentarios.
-**User Outcome:** Acceso rápido y sencillo a herramientas digitales para gestión de inventarios.
+**Business Outcome:** Incremento en la cantidad de usuarios activos y mayor penetración en el mercado de PYMEs.  
+**Users:** Propietarios y personal operativo de pequeños y medianos negocios alimentarios.  
+**User Outcome:** Acceso rápido y sencillo a herramientas digitales para gestión de inventarios.  
 **Feature:** Plataforma web responsiva y compatible con diversos dispositivos.
 
 ###### Hipótesis 3:
 
 Suponemos que al proporcionar reportes personalizados y fáciles de entender sobre mermas y consumo, los usuarios podrán tomar decisiones basadas en datos, mejorando la eficiencia operativa y optimizando las compras.
 
-**Business Outcome:** Aumento en la precisión de compras y reducción de stock innecesario.
-**Users:** Administradores y encargados de inventarios.
-**User Outcome:** Mejor planificación y reducción de costos.
+**Business Outcome:** Aumento en la precisión de compras y reducción de stock innecesario.  
+**Users:** Administradores y encargados de inventarios.  
+**User Outcome:** Mejor planificación y reducción de costos.  
 **Feature:** Reportes gráficos y exportables sobre consumo y pérdidas.
 
 ###### Hipótesis 4:
 
 Creemos que si la interfaz de InventaTrack es intuitiva y fácil de usar, con soporte para usuarios sin experiencia técnica, se incrementará la frecuencia de uso y la satisfacción, asegurando la fidelización y recomendación del producto.
 
-**Business Outcome:** Alta retención de usuarios y crecimiento por recomendaciones.
-**Users:** Usuarios con diversos niveles de habilidades tecnológicas.
-**User Outcome:** Experiencia positiva y adopción rápida de la plataforma.
+**Business Outcome:** Alta retención de usuarios y crecimiento por recomendaciones.  
+**Users:** Usuarios con diversos niveles de habilidades tecnológicas.  
+**User Outcome:** Experiencia positiva y adopción rápida de la plataforma.  
 **Feature:** Diseño UI/UX sencillo, tutoriales integrados y atención al cliente.
 
 #### 1.2.2.1 Lean UX Canvas 
 
 ![Imagen de Lean-UX Canvas](/assets/LEANUXCANVAS.png)
+
 Enlace para acceder al Lean UX Canvas en Lucid: https://lucid.app/lucidspark/36d6a2ba-61ad-4dd0-8fa3-a39717abc610/edit?viewport_loc=3739%2C-530%2C3453%2C1915%2C0_0&invitationId=inv_0c6eb1f2-8cd0-4635-8ce8-b076390db41e
 
 ## 1.3 Segmentos Objetivo
