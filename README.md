@@ -1,16 +1,29 @@
+<h3 align="center"> Universidad Peruana de Ciencias Aplicadas </h3>
+
+<h3 align="center"> Ingeniería de Software </h3>
+<h3 align="center"> Ciclo 2025 - 2</h3>
+
+<br>
+
 <div align="center">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/f/fc/UPC_logo_transparente.png"></img><br>
+</div>
 
-<h1>Informe del Trabajo Final</h1>
-<h2>Universidad Peruana de Ciencias Aplicadas</h2>
-<img src="./assets/Logo-UPC.png" alt="Logo UPC" width="200">
-<h4>Ingeniería de Software</h4>
-<h4>Desarrollo de Aplicaciones Open Source</h4>
-<h4>1ASI0729-2520-7394</h4>
-<h4>Docente: Hugo Allan Mori Paiva</h4>
-<h4>Startup: InventaTech</h4>
-<h4>Producto: InventaTrack</h4>
+<br>
 
-## Team memebers:
+<h1 align="center"> TB1 Report </h1>
+
+<h3 align="center"> Desarrollo de Aplicaciones Open Source </h3>
+
+<h3 align="center"> 1ASI0729-2520-7394 </h3>
+
+<h3 align="center"> Docente: Hugo Allan Mori Paiva </h3>
+
+<h3 align="center"> Startup: InventaTech </h3>
+
+<h3 align="center"> Producto: InventaTrack </h3>
+
+<h3> Team Members: </h3>
 
 |                Nombre                |   Código   |
 | :----------------------------------: | :--------: |
@@ -19,36 +32,60 @@
 |    Joan Fernando Teves Samaniego     | U202117303 |
 |      Antonio Rodrigo Duran Díaz      | U202215721 |
 |     Daiki Oscar Oshiro Yamashita     | U20201f846 |
+<h3 align="center">Septiembre, 2025</h3>
 
-<h4>Ciclo 2025-02</h4>
-</div>
+<div style="page-break-after: always;"></div>
 
-<div>
-  
+
 ## Registro de Versiones del Informe
 
-| Versión | Fecha      | Autor                                                                                                                                                                                      | Descripción de modificación                                                                                                                  |
-| ------- | ---------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ | -------------------------------------------------------------------------------------------------------------------------------------------- |
-| **TB1** | 15/09/2025 | Gonzalo Alonso Carhuancote Dominguez <br><br> Juan Carlos Alvarado de la Cruz <br><br> Joan Fernando Teves Samaniego<br><br>Antonio Rodrigo Duran Díaz<br><br>Daiki Oscar Oshiro Yamashita | Para esta primera entrega, realizamos los primeros 5 capítulos del informe y desarrollamos la primera versión del landing page del Producto. |
+| Versión | Fecha | Autor | Descripción de modificación |
+| :-------: | :---------: | :----------------: | :----------------------:|
+|TB1|15/09/25|Gonzalo Carhuancote, Juan Carlos Alvarado, Joan Teves, Antonio Duran, Daiki Oshiro|Para esta primera entrega, realizamos los primeros 5 capítulos del informe y desarrollamos la primera versión del landing page|
 
-</div>
 
 ## Project Report Collaboration Insights
 
-<div>
-<p>Para este informe se ha dividido de la siguiente forma para cada integrante del grupo:</p>
-</div>
-  
-  ## 
-  
-  |  Integrantes   | Tarea asignada |
-  |:--------------:|:--------------:|
-  | Gonzalo Carhuancote | U202210720   |
+A continuación, se detallan los repositorios utilizados a lo largo del proyecto:
+
+#### Link del repositorio del Reporte: 
+
+- 
+
+#### Link del repositorio de la Landing Page: 
+
+-
+
+### Entrega TB1:
+
+Durante esta entrega se elaboraron los capítulos 1 al 5 del informe. La redacción fue dividida equitativamente entre los integrantes del equipo, quienes se encargaron de desarrollar sus respectivas secciones de manera paralela. Cada miembro subió sus contribuciones directamente al repositorio de GitHub, asegurando así un seguimiento claro de los avances y la colaboración conjunta.
+
+##### Participación por integrante:
+
+- Gonzalo Alonso Carhuancote Dominguez:
+
+- Juan Carlos Alvarado de la Cruz:
+
+- Joan Fernando Teves Samaniego:
+
+- Antonio Rodrigo Duran Díaz:
+
+- Daiki Oscar Oshiro Yamashita:
+
+
 # Contenido
 
 ## Índice
 
-- [Capítulo I: Introducción]()
+- [Registro de versiones del informe](#registro-de-versiones-del-informe)
+
+- [Project Report Collaboration Insights](#project-report-collaboration-insights)
+
+- [Contenido](#contenido)
+
+- [Student Outcome](#student-outcome-1)
+
+- [Capítulo I: Introducción](#capitulo-i-introduccion)
     - [1.1. StartUp Profile](#11-startup-profile)
         - [1.1.1. Descripción de la StartUp](#111-descripción-de-la-startup)
         - [1.1.2. Perfiles de Integrantes del equipo](#112-perfiles-de-integrantes-del-equipo)
@@ -134,186 +171,380 @@
 
 ## Student Outcome
 
+Objetivo general, ABET – EAC - Student Outcome 3: Capacidad de comunicarse efectivamente con un rango de audiencias.
+
+| **Criterio específico** | **Acciones realizadas** | **Conclusiones** |
+|-------------------------|--------------------------|------------------|
+| **Comunica oralmente con efectividad a diferentes rangos de audiencia** | Gonzalo Alonso Carhuancote Dominguez <br>**TB1**: <br> Juan Carlos Alvarado de la Cruz <br>**TB1**: <br> Joan Fernando Teves Samaniego <br>**TB1**: <br> Antonio Rodrigo Duran Díaz <br>**TB1**: <br> Daiki Oscar Oshiro Yamashita <br>**TB1**: <br> | Gonzalo Alonso Carhuancote Dominguez <br>**TB1**: <br> Juan Carlos Alvarado de la Cruz <br>**TB1**: <br> Joan Fernando Teves Samaniego <br>**TB1**: <br> Antonio Rodrigo Duran Díaz <br>**TB1**: <br> Daiki Oscar Oshiro Yamashita <br>**TB1**: <br> |
+| **Comunica por escrito con efectividad a diferentes rangos de audiencia** | Gonzalo Alonso Carhuancote Dominguez <br>**TB1**: <br> Juan Carlos Alvarado de la Cruz <br>**TB1**: <br> Joan Fernando Teves Samaniego <br>**TB1**: <br> Antonio Rodrigo Duran Díaz <br>**TB1**: <br> Daiki Oscar Oshiro Yamashita <br>**TB1**: <br> | Gonzalo Alonso Carhuancote Dominguez <br>**TB1**: <br> Juan Carlos Alvarado de la Cruz <br>**TB1**: <br> Joan Fernando Teves Samaniego <br>**TB1**: <br> Antonio Rodrigo Duran Díaz <br>**TB1**: <br> Daiki Oscar Oshiro Yamashita <br>**TB1**: <br> |
+<div style="page-break-after: always;"></div>
+
+<div style="page-break-after: always;"></div>
+
 # Capitulo II: Requirements Elicitation & Analysis
+
 ## 2.1. Competidores
+
+En esta sección identificamos y describimos los principales competidores directos e indirectos de InventaTrack, que ofrecen soluciones digitales similares para la gestión de inventarios en negocios que manejan alimentos perecederos.
+
 ### 2.1.1. Análisis competitivo
-El mercado de soluciones para gestión de inventarios alimentarios cuenta con diversos competidores, tanto directos como indirectos.  
 
-**Competidores directos:**  
+El objetivo de este análisis es entender mejor el panorama competitivo y posicionar a InventaTrack frente a las opciones existentes en el mercado. Esto nos permitirá identificar ventajas competitivas, áreas de oportunidad y posibles amenazas.
 
-- **Oracle NetSuite Inventory Management**  
-  - Software integral de ERP con módulo de inventarios.  
-  - Fortalezas: integración con otras áreas de negocio, análisis en tiempo real.  
-  - Debilidades: implementación compleja y costosa.  
+#### Competitive Analysis Landscape
 
-- **Zoho Inventory**  
-  - Solución en la nube enfocada en inventario y facturación.  
-  - Fortalezas: interfaz amigable, precios accesibles.  
-  - Debilidades: funcionalidades limitadas para control de caducidad alimentaria.  
-
-**Competidores indirectos:**  
-- **Microsoft Excel / Google Sheets**  
-  - Herramientas comunes en pequeños negocios.  
-  - Fortalezas: bajo costo, fácil acceso.  
-  - Debilidades: alta propensión a errores manuales, no generan alertas automáticas.  
-
-**Posicionamiento de InventaTrack:**  
-- Se diferencia por enfocarse en PYMEs gastronómicas y de retail, ofreciendo una herramienta accesible, simple y especializada en alimentos perecederos.  
-- Ventaja competitiva: control de fechas de vencimiento, alertas automáticas y reportes, algo que la mayoría de competidores no prioriza. 
+<table border="1" cellpadding="5" cellspacing="0">
+  <tr>
+    <th colspan="6"><b>Competitive Analysis Landscape</b></th>
+  </tr>
+  <tr>
+    <td>¿Por qué llevar a cabo este análisis?</td>
+    <td colspan="5">Este análisis fue realizado para conocer las fortalezas y debilidades de las plataformas digitales de gestión de inventarios perecederos, con el fin de desarrollar una solución innovadora y competitiva.</td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+    <td><b>InventaTrack <img src="./assets/InventaTrack.png" alt="InventaTrack" width="120" height="120" /> </b></td>
+    <td><b>Toast POS</b> <img src="./assets/Toast.jpg" width="120" height="120" /> </td>
+    <td><b>MarketMan</b> <img src="./assets/MarketMan.jpeg" width="120" height="120" /> </td>
+    <td><b>BlueCart</b> <img src="./assets/BlueCart.png" width="120" height="120" /> </td>
+  </tr>
+  <tr>
+    <td rowspan="2"><b>Perfil</b></td>
+    <td><b>Overview</b></td>
+    <td>Plataforma web para gestión de inventarios de alimentos perecederos, con alertas automáticas y reportes para PYMEs.</td>
+    <td>Plataforma todo-en-uno para restaurantes con gestión de inventarios, punto de venta y pedidos.</td>
+    <td>Software especializado en gestión de inventarios y compras para restaurantes y proveedores.</td>
+    <td>Solución para la gestión de inventarios y pedidos para restaurantes, hoteles y supermercados.</td>
+  </tr>
+  <tr>
+    <td><b>Ventaja competitiva ¿Qué valor ofrece a los clientes?</b></td>
+    <td>Fácil uso, accesibilidad, reducción de mermas y desperdicios, enfoque PYME.</td>
+    <td>Integración completa con punto de venta y operaciones.</td>
+    <td>Optimización de compras y control de costos.</td>
+    <td>Control móvil y digitalización de pedidos.</td>
+  </tr>
+  <tr>
+    <td rowspan="2"><b>Perfil de Marketing</b></td>
+    <td><b>Mercado objetivo</b></td>
+    <td>PYMEs de alimentos perecederos: restaurantes, hoteles, supermercados.</td>
+    <td>Restaurantes de todos tamaños.</td>
+    <td>Restaurantes y proveedores.</td>
+    <td>Restaurantes, hoteles y supermercados.</td>
+  </tr>
+  <tr>
+    <td><b>Estrategias de marketing</b></td>
+    <td>Marketing digital, demostraciones gratuitas, alianzas con cámaras de comercio.</td>
+    <td>Publicidad digital, ferias, soporte dedicado.</td>
+    <td>Webinars, marketing directo, alianzas estratégicas.</td>
+    <td>Campañas en redes sociales y asesoría personalizada.</td>
+  </tr>
+  <tr>
+    <td rowspan="3"><b>Perfil de Producto</b></td>
+    <td><b>Productos y Servicios</b></td>
+    <td>Registro digital, alertas de caducidad, reportes de consumo y mermas.</td>
+    <td>Gestión de inventarios, ventas y clientes integrada.</td>
+    <td>Gestión de inventarios, órdenes y proveedores.</td>
+    <td>Control de inventarios, pedidos y alertas en app móvil.</td>
+  </tr>
+  <tr>
+    <td><b>Precios y Costos</b></td>
+    <td>Precio accesible para PYMEs, suscripción mensual.</td>
+    <td>Modelo SaaS con suscripción mensual según tamaño del negocio.</td>
+    <td>Precios personalizados según volumen y características.</td>
+    <td>Planes escalables y suscripción flexible.</td>
+  </tr>
+  <tr>
+    <td><b>Canales de distribución (Web y/o móvil)</b></td>
+    <td>Plataforma web y app móvil.</td>
+    <td>App móvil y plataforma web.</td>
+    <td>App móvil y plataforma web.</td>
+    <td>App móvil y plataforma web.</td>
+  </tr>
+  <tr>
+    <td rowspan="5"><b>Análisis SWOT</b></td>
+    <td colspan="5">Realice esto para su startup y sus competidores. Sus fortalezas deberían apoyar sus oportunidades y contribuir a lo que ustedes definen como su posible ventaja competitiva.</td>
+  </tr>
+  <tr>
+    <td><b>Fortalezas</b></td>
+    <td>Facilidad de uso, accesibilidad, enfoque PYME.</td>
+    <td>Integración total con operaciones de restaurante.</td>
+    <td>Optimización de compras y control de costos.</td>
+    <td>Control móvil y digitalización rápida.</td>
+  </tr>
+  <tr>
+    <td><b>Debilidades</b></td>
+    <td>Menor alcance, funciones más básicas.</td>
+    <td>Precio elevado para PYMEs pequeñas.</td>
+    <td>Implementación y curva de aprendizaje.</td>
+    <td>Menor penetración en mercados grandes.</td>
+  </tr>
+  <tr>
+    <td><b>Oportunidades</b></td>
+    <td>Crecimiento de digitalización en PYMEs alimentarias.</td>
+    <td>Expansión en el mercado de restaurantes.</td>
+    <td>Demanda creciente de optimización en compras.</td>
+    <td>Digitalización en hoteles y restaurantes.</td>
+  </tr>
+  <tr>
+    <td><b>Amenazas</b></td>
+    <td>Competencia de grandes softwares integrados.</td>
+    <td>Competencia de soluciones emergentes y startups.</td>
+    <td>Cambios regulatorios en la industria alimentaria.</td>
+    <td>Dependencia de conectividad y adopción tecnológica.</td>
+  </tr>
+</table>
 
 ### 2.1.2. Estrategias y tácticas frente a competidores
-Para destacar frente a los competidores identificados, planteamos las siguientes estrategias:  
 
-- **Estrategias de diferenciación:**  
-  - Enfoque en **alimentos perecederos** y problemas reales de restaurantes, cocinas ocultas, hoteles y supermercados.  
-  - Interfaz intuitiva y accesible para usuarios no técnicos.  
-  - Reportes claros y pérdidas económicas.  
+A continuación se muestran las tácticas que deberá aplicar nuestra startup para afrontar las fortalezas de la competencia.
 
-- **Estrategias de costo:**  
-  - Modelo de precios flexible y accesible para PYMEs, con opciones gratuitas limitadas.
-  - Uso de tecnologías open source para reducir costos de desarrollo y mantenimiento.  
+###### 1. Aprovechar la Fortaleza: Plataforma Fácil de Usar y Enfoque PYME
 
-- **Táctica de entrada al mercado:**  
-  - Validación inicial con negocios locales (pruebas piloto en restaurantes y cocinas ocultas).  
-  - Generación de confianza a través de testimonios y casos de éxito.  
-  - Enfoque en marketing digital dirigido a emprendedores gastronómicos y cadenas medianas.  
+**Estrategia**
 
-- **Tácticas de escalabilidad:**  
-  - Integración futura con sistemas de facturación y POS.  
-  - Posible apertura de una API para conexión con apps de delivery.  
-  - Expansión a segmentos más grandes (cadenas de hoteles y supermercados a nivel nacional).  
+Diferenciar InventaTrack como la plataforma más accesible y amigable para PYMEs, con un enfoque en reducir desperdicios y simplificar la gestión de inventarios perecederos.
+
+**Tácticas**  
+
+- **Comunicar la facilidad de uso:** Resaltar en campañas y demos que la plataforma requiere poca capacitación, ideal para PYMEs con recursos limitados.  
+- **Soporte personalizado:** Implementar asesorías y tutoriales adaptados para cada tipo de negocio pequeño o mediano.  
+- **Testimonios y casos de éxito:** Publicar historias reales que evidencien cómo InventaTrack ayudó a reducir mermas y ahorrar costos.
+
+**Valor Añadido**
+
+- Genera confianza y comodidad en usuarios que no son expertos tecnológicos.  
+- Incrementa la adopción y permanencia del cliente.
+
+###### 2. Aprovechar la Oportunidad: Crecimiento de Digitalización en PYMEs Alimentarias
+
+**Estrategia**
+
+Posicionar a InventaTrack como la solución clave para que las PYMEs del sector alimentario den el salto a la digitalización de su inventario y control de mermas.
+
+**Tácticas**
+
+- **Campañas educativas y contenido:** Crear webinars, blogs y videos sobre los beneficios de digitalizar la gestión de inventarios y cómo InventaTrack facilita este proceso.  
+- **Alianzas estratégicas:** Colaborar con cámaras de comercio, asociaciones de PYMEs y proveedores de alimentos para promover la plataforma.  
+- **Incorporar funcionalidades móviles:** Mejorar el acceso y uso en campo para negocios con equipos pequeños o sin oficinas fijas.
+
+**Valor Añadido**  
+
+- Aumenta la visibilidad y aceptación en un mercado en crecimiento.  
+- Facilita la adopción tecnológica en negocios tradicionales.
+
+###### 3. Afrontar la Amenaza: Competencia de Grandes Plataformas Integradas y Startups Ágiles
+
+**Estrategia**
+
+Destacar la especialización en PYMEs y el soporte cercano frente a grandes competidores que atienden a empresas más grandes o con soluciones más complejas.
+
+**Tácticas**  
+- **Campañas enfocadas en valor diferencial:** Enfatizar la simplicidad y accesibilidad frente a plataformas complejas y costosas.  
+- **Modelo flexible y escalable:** Ofrecer planes de suscripción accesibles, con opción a crecimiento según el negocio.  
+- **Innovación constante:** Mantener un desarrollo ágil que permita incorporar feedback rápidamente y adaptarse mejor que grandes jugadores lentos.  
+- **Atención al cliente personalizada:** Garantizar soporte cercano, que sea una ventaja competitiva frente a soluciones impersonales.
+
+**Valor Añadido**  
+- Reduce el riesgo de abandono por complejidad o precio.  
+- Fomenta la lealtad y recomendación entre usuarios.
 
 ## 2.2. Entrevistas
+
 ### 2.2.1. Diseño de entrevistas
-El objetivo de las entrevistas es identificar las principales necesidades, difucultades y expectativas de los segmentos objetivo frente a la gestión de inventarios de alimentos perecederos.  
-- **Segmentos entrevistados:**  
-    - Restaurantes y cocinas ocultas.  
-    - Hoteles y supermercados. 
 
-- **Objetivos específicos de las entrevistas:**
-    - Conocer cómo gestionan actualmente sus inventarios.  
-    - Identificar los principales problemas en caducidad, sobrestock y pérdidas.  
-    - Explorar el interés en soluciones digitales accesibles.  
-    - Validar la disposición a pagar por una aplicación como InventaTrack. 
+##### Preguntas Generales
 
-**Guía de preguntas:**  
-1. ¿Cómo gestionan actualmente sus inventarios de alimentos perecederos?  
-2. ¿Con qué frecuencia enfrentan problemas de caducidad o pérdidas por mermas?  
-3. ¿Qué herramientas utilizan (Excel, software, registros en papel)?  
-4. ¿Cuáles son las mayores dificultades al planificar compras de insumos?  
-5. ¿Qué impacto tienen las mermas en los costos de su negocio?  
-6. ¿Les resultaría útil una aplicación que alerte sobre fechas de caducidad y niveles de stock?  
-7. ¿Qué características consideran más importantes en una herramienta de gestión de inventarios?  
-8. ¿Estarían dispuestos a invertir en una solución digital de bajo costo para mejorar el control de inventarios?  
+* ¿Cuál es su nombre?
+* ¿Cuántos años tiene usted?
+* ¿En qué ciudad y distrito reside?
+* ¿A qué se dedica profesionalmente?
+
+##### Preguntas Específicas
+
+###### Segmento 1: Usuarios operativos
+
+1. ¿Cómo gestionan actualmente sus inventarios de alimentos perecederos en su día a día?
+2. ¿Con qué frecuencia enfrentan problemas de caducidad o pérdidas por mermas?
+3. ¿Qué herramientas utilizan para registrar y controlar el inventario (Excel, software, registros en papel)?
+4. ¿Cuáles son las mayores dificultades que enfrentan al planificar las compras de insumos?
+5. ¿Qué impacto tienen las mermas en los costos operativos de su área?
+6. ¿Les resultaría útil una aplicación que alerte sobre fechas de caducidad y niveles de stock?
+7. ¿Qué características consideran más importantes en una herramienta para facilitar su trabajo?
+8. ¿Estarían dispuestos a usar una solución digital de bajo costo para mejorar el control de inventarios?
+
+###### Segmento 2: Dueños, gerentes y administradores
+
+1. ¿Cómo gestionan actualmente el inventario de alimentos perecederos en su negocio?
+2. ¿Con qué frecuencia observan problemas de caducidad o pérdidas por mermas en general?
+3. ¿Qué herramientas o sistemas utilizan para controlar y planificar el inventario?
+4. ¿Cuáles son las mayores dificultades que enfrentan al planificar las compras de insumos?
+5. ¿Qué impacto tienen las mermas en los costos y rentabilidad del negocio?
+6. ¿Consideran útil una aplicación que alerte sobre fechas de caducidad y niveles de stock?
+7. ¿Qué características consideran prioritarias en una herramienta de gestión de inventarios para la toma de decisiones?
+8. ¿Estarían dispuestos a invertir en una solución digital accesible para mejorar el control de inventarios y reducir pérdidas?
 
 ### 2.2.2. Registro de entrevistas
 
+##### Segmento 1: Usuarios operativos
+
+###### Entrevista 1:
+
+Nombre: 
+Edad: 
+Distrito: 
+
+Resumen de la entrevista:
+Link:
+
+###### Entrevista 2:
+
+Nombre: 
+Edad: 
+Distrito: 
+
+Resumen de la entrevista:
+Link:
+
+###### Entrevista 3:
+
+Nombre: 
+Edad: 
+Distrito: 
+
+Resumen de la entrevista:
+Link:
+
+##### Segmento 2: Dueños, gerentes y administradores
+
+###### Entrevista 4:
+
+Nombre: 
+Edad: 
+Distrito: 
+
+Resumen de la entrevista:
+Link:
+
+###### Entrevista 5:
+
+Nombre: 
+Edad: 
+Distrito: 
+
+Resumen de la entrevista:
+Link:
+
+###### Entrevista 6:
+
+Nombre: 
+Edad: 
+Distrito: 
+
+Resumen de la entrevista:
+Link:
+
 ### 2.2.3. Análisis de entrevistas
 
+A continuación, se presenta un cuadro resumen donde se registrarán los nombres de los entrevistados junto con sus preferencias y recomendaciones relevantes. Este análisis permitirá identificar patrones y necesidades comunes para orientar el desarrollo y mejora de la solución propuesta.
+
+| Nombre           | Preferencias y Recomendaciones                                      |
+|------------------|--------------------------------------------------------------------|
+|                  |                                                                    |
+|                  |                                                                    |
+|                  |                                                                    |
+|                  |                                                                    |
+|                  |                                                                    |
+|                  |                                                                    |
+
 ## 2.3. Needfinding
+
+En esta sección se muestra el proceso de análisis de la información recolectada en las entrevistas. Se incluyen los User Personas, User Task Matrix, User Journey Maps, Empathy Mapping y As-Is Scenario Mapping
+
 ### 2.3.1. User Persona
+
 Hemos creado User Personas para los segmentos clave del proyecto, lo que nos permitió definir perfiles representativos y comprender mejor a nuestros usuarios. Con ello, podremos diseñar soluciones alineadas a sus necesidades, expectativas y contextos.
 
-- User Persona 1
-<br>
-  <img src="./assets/UserPersona1.png" alt="UserPersona_1">
-<br>
-- User Persona 2
-<br>
-  <img src="./assets/UserPersona2.png" alt="UserPersona_2">
-<br>
+###### Segmento 1: Usuarios operativos
+
+<img src="./assets/UserPersona2.png" alt="UserPersona_2">
+
+###### Segmento 2: Dueños, gerentes y administradores
+
+<img src="./assets/UserPersona1.png" alt="UserPersona_1">
 
 ### 2.3.2. User Task Matrix
 
-La **User Task Matrix** permite identificar y priorizar las actividades más importantes que realizan los usuarios en su día a día relacionadas con la gestión de inventarios.  
-A través de esta matriz, se analizan las tareas clave, la frecuencia con la que se realizan y su nivel de importancia dentro de las operaciones. Esto permite reconocer cuáles son las acciones críticas que InventaTrack debe apoyar y cuáles tienen menor prioridad. 
+La User Task Matrix permite identificar y priorizar las actividades más importantes que realizan los usuarios en su día a día relacionadas con la gestión de inventarios. A través de esta matriz, se analizan las tareas clave, la frecuencia con la que se realizan y su nivel de importancia dentro de las operaciones. Esto permite reconocer cuáles son las acciones críticas que InventaTrack debe apoyar y cuáles tienen menor prioridad. 
 
-#### Administrador de restaurante
-| **Activities** | **Frequency** | **Importance** |
-|----------------|---------------|----------------|
-| Registrar insumos recibidos | Diario | Alta |
-| Verificar fechas de caducidad | Diario | Alta |
-| Controlar niveles de stock | Diario | Alta |
-| Planificar compras semanales | Semanal | Alta |
-| Preparar reportes de mermas | Semanal | Media |
-| Coordinar pedidos con proveedores | Semanal | Media |
-| Organizar insumos en almacén | Diario | Media |
-| Revisar condiciones de almacenamiento | Diario | Alta |
-| Capacitar al personal en rotación FIFO | Mensual | Media |
-| Ajustar compras por cambios de demanda | Ocasional | Media |
----
+###### Segmento 1: Usuarios operativos
 
-#### Supervisor de alimentos
-| **Activities** | **Frequency** | **Importance** |
-|----------------|---------------|----------------|
-| Registrar insumos recibidos | Diario | Alta |
-| Verificar fechas de caducidad y lotes | Diario | Alta |
-| Controlar niveles de stock | Diario | Alta |
-| Generar reportes de pérdidas y consumos | Semanal | Alta |
-| Coordinar con equipo de compras | Semanal | Media |
-| Atender auditorías de inventario | Mensual | Alta |
-| Validar cumplimiento de normas sanitarias | Diario | Alta |
-| Analizar rotación de productos perecibles | Semanal | Alta |
-| Ajustar pedidos según consumo real | Semanal | Media |
-| Implementar acciones correctivas por caducidad | Ocasional | Alta |
----
-Con ayuda del User Task Matrix se muestra que en ambos las tareas más críticas son las de gestión diaria del inventario como registrar insumos, revisar caducidad y controlar stock.
+| **Actividades**                        | **Frecuencia** | **Importancia** |
+|--------------------------------------|---------------|----------------|
+| Registrar insumos recibidos           | Diario        | Alta           |
+| Verificar fechas de caducidad         | Diario        | Alta           |
+| Controlar niveles de stock            | Diario        | Alta           |
+| Planificar compras semanales          | Semanal       | Alta           |
+| Preparar reportes de mermas           | Semanal       | Media          |
+| Coordinar pedidos con proveedores     | Semanal       | Media          |
+| Organizar insumos en almacén          | Diario        | Media          |
+| Revisar condiciones de almacenamiento | Diario        | Alta           |
+| Capacitar al personal en rotación FIFO| Mensual       | Media          |
+| Ajustar compras por cambios de demanda| Ocasional     | Media          |
+
+###### Segmento 2: Dueños, gerentes y administradores
+
+| **Actividades**                          | **Frecuencia** | **Importancia** |
+|----------------------------------------|---------------|----------------|
+| Registrar insumos recibidos             | Diario        | Alta           |
+| Verificar fechas de caducidad y lotes  | Diario        | Alta           |
+| Controlar niveles de stock              | Diario        | Alta           |
+| Generar reportes de pérdidas y consumos| Semanal       | Alta           |
+| Coordinar con equipo de compras         | Semanal       | Media          |
+| Atender auditorías de inventario        | Mensual       | Alta           |
+| Validar cumplimiento de normas sanitarias| Diario      | Alta           |
+| Analizar rotación de productos perecibles| Semanal     | Alta           |
+| Ajustar pedidos según consumo real      | Semanal       | Media          |
+| Implementar acciones correctivas por caducidad| Ocasional| Alta           |
 
 ### 2.3.3. User Journey Mapping
 
-### AS-Is (Actual)
-#### Segmento Objetivo 1: Administrador de restaurante
-| **Etapa** | **Acciones** | **Pensamientos** | **Emociones** | **Oportunidades** |
-|-----------|--------------|------------------|---------------|-------------------|
-| Compra de insumos | Realiza pedidos a proveedores de acuerdo a la demanda estimada | “¿Estoy comprando lo justo o me voy a exceder?” | Duda | Sugerencias basadas en consumo histórico |
-| Recepción de productos | Registra manualmente insumos en papel/Excel | “Tengo que hacerlo rápido para no atrasar la operación” | Estrés | Registro digital inmediato con lector o app |
-| Almacenamiento | Organiza productos en cámara o despensa | “Espero que nada se pierda o venza” | Preocupación | Alertas de caducidad y rotación FIFO |
-| Consumo de insumos | Cocina con productos disponibles | “Otra vez se pasó la fecha de algunos insumos” | Frustración | Notificaciones automáticas de vencimiento |
-| Evaluación de inventario | Revisa stock semanalmente | “Siempre hay pérdidas, esto me hace perder dinero” | Desmotivación | Reportes de mermas y recomendaciones |
----
+A continuación se muestra el proceso para la realización del User Journey Mapping para los User Persona con el fin de entender las experiencias del usuario sin nuestra solución.
 
-#### Segmento Objetivo 2: Supervisor de alimentos
-| **Etapa** | **Acciones** | **Pensamientos** | **Emociones** | **Oportunidades** |
-|-----------|--------------|------------------|---------------|-------------------|
-| Planificación de compras | Coordina con proveedores grandes volúmenes de productos | “¿Tendremos demasiado stock otra vez?” | Estrés | Optimización de compras según demanda real |
-| Recepción de productos | Ingresa datos en POS/ERP sin registrar caducidad | “El sistema no me muestra fechas de vencimiento” | Frustración | Registro digital con control de lotes |
-| Almacenamiento | Se almacenan productos en cámaras o almacenes generales | “¿Se cumplirá la rotación FIFO?” | Inseguridad | Seguimiento automático de rotación |
-| Supervisión de inventario | Controla stock disponible y verifica pérdidas | “Es difícil saber qué productos están próximos a vencer” | Cansancio | Alertas de stock crítico y vencimiento |
-| Reportes y auditorías | Prepara informes manuales de pérdidas y consumos | “Esto toma demasiado tiempo cada mes” | Sobrecarga | Generación automática de reportes exportables |
+###### Segmento 1: Usuarios operativos
 
-### To-Be (Con Inventatrack)
-#### Segmento Objetivo 1: Administrador de restaurante
-| **Etapa** | **Acciones** | **Pensamientos** | **Emociones** | **Oportunidades** |
-|-----------|--------------|------------------|---------------|-------------------|
-| Compra de insumos | Usa datos de consumo histórico para pedidos | “Ahora sé cuánto debo comprar” | Confianza | Sugerencias automáticas de compras |
-| Recepción de productos | Registra insumos digitalmente con fechas/lotes | “Es rápido y no se me escapa nada” | Tranquilidad | App móvil para ingreso inmediato |
-| Almacenamiento | Organiza productos con rotación FIFO | “Sé qué usar primero” | Seguridad | Alertas de caducidad y stock crítico |
-| Consumo de insumos | Cocina usando productos más antiguos primero | “Ya no pierdo insumos” | Satisfacción | Uso guiado por notificaciones |
-| Evaluación de inventario | Consulta reportes digitales en minutos | “Puedo ver pérdidas y planificar mejor” | Motivación | Dashboard de mermas y ahorro |
----
+<img src="assets/.UserJourneyMapping1.png" width="100%" height="100%">
 
-#### Segmento Objetivo 2: Supervisor de alimentos
-| **Etapa** | **Acciones** | **Pensamientos** | **Emociones** | **Oportunidades** |
-|-----------|--------------|------------------|---------------|-------------------|
-| Planificación de compras | Usa reportes de consumo y rotación para pedir stock justo | “Ahora evitamos exceso de inventario” | Alivio | Compras optimizadas con sugerencias |
-| Recepción de productos | Registra lotes con fechas de ingreso y vencimiento | “Tengo visibilidad completa del inventario” | Confianza | Integración con sistemas existentes |
-| Almacenamiento | Gestiona insumos con control FIFO digital | “Sé cuál debo usar primero” | Seguridad | Alertas automáticas de rotación |
-| Supervisión de inventario | Monitorea stock y vencimientos desde dashboard | “Ya no se me pasan productos vencidos” | Tranquilidad | Panel de alertas críticas |
-| Reportes y auditorías | Genera informes automáticos y confiables | “Es rápido y listo para auditorías” | Satisfacción | Exportación inmediata de reportes |
+Link del figma: https://www.figma.com/design/KjhrokYcMNv16Ibd7JlHvC/Journey-Map-Template--Community-?node-id=1-1655&t=w5tECbkGMHmrEYRC-1
+
+###### Segmento 2: Dueños, gerentes y administradores
+
+<img src="assets/.UserJourneyMapping2.png" width="100%" height="100%">
+
+Link del figma: https://www.figma.com/design/eeg41ySFRLcHJUg8ymPwjc/Journey-Map-Template--Community-?node-id=1-1655&t=PFdHO9dsvl9ji90E-1
 
 ### 2.3.4. Empathy Mapping
 
-**Segmento 1: Restaurantes y cocinas ocultas**
-<img src="./assets/EmpathyMap1.png" alt="Empathy Map 1">
+A continuación se muestra el proceso para la realización del Empathy Mapping para los User Persona con el fin de entender lo que piensa, siente, oye, hace y observa.
 
-**Segmento 2: Hoteles y Supermercados**
+###### Segmento 1: Usuarios operativos
+
 <img src="./assets/EmpathyMap2.png" alt="Empathy Map 2">
+
+###### Segmento 2: Dueños, gerentes y administradores
+
+<img src="./assets/EmpathyMap1.png" alt="Empathy Map 1">
 
 ## 2.4. Big Picture Event Storming
 
+En esta sección, el equipo presenta el proceso realizado durante la sesión colaborativa de Big Picture Event Storming, una metodología visual y dinámica que nos permitió comprender de manera integral el dominio del negocio de gestión de inventarios de alimentos perecederos.
+
+
+
+Link del miro: https://miro.com/app/live-embed/uXjVJHVPc7U=/?moveToViewport=-2475%2C-2549%2C4560%2C2085&embedId=259469102899
+
 ## 2.5. Ubiquitous Language
 
-El Lenguaje Ubicuo de InventaTrack define los términos clave que serán utilizados por todo el equipo (usuarios, clientes y desarrolladores) para garantizar una comunicación clara y sin ambigüedades.
+El Lenguaje Ubicuo de InventaTrack define los términos clave que serán utilizados por todo el equipo para garantizar una comunicación clara y sin ambigüedades.
 
 | **Término**              | **Definición**                                                                 |
 |---------------------------|---------------------------------------------------------------------------------------------|
@@ -336,7 +567,9 @@ El Lenguaje Ubicuo de InventaTrack define los términos clave que serán utiliza
 
 
 # Bibliografía
+
 ## Referencias
+
 - Agencia Agraria de Noticias. (2020, 16 de octubre). *[Perú desperdicia 12,8 millones de toneladas de alimentos cada año](https://agraria.pe/noticias/peru-desperdicia-12-8-millones-de-toneladas-de-alimentos-cad-23953)*. Agraria.pe.  
 
 - La República. (2019, 3 de julio). *[Más del 33 % de los alimentos producidos al año se descompone por mal uso de la cadena de frío](https://larepublica.pe/sociedad/2019/07/03/peru-mas-del-33-de-los-alimentos-producidos-al-ano-se-descompone-debido-al-mal-uso-de-la-cadena-de-frio-desnutricion)*. La República.  
