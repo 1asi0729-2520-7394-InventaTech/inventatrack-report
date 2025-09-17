@@ -1,16 +1,29 @@
+<h3 align="center"> Universidad Peruana de Ciencias Aplicadas </h3>
+
+<h3 align="center"> Ingeniería de Software </h3>
+<h3 align="center"> Ciclo 2025 - 2</h3>
+
+<br>
+
 <div align="center">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/f/fc/UPC_logo_transparente.png"></img><br>
+</div>
 
-<h1>Informe del Trabajo Final</h1>
-<h2>Universidad Peruana de Ciencias Aplicadas</h2>
-<img src="./assets/Logo-UPC.png" alt="Logo UPC" width="200">
-<h4>Ingeniería de Software</h4>
-<h4>Desarrollo de Aplicaciones Open Source</h4>
-<h4>1ASI0729-2520-7394</h4>
-<h4>Docente: Hugo Allan Mori Paiva</h4>
-<h4>Startup: InventaTech</h4>
-<h4>Producto: InventaTrack</h4>
+<br>
 
-## Team memebers:
+<h1 align="center"> TB1 Report </h1>
+
+<h3 align="center"> Desarrollo de Aplicaciones Open Source </h3>
+
+<h3 align="center"> 1ASI0729-2520-7394 </h3>
+
+<h3 align="center"> Docente: Hugo Allan Mori Paiva </h3>
+
+<h3 align="center"> Startup: InventaTech </h3>
+
+<h3 align="center"> Producto: InventaTrack </h3>
+
+<h3> Team Members: </h3>
 
 |                Nombre                |   Código   |
 | :----------------------------------: | :--------: |
@@ -19,36 +32,60 @@
 |    Joan Fernando Teves Samaniego     | U202117303 |
 |      Antonio Rodrigo Duran Díaz      | U202215721 |
 |     Daiki Oscar Oshiro Yamashita     | U20201f846 |
+<h3 align="center">Septiembre, 2025</h3>
 
-<h4>Ciclo 2025-02</h4>
-</div>
+<div style="page-break-after: always;"></div>
 
-<div>
-  
+
 ## Registro de Versiones del Informe
 
-| Versión | Fecha      | Autor                                                                                                                                                                                      | Descripción de modificación                                                                                                                  |
-| ------- | ---------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ | -------------------------------------------------------------------------------------------------------------------------------------------- |
-| **TB1** | 15/09/2025 | Gonzalo Alonso Carhuancote Dominguez <br><br> Juan Carlos Alvarado de la Cruz <br><br> Joan Fernando Teves Samaniego<br><br>Antonio Rodrigo Duran Díaz<br><br>Daiki Oscar Oshiro Yamashita | Para esta primera entrega, realizamos los primeros 5 capítulos del informe y desarrollamos la primera versión del landing page del Producto. |
+| Versión | Fecha | Autor | Descripción de modificación |
+| :-------: | :---------: | :----------------: | :----------------------:|
+|TB1|15/09/25|Gonzalo Carhuancote, Juan Carlos Alvarado, Joan Teves, Antonio Duran, Daiki Oshiro|Para esta primera entrega, realizamos los primeros 5 capítulos del informe y desarrollamos la primera versión del landing page|
 
-</div>
 
 ## Project Report Collaboration Insights
 
-<div>
-<p>Para este informe se ha dividido de la siguiente forma para cada integrante del grupo:</p>
-</div>
-  
-  ## 
-  
-  |  Integrantes   | Tarea asignada |
-  |:--------------:|:--------------:|
-  | Gonzalo Carhuancote | U202210720   |
+A continuación, se detallan los repositorios utilizados a lo largo del proyecto:
+
+#### Link del repositorio del Reporte: 
+
+- 
+
+#### Link del repositorio de la Landing Page: 
+
+-
+
+### Entrega TB1:
+
+Durante esta entrega se elaboraron los capítulos 1 al 5 del informe. La redacción fue dividida equitativamente entre los integrantes del equipo, quienes se encargaron de desarrollar sus respectivas secciones de manera paralela. Cada miembro subió sus contribuciones directamente al repositorio de GitHub, asegurando así un seguimiento claro de los avances y la colaboración conjunta.
+
+##### Participación por integrante:
+
+- Gonzalo Alonso Carhuancote Dominguez:
+
+- Juan Carlos Alvarado de la Cruz:
+
+- Joan Fernando Teves Samaniego:
+
+- Antonio Rodrigo Duran Díaz:
+
+- Daiki Oscar Oshiro Yamashita:
+
+
 # Contenido
 
 ## Índice
 
-- [Capítulo I: Introducción]()
+- [Registro de versiones del informe](#registro-de-versiones-del-informe)
+
+- [Project Report Collaboration Insights](#project-report-collaboration-insights)
+
+- [Contenido](#contenido)
+
+- [Student Outcome](#student-outcome-1)
+
+- [Capítulo I: Introducción](#capitulo-i-introduccion)
     - [1.1. StartUp Profile](#11-startup-profile)
         - [1.1.1. Descripción de la StartUp](#111-descripción-de-la-startup)
         - [1.1.2. Perfiles de Integrantes del equipo](#112-perfiles-de-integrantes-del-equipo)
@@ -134,17 +171,49 @@
 
 ## Student Outcome
 
+Objetivo general, ABET – EAC - Student Outcome 3: Capacidad de comunicarse efectivamente con un rango de audiencias.
+
+| **Criterio específico** | **Acciones realizadas** | **Conclusiones** |
+|-------------------------|--------------------------|------------------|
+| **Comunica oralmente con efectividad a diferentes rangos de audiencia** | Gonzalo Alonso Carhuancote Dominguez <br>**TB1**: <br> Juan Carlos Alvarado de la Cruz <br>**TB1**: <br> Joan Fernando Teves Samaniego <br>**TB1**: <br> Antonio Rodrigo Duran Díaz <br>**TB1**: <br> Daiki Oscar Oshiro Yamashita <br>**TB1**: <br> | Gonzalo Alonso Carhuancote Dominguez <br>**TB1**: <br> Juan Carlos Alvarado de la Cruz <br>**TB1**: <br> Joan Fernando Teves Samaniego <br>**TB1**: <br> Antonio Rodrigo Duran Díaz <br>**TB1**: <br> Daiki Oscar Oshiro Yamashita <br>**TB1**: <br> |
+| **Comunica por escrito con efectividad a diferentes rangos de audiencia** | Gonzalo Alonso Carhuancote Dominguez <br>**TB1**: <br> Juan Carlos Alvarado de la Cruz <br>**TB1**: <br> Joan Fernando Teves Samaniego <br>**TB1**: <br> Antonio Rodrigo Duran Díaz <br>**TB1**: <br> Daiki Oscar Oshiro Yamashita <br>**TB1**: <br> | Gonzalo Alonso Carhuancote Dominguez <br>**TB1**: <br> Juan Carlos Alvarado de la Cruz <br>**TB1**: <br> Joan Fernando Teves Samaniego <br>**TB1**: <br> Antonio Rodrigo Duran Díaz <br>**TB1**: <br> Daiki Oscar Oshiro Yamashita <br>**TB1**: <br> |
+<div style="page-break-after: always;"></div>
+
+<div style="page-break-after: always;"></div>
+
 # Capítulo IV: Product Design
+
 ## 4.1 Style Guidelines
+
+Las guías de estilo son fundamentales para asegurar una comunicación clara, coherente y profesional en todos los aspectos del proyecto. En esta sección, definiremos las pautas que el equipo utilizará para diseñar la aplicación InventaTech. Estas directrices abarcan aspectos como la selección de colores, tipografía y la estructura general del diseño.
+
+A continuación, se detallan los aspectos clave de este enfoque de diseño.
+
 ## 4.1.1 Gereral Style Guidelines
 
-El diseño de InventaTrack se basa en una estética moderna, limpia y funcional, priorizando la legibilidad y la rapidez de adopción por usuarios no técnicos (restaurantes, hoteles y supermercados).
+**Branding:**
 
-- **Tipografía principal:** `Inter` (sistema `-apple-system, BlinkMacSystemFont, sans-serif`) por su alta legibilidad en interfaces web.  
-- **Tono y voz:** profesional, claro y cercano; textos breves que dirigen a la acción.  
-- **Patrón visual:** bordes redondeados, sombras suaves y gradientes sutiles para profundidad sin saturación.
 
-**Paleta de colores**
+
+**Brand Name:**
+
+
+
+**Typography:**
+
+La tipografía organiza el lenguaje visual de las plataformas, garantizando legibilidad y mejorando la experiencia del usuario. Por eso, se eligieron estos tipos de letra.
+
+
+
+**Head:**
+
+
+
+**Body:**
+
+
+
+**Colors:**
 
 | Rol | HEX | Uso |
 |---|---:|---|
@@ -157,85 +226,68 @@ El diseño de InventaTrack se basa en una estética moderna, limpia y funcional,
 | Background Light | `#f8fafc` | Fondos generales |
 | White | `#ffffff` | Fondos de tarjetas / botones claros |
 
+**Spacing:**
 
-**Variables CSS**
-```css
-:root {
-  --primary-color: #2563eb;
-  --primary-dark: #1e40af;
-  --secondary-color: #10b981;
-  --accent-color: #f59e0b;
-  --text-dark: #1f2937;
-  --text-light: #6b7280;
-  --bg-light: #f8fafc;
-  --white: #ffffff;
-}
-```
-## 4.1.1 Gereral Style Guidelines
-- <b>Botones:</b>
 
-    - btn-primary → acción principal (estilo destacado).
 
-    - btn-secondary → acción secundaria (borde/transparent).
+## 4.1.2 Web Style Guidelines
 
-    - Bordes redondeados (50px) para una apariencia amigable.
+En esta sección se establecen los estándares visuales y de interacción aplicados a las interfaces web de InventaTech, asegurando consistencia, accesibilidad y una experiencia de usuario óptima en cualquier dispositivo.
 
-- Tarjetas y contenedores: esquinas redondeadas (border-radius: 12–20px) y sombras sutiles (box-shadow) para jerarquía visual.
+**Elementos Visuales (Imágenes)**
 
-- Iconografía: uso de emojis simples como íconos en tarjetas de features para comunicar rápidamente (se recomienda, a futuro, iconos SVG consistentes).
+Las imágenes juegan un papel fundamental dentro de la interfaz, ya sea como íconos funcionales, fotografías de perfil o ilustraciones. Los íconos funcionales se emplean en menús, botones y notificaciones, y deben ser minimalistas, lineales y adaptados a tamaños de entre 20px y 32px según el contexto. Las fotografías de perfil de los usuarios deben tener un formato cuadrado o circular, con resolución mínima de 300x300px, optimizadas para carga rápida sin perder calidad. Las imágenes ilustrativas se utilizarán en landing pages, pantallas de onboarding y secciones de ayuda, buscando transmitir confianza, modernidad y profesionalismo, siempre respetando la paleta de colores definida para la marca. Todas las imágenes deberán estar optimizadas, preferiblemente en formato WebP, y su peso no debe superar los 200kb cuando sea posible.
 
-- Accesibilidad: comprobar contraste (WCAG AA) para texto sobre fondos coloreados; todos los elementos interactivos deben ser focuseables y navegables por teclado.
+**Botones**
+
+Los botones son elementos clave para la interacción del usuario y deben ser fácilmente reconocibles en cualquier pantalla. Se diferencian principalmente en tres tipos: botones primarios para acciones principales como “Guardar” o “Enviar”, botones secundarios para acciones complementarias como “Cancelar” o “Volver” y botones de acento para llamadas de atención específicas como “Reintentar”. Cada botón debe incluir estados visuales claramente definidos, incluyendo el estado por defecto, hover, activo y deshabilitado, siempre respetando el contraste y la accesibilidad.
+
+**Formularios**
+
+Los formularios se implementarán en diferentes secciones de la aplicación, como inicio de sesión, registro de usuarios, inventario y reportes. El diseño de los formularios debe priorizar la claridad, mostrando etiquetas visibles sobre los campos, validación en tiempo real y mensajes de error y éxito diferenciados con colores específicos. La consistencia visual se mantiene mediante bordes suaves, espaciado interno uniforme y tipografía legible. Además, los formularios deben ser accesibles mediante teclado y contener placeholders claros que guíen al usuario. Se considerará el perfil de usuario para la adaptación del formulario: los usuarios operativos tendrán formularios breves y rápidos de llenar, mientras que los usuarios gerenciales dispondrán de formularios más completos con filtros y opciones avanzadas para generar reportes y análisis.
 
 ## 4.2. Information Architecture
 
 ### 4.2.1. Organization Systems
-La landing está organizada en bloques secuenciales y jerárquicos que guían al usuario desde la propuesta de valor hasta la conversión:
 
-1. **Header** (logo + navegación)  
-2. **Hero** (título, subtítulo, CTA, mockup visual)  
-3. **Features** (tarjetas con beneficios)  
-4. **Industries** (segmentos objetivo)  
-5. **CTA final** (refuerzo para conversión)  
-6. **Footer** (enlaces a producto, soporte y compañía)
+En InventaTech, la información se organiza estratégicamente para facilitar la operación de los usuarios operativos y la supervisión de gerentes y administradores. Se aplican distintos tipos de organización visual y categorización según el tipo de contenido y el perfil del usuario:
+
+- **Por categorías de insumos:** Alimentos, bebidas, material de limpieza, utensilios, ingredientes especiales. Esto permite a los usuarios operativos localizar rápidamente los productos y generar reportes específicos.
+- **Por tipo de movimiento:** Entradas, salidas y devoluciones. La organización secuencial garantiza consistencia en los registros y facilidad en la auditoría de procesos.
+- **Por estado del stock:** Crítico, medio o suficiente. La estructura jerárquica permite resaltar insumos que requieren atención inmediata en dashboards y reportes gerenciales.
+- **Por información temporal:** Fecha de ingreso, fecha de caducidad y última actualización. La organización cronológica facilita priorizar insumos próximos a vencer y auditar el historial de movimientos.
+- **Por usuario responsable:** Encargados de cocina o administradores de almacén. La categorización matricial permite filtrar registros según quién realizó cada acción, útil para trazabilidad y seguimiento.
+- **Por alertas y notificaciones:** Stock bajo, caducidad próxima, movimientos pendientes. Se combinan jerarquía y organización matricial para asegurar que la información crítica sea visible y accesible.
+- **Por prioridad de gestión:** Urgentes, regulares y de baja rotación. La organización jerárquica ayuda a planificar eficientemente las tareas diarias y proporciona información estratégica para la toma de decisiones.
+
+Con esta estructura, InventaTech asegura que la información sea accesible, eficiente y útil tanto para la operación diaria como para la supervisión estratégica.
 
 ### 4.2.2. Labeling Systems
 
-Se define cómo se nombran y presentan los elementos de la interfaz, para asegurar que el usuario pueda comprender de manera inmediata cada sección, botón o funcionalidad.  
+En InventaTech, los íconos y etiquetas se diseñan para ofrecer a los usuarios una navegación intuitiva y rápida comprensión de las funciones disponibles. Cada ícono representa un conjunto de información o acción clave dentro de la plataforma.
 
-#### Principios aplicados
-- **Claridad:** se usan palabras simples y comprensibles como Features, Industries, Contact.  
-- **Consistencia:** los mismos términos se repiten en todas las secciones y no se cambian según el contexto.
-- **Orientación al dominio:** las etiquetas reflejan el vocabulario del negocio gastronómico y de retail (*Productos*, *Caducidad*, *Reportes*).  
+| Ícono | Nombre | Descripción |
+|-------|--------|-------------|
+| 👤    | Mi Perfil | Permite a los usuarios (operativos o gerenciales) acceder y modificar su información personal, consultar historial de movimientos de insumos y revisar su actividad reciente. |
+| 📦    | Inventario / Áreas de insumos | Menú desplegable que organiza los insumos por categoría, tipo de producto o ubicación en almacén, facilitando la consulta rápida y eficiente. |
+| 🔍    | Buscar insumo | Permite localizar insumos específicos dentro del inventario, con filtros por nombre, cantidad disponible, fecha de caducidad o proveedor. |
+| ⚠️    | Alertas de caducidad | Notifica a los usuarios sobre insumos próximos a vencer o vencidos, para tomar acciones preventivas y evitar desperdicios. |
+| 📈    | Reportes de consumo | Acceso a reportes detallados sobre consumo de insumos, permitiendo a gerentes tomar decisiones estratégicas sobre compras y control de costos. |
+| 📊    | Dashboard de stock crítico | Visualiza los insumos con nivel crítico, alertando sobre cantidades bajas y ayudando en la planificación de reabastecimiento. |
+| ⚙️    | Configuración | Permite a los usuarios modificar ajustes de la cuenta, preferencias de notificación, roles y permisos dentro de la plataforma. |
+| 🏠    | Inicio / Home | Lleva al usuario a la página principal del panel, mostrando resumen de stock, alertas y accesos rápidos a funciones frecuentes. |
+| 🔔    | Notificaciones | Muestra alertas importantes sobre stock bajo, movimientos recientes, mensajes recibidos o acciones pendientes. |
+| 📝    | Registrar insumo | Acceso rápido a la funcionalidad para agregar nuevos insumos al inventario, completando información como cantidad, fecha y categoría. |
+| ✏️    | Editar insumo | Permite actualizar información de insumos existentes, como cantidad, fecha de caducidad o ubicación en almacén. |
+| ➕    | Registrar entradas | Funcionalidad para registrar entradas de insumos al inventario, aumentando las cantidades disponibles. |
+| ➖    | Registrar salidas | Permite registrar el consumo o salida de insumos, disminuyendo el stock disponible y actualizando registros. |
+| 🔄    | Registrar devoluciones | Función para registrar devoluciones de insumos al inventario, asegurando la consistencia de los datos. |
+| 📜    | Historial de movimientos | Permite consultar el historial completo de entradas, salidas y devoluciones, con filtros por fecha y usuario responsable. |
+| 📤    | Exportar reportes | Función para descargar reportes en PDF o Excel, facilitando análisis fuera de la plataforma. |
+| 🔁    | Comparar periodos de consumo | Permite generar comparaciones entre diferentes periodos para identificar tendencias y patrones de consumo. |
+| 📉    | Notificaciones de stock bajo | Alertas automáticas cuando los insumos llegan a su nivel mínimo configurado, para prevenir faltantes. |
+| ⏰    | Resumen diario automático | Envía un resumen diario de stock y movimientos al correo o panel del gerente, manteniéndolo informado sin necesidad de ingresar manualmente. |
 
-#### Implementación técnica con *data-key*
-Para soportar internacionalización (i18n), se implementó un sistema de etiquetas dinámicas usando el atributo personalizado `data-key`.  
-Cada etiqueta está vinculada a un archivo de traducciones JSON que facilita el cambio de idioma sin modificar el HTML.
-
-Ejemplo tomado del `index.html`:
-```html
-<h2 data-key="features.title">Powerful Features for Food Businesses</h2>
-```
-
-Ejemplo tomado de `locales/en.json`:
-```json
-{
-  "features": {
-    "title": "Powerful Features for Food Businesses",
-    "subtitle": "Everything you need to manage your food inventory efficiently and reduce operational costs."
-    }
-}
-
-```
-
-Ejemplo tomado de `locales/es.json`:
-```json
-{
-  "features": {
-    "title": "Funcionalidades Poderosas para Negocios Alimentarios",
-    "subtitle": "Todo lo que necesitas para gestionar tu inventario alimentario de manera eficiente y reducir costos operativos."
-    }
-}
-```
 ### 4.2.3. SEO Tags and Meta Tags
 
 Para garantizar la visibilidad del producto en motores de búsqueda y mejorar la experiencia en redes sociales, se implementaron etiquetas **SEO (Search Engine Optimization)** y **meta tags** en el archivo `index.html`.  
