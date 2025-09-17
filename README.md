@@ -466,11 +466,11 @@ Hemos creado User Personas para los segmentos clave del proyecto, lo que nos per
 
 ###### Segmento 1: Usuarios operativos
 
-<img src="./assets/UserPersona2.png" alt="UserPersona_2">
+<img src="assets/User1.png" width="100%" height="100%">
 
 ###### Segmento 2: Dueños, gerentes y administradores
 
-<img src="./assets/UserPersona1.png" alt="UserPersona_1">
+<img src="assets/User2.png" width="100%" height="100%">
 
 ### 2.3.2. User Task Matrix
 
@@ -493,18 +493,18 @@ La User Task Matrix permite identificar y priorizar las actividades más importa
 
 ###### Segmento 2: Dueños, gerentes y administradores
 
-| **Actividades**                          | **Frecuencia** | **Importancia** |
-|----------------------------------------|---------------|----------------|
-| Registrar insumos recibidos             | Diario        | Alta           |
-| Verificar fechas de caducidad y lotes  | Diario        | Alta           |
-| Controlar niveles de stock              | Diario        | Alta           |
-| Generar reportes de pérdidas y consumos| Semanal       | Alta           |
-| Coordinar con equipo de compras         | Semanal       | Media          |
-| Atender auditorías de inventario        | Mensual       | Alta           |
-| Validar cumplimiento de normas sanitarias| Diario      | Alta           |
-| Analizar rotación de productos perecibles| Semanal     | Alta           |
-| Ajustar pedidos según consumo real      | Semanal       | Media          |
-| Implementar acciones correctivas por caducidad| Ocasional| Alta           |
+| **Actividades**                                  | **Frecuencia** | **Importancia** |
+|--------------------------------------------------|----------------|-----------------|
+| Registrar insumos recibidos                      | Diario         | Alta            |
+| Verificar fechas de caducidad y lotes            | Diario         | Alta            |
+| Controlar niveles de stock                       | Diario         | Alta            |
+| Generar reportes de pérdidas y consumos          | Semanal        | Alta            |
+| Coordinar con equipo de compras                  | Semanal        | Media           |
+| Atender auditorías de inventario                 | Mensual        | Alta            |
+| Validar cumplimiento de normas sanitarias        | Diario         | Alta            |
+| Analizar rotación de productos perecibles        | Semanal        | Alta            |
+| Ajustar pedidos según consumo real               | Semanal        | Media           |
+| Implementar acciones correctivas por caducidad   | Ocasional      | Alta            |
 
 ### 2.3.3. User Journey Mapping
 
@@ -512,13 +512,13 @@ A continuación se muestra el proceso para la realización del User Journey Mapp
 
 ###### Segmento 1: Usuarios operativos
 
-<img src="assets/.UserJourneyMapping1.png" width="100%" height="100%">
+<img src="assets/UserJourneyMapping1.png" width="100%" height="100%">
 
 Link del figma: https://www.figma.com/design/KjhrokYcMNv16Ibd7JlHvC/Journey-Map-Template--Community-?node-id=1-1655&t=w5tECbkGMHmrEYRC-1
 
 ###### Segmento 2: Dueños, gerentes y administradores
 
-<img src="assets/.UserJourneyMapping2.png" width="100%" height="100%">
+<img src="assets/UserJourneyMapping2.png" width="100%" height="100%">
 
 Link del figma: https://www.figma.com/design/eeg41ySFRLcHJUg8ymPwjc/Journey-Map-Template--Community-?node-id=1-1655&t=PFdHO9dsvl9ji90E-1
 
@@ -528,17 +528,21 @@ A continuación se muestra el proceso para la realización del Empathy Mapping p
 
 ###### Segmento 1: Usuarios operativos
 
-<img src="./assets/EmpathyMap2.png" alt="Empathy Map 2">
+<img src="assets/EMM1.png" width="100%" height="100%">
+
+Link de la plantilla: https://docs.google.com/drawings/d/19VUOlSLdHFSW75wBSkHxSHj5xbP_1_o5ozaGqWur27M/edit?usp=sharing
 
 ###### Segmento 2: Dueños, gerentes y administradores
 
-<img src="./assets/EmpathyMap1.png" alt="Empathy Map 1">
+<img src="assets/EMM2.png" width="100%" height="100%">
+
+Link de la plantilla: https://docs.google.com/drawings/d/1toVmCa-riAAgx47qLXRZKkHY6I7QcfxlWUELUTDKiho/edit?usp=sharing
 
 ## 2.4. Big Picture Event Storming
 
 En esta sección, el equipo presenta el proceso realizado durante la sesión colaborativa de Big Picture Event Storming, una metodología visual y dinámica que nos permitió comprender de manera integral el dominio del negocio de gestión de inventarios de alimentos perecederos.
 
-
+<img src="assets/Big.png" width="100%" height="100%">
 
 Link del miro: https://miro.com/app/live-embed/uXjVJHVPc7U=/?moveToViewport=-2475%2C-2549%2C4560%2C2085&embedId=259469102899
 
