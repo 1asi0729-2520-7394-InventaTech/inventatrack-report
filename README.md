@@ -186,7 +186,6 @@ Objetivo general, ABET – EAC - Student Outcome 3: Capacidad de comunicarse efe
 ## 1.1. StartUp Profile
 
 ### 1.1.1. Descripción de la StartUp
-<div align="justify">
 
 InventaTrack surge al identificar un problema común en muchos negocios que trabajan diariamente con alimentos perecederos, como restaurantes, cocinas ocultas, hoteles y supermercados. Muchos aún usan métodos manuales o desorganizados para controlar sus productos, lo que genera pérdidas económicas, desperdicio de comida e incluso problemas con normativas sanitarias, afectando la experiencia del cliente final.
 
@@ -204,55 +203,129 @@ Queremos que InventaTrack sea la herramienta número uno preferida para la gesti
 
 |    Nombre Completo del integrante   | Descripcion de Carrera | Fotografía | Conocimientos y Habilidades a apuntar|
 | ------------------------------------| ---------------------- | ---------- | ------------------------------------ |
-| Gonzalo Alonso Carhuancote Dominguez| Ingenieria de Software <br>Universiad Peruana de Ciencias Aplicadas | ![Gonzalo Alonso](./assets/foto%20Gonzalo.jpg) | - Tengo 20 años, estudio la carrera de ingeniería de software en la UPC. En mis tiempos libres estudio, juego videojuegos y me informo del mundo actual y moderno. Me apasiona la tecnología y manejo lenguajes como C++, Java, Typescript y Python. |
+| Gonzalo Alonso Carhuancote Dominguez| Ingenieria de Software <br>Universiad Peruana de Ciencias Aplicadas | ![Gonzalo Alonso](./assets/foto%20Gonzalo.jpg) | Tengo 20 años, estudio la carrera de ingeniería de software en la UPC. En mis tiempos libres estudio, juego videojuegos y me informo del mundo actual y moderno. Me apasiona la tecnología y manejo lenguajes como C++, Java, Typescript y Python. |
 | Juan Carlos Alvarado de la Cruz| Ingenieria de Software <br>Universiad Peruana de Ciencias Aplicadas |
 | Joan Fernando Teves Samaniego| Ingenieria de Software <br>Universiad Peruana de Ciencias Aplicadas | ![Joan Fernando](./assets/foto%20joan.jpg) | Tengo 22 años estoy estudiando actualmente en la Univeridad Peruana de Ciencias Aplicadas. Tengo interes por el mundo de la cibersegurirdad y el primer paso es enteder al derecho y al revez las aplicaciones web , se c++ , javascript , html , css , mongodb ,sql , sqlserver , posgresql,python, soy creativo , responsable , trabajo en equipo , me gusta resolver problemas   me adaptofacilmente y gestiono muy bien mi tiempo.Espero que en este proyecto pueda incrementar mis habilidades y conocimiento sobre las aplicaciones web y demas . |
-| Antonio Rodrigo Duran Díaz| Ingenieria de Software <br>Universiad Peruana de Ciencias Aplicadas | ![Antonio Rodrigo](./assets/foto%20Antonio.jpg)  | - Soy estudiante de la carrera de Ingeniería de Software en la Universidad Peruana de Ciencias Aplicadas y tengo 20 años. Estoy avanzando en mi formación académica y reforzando mis conocimientos en los diferentes temas relacionados con la creación de software. Durante mis estudios me ha gustado trabajar con gestores de bases de datos, en especial con SQL Server y MongoDB. En este proyecto espero seguir mejorando mis habilidades y conocimientos, además de lograr un buen desempeño en el trabajo grupal. |
+| Antonio Rodrigo Duran Díaz| Ingenieria de Software <br>Universiad Peruana de Ciencias Aplicadas | ![Antonio Rodrigo](./assets/foto%20Antonio.jpg)  | Soy estudiante de la carrera de Ingeniería de Software en la Universidad Peruana de Ciencias Aplicadas y tengo 20 años. Estoy avanzando en mi formación académica y reforzando mis conocimientos en los diferentes temas relacionados con la creación de software. Durante mis estudios me ha gustado trabajar con gestores de bases de datos, en especial con SQL Server y MongoDB. En este proyecto espero seguir mejorando mis habilidades y conocimientos, además de lograr un buen desempeño en el trabajo grupal. |
 | Daiki Oscar Oshiro Yamashita| Ingenieria de Software <br>Universiad Peruana de Ciencias Aplicadas | <img src="assets/Daiki.png" alt="Daiki" width="100" height="120"> | Soy estudiante de la carrera de Ingeniería de Software. Tengo interés en obtener nuevos conocimientos relacionados con mi carrera que me sean de utilidad para el futuro. |
 
 ## 1.2. Solution Profile
+
 ### 1.2.1 Antecedentes y Problemática
-<div align="justify">
-  <ul>
-    <li>
-    <b>What (¿Qué'):</b><br> El problema: Mermas operativas, caducidad en stock, sobrecompras y errores en preparación que generan desperdicio de insumos y aumento de costos en restaurantes, cocinas ocultas, hoteles y supermercados (La República, 2024).<br> La solución: Una aplicación web para digitalizar la gestión de inventarios, con registro de lotes, alertas de vencimiento y reportes de merma.<br><br>
-    </li>
-    <li>
-    <b>Why (¿Por qué?): </b><br> Uso de registros manuales (papel/Excel) que no generan alertas proactivas.<br><br>Falta de protocolos de rotación (FIFO) y control de lotes/fechas. <br><br> Compras basadas en estimaciones imprecisas. <br><br> Deficiencias en la cadena de frío y en condiciones de conservación dentro del establecimiento (La República, 2019).<br><br> Ausencia de herramientas digitales asequibles y adaptadas a PYMEs.<br><br> 
-    </li>
-    <li>
-    <b>Where (¿Dónde?): </b><br> En las áreas de almacenamiento y preparación: cámaras o frigoríficos, despensas, estaciones de cocina y recepción de mercadería. Es decir, dentro del propio establecimiento donde se reciben y procesan los alimentos.Decisores/afectados directos: propietarios y administradores, que asumen el impacto económico. La aplicación funcionará como una plataforma web accesible desde cualquier dispositivo con conexión a Internet<br><br>
-    </li>
-    <li>
-    <b>When (¿Cuándo?):</b><br> Ocurre de forma continua durante las operaciones diarias; se intensifica en picos de demanda (fines de semana, eventos) y ante fallas puntuales en conservación (cortes de energía, fallas en refrigeración).<br><br>
-    </li>
-    <li>
-    <b>Who (¿Quiénes?): </b><br> Los principales afectados: administradores y encargados de almacén o cocina. <br><br>Los usuarios de la solución: dueños, administradores y personal operativo que gestionan insumos.<br><br>
-    </li>
-    <li>
-    <b>How (¿Cómo?):</b><br> Las pérdidas se producen por: productos que caducan en almacén por falta de rotación, exceso de stock por compras no alineadas a la demanda, porciones mal calculadas o errores en preparación y registros fragmentados que impiden análisis y acciones preventivas.<br><br> La solución se implementará con: <br>Registro digital de insumos con fechas y lotes. <br>Alertas automáticas de vencimiento. <br>Reportes de mermas y consumo.<br><br>
-    </li>
-    <li>
-    <b>How Much (¿Cuánto?):</b><br> <b>Contexto nacional:</b> se estiman 12,8 millones de toneladas/año de alimentos desperdiciados en Perú (Agencia Agraria de Noticias, 2020); gran parte de ese volumen corresponde a etapas de producción y distribución.<br> <b>Impacto en establecimientos:</b> En el sector gastronómico los “costos ocultos” (mermas, caducidad, errores) se estiman en 10–15 % sobre el costo operativo en restaurantes (La República, 2024). Además, más de un tercio de los alimentos se descompone por mal uso de la cadena de frío en procesos intermedios (La República, 2019). <br><b>La solución requerirá:</b><br>Inversión inicial baja, costos de mantenimiento mensuales relacionados con hosting, dominio y posibles integraciones. <br>Posible escalamiento a planes de suscripción para usuarios finales, con el fin de garantizar la sostenibilidad del sistema.
-    </li>
-  </ul>
-</div>
+
+En un contexto donde la eficiencia operativa y el control de recursos son clave, muchas empresas del sector alimentario aún enfrentan dificultades para gestionar adecuadamente sus inventarios. Negocios como restaurantes, cocinas ocultas, hoteles y supermercados trabajan con productos perecederos que requieren un manejo cuidadoso, pero siguen utilizando métodos manuales o herramientas poco especializadas que dificultan el control preciso de insumos y fechas de caducidad.
+
+Esta situación provoca pérdidas económicas, desperdicio de alimentos y problemas con el cumplimiento de normativas sanitarias. La falta de sistemas centralizados, accesibles y diseñados específicamente para este tipo de establecimientos limita su capacidad para tomar decisiones a tiempo y mantener un flujo operativo eficiente. A su vez, la inversión en soluciones tecnológicas complejas o automatizadas suele estar fuera del alcance de pequeños y medianos negocios.
+
+###### What (¿Qué?)
+
+- En negocios como restaurantes, cocinas ocultas, hoteles y supermercados, la mala gestión de insumos genera mermas, caducidades, sobrecompras y errores operativos que incrementan los costos. InventaTrack ofrece una solución digital: una plataforma web que permite registrar productos con fechas y lotes, recibir alertas de vencimiento y obtener reportes claros de merma y consumo. Todo esto con una herramienta accesible, sencilla y adaptada a la realidad de las PYMEs.
+
+###### Why (¿Por qué?)
+
+- El problema persiste por el uso de sistemas manuales como papel o Excel, que no emiten alertas ni permiten un control eficiente. No existen protocolos estandarizados como FIFO (primero en entrar, primero en salir), ni herramientas para prever compras según demanda real. Además, muchos establecimientos sufren por fallas en la cadena de frío y no cuentan con soluciones digitales asequibles ni adaptadas a su operación diaria.
+
+###### Where (¿Dónde?)
+
+- Las pérdidas ocurren en áreas clave como cámaras frigoríficas, despensas, estaciones de cocina y zonas de recepción de mercadería. Allí se almacenan y procesan los alimentos, y cualquier error repercute directamente en los costos. La aplicación será accesible desde cualquier dispositivo con conexión a Internet, permitiendo el control en tiempo real dentro del propio establecimiento.
+
+###### When (¿Cuándo?)
+
+- Este problema ocurre a diario, pero se intensifica en momentos de alta demanda como fines de semana, feriados o eventos especiales. También empeora ante imprevistos como cortes de energía o fallas en la refrigeración, donde se pierde gran cantidad de productos si no se actúa con rapidez.
+
+###### Who (¿Quiénes?)
+
+- Los principales afectados son administradores, encargados de cocina y almacén, así como los dueños de los negocios, quienes asumen el impacto económico. Todos ellos también serán usuarios directos de la plataforma, desde la toma de decisiones hasta la operación diaria.
+
+###### How (¿Cómo?)
+
+- Las pérdidas se generan por falta de rotación, exceso de compras, errores en porciones y ausencia de información unificada. InventaTrack ayuda a prevenir estos problemas mediante el registro digital de insumos, generación de alertas automáticas y reportes que permiten tomar decisiones basadas en datos reales y actualizados.
+
+###### How Much (¿Cuánto?)
+
+- En Perú, se desperdician cerca de 12,8 millones de toneladas de alimentos al año, y en el sector gastronómico las pérdidas por mermas y errores alcanzan entre el 10 % y 15 % del costo operativo (La República, 2024). La solución implica una inversión inicial accesible y un costo mensual competitivo para hosting y mantenimiento, con posibilidad de escalar a modelos de suscripción accesibles que aseguren la sostenibilidad del sistema.
 
 ### 1.2.2 Lean UX Proces
 
 #### 1.2.2.1 Lean UX Problem Statements 
-Los negocios que trabajan con alimentos perecederos (restaurantes, cocinas ocultas, hoteles y supermercados) enfrentan dificultades para controlar sus inventarios de manera eficiente. La mayoría utiliza métodos manuales como papel o Excel, lo que genera caducidad de insumos, mermas operativas y sobrecostos que afectan la rentabilidad y la experiencia del cliente. 
-> **Problem Statement:** Los administradores y encargados de inventarios necesitan una herramienta digital accesible que les permita gestionar insumos, recibir alertas de caducidad y generar reportes de pérdidas, porque los métodos manuales actuales no son confiables y generan pérdidas económicas del 10–15 % en costos operativos (La República, 2024). 
+
+Los negocios que manejan alimentos perecederos —como restaurantes, cocinas ocultas, hoteles y supermercados— enfrentan grandes dificultades para controlar sus inventarios de manera eficiente. Actualmente, la mayoría utiliza métodos manuales, como registros en papel o Excel, que resultan poco confiables y dificultan la gestión adecuada de insumos. Esta situación genera caducidad de productos, mermas operativas y sobrecostos que afectan directamente la rentabilidad y la calidad del servicio.
+
+El problema central es que administradores y encargados de inventarios carecen de una herramienta digital accesible y adaptada a sus necesidades, que les permita registrar insumos, recibir alertas oportunas sobre fechas de vencimiento y generar reportes claros sobre pérdidas y consumo. La ausencia de esta solución contribuye a pérdidas económicas que representan entre el 10 % y el 15 % de los costos operativos, según datos recientes (La República, 2024).
+
+InventaTrack responde a esta necesidad con una plataforma web intuitiva y asequible, diseñada para digitalizar la gestión de inventarios en PYMEs del sector alimentario. Esto facilita la reducción de desperdicios, mejora el control operativo y apoya la toma de decisiones basada en datos confiables.
 
 #### 1.2.2.2 Lean UX Assumptions 
-- Los usuarios objetivo (administradores y encargados de cocina) desean reducir desperdicios y pérdidas por caducidad.  
-- Los métodos manuales actuales son insuficientes para garantizar control en tiempo real.  
-- Una plataforma digital simple, intuitiva y accesible desde dispositivos móviles o computadoras facilitará el control de inventarios.  
-- Los usuarios valorarán recibir alertas automáticas y reportes de merma que ayuden a la toma de decisiones.  
-- Los negocios estarán dispuestos a invertir en una solución asequible que mejore su rentabilidad.  
+
+###### ¿Quién es el usuario?
+
+- Los usuarios principales de InventaTrack son los administradores, encargados de almacén y personal operativo de negocios que manejan alimentos perecederos, como restaurantes, cocinas ocultas, hoteles y supermercados. Estos usuarios necesitan herramientas que les permitan gestionar sus inventarios de forma práctica y eficiente, sin depender de métodos manuales que generan pérdidas.
+
+###### ¿Dónde encaja nuestro producto, en su trabajo o en su vida?
+
+- InventaTrack se integra en el día a día laboral de los usuarios, siendo una herramienta clave para controlar el stock, evitar desperdicios y cumplir con normas sanitarias. Facilita la gestión desde el almacenamiento hasta la preparación de alimentos, ayudando a mejorar la operación y reducir costos.
+
+###### ¿Qué problema resuelve nuestro producto?
+
+- InventaTrack soluciona la falta de control y visibilidad en la gestión de insumos perecederos. Permite registrar productos con fechas de caducidad, recibir alertas oportunas, evitar sobrecompras y generar reportes que apoyan la toma de decisiones para reducir mermas y desperdicios.
+
+###### ¿Cuándo y cómo se utiliza nuestro producto?
+
+- La plataforma se utiliza de manera continua durante las operaciones diarias, especialmente en la recepción de mercadería, almacenamiento y preparación. Los usuarios ingresan la información del stock, reciben notificaciones de vencimientos próximos y consultan reportes desde cualquier dispositivo con conexión a Internet, facilitando una gestión ágil y efectiva.
+
+###### ¿Qué características son importantes?
+
+- Registro digital de productos con lotes y fechas de caducidad.
+
+- Alertas automáticas sobre productos próximos a vencer o bajo stock.
+
+- Reportes de merma, consumo y rotación de inventarios.
+
+- Accesibilidad desde dispositivos móviles y computadoras, sin necesidad de hardware adicional.
+
+- Interfaz sencilla y amigable que permita a usuarios sin conocimientos técnicos usar la plataforma fácilmente.
+
+###### ¿Cómo debe verse y comportarse nuestro producto?
+
+- InventaTrack debe contar con una interfaz clara, intuitiva y profesional que transmita confianza y simplicidad. La navegación debe ser rápida y fácil, con alertas visibles y reportes accesibles. Cada acción debe estar acompañada de mensajes claros que orienten al usuario, minimizando la curva de aprendizaje y facilitando la adopción.
+
 #### 1.2.2.3 Lean UX Hyphotesis Statements
-- Si los administradores de restaurantes, cocinas ocultas, hoteles y supermercados utilizan InventaTrack para registrar y monitorear insumos, entonces podrán disminuir el desperdicio de alimentos y los costos ocultos asociados a mermas y caducidades,  
-porque la aplicación alertará automáticamente sobre vencimientos y permitirá planificar compras basadas en datos confiables. 
+
+###### Hipótesis 1:
+
+Creemos que al ofrecer una plataforma digital para que los administradores y encargados de cocina registren y monitoreen insumos perecederos, estos podrán reducir significativamente el desperdicio de alimentos y los costos por caducidad y mermas. Esto será posible gracias a alertas automáticas y reportes claros que facilitarán la planificación y control.
+
+**Business Outcome:** Disminución de pérdidas económicas y reducción del 10-15 % en costos operativos relacionados con mermas.
+**Users:** Administradores y encargados de inventarios en restaurantes, cocinas ocultas, hoteles y supermercados.
+**User Outcome:** Mejor control y reducción de desperdicios gracias a información en tiempo real.
+**Feature:** Registro digital de productos, alertas automáticas de vencimiento y reportes de consumo y merma.
+
+###### Hipótesis 2:
+
+Consideramos que si InventaTrack es accesible desde cualquier dispositivo móvil o computadora, sin necesidad de hardware adicional, más PYMEs del sector alimentario adoptarán la plataforma por su facilidad y bajo costo.
+
+**Business Outcome:** Incremento en la cantidad de usuarios activos y mayor penetración en el mercado de PYMEs.
+**Users:** Propietarios y personal operativo de pequeños y medianos negocios alimentarios.
+**User Outcome:** Acceso rápido y sencillo a herramientas digitales para gestión de inventarios.
+**Feature:** Plataforma web responsiva y compatible con diversos dispositivos.
+
+###### Hipótesis 3:
+
+Suponemos que al proporcionar reportes personalizados y fáciles de entender sobre mermas y consumo, los usuarios podrán tomar decisiones basadas en datos, mejorando la eficiencia operativa y optimizando las compras.
+
+**Business Outcome:** Aumento en la precisión de compras y reducción de stock innecesario.
+**Users:** Administradores y encargados de inventarios.
+**User Outcome:** Mejor planificación y reducción de costos.
+**Feature:** Reportes gráficos y exportables sobre consumo y pérdidas.
+
+###### Hipótesis 4:
+
+Creemos que si la interfaz de InventaTrack es intuitiva y fácil de usar, con soporte para usuarios sin experiencia técnica, se incrementará la frecuencia de uso y la satisfacción, asegurando la fidelización y recomendación del producto.
+
+**Business Outcome:** Alta retención de usuarios y crecimiento por recomendaciones.
+**Users:** Usuarios con diversos niveles de habilidades tecnológicas.
+**User Outcome:** Experiencia positiva y adopción rápida de la plataforma.
+**Feature:** Diseño UI/UX sencillo, tutoriales integrados y atención al cliente.
 
 #### 1.2.2.1 Lean UX Canvas 
 
@@ -260,21 +333,21 @@ porque la aplicación alertará automáticamente sobre vencimientos y permitirá
 Enlace para acceder al Lean UX Canvas en Lucid: https://lucid.app/lucidspark/36d6a2ba-61ad-4dd0-8fa3-a39717abc610/edit?viewport_loc=3739%2C-530%2C3453%2C1915%2C0_0&invitationId=inv_0c6eb1f2-8cd0-4635-8ce8-b076390db41e
 
 ## 1.3 Segmentos Objetivo
-**InventaTrack** está dirigido a negocios que trabajan con alimentos perecederos y que requieren un control eficiente de inventarios. Para este proyecto, los segmentos objetivo se han agrupado en dos grandes categorías con características y necesidades similares:
-- **Restaurantes y cocinas ocultas**  
-   Negocios gastronómicos que operan en ambientes de alta rotación de insumos y, en el caso de las cocinas ocultas, centrados exclusivamente en delivery.  
-   - Problemática: dificultades para controlar fechas de vencimiento, compras mal planificadas y mermas por preparación.  
-   - Necesidad: contar con una solución digital que les permita registrar insumos, recibir alertas de caducidad y reducir pérdidas.<br><br>
-- **Hoteles y supermercados**  
-   Establecimientos de gran escala que manejan altos volúmenes de productos perecederos, con operaciones distribuidas en varios puntos de consumo (buffets, restaurantes internos, góndolas).  
-   - Problemática: pérdidas significativas por falta de rotación, exceso de stock y deficiencias en la cadena de frío.  
-   - Necesidad: implementar un sistema que asegure control de inventarios, optimice la planificación de compras y apoye el cumplimiento de normativas sanitarias.<br><br>
-- **Entidades regulatorias** 
-   Organismos como DIGESA u oficinas municipales de fiscalización sanitaria, responsables de verificar el cumplimiento de normas de higiene y salubridad en el manejo de alimentos.  
-   - Necesidad: disponer de reportes o datos estandarizados que respalden las inspecciones.<br><br>
+
+InventaTrack está dirigido a negocios que manejan alimentos perecederos y buscan optimizar la gestión de sus inventarios. Para este proyecto, los usuarios objetivo se agrupan en dos categorías principales, cada una con necesidades y beneficios específicos:
+
+###### Usuarios operativos
+
+Este grupo está compuesto por administradores de almacén, encargados de cocina y personal operativo que utilizan la aplicación diariamente para registrar insumos, monitorear fechas de caducidad y controlar el inventario. Su principal beneficio es la simplificación y agilización de sus tareas, lo que reduce errores y facilita el manejo eficiente del stock.
+
+###### Dueños, gerentes y administradores
+
+Aunque estos usuarios no interactúan diariamente con la plataforma para ingresar datos, acceden regularmente a reportes, análisis y dashboards que les permiten supervisar la operación general. Se benefician al contar con información precisa y actualizada para tomar decisiones estratégicas, controlar costos y mejorar la rentabilidad del negocio.
 
 # Bibliografía
+
 ## Referencias
+
 - Agencia Agraria de Noticias. (2020, 16 de octubre). *[Perú desperdicia 12,8 millones de toneladas de alimentos cada año](https://agraria.pe/noticias/peru-desperdicia-12-8-millones-de-toneladas-de-alimentos-cad-23953)*. Agraria.pe.  
 
 - La República. (2019, 3 de julio). *[Más del 33 % de los alimentos producidos al año se descompone por mal uso de la cadena de frío](https://larepublica.pe/sociedad/2019/07/03/peru-mas-del-33-de-los-alimentos-producidos-al-ano-se-descompone-debido-al-mal-uso-de-la-cadena-de-frio-desnutricion)*. La República.  
