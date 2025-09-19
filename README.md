@@ -434,16 +434,30 @@ El wireframe define la estructura básica de la landing page en bloques principa
 
 ### 4.6.1 Design-Level Event Storming
 
+En esta sección se presenta el resultado de la sesión de Design-Level EventStorming realizada para InventaTrack. Esta técnica colaborativa permitió mapear los eventos clave, comandos, actores y subdominios del sistema, facilitando la comprensión detallada del dominio y la definición de los bounded contexts. A continuación, se muestra una captura del tablero digital donde se registraron y organizaron estos elementos durante la sesión.
+
+<img src="assets/DLES.png" width="100%" height="100%">
+
 ### 4.6.2 Software Architecture Context Diagram
+
+<img src="assets/DD1.png" width="100%" height="100%">
 
 ### 4.6.3 Software Architecture Container Diagrams
 
+<img src="assets/DD2.png" width="100%" height="100%">
+
 ### 4.6.4 Software Architecture Components Diagrams
+
+<img src="assets/DD3.png" width="100%" height="100%">
 
 ## 4.7 Software Object-Oriented Design
 
 ### 4.7.1  Class Diagrams
 
+<img src="assets/CD.png" width="100%" height="100%">
+
 ## 4.8 Database Design
 
 ### 4.8.1 Database Diagrams
+
+<img src="assets/DB.png" width="100%" height="100%">
