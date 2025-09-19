@@ -438,6 +438,8 @@ En esta sección se presenta el resultado de la sesión de Design-Level EventSto
 
 <img src="assets/DLES.png" width="100%" height="100%">
 
+Link del miro: https://miro.com/app/board/uXjVJGeS0Kc=/?share_link_id=913695019646
+
 ### 4.6.2 Software Architecture Context Diagram
 
 <img src="assets/DD1.png" width="100%" height="100%">
