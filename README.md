@@ -418,12 +418,15 @@ Link:
 
 ###### Entrevista 4:
 
-Nombre: 
-Edad: 
-Distrito: 
+**Nombre:** Ernesto Ruiz
+**Edad:** 24
+**Distrito:** Jesús María
 
-Resumen de la entrevista:
-Link:
+<img src="assets/EI1.png" width="100%" height="100%">
+
+**Resumen de la entrevista:** Ernesto (24 años), administrador de un mini market en Jesús María, gestiona actualmente su inventario con hojas de Excel y controles manuales en papel. Los principales problemas que enfrenta son productos cercanos a su fecha de caducidad, lo que genera mermas mensuales incluso aplicando descuentos. La mayor dificultad al planificar compras es calcular con precisión las cantidades necesarias para minimizar pérdidas. Considera muy útil una aplicación que alerte sobre fechas de vencimiento y niveles de stock, siempre que sea sencilla, rápida y accesible. Está dispuesto a invertir en una solución digital si le garantiza un mejor control y reducción de pérdidas.
+
+**Link:** https://upcedupe-my.sharepoint.com/:v:/g/personal/u20201f846_upc_edu_pe/ETKurgiX4bFFv0eXJ1qpPecB0qUSNWXVUEObe7lLg_Jnnw?e=bSr2FT
 
 ###### Entrevista 5:
 
@@ -447,14 +450,14 @@ Link:
 
 A continuación, se presenta un cuadro resumen donde se registrarán los nombres de los entrevistados junto con sus preferencias y recomendaciones relevantes. Este análisis permitirá identificar patrones y necesidades comunes para orientar el desarrollo y mejora de la solución propuesta.
 
-| Nombre           | Preferencias y Recomendaciones                                      |
-|------------------|--------------------------------------------------------------------|
-|                  |                                                                    |
-|                  |                                                                    |
-|                  |                                                                    |
-|                  |                                                                    |
-|                  |                                                                    |
-|                  |                                                                    |
+| **Nombre** | **Preferencias y Recomendaciones** |
+|------------|-------------------------------------|
+|||
+|||
+|||
+| Ernesto    | Actualmente utiliza Excel y controles manuales para gestionar el inventario, lo que genera dificultades al calcular compras y controlar productos perecederos. Señala que las mermas ocurren mensualmente, especialmente por la caducidad de productos. Considera muy útil una aplicación que agilice el proceso de inventario, emita alertas sobre fechas de vencimiento y niveles de stock, y facilite la toma de decisiones al planificar compras. Recomienda que la herramienta sea sencilla, rápida y accesible en costos. Está dispuesto a invertir en una solución digital siempre que represente beneficios claros y ayude a reducir pérdidas. |
+|||
+|||
 
 ## 2.3. Needfinding
 
