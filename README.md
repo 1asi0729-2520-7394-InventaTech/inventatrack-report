@@ -1,16 +1,29 @@
+<h3 align="center"> Universidad Peruana de Ciencias Aplicadas </h3>
+
+<h3 align="center"> Ingeniería de Software </h3>
+<h3 align="center"> Ciclo 2025 - 2</h3>
+
+<br>
+
 <div align="center">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/f/fc/UPC_logo_transparente.png"></img><br>
+</div>
 
-<h1>Informe del Trabajo Final</h1>
-<h2>Universidad Peruana de Ciencias Aplicadas</h2>
-<img src="./assets/Logo-UPC.png" alt="Logo UPC" width="200">
-<h4>Ingeniería de Software</h4>
-<h4>Desarrollo de Aplicaciones Open Source</h4>
-<h4>1ASI0729-2520-7394</h4>
-<h4>Docente: Hugo Allan Mori Paiva</h4>
-<h4>Startup: InventaTech</h4>
-<h4>Producto: InventaTrack</h4>
+<br>
 
-## Team memebers:
+<h1 align="center"> TB1 Report </h1>
+
+<h3 align="center"> Desarrollo de Aplicaciones Open Source </h3>
+
+<h3 align="center"> 1ASI0729-2520-7394 </h3>
+
+<h3 align="center"> Docente: Hugo Allan Mori Paiva </h3>
+
+<h3 align="center"> Startup: InventaTech </h3>
+
+<h3 align="center"> Producto: InventaTrack </h3>
+
+<h3> Team Members: </h3>
 
 |                Nombre                |   Código   |
 | :----------------------------------: | :--------: |
@@ -19,36 +32,60 @@
 |    Joan Fernando Teves Samaniego     | U202117303 |
 |      Antonio Rodrigo Duran Díaz      | U202215721 |
 |     Daiki Oscar Oshiro Yamashita     | U20201f846 |
+<h3 align="center">Septiembre, 2025</h3>
 
-<h4>Ciclo 2025-02</h4>
-</div>
+<div style="page-break-after: always;"></div>
 
-<div>
-  
+
 ## Registro de Versiones del Informe
 
-| Versión | Fecha      | Autor                                                                                                                                                                                      | Descripción de modificación                                                                                                                  |
-| ------- | ---------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ | -------------------------------------------------------------------------------------------------------------------------------------------- |
-| **TB1** | 15/09/2025 | Gonzalo Alonso Carhuancote Dominguez <br><br> Juan Carlos Alvarado de la Cruz <br><br> Joan Fernando Teves Samaniego<br><br>Antonio Rodrigo Duran Díaz<br><br>Daiki Oscar Oshiro Yamashita | Para esta primera entrega, realizamos los primeros 5 capítulos del informe y desarrollamos la primera versión del landing page del Producto. |
+| Versión | Fecha | Autor | Descripción de modificación |
+| :-------: | :---------: | :----------------: | :----------------------:|
+|TB1|15/09/25|Gonzalo Carhuancote, Juan Carlos Alvarado, Joan Teves, Antonio Duran, Daiki Oshiro|Para esta primera entrega, realizamos los primeros 5 capítulos del informe y desarrollamos la primera versión del landing page|
 
-</div>
 
 ## Project Report Collaboration Insights
 
-<div>
-<p>Para este informe se ha dividido de la siguiente forma para cada integrante del grupo:</p>
-</div>
-  
-  ## 
-  
-  |  Integrantes   | Tarea asignada |
-  |:--------------:|:--------------:|
-  | Gonzalo Carhuancote | U202210720   |
+A continuación, se detallan los repositorios utilizados a lo largo del proyecto:
+
+#### Link del repositorio del Reporte: 
+
+- 
+
+#### Link del repositorio de la Landing Page: 
+
+-
+
+### Entrega TB1:
+
+Durante esta entrega se elaboraron los capítulos 1 al 5 del informe. La redacción fue dividida equitativamente entre los integrantes del equipo, quienes se encargaron de desarrollar sus respectivas secciones de manera paralela. Cada miembro subió sus contribuciones directamente al repositorio de GitHub, asegurando así un seguimiento claro de los avances y la colaboración conjunta.
+
+##### Participación por integrante:
+
+- Gonzalo Alonso Carhuancote Dominguez:
+
+- Juan Carlos Alvarado de la Cruz:
+
+- Joan Fernando Teves Samaniego:
+
+- Antonio Rodrigo Duran Díaz:
+
+- Daiki Oscar Oshiro Yamashita:
+
+
 # Contenido
 
 ## Índice
 
-- [Capítulo I: Introducción]()
+- [Registro de versiones del informe](#registro-de-versiones-del-informe)
+
+- [Project Report Collaboration Insights](#project-report-collaboration-insights)
+
+- [Contenido](#contenido)
+
+- [Student Outcome](#student-outcome-1)
+
+- [Capítulo I: Introducción](#capitulo-i-introduccion)
     - [1.1. StartUp Profile](#11-startup-profile)
         - [1.1.1. Descripción de la StartUp](#111-descripción-de-la-startup)
         - [1.1.2. Perfiles de Integrantes del equipo](#112-perfiles-de-integrantes-del-equipo)
@@ -133,3 +170,155 @@
 - [Anexos](#anexos)
 
 ## Student Outcome
+
+Objetivo general, ABET – EAC - Student Outcome 3: Capacidad de comunicarse efectivamente con un rango de audiencias.
+
+| **Criterio específico** | **Acciones realizadas** | **Conclusiones** |
+|-------------------------|--------------------------|------------------|
+| **Comunica oralmente con efectividad a diferentes rangos de audiencia** | Gonzalo Alonso Carhuancote Dominguez <br>**TB1**: <br> Juan Carlos Alvarado de la Cruz <br>**TB1**: <br> Joan Fernando Teves Samaniego <br>**TB1**: <br> Antonio Rodrigo Duran Díaz <br>**TB1**: <br> Daiki Oscar Oshiro Yamashita <br>**TB1**: <br> | Gonzalo Alonso Carhuancote Dominguez <br>**TB1**: <br> Juan Carlos Alvarado de la Cruz <br>**TB1**: <br> Joan Fernando Teves Samaniego <br>**TB1**: <br> Antonio Rodrigo Duran Díaz <br>**TB1**: <br> Daiki Oscar Oshiro Yamashita <br>**TB1**: <br> |
+| **Comunica por escrito con efectividad a diferentes rangos de audiencia** | Gonzalo Alonso Carhuancote Dominguez <br>**TB1**: <br> Juan Carlos Alvarado de la Cruz <br>**TB1**: <br> Joan Fernando Teves Samaniego <br>**TB1**: <br> Antonio Rodrigo Duran Díaz <br>**TB1**: <br> Daiki Oscar Oshiro Yamashita <br>**TB1**: <br> | Gonzalo Alonso Carhuancote Dominguez <br>**TB1**: <br> Juan Carlos Alvarado de la Cruz <br>**TB1**: <br> Joan Fernando Teves Samaniego <br>**TB1**: <br> Antonio Rodrigo Duran Díaz <br>**TB1**: <br> Daiki Oscar Oshiro Yamashita <br>**TB1**: <br> |
+<div style="page-break-after: always;"></div>
+
+<div style="page-break-after: always;"></div>
+
+# 5.1. Software Configuration Management
+
+## 5.1.1. Software Development Enviroment Configuration
+
+## 5.1.2. Source Code Management
+
+## 5.1.3. Source Code Style Guide & Conventions
+
+## 5.1.4. Software Deployment Configuration
+
+# 5.2. Landing Page, Services & Applications Implementation
+
+## 5.2.1 Sprint 1
+
+### 5.2.1.1 Sprint planning 1
+
+<table align="center" border="1" width="90%" style="text-align:center;">
+    <tr align="left">
+        <td>
+            <b>Sprint #</b>
+        </td>
+        <td>
+            <b>Sprint 1</b>           
+        </td>
+    </tr>
+    <tr align="left">
+        <td colspan="2">
+            <b>Sprint Planning Background</b>
+        </td>
+    </tr>
+    <tr align="left">
+        <td>
+            <b>Date</b>
+        </td>
+        <td>
+            19/09/25         
+        </td>
+    </tr>
+    <tr align="left">
+        <td>
+            <b>Time</b>
+        </td>
+        <td>
+            10:00         
+        </td>
+    </tr>
+    <tr align="left">
+        <td>
+            <b>Location</b>
+        </td>
+        <td>
+            Modalidad Remota por Discord
+        </td>
+    </tr>
+    <tr align="left">
+        <td>
+            <b>Prepared By</b>
+        </td>
+        <td>
+            Equipo InventaTech    
+        </td>
+    </tr>
+    <tr align="left">
+        <td>
+            <b>Attendees (to planning meeting)</b>
+        </td>
+        <td>
+            - Gonzalo Carhuancote <br>
+            - Juan Carlos Alvarado <br>
+            - Joan Teves <br>
+            - Antonio Duran <br>
+            - Daiki Oshiro <br>
+        </td>
+    </tr>
+    <tr align="left">
+        <td>
+            <b>Sprint n - 1</b> <br>
+            <b>Review Summary</b>
+        </td>
+        <td>
+            No existe un sprint anterior para realizar el review, siendo este el primer sprint a desarrollar para InventaTrack.  
+        </td>
+    </tr>
+    <tr align="left">
+        <td>
+            <b>Sprint n - 1</b> <br>
+            <b>Retrospective Summary</b>
+        </td>
+        <td>
+            No existe un sprint anterior para realizar una retrospectiva. Sin embargo, basándonos en lo avanzado, debemos priorizar la correcta definición y desarrollo de las User Stories y una planificación eficiente del Product Backlog.
+        </td>
+    </tr>
+    <tr align="left">
+        <td>
+            <b>Sprint 1 Goal</b>
+        </td>
+        <td>
+            El objetivo del sprint es desarrollar la landing page de InventaTrack con un diseño moderno, claro e intuitivo, que comunique eficazmente la propuesta de valor de la plataforma: facilitar la gestión digital de inventarios de alimentos perecederos para negocios, mejorando el control, reduciendo pérdidas y optimizando la operación diaria.
+        </td>
+    </tr>
+    <tr align="left">
+        <td>
+            <b>Sprint 1 Velocity</b>
+        </td>
+        <td>
+            8
+        </td>
+    </tr>
+    <tr align="left">
+        <td>
+            <b>Sum of Story Points</b>
+        </td>
+        <td>
+            8
+        </td>
+    </tr>
+</table>
+
+### 5.2.1.2. Aspect Leaders and Collaborators
+
+Durante el Sprint 1, el equipo de InventaTrack asignó líderes (L) y colaboradores (C) para aspectos esenciales como diseño de interfaz, desarrollo de la landing page, planificación de sprints, pruebas iniciales y documentación. Esta distribución permitió un trabajo equilibrado y un avance organizado del proyecto.
+
+| Miembro del Equipo          | GitHub Username | UI/UX | Landing Page | Sprint Planning | Testing | Documentación |
+|-----------------------------|-----------------|-------|--------------|-----------------|---------|---------------|
+| Gonzalo Carhuancote         | Gonzalo251104   | L     | C            | C               | C       | C             |
+| Juan Carlos Alvarado        | JuanCarlosAlvarado900 | C     | C            | L               | C       | C             |
+| Joan Teves                  | JoanTeves       | C     | L            | C               | C       | C             |
+| Antonio Duran               | Sltcrd          | C     | C            | C               | L       | C             |
+| Daiki Oshiro                | DaikiOY         | C     | C            | C               | C       | L             |
+
+#### 5.2.1.3. Sprint Backlog 1
+
+El objetivo principal del Sprint 1 fue establecer la base del proyecto InventaTrack, centrando los esfuerzos en el diseño de la interfaz (UI/UX), la construcción inicial de la landing page, la definición de los Sprints en la herramienta de gestión y el desarrollo de documentación base. También se incluyeron tareas generales como configuración de repositorios y organización del equipo.
+
+A continuación se presenta un screenshot del Board de Sprint 1 en Trello, junto con el enlace público correspondiente:
+
+Link del Trello:
+
+
+
+#### 5.2.1.4. Development Evidence for Sprint Review
