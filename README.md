@@ -297,36 +297,57 @@ Para garantizar la visibilidad del producto en motores de búsqueda y mejorar la
 <meta charset="UTF-8" />
 <meta name="viewport" content="width=device-width, initial-scale=1.0" />
 <title>InventaTrack - Smart Food Inventory Management</title>
+<meta name="description" content="Gestiona inventarios y fechas de caducidad fácilmente con InventaTrack, la solución digital para negocios alimentarios." />
+<meta name="keywords" content="inventarios, alimentos perecederos, control de stock, alertas de caducidad, gestión digital" />
+<meta name="author" content="InventaTrack" />
 
 ```
+
 #### Open Graph y redes sociales
 ```html
+<meta property="og:title" content="InventaTrack" />
+<meta property="og:description" content="Gestiona inventarios y fechas de caducidad fácilmente." />
+<meta property="og:image" content="https://inventaTrack.com/og-image.jpg" />
+
+<meta name="twitter:card" content="summary_large_image" />
+<meta name="twitter:title" content="InventaTrack" />
+<meta name="twitter:description" content="Gestiona inventarios y fechas de caducidad fácilmente." />
+<meta name="twitter:image" content="https://inventaTrack.com/twitter-image.jpg" />
 
 ```
 
 ### 4.2.4 Searching Systems
 
-Se planifica incluir un sistema de búsqueda en la aplicación principal que permita:
+En esta sección se describen los medios de ayuda que se brindarán al usuario para la búsqueda eficiente de datos dentro del producto digital. El objetivo principal es evitar que los usuarios se sientan abrumados o perdidos ante un gran volumen de información, facilitando el acceso rápido y preciso a los datos relevantes.
 
-- Buscar insumos por nombre o categoría.
+###### Opciones de búsqueda
 
-- Filtrar por fecha de caducidad, lote o stock disponible.
+- **Búsqueda por texto libre:** Los usuarios podrán ingresar palabras clave o términos relacionados para localizar rápidamente productos, insumos o reportes dentro de la plataforma.
 
-- Sugerencias automáticas mediante autocompletado.
+- **Búsqueda avanzada:** Se ofrecerá una búsqueda con filtros específicos que permiten acotar resultados según parámetros relevantes.
 
-- Integración con etiquetas para búsquedas rápidas
+###### Filtros disponibles
 
-Este buscador permitirá a los usuarios localizar información crítica en segundos, reduciendo errores y mejorando la eficiencia operativa. 
+Dependiendo del contexto y sección, los usuarios podrán filtrar los resultados por:
+
+- Nombre del producto o insumo
+- Categoría o tipo de alimento
+- Fecha de caducidad
+- Estado del stock 
+- Fecha de ingreso o última actualización
 
 ### 4.2.5 Navigation Systems
 
-El sistema de navegación de la landing page se compone de:
+A continuación, se mostrarán los sistemas de navegación que le permitirán a nuestros usuarios moverse a través de las distintas piezas de contenido o información.
 
 - **Menú principal (Header):**  
   Ubicado en la parte superior, contiene enlaces ancla hacia las secciones *Features*, *Industries* y *Contact*. Incluye además un botón para cambiar de idioma (`language-switcher`).  
 
 - **Menú móvil (Hamburger menu):**  
-  Para dispositivos con pantallas pequeñas, se implementa un botón tipo hamburguesa que despliega los enlaces en columna (`.nav-links.active`).  
+  Para dispositivos con pantallas pequeñas, se implementa un botón tipo hamburguesa que despliega los enlaces en columna (`.nav-links.active`).
+
+- **Botones de acción (Call to Action - CTA) claros y visibles:**
+  “Agregar producto”, “Editar insumo”, “Generar alerta” y “Ver reporte”. Esto facilita que el usuario realice sus tareas de manera rápida e intuitiva.
 
 - **Footer:**  
   Contiene enlaces secundarios agrupados en cuatro columnas: *Product*, *Support*, *Company* y *Brand description*.  
@@ -341,3 +362,88 @@ El sistema de navegación de la landing page se compone de:
 
 El wireframe define la estructura básica de la landing page en bloques principales:
 
+##### Home Wireframe
+
+##### About Us Wireframe
+
+##### Learn More Wireframe
+
+##### Suscribe Wireframe
+
+### 4.3.1. Landing Page Mock-ups
+
+##### Home Mock-up
+
+##### About Us Mock-up
+
+##### Learn More Mock-up
+
+##### Suscribe Mock-up
+
+## 4.4. Web Applications UX/UI Design
+
+### 4.4.1. Web Applications Wireframes
+
+#### Desktop Browser:
+
+##### Inicio de sesión y registro:
+
+### 4.4.2. Web Applications Wireflow Diagrams
+
+##### Usuario ingresa a la aplicación iniciando sesión o registrándose:
+
+##### Usuario desea realizar un inventario:
+
+##### Usuario desea ver el reporte del inventario:
+
+### 4.4.3. Web Applications Mock-ups
+
+##### Inicio de sesión y registro:
+
+##### Vista de inventarios:
+
+### 4.4.4. Web Applications User Flow Diagrams
+
+##### User Goal 1: Acceder a la aplicación ya sea con registro o inicio de sesión.
+
+##### Descripción:
+
+##### Flujo principal (Happy Path):
+
+##### Flujos alternativos parciales:
+
+##### User Goal 2: 
+
+##### Descripción:
+
+##### Flujo principal (Happy Path):
+
+##### Flujos alternativos parciales:
+
+##### User Goal 3: 
+
+##### Descripción:
+
+##### Flujo principal (Happy Path):
+
+##### Flujos alternativos parciales:
+
+## 4.5. Web Applications Prototyping
+
+## 4.6. Domain-Driven Software Architecture
+
+### 4.6.1 Design-Level Event Storming
+
+### 4.6.2 Software Architecture Context Diagram
+
+### 4.6.3 Software Architecture Container Diagrams
+
+### 4.6.4 Software Architecture Components Diagrams
+
+## 4.7 Software Object-Oriented Design
+
+### 4.7.1  Class Diagrams
+
+## 4.8 Database Design
+
+### 4.8.1 Database Diagrams
