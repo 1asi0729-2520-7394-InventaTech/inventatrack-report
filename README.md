@@ -458,6 +458,8 @@ Link del miro: https://miro.com/app/board/uXjVJGeS0Kc=/?share_link_id=9136950196
 
 <img src="assets/CD.png" width="100%" height="100%">
 
+Link del diagrama: https://drive.google.com/file/d/1jcCJUNHeWBzlNkrEl9jwdaP_kr-qJreI/view?usp=sharing
+
 ## 4.8 Database Design
 
 ### 4.8.1 Database Diagrams
