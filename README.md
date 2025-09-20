@@ -400,6 +400,7 @@ El wireframe define la estructura básica de la landing page en bloques principa
 <img src="assets/Wireflow-2.png" width="100%" height="100%">
 
 ##### Usuario desea ver el reporte del inventario:
+<img src="assets/Wireflow-3.png" width="100%" height="100%">
 
 ### 4.4.3. Web Applications Mock-ups
 
