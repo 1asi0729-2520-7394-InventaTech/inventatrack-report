@@ -460,20 +460,18 @@ https://trello.com/invite/b/68392dfb34795737cb55ab57/ATTI12319d8d47e238a19380ca2
 
 En el presente sprint se logró desarrollar la primera versión del Landing Page de InventaTrack, la cual presenta de manera clara el propósito de la plataforma y las problemáticas que busca resolver en la gestión de inventarios. La información mostrada fue organizada de forma comprensible y acompañada de elementos visuales que refuerzan el mensaje. Asimismo, se consideró un diseño atractivo e intuitivo que busca captar la atención de los usuarios y transmitir confianza en la solución propuesta.
 
-Link del landing page:
+Link del landing page: https://1asi0729-2520-7394-inventatech.github.io/inventatrack-website/
 
 Principales avances en implementación con relación al Sprint:
 
 | Repository | Branch | Commit Id | Commit Message | Commit Message Body |  Commited on (Date) |
 | ---------- | ------ | --------- | --------- | ------------------- | ------------------- |
-|Landing Page|main| - | Initial commit  | create the README.md  | 17/09/2025 |
-|            |main| - | Create index.html  | create the index.html  | 17/09/2025 |
-|            |main| - | feat: added Section Home | added content in the section Home  | 17/09/2025 |
-|            |main| - | feat: added assets carpet | create the assets carpet  | 18/09/2025 |
-|            |main| - | feat: added css carpet | create the css carpet  | 18/09/2025 |
-|            |main| - | feat: added javascript carpet | create the javascript carpet  | 19/09/2025 |
-|            |main| - | feat: added i18n.js file | create the i18n.js file | 19/09/2025 |
-|            |main| - | feat: added scripts | added content in the scripts section | 19/09/2025 |
+|Landing Page|main| c9beceb | Initial commit  | create the README.md  | 17/09/2025 |
+|            |main| 46bc680 | Create index.html  | create the index.html  | 17/09/2025 |
+|            |main| 46bc680 | feat: added Section Home | added content in the section Home  | 17/09/2025 |
+|            |main| 09a0384 | feat: added assets carpet | create the assets carpet  | 18/09/2025 |
+|            |main| 09a0384 | feat: added css carpet | create the css carpet  | 18/09/2025 |
+|            |main| f3ec60e | feat: added i18n.js file | create the i18n.js file | 19/09/2025 |
 
 #### 5.2.1.5. Execution Evidence for Sprint Review
 
@@ -481,35 +479,80 @@ Durante el primer sprint, se lograron varios hitos importantes en el desarrollo 
 
 * **Establecimiento de repositorios:** Se crearon y configuraron repositorios en GitHub para gestionar el código y las pruebas, asegurando una correcta organización y control de versiones.
 
+<img src="assets/Rep.png" width="100%" height="100%">
+
 * **Implementación del Landing Page:** Se diseñó y desarrolló la landing page de InventaTrack, implementando funcionalidades clave y asegurando que cumpla con los requisitos definidos en el proyecto.
 
 * **Imágenes del Landing Page:**
    
   * **Inicio:**
-  * **Sección Nosotros:**
-  * **Planes de subscripción:**
-  * **Footer:**
 
+<img src="assets/Ini.png" width="100%" height="100%">
+
+  * **Sección Características:**
+
+<img src="assets/Car.png" width="100%" height="100%">
+  
+  * **Planes de subscripción:**
+
+ <img src="assets/Sub.png" width="100%" height="100%"> 
+  
+  * **Preguntas Frecuentes:**
+
+ <img src="assets/Pre.png" width="100%" height="100%"> 
+ 
 #### 5.2.1.6. Services Documentation Evidence for Sprint Review
 
 Durante el primer sprint, se desarrolló el Landing Page del proyecto como una primera entrega visual. Esta implementación se centró únicamente en la estructura y diseño, sin integrar aún servicios web ni funcionalidades conectadas a sistemas externos.
 
 #### 5.2.1.7. Software Deployment Evidence for Sprint Review
 
-Link del Landing Page:
+Durante este Sprint se llevaron a cabo las siguientes actividades relacionadas con el despliegue de la Landing Page.  
+
+#### Creación de Repositorios y Configuración en GitHub
+
+- Se crearon repositorios en GitHub para gestionar el código fuente y realizar el seguimiento de cambios, incluyendo la Landing Page y otros componentes del proyecto.  
+- Los repositorios fueron configurados para habilitar el despliegue mediante GitHub Pages.  
+- GitHub Pages: Se configuró GitHub Pages para desplegar la Landing Page, ofreciendo una solución sencilla de alojamiento directamente desde el repositorio en GitHub.  
+
+<img src="assets/EE2.png" width="100%" height="100%"> 
+
+#### Proceso de Despliegue
+
+- Despliegue de la Landing Page:  
+  - Se subió el código de la Landing Page al repositorio correspondiente en GitHub.  
+  - Se configuró GitHub Pages para publicar el sitio en línea, incluyendo la personalización de la página de inicio.
+    
+<img src="assets/EE1.png" width="100%" height="100%"> 
+
+- Verificación del Despliegue:  
+  - Se realizó una revisión exhaustiva del sitio publicado en GitHub Pages para asegurar que todos los elementos funcionaran correctamente.  
+  - Se ejecutaron pruebas de funcionalidad para verificar la correcta carga del sitio y la ausencia de errores en el contenido desplegado.
+
+<img src="assets/Ini.png" width="100%" height="100%"> 
+
+El proceso de despliegue realizado durante este Sprint 1 permitió establecer una base sólida para la gestión y publicación del proyecto. La configuración de GitHub Pages optimizó el despliegue y garantizó una integración continua efectiva, facilitando futuras actualizaciones de la aplicación web.  
+ 
+Link del Landing Page: https://1asi0729-2520-7394-inventatech.github.io/inventatrack-website/
 
 #### 5.2.1.8. Team Collaboration Insights during Sprint
 
 Durante este Sprint, el equipo llevó a cabo un trabajo colaborativo enfocado en el diseño y la implementación de la Landing Page de InventaTrack. Las actividades se distribuyeron entre los integrantes, asegurando que la landing page cumpliera con los objetivos planteados para esta fase. Asimismo, se registraron avances en la gestión del repositorio de GitHub, evidenciados en los commits y métricas de colaboración que reflejan la participación activa de cada miembro del equipo.
 
-| Author           | Task completed                                |
-|------------------|-----------------------------------------------|
-| Gonzalo Carhuancote |        |
-| Daiki Oshiro     |                   |
-| Juan  Alvarado   |                            |
-| Joan  Teves      |          |
-| Antonio Duran    |           |
+| Author              | Task completed                                   |
+|---------------------|--------------------------------------------------|
+| Gonzalo Carhuancote | Integration of landing page sections and deployment |
+| Daiki Oshiro        | Report development                               |
+| Juan Alvarado       | Design and development of mockups and wireframes |
+| Joan Teves          | Development of Toolbar and Footer                |
+| Antonio Duran       | Development of Subscription Features             |
 
 Captura de Analíticos de Colaboración en GitHub en el repositorio de la Landing Page:
 
+<img src="assets/Col1.png" width="100%" height="100%"> 
 
+<img src="assets/Col2.png" width="100%" height="100%"> 
+
+<img src="assets/Col3.png" width="100%" height="100%">
+
+<img src="assets/Col4.png" width="100%" height="100%"> 
