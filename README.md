@@ -410,6 +410,9 @@ El wireframe define la estructura básica de la landing page en bloques principa
 ##### Vista de inventarios:
 <img src="assets/Mockup-Inventario.png" width="100%" height="100%">
 
+#### Vista de reportes:
+
+
 ### 4.4.4. Web Applications User Flow Diagrams
 
 ##### User Goal 1: Acceder a la aplicación ya sea con registro o inicio de sesión.
