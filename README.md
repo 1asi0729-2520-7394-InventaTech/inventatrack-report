@@ -50,7 +50,7 @@ A continuación, se detallan los repositorios utilizados a lo largo del proyecto
 
 #### Link del repositorio del Reporte: 
 
-- 
+-  https://github.com/1asi0729-2520-7394-InventaTech/inventatrack-report
 
 #### Link del repositorio de la Landing Page: 
 
@@ -70,8 +70,9 @@ Durante esta entrega se elaboraron los capítulos 1 al 5 del informe. La redacci
 
 - Antonio Rodrigo Duran Díaz:
 
-- Daiki Oscar Oshiro Yamashita:
+- Daiki Oscar Oshiro Yamashita: Desarrollo de los capítulos 2 y 3, parte del 4 y Sprint 1.
 
+<img src="assets/DOY1.png" width="100%" height="100%">
 
 # Contenido
 
@@ -175,11 +176,171 @@ Objetivo general, ABET – EAC - Student Outcome 3: Capacidad de comunicarse efe
 
 | **Criterio específico** | **Acciones realizadas** | **Conclusiones** |
 |-------------------------|--------------------------|------------------|
-| **Comunica oralmente con efectividad a diferentes rangos de audiencia** | Gonzalo Alonso Carhuancote Dominguez <br>**TB1**: <br> Juan Carlos Alvarado de la Cruz <br>**TB1**: <br> Joan Fernando Teves Samaniego <br>**TB1**: <br> Antonio Rodrigo Duran Díaz <br>**TB1**: <br> Daiki Oscar Oshiro Yamashita <br>**TB1**: <br> | Gonzalo Alonso Carhuancote Dominguez <br>**TB1**: <br> Juan Carlos Alvarado de la Cruz <br>**TB1**: <br> Joan Fernando Teves Samaniego <br>**TB1**: <br> Antonio Rodrigo Duran Díaz <br>**TB1**: <br> Daiki Oscar Oshiro Yamashita <br>**TB1**: <br> |
-| **Comunica por escrito con efectividad a diferentes rangos de audiencia** | Gonzalo Alonso Carhuancote Dominguez <br>**TB1**: <br> Juan Carlos Alvarado de la Cruz <br>**TB1**: <br> Joan Fernando Teves Samaniego <br>**TB1**: <br> Antonio Rodrigo Duran Díaz <br>**TB1**: <br> Daiki Oscar Oshiro Yamashita <br>**TB1**: <br> | Gonzalo Alonso Carhuancote Dominguez <br>**TB1**: <br> Juan Carlos Alvarado de la Cruz <br>**TB1**: <br> Joan Fernando Teves Samaniego <br>**TB1**: <br> Antonio Rodrigo Duran Díaz <br>**TB1**: <br> Daiki Oscar Oshiro Yamashita <br>**TB1**: <br> |
+| **Comunica oralmente con efectividad a diferentes rangos de audiencia** | Gonzalo Alonso Carhuancote Dominguez <br>**TB1**: <br> Juan Carlos Alvarado de la Cruz <br>**TB1**:Expliqué ideas de diseño y navegación del prototipo en Figma de forma clara a mi equipo y adapté el lenguaje técnico en las reuniones con el docente. <br> Joan Fernando Teves Samaniego <br>**TB1**: <br> Antonio Rodrigo Duran Díaz <br>**TB1**: <br> Daiki Oscar Oshiro Yamashita <br>**TB1**: Participé constantemente en las reuniones programadas que realizamos con el fin de coordinar avances e informar el progreso del trabajo. <br> | Gonzalo Alonso Carhuancote Dominguez <br>**TB1**: <br> Juan Carlos Alvarado de la Cruz <br>**TB1**:Logré transmitir mis aportes de manera comprensible y útil para distintos públicos. <br> Joan Fernando Teves Samaniego <br>**TB1**: <br> Antonio Rodrigo Duran Díaz <br>**TB1**: <br> Daiki Oscar Oshiro Yamashita <br>**TB1**: La efectiva comunicación entre los miembros del equipo facilitó el logro de los objetivos planteados en esta fase inicial. <br> |
+| **Comunica por escrito con efectividad a diferentes rangos de audiencia** | Gonzalo Alonso Carhuancote Dominguez <br>**TB1**: <br> Juan Carlos Alvarado de la Cruz <br>**TB1**:Redacté secciones del informe con un estilo formal y claro, y utilicé mensajes breves en GitHub para la colaboración técnica del equipo. <br> Joan Fernando Teves Samaniego <br>**TB1**: <br> Antonio Rodrigo Duran Díaz <br>**TB1**: <br> Daiki Oscar Oshiro Yamashita <br>**TB1**: Contribuí principalmente al desarrollo de los capítulos 2 y 3, así como a partes de los capítulos 4 y 5. <br> | Gonzalo Alonso Carhuancote Dominguez <br>**TB1**: <br> Juan Carlos Alvarado de la Cruz <br>**TB1**:Mi comunicación escrita se adaptó exitosamente tanto al entorno académico como al técnico. <br> Joan Fernando Teves Samaniego <br>**TB1**: <br> Antonio Rodrigo Duran Díaz <br>**TB1**: <br> Daiki Oscar Oshiro Yamashita <br>**TB1**: La contribución en la elaboración del texto facilitó un desarrollo significativo en los capítulos correspondientes. <br> |
 <div style="page-break-after: always;"></div>
 
 <div style="page-break-after: always;"></div>
+
+# Capitulo I: Introduccion
+
+## 1.1. StartUp Profile
+
+### 1.1.1. Descripción de la StartUp
+
+InventaTrack surge al identificar un problema común en muchos negocios que trabajan diariamente con alimentos perecederos, como restaurantes, cocinas ocultas, hoteles y supermercados. Muchos aún usan métodos manuales o desorganizados para controlar sus productos, lo que genera pérdidas económicas, desperdicio de comida e incluso problemas con normativas sanitarias, afectando la experiencia del cliente final.
+
+Muchos negocios de este sector no pueden o no quieren invertir en sensores, cámaras o sistemas automáticos costosos. Por eso, nuestra solución simple, eficiente y digital es una plataforma web que permite registrar productos, controlar fechas de caducidad, recibir alertas cuando hay poco stock o algún insumo está por vencer, y hacer seguimiento de todo con reportes fáciles de entender.
+
+---
+## Misión
+Nuestra misión es digitalizar la gestión de inventario alimentario para que cualquier negocio, sin importar su tamaño, pueda reducir pérdidas, evitar desperdicios y tener un mejor control de sus insumos de forma práctica y accesible.
+
+---
+## Visión
+Queremos que InventaTrack sea la herramienta número uno preferida para la gestión inteligente de inventarios en negocios que trabajan con alimentos. Buscamos que más empresas puedan dejar el papel y Excel, y empiecen a gestionar su stock de forma más moderna, eficiente y segura.
+
+### 1.1.2. Perfiles de integrantes del equipo
+
+|    Nombre Completo del integrante   | Descripcion de Carrera | Fotografía | Conocimientos y Habilidades a apuntar|
+| ------------------------------------| ---------------------- | ---------- | ------------------------------------ |
+| Gonzalo Alonso Carhuancote Dominguez| Ingenieria de Software <br>Universiad Peruana de Ciencias Aplicadas | ![Gonzalo Alonso](./assets/foto%20Gonzalo.jpg) | Tengo 20 años, estudio la carrera de ingeniería de software en la UPC. En mis tiempos libres estudio, juego videojuegos y me informo del mundo actual y moderno. Me apasiona la tecnología y manejo lenguajes como C++, Java, Typescript y Python. |
+| Juan Carlos Alvarado de la Cruz| Ingenieria de Software <br>Universiad Peruana de Ciencias Aplicadas| <img src="assets/foto_juan.png" width="100%" height="100%">|Soy Juan Carlos Alvarado, soy estudiante de la carrera de Ing. de Software. Me gusta resolver problemas y aprender cosas que son de mi interés, tengo experiencia programando en C++ y en Python.
+| Joan Fernando Teves Samaniego| Ingenieria de Software <br>Universiad Peruana de Ciencias Aplicadas | ![Joan Fernando](./assets/foto%20joan.jpg) | Tengo 22 años estoy estudiando actualmente en la Univeridad Peruana de Ciencias Aplicadas. Tengo interes por el mundo de la cibersegurirdad y el primer paso es enteder al derecho y al revez las aplicaciones web , se c++ , javascript , html , css , mongodb ,sql , sqlserver , posgresql,python, soy creativo , responsable , trabajo en equipo , me gusta resolver problemas   me adaptofacilmente y gestiono muy bien mi tiempo.Espero que en este proyecto pueda incrementar mis habilidades y conocimiento sobre las aplicaciones web y demas . |
+| Antonio Rodrigo Duran Díaz| Ingenieria de Software <br>Universiad Peruana de Ciencias Aplicadas | ![Antonio Rodrigo](./assets/foto%20Antonio.jpg)  | Soy estudiante de la carrera de Ingeniería de Software en la Universidad Peruana de Ciencias Aplicadas y tengo 20 años. Estoy avanzando en mi formación académica y reforzando mis conocimientos en los diferentes temas relacionados con la creación de software. Durante mis estudios me ha gustado trabajar con gestores de bases de datos, en especial con SQL Server y MongoDB. En este proyecto espero seguir mejorando mis habilidades y conocimientos, además de lograr un buen desempeño en el trabajo grupal. |
+| Daiki Oscar Oshiro Yamashita| Ingenieria de Software <br>Universiad Peruana de Ciencias Aplicadas | <img src="assets/Daiki.png" alt="Daiki" width="120" height="120"> | Soy estudiante de la carrera de Ingeniería de Software. Tengo interés en obtener nuevos conocimientos relacionados con mi carrera que me sean de utilidad para el futuro. |
+
+## 1.2. Solution Profile
+
+### 1.2.1 Antecedentes y Problemática
+
+En un contexto donde la eficiencia operativa y el control de recursos son clave, muchas empresas del sector alimentario aún enfrentan dificultades para gestionar adecuadamente sus inventarios. Negocios como restaurantes, cocinas ocultas, hoteles y supermercados trabajan con productos perecederos que requieren un manejo cuidadoso, pero siguen utilizando métodos manuales o herramientas poco especializadas que dificultan el control preciso de insumos y fechas de caducidad.
+
+Esta situación provoca pérdidas económicas, desperdicio de alimentos y problemas con el cumplimiento de normativas sanitarias. La falta de sistemas centralizados, accesibles y diseñados específicamente para este tipo de establecimientos limita su capacidad para tomar decisiones a tiempo y mantener un flujo operativo eficiente. A su vez, la inversión en soluciones tecnológicas complejas o automatizadas suele estar fuera del alcance de pequeños y medianos negocios.
+
+###### What (¿Qué?)
+
+- En negocios como restaurantes, cocinas ocultas, hoteles y supermercados, la mala gestión de insumos genera mermas, caducidades, sobrecompras y errores operativos que incrementan los costos. InventaTrack ofrece una solución digital: una plataforma web que permite registrar productos con fechas y lotes, recibir alertas de vencimiento y obtener reportes claros de merma y consumo. Todo esto con una herramienta accesible, sencilla y adaptada a la realidad de las PYMEs.
+
+###### Why (¿Por qué?)
+
+- El problema persiste por el uso de sistemas manuales como papel o Excel, que no emiten alertas ni permiten un control eficiente. No existen protocolos estandarizados como FIFO (primero en entrar, primero en salir), ni herramientas para prever compras según demanda real. Además, muchos establecimientos sufren por fallas en la cadena de frío y no cuentan con soluciones digitales asequibles ni adaptadas a su operación diaria.
+
+###### Where (¿Dónde?)
+
+- Las pérdidas ocurren en áreas clave como cámaras frigoríficas, despensas, estaciones de cocina y zonas de recepción de mercadería. Allí se almacenan y procesan los alimentos, y cualquier error repercute directamente en los costos. La aplicación será accesible desde cualquier dispositivo con conexión a Internet, permitiendo el control en tiempo real dentro del propio establecimiento.
+
+###### When (¿Cuándo?)
+
+- Este problema ocurre a diario, pero se intensifica en momentos de alta demanda como fines de semana, feriados o eventos especiales. También empeora ante imprevistos como cortes de energía o fallas en la refrigeración, donde se pierde gran cantidad de productos si no se actúa con rapidez.
+
+###### Who (¿Quiénes?)
+
+- Los principales afectados son administradores, encargados de cocina y almacén, así como los dueños de los negocios, quienes asumen el impacto económico. Todos ellos también serán usuarios directos de la plataforma, desde la toma de decisiones hasta la operación diaria.
+
+###### How (¿Cómo?)
+
+- Las pérdidas se generan por falta de rotación, exceso de compras, errores en porciones y ausencia de información unificada. InventaTrack ayuda a prevenir estos problemas mediante el registro digital de insumos, generación de alertas automáticas y reportes que permiten tomar decisiones basadas en datos reales y actualizados.
+
+###### How Much (¿Cuánto?)
+
+- En Perú, se desperdician cerca de 12,8 millones de toneladas de alimentos al año, y en el sector gastronómico las pérdidas por mermas y errores alcanzan entre el 10 % y 15 % del costo operativo (La República, 2024). La solución implica una inversión inicial accesible y un costo mensual competitivo para hosting y mantenimiento, con posibilidad de escalar a modelos de suscripción accesibles que aseguren la sostenibilidad del sistema.
+
+### 1.2.2 Lean UX Proces
+
+#### 1.2.2.1 Lean UX Problem Statements 
+
+Los negocios que manejan alimentos perecederos, como restaurantes, cocinas ocultas, hoteles y supermercados, enfrentan grandes dificultades para controlar sus inventarios de manera eficiente. Actualmente, la mayoría utiliza métodos manuales, como registros en papel o Excel, que resultan poco confiables y dificultan la gestión adecuada de insumos. Esta situación genera caducidad de productos, mermas operativas y sobrecostos que afectan directamente la rentabilidad y la calidad del servicio.
+
+El problema central es que administradores y encargados de inventarios carecen de una herramienta digital accesible y adaptada a sus necesidades, que les permita registrar insumos, recibir alertas oportunas sobre fechas de vencimiento y generar reportes claros sobre pérdidas y consumo. La ausencia de esta solución contribuye a pérdidas económicas que representan entre el 10 % y el 15 % de los costos operativos, según datos recientes (La República, 2024).
+
+InventaTrack responde a esta necesidad con una plataforma web intuitiva y asequible, diseñada para digitalizar la gestión de inventarios en PYMEs del sector alimentario. Esto facilita la reducción de desperdicios, mejora el control operativo y apoya la toma de decisiones basada en datos confiables.
+
+#### 1.2.2.2 Lean UX Assumptions 
+
+###### ¿Quién es el usuario?
+
+Los usuarios principales de InventaTrack se dividen en dos grupos: por un lado, los usuarios operativos, como administradores, encargados de almacén y personal de cocina que manejan diariamente el inventario y necesitan una herramienta práctica para registrar y controlar los productos. Por otro lado, los usuarios estratégicos, como dueños, gerentes y administradores, que supervisan la operación, analizan reportes y toman decisiones para mejorar la rentabilidad y eficiencia del negocio.
+
+###### ¿Dónde encaja nuestro producto, en su trabajo o en su vida?
+
+InventaTrack se integra en el día a día laboral de los usuarios, siendo una herramienta clave para controlar el stock, evitar desperdicios y cumplir con normas sanitarias. Facilita la gestión desde el almacenamiento hasta la preparación de alimentos, ayudando a mejorar tanto la operación diaria (usuarios operativos) como la supervisión y planificación estratégica (usuarios gerenciales).
+
+###### ¿Qué problema resuelve nuestro producto?
+
+InventaTrack soluciona la falta de control y visibilidad en la gestión de insumos perecederos. Permite registrar productos con fechas de caducidad, recibir alertas oportunas, evitar sobrecompras y generar reportes que apoyan la toma de decisiones para reducir mermas y desperdicios, aportando valor tanto en la operación diaria como en la gestión estratégica del negocio.
+
+###### ¿Cuándo y cómo se utiliza nuestro producto?
+
+La plataforma se utiliza de manera continua durante las operaciones diarias, especialmente en la recepción de mercadería, almacenamiento y preparación. Los usuarios operativos ingresan la información del stock y reciben notificaciones de vencimientos próximos para actuar rápidamente, mientras que los dueños y gerentes consultan reportes y análisis desde cualquier dispositivo con conexión a Internet, facilitando una gestión ágil y basada en datos.
+
+###### ¿Qué características son importantes?
+
+- Registro digital de productos con lotes y fechas de caducidad.  
+- Alertas automáticas sobre productos próximos a vencer o bajo stock.  
+- Reportes de merma, consumo y rotación de inventarios.  
+- Accesibilidad desde dispositivos móviles y computadoras, sin necesidad de hardware adicional.  
+- Interfaz sencilla y amigable que permita a usuarios sin conocimientos técnicos usar la plataforma fácilmente.
+
+###### ¿Cómo debe verse y comportarse nuestro producto?
+
+InventaTrack debe contar con una interfaz clara, intuitiva y profesional que transmita confianza y simplicidad. La navegación debe ser rápida y fácil, con alertas visibles y reportes accesibles. Cada acción debe estar acompañada de mensajes claros que orienten al usuario, minimizando la curva de aprendizaje y facilitando la adopción.
+
+#### 1.2.2.3 Lean UX Hyphotesis Statements
+
+###### Hipótesis 1:
+
+Creemos que al ofrecer una plataforma digital para que los administradores y encargados de cocina registren y monitoreen insumos perecederos, estos podrán reducir significativamente el desperdicio de alimentos y los costos por caducidad y mermas. Esto será posible gracias a alertas automáticas y reportes claros que facilitarán la planificación y control.
+
+**Business Outcome:** Disminución de pérdidas económicas y reducción del 10-15 % en costos operativos relacionados con mermas.  
+**Users:** Administradores y encargados de inventarios en restaurantes, cocinas ocultas, hoteles y supermercados.  
+**User Outcome:** Mejor control y reducción de desperdicios gracias a información en tiempo real.  
+**Feature:** Registro digital de productos, alertas automáticas de vencimiento y reportes de consumo y merma.
+
+###### Hipótesis 2:
+
+Consideramos que si InventaTrack es accesible desde cualquier dispositivo móvil o computadora, sin necesidad de hardware adicional, más PYMEs del sector alimentario adoptarán la plataforma por su facilidad y bajo costo.
+
+**Business Outcome:** Incremento en la cantidad de usuarios activos y mayor penetración en el mercado de PYMEs.  
+**Users:** Propietarios y personal operativo de pequeños y medianos negocios alimentarios.  
+**User Outcome:** Acceso rápido y sencillo a herramientas digitales para gestión de inventarios.  
+**Feature:** Plataforma web responsiva y compatible con diversos dispositivos.
+
+###### Hipótesis 3:
+
+Suponemos que al proporcionar reportes personalizados y fáciles de entender sobre mermas y consumo, los usuarios podrán tomar decisiones basadas en datos, mejorando la eficiencia operativa y optimizando las compras.
+
+**Business Outcome:** Aumento en la precisión de compras y reducción de stock innecesario.  
+**Users:** Administradores y encargados de inventarios.  
+**User Outcome:** Mejor planificación y reducción de costos.  
+**Feature:** Reportes gráficos y exportables sobre consumo y pérdidas.
+
+###### Hipótesis 4:
+
+Creemos que si la interfaz de InventaTrack es intuitiva y fácil de usar, con soporte para usuarios sin experiencia técnica, se incrementará la frecuencia de uso y la satisfacción, asegurando la fidelización y recomendación del producto.
+
+**Business Outcome:** Alta retención de usuarios y crecimiento por recomendaciones.  
+**Users:** Usuarios con diversos niveles de habilidades tecnológicas.  
+**User Outcome:** Experiencia positiva y adopción rápida de la plataforma.  
+**Feature:** Diseño UI/UX sencillo, tutoriales integrados y atención al cliente.
+
+#### 1.2.2.1 Lean UX Canvas 
+
+<img src="assets/UXC.png" width="100%" height="100%">
+
+Enlace para acceder al Lean UX Canvas en Lucid: https://lucid.app/lucidspark/36d6a2ba-61ad-4dd0-8fa3-a39717abc610/edit?viewport_loc=3739%2C-530%2C3453%2C1915%2C0_0&invitationId=inv_0c6eb1f2-8cd0-4635-8ce8-b076390db41e
+
+## 1.3 Segmentos Objetivo
+
+InventaTrack está dirigido a negocios que manejan alimentos perecederos y buscan optimizar la gestión de sus inventarios. Para este proyecto, los usuarios objetivo se agrupan en dos categorías principales, cada una con necesidades y beneficios específicos:
+
+###### Usuarios operativos
+
+Este grupo está compuesto por administradores de almacén, encargados de cocina y personal operativo que utilizan la aplicación diariamente para registrar insumos, monitorear fechas de caducidad y controlar el inventario. Su principal beneficio es la simplificación y agilización de sus tareas, lo que reduce errores y facilita el manejo eficiente del stock.
+
+###### Dueños, gerentes y administradores
+
+Aunque estos usuarios no interactúan diariamente con la plataforma para ingresar datos, acceden regularmente a reportes, análisis y dashboards que les permiten supervisar la operación general. Se benefician al contar con información precisa y actualizada para tomar decisiones estratégicas, controlar costos y mejorar la rentabilidad del negocio.
 
 # Capitulo II: Requirements Elicitation & Analysis
 
@@ -588,7 +749,6 @@ El Lenguaje Ubicuo de InventaTrack define los términos clave que serán utiliza
 | **Cadena de frío**       | Proceso de conservación de alimentos perecederos a temperaturas adecuadas.                  |
 | **Auditoría de inventario** | Proceso de verificación del estado y control de insumos para fines internos o regulatorios. |
 | **Normativa sanitaria**  | Conjunto de reglas y requisitos legales sobre almacenamiento y manipulación de alimentos.   |
-
 
 # Bibliografía
 
