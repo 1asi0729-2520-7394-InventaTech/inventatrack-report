@@ -442,13 +442,21 @@ Link:
 
 ###### Entrevista 6:
 
-**Nombre:** 
-**Edad:** 
-**Distrito:** 
+**Nombre:** Alicia Melgarejo
+**Edad:** 53 años
+**Distrito:** Jesús María
 
-**Resumen de la entrevista:**
+<img src="assets/E3Segmento2.png" width="100%" height="100%">
 
-**Link:**
+**Resumen de la entrevista:** 
+
+Alicia Melgarrejo (53 años), es gerenta de supermercado, explica que gestionan perecibles con un sistema de ventas y Excel, lo que genera errores e incidencias semanales en frutas, verduras y lácteos.
+Las mermas alcanzan un 5% y afectan la rentabilidad.
+El ERP no cuenta con módulo de caducidad, por lo que dependen de reportes manuales.
+Las dificultades principales son la falta de datos precisos y quiebres de stock.
+Consideran útil e invertirían en una herramienta digital que alerte sobre caducidad y stock mínimo.
+
+**Link:** https://upcedupe-my.sharepoint.com/:v:/g/personal/u202215721_upc_edu_pe/ETNwM-BGyQlOlbGLDjrXZWcBSHanyBuV39Fkpwi30BNqOA?e=N6RxmB&
 
 ### 2.2.3. Análisis de entrevistas
 
