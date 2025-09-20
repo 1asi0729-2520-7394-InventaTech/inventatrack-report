@@ -362,23 +362,11 @@ A continuación, se mostrarán los sistemas de navegación que le permitirán a 
 
 El wireframe define la estructura básica de la landing page en bloques principales:
 
-##### Home Wireframe
 
-##### About Us Wireframe
-
-##### Learn More Wireframe
-
-##### Suscribe Wireframe
 
 ### 4.3.1. Landing Page Mock-ups
 
-##### Home Mock-up
-
-##### About Us Mock-up
-
-##### Learn More Mock-up
-
-##### Suscribe Mock-up
+<img src="assets/Mockup-Landing.png" width="100%" height="100%">
 
 ## 4.4. Web Applications UX/UI Design
 
