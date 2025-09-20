@@ -397,7 +397,7 @@ Destacar la especialización en PYMEs y el soporte cercano frente a grandes comp
 
 **Resumen de la entrevista:**
 
-Juan Ramos, gerente de un supermercado, explicó que la gestión de insumos perecibles se apoya en un ERP especializado que controla caducidad, rotación y registros en tiempo real. Aunque el sistema reduce pérdidas, aún enfrentan mermas en frutas, verduras y lácteos debido a la rotación y a la logística de proveedores. Reconoció que las auditorías sanitarias son frecuentes y que la cadena de frío es un punto crítico, especialmente en temporadas de alta demanda.
+Juan Ramos, trabaja en un supermercado, explicó que la gestión de insumos perecibles se apoya en un ERP especializado que controla caducidad, rotación y registros en tiempo real. Aunque el sistema reduce pérdidas, aún enfrentan mermas en frutas, verduras y lácteos debido a la rotación y a la logística de proveedores. Reconoció que las auditorías sanitarias son frecuentes y que la cadena de frío es un punto crítico, especialmente en temporadas de alta demanda.
 
 Señaló que las compras se planifican con datos históricos y proyecciones de consumo, aunque los picos de ventas en campañas festivas complican las estimaciones y generan sobrestock. Estima que las mermas representan entre el 2% y el 3% de los costos totales.
 
@@ -415,7 +415,7 @@ Considera indispensable que una solución digital ofrezca alertas predictivas, r
 
 **Resumen de la entrevista:**
 
-Leslie Kasimiro, dueña de un restaurante de mariscos, explicó que el control de insumos aún es manual y depende de Excel, lo que genera pérdidas recurrentes, sobre todo en pescados y mariscos. Reconoció que las auditorías sanitarias señalan mejoras en almacenamiento y que la rotación FIFO no siempre se cumple. Los fines de semana son un reto para mantener el orden en el stock, y gran parte del sobrestock proviene de compras poco planificadas. Estima que las mermas representan hasta el 10% de sus costos. Considera indispensable una aplicación que dé alertas de caducidad y reportes claros, y estaría dispuesta a invertir en ella si demuestra eficiencia.
+Leslie Kasimiro, trabaja en un restaurante de mariscos, explicó que el control de insumos aún es manual y depende de Excel, lo que genera pérdidas recurrentes, sobre todo en pescados y mariscos. Reconoció que las auditorías sanitarias señalan mejoras en almacenamiento y que la rotación FIFO no siempre se cumple. Los fines de semana son un reto para mantener el orden en el stock, y gran parte del sobrestock proviene de compras poco planificadas. Estima que las mermas representan hasta el 10% de sus costos. Considera indispensable una aplicación que dé alertas de caducidad y reportes claros, y estaría dispuesta a invertir en ella si demuestra eficiencia.
 
 **Link:** https://upcedupe-my.sharepoint.com/:v:/g/personal/u202117303_upc_edu_pe/EfRQiGPXFhVHsr0R3qoONzkBuGHyGSrPXtAa5w41rQXYXw?e=CYieEb&
 
