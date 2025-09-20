@@ -189,27 +189,26 @@ Las guías de estilo son fundamentales para asegurar una comunicación clara, co
 
 A continuación, se detallan los aspectos clave de este enfoque de diseño.
 
-## 4.1.1 Gereral Style Guidelines
+## 4.1.1 General Style Guidelines
 
-**Branding:**
+**Branding:**  
+El branding de **InventaTrack** busca transmitir modernidad, confiabilidad y eficiencia en la gestión de inventarios de alimentos. La identidad visual combina colores frescos y contrastantes que reflejan **tecnología** (azules), **sostenibilidad** (verdes) y **alerta ante riesgos** (amarillos/naranjas). Su propósito es generar confianza en usuarios operativos y gerenciales, asegurando una comunicación clara y profesional en cada punto de contacto.  
 
+**Brand Name:**  
+**InventaTrack** – El nombre combina “Inventario” y “Track” (seguimiento), resaltando el objetivo principal del producto: **control y trazabilidad de insumos de manera ágil y digital**.  
 
+**Typography:**  
+La tipografía organiza el lenguaje visual de las plataformas, garantizando legibilidad y mejorando la experiencia del usuario. Por ello, se eligieron familias tipográficas modernas, sans-serif, ampliamente utilizadas en interfaces digitales y compatibles con navegadores.  
 
-**Brand Name:**
+**Head:**  
+**Poppins Bold / 24–32 px / #2563eb (Primary)**  
+- Usado en títulos, encabezados de secciones y nombres de páginas.  
+- Transmite claridad y jerarquía, resaltando lo más importante en la interfaz.  
 
-
-
-**Typography:**
-
-La tipografía organiza el lenguaje visual de las plataformas, garantizando legibilidad y mejorando la experiencia del usuario. Por eso, se eligieron estos tipos de letra.
-
-
-
-**Head:**
-
-
-
-**Body:**
+**Body:**  
+**Roboto Regular / 14–16 px / #1f2937 (Text Dark)**  
+- Usado en párrafos, formularios, descripciones y tablas.  
+- Priorizamos la legibilidad en pantallas largas y reportes.  
 
 
 
