@@ -32,29 +32,28 @@
 |    Joan Fernando Teves Samaniego     | U202117303 |
 |      Antonio Rodrigo Duran Díaz      | U202215721 |
 |     Daiki Oscar Oshiro Yamashita     | U20201f846 |
+
 <h3 align="center">Septiembre, 2025</h3>
 
 <div style="page-break-after: always;"></div>
 
-
 ## Registro de Versiones del Informe
 
-| Versión | Fecha | Autor | Descripción de modificación |
-| :-------: | :---------: | :----------------: | :----------------------:|
-|TB1|15/09/25|Gonzalo Carhuancote, Juan Carlos Alvarado, Joan Teves, Antonio Duran, Daiki Oshiro|Para esta primera entrega, realizamos los primeros 5 capítulos del informe y desarrollamos la primera versión del landing page|
-
+| Versión |  Fecha   |                                       Autor                                        |                                                  Descripción de modificación                                                   |
+| :-----: | :------: | :--------------------------------------------------------------------------------: | :----------------------------------------------------------------------------------------------------------------------------: |
+|   TB1   | 15/09/25 | Gonzalo Carhuancote, Juan Carlos Alvarado, Joan Teves, Antonio Duran, Daiki Oshiro | Para esta primera entrega, realizamos los primeros 5 capítulos del informe y desarrollamos la primera versión del landing page |
 
 ## Project Report Collaboration Insights
 
 A continuación, se detallan los repositorios utilizados a lo largo del proyecto:
 
-#### Link del repositorio del Reporte: 
+#### Link del repositorio del Reporte:
 
--  https://github.com/1asi0729-2520-7394-InventaTech/inventatrack-report
+- https://github.com/1asi0729-2520-7394-InventaTech/inventatrack-report
 
-#### Link del repositorio de la Landing Page: 
+#### Link del repositorio de la Landing Page:
 
--
+- https://github.com/1asi0729-2520-7394-InventaTech/inventatrack-website
 
 ### Entrega TB1:
 
@@ -62,9 +61,9 @@ Durante esta entrega se elaboraron los capítulos 1 al 5 del informe. La redacci
 
 ##### Participación por integrante:
 
-- Gonzalo Alonso Carhuancote Dominguez:
+- Gonzalo Alonso Carhuancote Dominguez: Desarrollo de los capitulos 1, 2 y landing page.
 
-- Juan Carlos Alvarado de la Cruz:
+- Juan Carlos Alvarado de la Cruz: Desarrollo de los capitulos 1 y 4.
 
 - Joan Fernando Teves Samaniego:
 
@@ -87,86 +86,86 @@ Durante esta entrega se elaboraron los capítulos 1 al 5 del informe. La redacci
 - [Student Outcome](#student-outcome-1)
 
 - [Capítulo I: Introducción](#capitulo-i-introduccion)
-    - [1.1. StartUp Profile](#11-startup-profile)
-        - [1.1.1. Descripción de la StartUp](#111-descripción-de-la-startup)
-        - [1.1.2. Perfiles de Integrantes del equipo](#112-perfiles-de-integrantes-del-equipo)
-    - [1.2. Solution Profile](#12-solution-profile)
-        - [1.2.1. Antecedentes y Problemática](#121-antecedentes-y-problemática)
-        - [1.2.2. Lean UX Process](#122-lean-ux-process)
-            - [1.2.2.1. Lean UX Problem Statements](#1221-lean-ux-problem-statements)
-            - [1.2.2.2. Lean UX Assumptions](#1222-lean-ux-assumptions)
-            - [1.2.2.3. Lean UX Hyphotesis Statements](#1223-lean-ux-hyphotesis-statements)
-            - [1.2.2.4. Lean UX Canvas](#1224-lean-ux-canvas)
-    - [1.3. Segmentos objetivo](#13-segmentos-objetivo)
+  - [1.1. StartUp Profile](#11-startup-profile)
+    - [1.1.1. Descripción de la StartUp](#111-descripción-de-la-startup)
+    - [1.1.2. Perfiles de Integrantes del equipo](#112-perfiles-de-integrantes-del-equipo)
+  - [1.2. Solution Profile](#12-solution-profile)
+    - [1.2.1. Antecedentes y Problemática](#121-antecedentes-y-problemática)
+    - [1.2.2. Lean UX Process](#122-lean-ux-process)
+      - [1.2.2.1. Lean UX Problem Statements](#1221-lean-ux-problem-statements)
+      - [1.2.2.2. Lean UX Assumptions](#1222-lean-ux-assumptions)
+      - [1.2.2.3. Lean UX Hyphotesis Statements](#1223-lean-ux-hyphotesis-statements)
+      - [1.2.2.4. Lean UX Canvas](#1224-lean-ux-canvas)
+  - [1.3. Segmentos objetivo](#13-segmentos-objetivo)
 - [Capítulo II: Requirements Elicitation & Analysis]()
-    - [2.1. Competidores](#21-competidores)
-        - [2.1.1. Análisis competitivo](#211-análisis-competitivo)
-        - [2.1.2. Estrategias y tácticas frente a competidores](#212-estrategias-y-tácticas-frente-a-competidores)
-    - [2.2. Entrevistas](#22-entrevistas)
-        - [2.2.1. Diseño de entrevistas](#221-diseño-de-entrevistas)
-        - [2.2.2. Registro de entrevistas](#222-registro-de-entrevistas)
-        - [2.2.3. Análisis de entrevistas](#223-análisis-de-entrevistas)
-    - [2.3. Needfinding](#23-needfinding)
-        - [2.3.1. User Persona](#231-user-persona)
-        - [2.3.2. User Task Matrix](#232-user-task-matrix)
-        - [2.3.3. User Journey Mapping](#233-user-journey-mapping)
-        - [2.3.4. Empathy Mapping](#234-empathy-mapping)
-    - [2.4 Big Picture Event Storming](#24-big-picture-event-storming)
-    - [2.5 Ubiquitous Language](#25-ubiquitous-language)
+  - [2.1. Competidores](#21-competidores)
+    - [2.1.1. Análisis competitivo](#211-análisis-competitivo)
+    - [2.1.2. Estrategias y tácticas frente a competidores](#212-estrategias-y-tácticas-frente-a-competidores)
+  - [2.2. Entrevistas](#22-entrevistas)
+    - [2.2.1. Diseño de entrevistas](#221-diseño-de-entrevistas)
+    - [2.2.2. Registro de entrevistas](#222-registro-de-entrevistas)
+    - [2.2.3. Análisis de entrevistas](#223-análisis-de-entrevistas)
+  - [2.3. Needfinding](#23-needfinding)
+    - [2.3.1. User Persona](#231-user-persona)
+    - [2.3.2. User Task Matrix](#232-user-task-matrix)
+    - [2.3.3. User Journey Mapping](#233-user-journey-mapping)
+    - [2.3.4. Empathy Mapping](#234-empathy-mapping)
+  - [2.4 Big Picture Event Storming](#24-big-picture-event-storming)
+  - [2.5 Ubiquitous Language](#25-ubiquitous-language)
 - [Capítulo III: Requirements Specification]()
-    - [3.1. User Stories](#31-user-stories)
-    - [3.2. Impact Mapping](#32-impact-mapping)
-    - [3.3. Product Backlog](#33-product-backlog)
+  - [3.1. User Stories](#31-user-stories)
+  - [3.2. Impact Mapping](#32-impact-mapping)
+  - [3.3. Product Backlog](#33-product-backlog)
 - [Capítulo IV: Product Design]()
-    - [4.1. Style Guidelines](#41-style-guidelines)
-        - [4.1.1. General Style Guidelines](#411-general-style-guidelines)
-        - [4.1.2. Web Style Guidelines](#412-web-style-guidelines)
-    - [4.2. Information Architecture](#42-information-architecture)
-        - [4.2.1. Organization Systems](#421-organization-systems)
-        - [4.2.2. Labeling Systems](#422-labeling-systems)
-        - [4.2.3. SEO Tags and Meta Tags](#423-seo-tags-and-meta-tags)
-        - [4.2.4. Searching Systems](#424-searching-systems)
-        - [4.2.5. Navigation Systems](#425-navigation-systems)
-    - [4.3. Landing Page UI Design](#43-landing-page-ui-design)
-        - [4.3.1. Landing Page Wireframe](#431-landing-page-wireframe)
-        - [4.3.2. Landing Page Mock-up](#432-landing-page-mock-up)
-    - [4.4. Web Applications UX/UI Design](#44-web-applications-uxui-design)
-        - [4.4.1. Web Applications Wireframes](#441-web-applications-wireframes)
-        - [4.4.2. Web Applications Wireflow Diagrams](#442-web-applications-wireflow-diagrams)
-        - [4.4.3. Web Applications Mock-ups](#443-web-applications-mock-ups)
-        - [4.4.4. Web Applications User Flow Diagrams](#444-web-applications-user-flow-diagrams)
-    - [4.5. Web Applications Prototyping](#45-web-applications-prototyping)
-    - [4.6. Domain-Driven Software Architecture](#46-domain-driven-software-architecture)
-        - [4.6.1. Design-Level Event Storming](#461-design-level-event-storming)
-        - [4.6.2. Software Architecture Context Diagram](#462-software-architecture-context-diagram)
-        - [4.6.3. Software Architecture Container Diagrams](#463-software-architecture-container-diagrams)
-        - [4.6.4. Software Architecture Components Diagrams](#464-software-architecture-components-diagrams)
-    - [4.7. Software Object-Oriented Design](#47-software-object-oriented-design)
-        - [4.7.1. Class Diagrams](#471-class-diagrams)
-    - [4.8. Database Design](#48-database-design)
-        - [4.8.1. Database Diagram](#481-database-diagram)
+  - [4.1. Style Guidelines](#41-style-guidelines)
+    - [4.1.1. General Style Guidelines](#411-general-style-guidelines)
+    - [4.1.2. Web Style Guidelines](#412-web-style-guidelines)
+  - [4.2. Information Architecture](#42-information-architecture)
+    - [4.2.1. Organization Systems](#421-organization-systems)
+    - [4.2.2. Labeling Systems](#422-labeling-systems)
+    - [4.2.3. SEO Tags and Meta Tags](#423-seo-tags-and-meta-tags)
+    - [4.2.4. Searching Systems](#424-searching-systems)
+    - [4.2.5. Navigation Systems](#425-navigation-systems)
+  - [4.3. Landing Page UI Design](#43-landing-page-ui-design)
+    - [4.3.1. Landing Page Wireframe](#431-landing-page-wireframe)
+    - [4.3.2. Landing Page Mock-up](#432-landing-page-mock-up)
+  - [4.4. Web Applications UX/UI Design](#44-web-applications-uxui-design)
+    - [4.4.1. Web Applications Wireframes](#441-web-applications-wireframes)
+    - [4.4.2. Web Applications Wireflow Diagrams](#442-web-applications-wireflow-diagrams)
+    - [4.4.3. Web Applications Mock-ups](#443-web-applications-mock-ups)
+    - [4.4.4. Web Applications User Flow Diagrams](#444-web-applications-user-flow-diagrams)
+  - [4.5. Web Applications Prototyping](#45-web-applications-prototyping)
+  - [4.6. Domain-Driven Software Architecture](#46-domain-driven-software-architecture)
+    - [4.6.1. Design-Level Event Storming](#461-design-level-event-storming)
+    - [4.6.2. Software Architecture Context Diagram](#462-software-architecture-context-diagram)
+    - [4.6.3. Software Architecture Container Diagrams](#463-software-architecture-container-diagrams)
+    - [4.6.4. Software Architecture Components Diagrams](#464-software-architecture-components-diagrams)
+  - [4.7. Software Object-Oriented Design](#47-software-object-oriented-design)
+    - [4.7.1. Class Diagrams](#471-class-diagrams)
+  - [4.8. Database Design](#48-database-design)
+    - [4.8.1. Database Diagram](#481-database-diagram)
 - [Capítulo V: Product Implementation, Validation & Deployment]()
-    - [5.1. Software Configuration Management](#51-software-configuration-management)
-        - [5.1.1. Software Development Environment Configuration](#511-software-development-environment-configuration)
-        - [5.1.2. Source Code Management](#512-source-code-management)
-        - [5.1.3. Source Code Style Guide & Conventions](#513-source-code-style-guide--conventions)
-        - [5.1.4. Software Deployment Configuration](#514-software-deployment-configuration)
-    - [5.2. Landing Page, Services & Applications Implementation](#52-landing-page-services--applications-implementation)
-        - [5.2.1. Sprint 1](#521-sprint-1)
-            - [5.2.1.1. Sprint Planning 1](#5211-sprint-planning-1)
-            - [5.2.1.3. Sprint Backlog 1](#5213-sprint-backlog-1)
-            - [5.2.1.4. Development Evidence for Sprint Review](#5214-development-evidence-for-sprint-review)
-            - [5.2.1.5. Execution Evidence for Sprint Review](#5215-execution-evidence-for-sprint-review)
-            - [5.2.1.6. Services Documentation Evidence for Sprint Review](#5216-services-documentation-evidence-for-sprint-review)
-            - [5.2.1.7. Software Deployment Evidence for Sprint Review](#5217-software-deployment-evidence-for-sprint-review)
-            - [5.2.1.8. Team Collaboration Insights during Sprint](#5218-team-collaboration-insights-during-sprint)
-    - [5.3. Validation Interviews]()
-        - [5.3.1. Diseño de Entrevistas](#531-diseño-de-entrevistas)
-        - [5.3.2. Registro de Entrevistas](#532-registro-de-entrevistas)
-        - [5.3.3. Evaluaciones según heuristicas](#533-evaluaciones-segun-heuristicas)
-    - [5.4. Video About-the-Product](#54-video-about-the-product)
+  - [5.1. Software Configuration Management](#51-software-configuration-management)
+    - [5.1.1. Software Development Environment Configuration](#511-software-development-environment-configuration)
+    - [5.1.2. Source Code Management](#512-source-code-management)
+    - [5.1.3. Source Code Style Guide & Conventions](#513-source-code-style-guide--conventions)
+    - [5.1.4. Software Deployment Configuration](#514-software-deployment-configuration)
+  - [5.2. Landing Page, Services & Applications Implementation](#52-landing-page-services--applications-implementation)
+    - [5.2.1. Sprint 1](#521-sprint-1)
+      - [5.2.1.1. Sprint Planning 1](#5211-sprint-planning-1)
+      - [5.2.1.3. Sprint Backlog 1](#5213-sprint-backlog-1)
+      - [5.2.1.4. Development Evidence for Sprint Review](#5214-development-evidence-for-sprint-review)
+      - [5.2.1.5. Execution Evidence for Sprint Review](#5215-execution-evidence-for-sprint-review)
+      - [5.2.1.6. Services Documentation Evidence for Sprint Review](#5216-services-documentation-evidence-for-sprint-review)
+      - [5.2.1.7. Software Deployment Evidence for Sprint Review](#5217-software-deployment-evidence-for-sprint-review)
+      - [5.2.1.8. Team Collaboration Insights during Sprint](#5218-team-collaboration-insights-during-sprint)
+  - [5.3. Validation Interviews]()
+    - [5.3.1. Diseño de Entrevistas](#531-diseño-de-entrevistas)
+    - [5.3.2. Registro de Entrevistas](#532-registro-de-entrevistas)
+    - [5.3.3. Evaluaciones según heuristicas](#533-evaluaciones-segun-heuristicas)
+  - [5.4. Video About-the-Product](#54-video-about-the-product)
 - [Conclusiones](#conclusiones)
-    - [Conclusiones y recomendaciones](#conclusiones-y-recomendaciones)
+  - [Conclusiones y recomendaciones](#conclusiones-y-recomendaciones)
 - [Bibliografía](#bibliografía)
 - [Anexos](#anexos)
 
@@ -174,10 +173,11 @@ Durante esta entrega se elaboraron los capítulos 1 al 5 del informe. La redacci
 
 Objetivo general, ABET – EAC - Student Outcome 3: Capacidad de comunicarse efectivamente con un rango de audiencias.
 
-| **Criterio específico** | **Acciones realizadas** | **Conclusiones** |
-|-------------------------|--------------------------|------------------|
-| **Comunica oralmente con efectividad a diferentes rangos de audiencia** | Gonzalo Alonso Carhuancote Dominguez <br>**TB1**: <br> Juan Carlos Alvarado de la Cruz <br>**TB1**:Expliqué ideas de diseño y navegación del prototipo en Figma de forma clara a mi equipo y adapté el lenguaje técnico en las reuniones con el docente. <br> Joan Fernando Teves Samaniego <br>**TB1**: <br> Antonio Rodrigo Duran Díaz <br>**TB1**: <br> Daiki Oscar Oshiro Yamashita <br>**TB1**: Participé constantemente en las reuniones programadas que realizamos con el fin de coordinar avances e informar el progreso del trabajo. <br> | Gonzalo Alonso Carhuancote Dominguez <br>**TB1**: <br> Juan Carlos Alvarado de la Cruz <br>**TB1**:Logré transmitir mis aportes de manera comprensible y útil para distintos públicos. <br> Joan Fernando Teves Samaniego <br>**TB1**: <br> Antonio Rodrigo Duran Díaz <br>**TB1**: <br> Daiki Oscar Oshiro Yamashita <br>**TB1**: La efectiva comunicación entre los miembros del equipo facilitó el logro de los objetivos planteados en esta fase inicial. <br> |
-| **Comunica por escrito con efectividad a diferentes rangos de audiencia** | Gonzalo Alonso Carhuancote Dominguez <br>**TB1**: <br> Juan Carlos Alvarado de la Cruz <br>**TB1**:Redacté secciones del informe con un estilo formal y claro, y utilicé mensajes breves en GitHub para la colaboración técnica del equipo. <br> Joan Fernando Teves Samaniego <br>**TB1**: <br> Antonio Rodrigo Duran Díaz <br>**TB1**: <br> Daiki Oscar Oshiro Yamashita <br>**TB1**: Contribuí principalmente al desarrollo de los capítulos 2 y 3, así como a partes de los capítulos 4 y 5. <br> | Gonzalo Alonso Carhuancote Dominguez <br>**TB1**: <br> Juan Carlos Alvarado de la Cruz <br>**TB1**:Mi comunicación escrita se adaptó exitosamente tanto al entorno académico como al técnico. <br> Joan Fernando Teves Samaniego <br>**TB1**: <br> Antonio Rodrigo Duran Díaz <br>**TB1**: <br> Daiki Oscar Oshiro Yamashita <br>**TB1**: La contribución en la elaboración del texto facilitó un desarrollo significativo en los capítulos correspondientes. <br> |
+| **Criterio específico**                                                   | **Acciones realizadas**                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                    | **Conclusiones**                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                |
+| ------------------------------------------------------------------------- | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| **Comunica oralmente con efectividad a diferentes rangos de audiencia**   | Gonzalo Alonso Carhuancote Dominguez <br>**TB1**: Expliqué InventaTrack en reuniones y entrevistas, ajustando el lenguaje según si la audiencia era técnica o de negocio. <br> Juan Carlos Alvarado de la Cruz <br>**TB1**:Expliqué ideas de diseño y navegación del prototipo en Figma de forma clara a mi equipo y adapté el lenguaje técnico en las reuniones con el docente. <br> Joan Fernando Teves Samaniego <br>**TB1**: <br> Antonio Rodrigo Duran Díaz <br>**TB1**: <br> Daiki Oscar Oshiro Yamashita <br>**TB1**: Participé constantemente en las reuniones programadas que realizamos con el fin de coordinar avances e informar el progreso del trabajo. <br> | Gonzalo Alonso Carhuancote Dominguez <br>**TB1**: Logré transmitir las ideas con claridad y generar retroalimentación útil para mejorar el proyecto. <br> Juan Carlos Alvarado de la Cruz <br>**TB1**:Logré transmitir mis aportes de manera comprensible y útil para distintos públicos. <br> Joan Fernando Teves Samaniego <br>**TB1**: <br> Antonio Rodrigo Duran Díaz <br>**TB1**: <br> Daiki Oscar Oshiro Yamashita <br>**TB1**: La efectiva comunicación entre los miembros del equipo facilitó el logro de los objetivos planteados en esta fase inicial. <br>           |
+| **Comunica por escrito con efectividad a diferentes rangos de audiencia** | Gonzalo Alonso Carhuancote Dominguez <br>**TB1**: Redacté entrevistas, resúmenes y análisis con un estilo adaptado a cada tipo de lector. <br> Juan Carlos Alvarado de la Cruz <br>**TB1**:Redacté secciones del informe con un estilo formal y claro, y utilicé mensajes breves en GitHub para la colaboración técnica del equipo. <br> Joan Fernando Teves Samaniego <br>**TB1**: <br> Antonio Rodrigo Duran Díaz <br>**TB1**: <br> Daiki Oscar Oshiro Yamashita <br>**TB1**: Contribuí principalmente al desarrollo de los capítulos 2 y 3, así como a partes de los capítulos 4 y 5. <br>                                                                              | Gonzalo Alonso Carhuancote Dominguez <br>**TB1**: La escritura clara y precisa facilitó la comprensión del proyecto y fortaleció la confianza en la propuesta. <br> Juan Carlos Alvarado de la Cruz <br>**TB1**:Mi comunicación escrita se adaptó exitosamente tanto al entorno académico como al técnico. <br> Joan Fernando Teves Samaniego <br>**TB1**: <br> Antonio Rodrigo Duran Díaz <br>**TB1**: <br> Daiki Oscar Oshiro Yamashita <br>**TB1**: La contribución en la elaboración del texto facilitó un desarrollo significativo en los capítulos correspondientes. <br> |
+
 <div style="page-break-after: always;"></div>
 
 <div style="page-break-after: always;"></div>
@@ -193,22 +193,26 @@ InventaTrack surge al identificar un problema común en muchos negocios que trab
 Muchos negocios de este sector no pueden o no quieren invertir en sensores, cámaras o sistemas automáticos costosos. Por eso, nuestra solución simple, eficiente y digital es una plataforma web que permite registrar productos, controlar fechas de caducidad, recibir alertas cuando hay poco stock o algún insumo está por vencer, y hacer seguimiento de todo con reportes fáciles de entender.
 
 ---
+
 ## Misión
+
 Nuestra misión es digitalizar la gestión de inventario alimentario para que cualquier negocio, sin importar su tamaño, pueda reducir pérdidas, evitar desperdicios y tener un mejor control de sus insumos de forma práctica y accesible.
 
 ---
+
 ## Visión
+
 Queremos que InventaTrack sea la herramienta número uno preferida para la gestión inteligente de inventarios en negocios que trabajan con alimentos. Buscamos que más empresas puedan dejar el papel y Excel, y empiecen a gestionar su stock de forma más moderna, eficiente y segura.
 
 ### 1.1.2. Perfiles de integrantes del equipo
 
-|    Nombre Completo del integrante   | Descripcion de Carrera | Fotografía | Conocimientos y Habilidades a apuntar|
-| ------------------------------------| ---------------------- | ---------- | ------------------------------------ |
-| Gonzalo Alonso Carhuancote Dominguez| Ingenieria de Software <br>Universiad Peruana de Ciencias Aplicadas | ![Gonzalo Alonso](./assets/foto%20Gonzalo.jpg) | Tengo 20 años, estudio la carrera de ingeniería de software en la UPC. En mis tiempos libres estudio, juego videojuegos y me informo del mundo actual y moderno. Me apasiona la tecnología y manejo lenguajes como C++, Java, Typescript y Python. |
-| Juan Carlos Alvarado de la Cruz| Ingenieria de Software <br>Universiad Peruana de Ciencias Aplicadas| <img src="assets/foto_juan.png" width="100%" height="100%">|Soy Juan Carlos Alvarado, soy estudiante de la carrera de Ing. de Software. Me gusta resolver problemas y aprender cosas que son de mi interés, tengo experiencia programando en C++ y en Python.
-| Joan Fernando Teves Samaniego| Ingenieria de Software <br>Universiad Peruana de Ciencias Aplicadas | ![Joan Fernando](./assets/foto%20joan.jpg) | Tengo 22 años estoy estudiando actualmente en la Univeridad Peruana de Ciencias Aplicadas. Tengo interes por el mundo de la cibersegurirdad y el primer paso es enteder al derecho y al revez las aplicaciones web , se c++ , javascript , html , css , mongodb ,sql , sqlserver , posgresql,python, soy creativo , responsable , trabajo en equipo , me gusta resolver problemas   me adaptofacilmente y gestiono muy bien mi tiempo.Espero que en este proyecto pueda incrementar mis habilidades y conocimiento sobre las aplicaciones web y demas . |
-| Antonio Rodrigo Duran Díaz| Ingenieria de Software <br>Universiad Peruana de Ciencias Aplicadas | ![Antonio Rodrigo](./assets/foto%20Antonio.jpg)  | Soy estudiante de la carrera de Ingeniería de Software en la Universidad Peruana de Ciencias Aplicadas y tengo 20 años. Estoy avanzando en mi formación académica y reforzando mis conocimientos en los diferentes temas relacionados con la creación de software. Durante mis estudios me ha gustado trabajar con gestores de bases de datos, en especial con SQL Server y MongoDB. En este proyecto espero seguir mejorando mis habilidades y conocimientos, además de lograr un buen desempeño en el trabajo grupal. |
-| Daiki Oscar Oshiro Yamashita| Ingenieria de Software <br>Universiad Peruana de Ciencias Aplicadas | <img src="assets/Daiki.png" alt="Daiki" width="120" height="120"> | Soy estudiante de la carrera de Ingeniería de Software. Tengo interés en obtener nuevos conocimientos relacionados con mi carrera que me sean de utilidad para el futuro. |
+| Nombre Completo del integrante       | Descripcion de Carrera                                              | Fotografía                                                        | Conocimientos y Habilidades a apuntar                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                 |
+| ------------------------------------ | ------------------------------------------------------------------- | ----------------------------------------------------------------- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| Gonzalo Alonso Carhuancote Dominguez | Ingenieria de Software <br>Universiad Peruana de Ciencias Aplicadas | ![Gonzalo Alonso](./assets/foto%20Gonzalo.jpg)                    | Tengo 20 años, estudio la carrera de ingeniería de software en la UPC. En mis tiempos libres estudio, juego videojuegos y me informo del mundo actual y moderno. Me apasiona la tecnología y manejo lenguajes como C++, Java, Typescript y Python.                                                                                                                                                                                                                                                                                                    |
+| Juan Carlos Alvarado de la Cruz      | Ingenieria de Software <br>Universiad Peruana de Ciencias Aplicadas | <img src="assets/foto_juan.png" width="100%" height="100%">       | Soy Juan Carlos Alvarado, soy estudiante de la carrera de Ing. de Software. Me gusta resolver problemas y aprender cosas que son de mi interés, tengo experiencia programando en C++ y en Python.                                                                                                                                                                                                                                                                                                                                                     |
+| Joan Fernando Teves Samaniego        | Ingenieria de Software <br>Universiad Peruana de Ciencias Aplicadas | ![Joan Fernando](./assets/foto%20joan.jpg)                        | Tengo 22 años estoy estudiando actualmente en la Univeridad Peruana de Ciencias Aplicadas. Tengo interes por el mundo de la cibersegurirdad y el primer paso es enteder al derecho y al revez las aplicaciones web , se c++ , javascript , html , css , mongodb ,sql , sqlserver , posgresql,python, soy creativo , responsable , trabajo en equipo , me gusta resolver problemas me adaptofacilmente y gestiono muy bien mi tiempo.Espero que en este proyecto pueda incrementar mis habilidades y conocimiento sobre las aplicaciones web y demas . |
+| Antonio Rodrigo Duran Díaz           | Ingenieria de Software <br>Universiad Peruana de Ciencias Aplicadas | ![Antonio Rodrigo](./assets/foto%20Antonio.jpg)                   | Soy estudiante de la carrera de Ingeniería de Software en la Universidad Peruana de Ciencias Aplicadas y tengo 20 años. Estoy avanzando en mi formación académica y reforzando mis conocimientos en los diferentes temas relacionados con la creación de software. Durante mis estudios me ha gustado trabajar con gestores de bases de datos, en especial con SQL Server y MongoDB. En este proyecto espero seguir mejorando mis habilidades y conocimientos, además de lograr un buen desempeño en el trabajo grupal.                               |
+| Daiki Oscar Oshiro Yamashita         | Ingenieria de Software <br>Universiad Peruana de Ciencias Aplicadas | <img src="assets/Daiki.png" alt="Daiki" width="120" height="120"> | Soy estudiante de la carrera de Ingeniería de Software. Tengo interés en obtener nuevos conocimientos relacionados con mi carrera que me sean de utilidad para el futuro.                                                                                                                                                                                                                                                                                                                                                                             |
 
 ## 1.2. Solution Profile
 
@@ -248,7 +252,7 @@ Esta situación provoca pérdidas económicas, desperdicio de alimentos y proble
 
 ### 1.2.2 Lean UX Proces
 
-#### 1.2.2.1 Lean UX Problem Statements 
+#### 1.2.2.1 Lean UX Problem Statements
 
 Los negocios que manejan alimentos perecederos, como restaurantes, cocinas ocultas, hoteles y supermercados, enfrentan grandes dificultades para controlar sus inventarios de manera eficiente. Actualmente, la mayoría utiliza métodos manuales, como registros en papel o Excel, que resultan poco confiables y dificultan la gestión adecuada de insumos. Esta situación genera caducidad de productos, mermas operativas y sobrecostos que afectan directamente la rentabilidad y la calidad del servicio.
 
@@ -256,7 +260,7 @@ El problema central es que administradores y encargados de inventarios carecen d
 
 InventaTrack responde a esta necesidad con una plataforma web intuitiva y asequible, diseñada para digitalizar la gestión de inventarios en PYMEs del sector alimentario. Esto facilita la reducción de desperdicios, mejora el control operativo y apoya la toma de decisiones basada en datos confiables.
 
-#### 1.2.2.2 Lean UX Assumptions 
+#### 1.2.2.2 Lean UX Assumptions
 
 ###### ¿Quién es el usuario?
 
@@ -276,10 +280,10 @@ La plataforma se utiliza de manera continua durante las operaciones diarias, esp
 
 ###### ¿Qué características son importantes?
 
-- Registro digital de productos con lotes y fechas de caducidad.  
-- Alertas automáticas sobre productos próximos a vencer o bajo stock.  
-- Reportes de merma, consumo y rotación de inventarios.  
-- Accesibilidad desde dispositivos móviles y computadoras, sin necesidad de hardware adicional.  
+- Registro digital de productos con lotes y fechas de caducidad.
+- Alertas automáticas sobre productos próximos a vencer o bajo stock.
+- Reportes de merma, consumo y rotación de inventarios.
+- Accesibilidad desde dispositivos móviles y computadoras, sin necesidad de hardware adicional.
 - Interfaz sencilla y amigable que permita a usuarios sin conocimientos técnicos usar la plataforma fácilmente.
 
 ###### ¿Cómo debe verse y comportarse nuestro producto?
@@ -324,7 +328,7 @@ Creemos que si la interfaz de InventaTrack es intuitiva y fácil de usar, con so
 **User Outcome:** Experiencia positiva y adopción rápida de la plataforma.  
 **Feature:** Diseño UI/UX sencillo, tutoriales integrados y atención al cliente.
 
-#### 1.2.2.1 Lean UX Canvas 
+#### 1.2.2.1 Lean UX Canvas
 
 <img src="assets/UXC.png" width="100%" height="100%">
 
@@ -465,15 +469,15 @@ A continuación se muestran las tácticas que deberá aplicar nuestra startup pa
 
 Diferenciar InventaTrack como la plataforma más accesible y amigable para PYMEs, con un enfoque en reducir desperdicios y simplificar la gestión de inventarios perecederos.
 
-**Tácticas**  
+**Tácticas**
 
-- **Comunicar la facilidad de uso:** Resaltar en campañas y demos que la plataforma requiere poca capacitación, ideal para PYMEs con recursos limitados.  
-- **Soporte personalizado:** Implementar asesorías y tutoriales adaptados para cada tipo de negocio pequeño o mediano.  
+- **Comunicar la facilidad de uso:** Resaltar en campañas y demos que la plataforma requiere poca capacitación, ideal para PYMEs con recursos limitados.
+- **Soporte personalizado:** Implementar asesorías y tutoriales adaptados para cada tipo de negocio pequeño o mediano.
 - **Testimonios y casos de éxito:** Publicar historias reales que evidencien cómo InventaTrack ayudó a reducir mermas y ahorrar costos.
 
 **Valor Añadido**
 
-- Genera confianza y comodidad en usuarios que no son expertos tecnológicos.  
+- Genera confianza y comodidad en usuarios que no son expertos tecnológicos.
 - Incrementa la adopción y permanencia del cliente.
 
 ###### 2. Aprovechar la Oportunidad: Crecimiento de Digitalización en PYMEs Alimentarias
@@ -484,13 +488,13 @@ Posicionar a InventaTrack como la solución clave para que las PYMEs del sector 
 
 **Tácticas**
 
-- **Campañas educativas y contenido:** Crear webinars, blogs y videos sobre los beneficios de digitalizar la gestión de inventarios y cómo InventaTrack facilita este proceso.  
-- **Alianzas estratégicas:** Colaborar con cámaras de comercio, asociaciones de PYMEs y proveedores de alimentos para promover la plataforma.  
+- **Campañas educativas y contenido:** Crear webinars, blogs y videos sobre los beneficios de digitalizar la gestión de inventarios y cómo InventaTrack facilita este proceso.
+- **Alianzas estratégicas:** Colaborar con cámaras de comercio, asociaciones de PYMEs y proveedores de alimentos para promover la plataforma.
 - **Incorporar funcionalidades móviles:** Mejorar el acceso y uso en campo para negocios con equipos pequeños o sin oficinas fijas.
 
-**Valor Añadido**  
+**Valor Añadido**
 
-- Aumenta la visibilidad y aceptación en un mercado en crecimiento.  
+- Aumenta la visibilidad y aceptación en un mercado en crecimiento.
 - Facilita la adopción tecnológica en negocios tradicionales.
 
 ###### 3. Afrontar la Amenaza: Competencia de Grandes Plataformas Integradas y Startups Ágiles
@@ -499,14 +503,16 @@ Posicionar a InventaTrack como la solución clave para que las PYMEs del sector 
 
 Destacar la especialización en PYMEs y el soporte cercano frente a grandes competidores que atienden a empresas más grandes o con soluciones más complejas.
 
-**Tácticas**  
-- **Campañas enfocadas en valor diferencial:** Enfatizar la simplicidad y accesibilidad frente a plataformas complejas y costosas.  
-- **Modelo flexible y escalable:** Ofrecer planes de suscripción accesibles, con opción a crecimiento según el negocio.  
-- **Innovación constante:** Mantener un desarrollo ágil que permita incorporar feedback rápidamente y adaptarse mejor que grandes jugadores lentos.  
+**Tácticas**
+
+- **Campañas enfocadas en valor diferencial:** Enfatizar la simplicidad y accesibilidad frente a plataformas complejas y costosas.
+- **Modelo flexible y escalable:** Ofrecer planes de suscripción accesibles, con opción a crecimiento según el negocio.
+- **Innovación constante:** Mantener un desarrollo ágil que permita incorporar feedback rápidamente y adaptarse mejor que grandes jugadores lentos.
 - **Atención al cliente personalizada:** Garantizar soporte cercano, que sea una ventaja competitiva frente a soluciones impersonales.
 
-**Valor Añadido**  
-- Reduce el riesgo de abandono por complejidad o precio.  
+**Valor Añadido**
+
+- Reduce el riesgo de abandono por complejidad o precio.
 - Fomenta la lealtad y recomendación entre usuarios.
 
 ## 2.2. Entrevistas
@@ -515,10 +521,10 @@ Destacar la especialización en PYMEs y el soporte cercano frente a grandes comp
 
 ##### Preguntas Generales
 
-* ¿Cuál es su nombre?
-* ¿Cuántos años tiene usted?
-* ¿En qué ciudad y distrito reside?
-* ¿A qué se dedica profesionalmente?
+- ¿Cuál es su nombre?
+- ¿Cuántos años tiene usted?
+- ¿En qué ciudad y distrito reside?
+- ¿A qué se dedica profesionalmente?
 
 ##### Preguntas Específicas
 
@@ -580,7 +586,6 @@ Leslie Kasimiro, trabaja en un restaurante de mariscos, explicó que el control 
 
 **Link:** https://upcedupe-my.sharepoint.com/:v:/g/personal/u202117303_upc_edu_pe/EfRQiGPXFhVHsr0R3qoONzkBuGHyGSrPXtAa5w41rQXYXw?e=CYieEb&
 
-
 ##### Segmento 2: Dueños, gerentes y administradores
 
 ###### Entrevista 1:
@@ -615,7 +620,7 @@ Leslie Kasimiro, trabaja en un restaurante de mariscos, explicó que el control 
 
 <img src="assets/E3Segmento2.png" width="100%" height="100%">
 
-**Resumen de la entrevista:** 
+**Resumen de la entrevista:**
 
 Alicia Melgarrejo (53 años), es gerenta de supermercado, explica que gestionan perecibles con un sistema de ventas y Excel, lo que genera errores e incidencias semanales en frutas, verduras y lácteos.
 Las mermas alcanzan un 5% y afectan la rentabilidad.
@@ -629,13 +634,13 @@ Consideran útil e invertirían en una herramienta digital que alerte sobre cadu
 
 A continuación, se presenta un cuadro resumen donde se registrarán los nombres de los entrevistados junto con sus preferencias y recomendaciones relevantes. Este análisis permitirá identificar patrones y necesidades comunes para orientar el desarrollo y mejora de la solución propuesta.
 
-| **Nombre** | **Preferencias y Recomendaciones** |
-|------------|-------------------------------------|
-| Juan       | Describe una gestión más avanzada con ERP que controla caducidad y rotación, pero aún enfrenta mermas del 2%–3% en frutas, verduras y lácteos, agravadas por la logística de proveedores y picos de demanda. Prefiere una solución digital que se integre con su ERP, con alertas predictivas y reportes en tiempo real. Se recomienda complementar el sistema actual con un módulo inteligente de predicción de demanda y control de cadena de frío, además de capacitación continua al personal, lo que reduciría pérdidas y optimizaría la planificación en temporadas críticas.|
-| Leslie     | Indica que la gestión manual con Excel ocasiona pérdidas de hasta un 10% en pescados y mariscos, con problemas en almacenamiento, rotación FIFO y sobrestock por compras desordenadas, especialmente los fines de semana. Su preferencia es una aplicación que genere alertas de caducidad y reportes claros para mejorar el control. Se recomienda implementar una solución digital que automatice el seguimiento de insumos, optimice la planificación de compras y garantice el cumplimiento de normas sanitarias, lo que permitiría reducir mermas y aumentar la eficiencia operativa.|
-| Ernesto    | Actualmente utiliza Excel y controles manuales para gestionar el inventario, lo que genera dificultades al calcular compras y controlar productos perecederos. Señala que las mermas ocurren mensualmente, especialmente por la caducidad de productos. Considera muy útil una aplicación que agilice el proceso de inventario, emita alertas sobre fechas de vencimiento y niveles de stock, y facilite la toma de decisiones al planificar compras. Recomienda que la herramienta sea sencilla, rápida y accesible en costos. Está dispuesto a invertir en una solución digital siempre que represente beneficios claros y ayude a reducir pérdidas. |
+| **Nombre** | **Preferencias y Recomendaciones**                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                       |
+| ---------- | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| Juan       | Describe una gestión más avanzada con ERP que controla caducidad y rotación, pero aún enfrenta mermas del 2%–3% en frutas, verduras y lácteos, agravadas por la logística de proveedores y picos de demanda. Prefiere una solución digital que se integre con su ERP, con alertas predictivas y reportes en tiempo real. Se recomienda complementar el sistema actual con un módulo inteligente de predicción de demanda y control de cadena de frío, además de capacitación continua al personal, lo que reduciría pérdidas y optimizaría la planificación en temporadas críticas.                                                                                                                      |
+| Leslie     | Indica que la gestión manual con Excel ocasiona pérdidas de hasta un 10% en pescados y mariscos, con problemas en almacenamiento, rotación FIFO y sobrestock por compras desordenadas, especialmente los fines de semana. Su preferencia es una aplicación que genere alertas de caducidad y reportes claros para mejorar el control. Se recomienda implementar una solución digital que automatice el seguimiento de insumos, optimice la planificación de compras y garantice el cumplimiento de normas sanitarias, lo que permitiría reducir mermas y aumentar la eficiencia operativa.                                                                                                               |
+| Ernesto    | Actualmente utiliza Excel y controles manuales para gestionar el inventario, lo que genera dificultades al calcular compras y controlar productos perecederos. Señala que las mermas ocurren mensualmente, especialmente por la caducidad de productos. Considera muy útil una aplicación que agilice el proceso de inventario, emita alertas sobre fechas de vencimiento y niveles de stock, y facilite la toma de decisiones al planificar compras. Recomienda que la herramienta sea sencilla, rápida y accesible en costos. Está dispuesto a invertir en una solución digital siempre que represente beneficios claros y ayude a reducir pérdidas.                                                   |
 | Adriana    | Ahora la gestión del inventario en el restaurante es manual y poco confiable, lo que provoca pérdidas frecuentes de productos perecibles como frutas, verduras y lácteos, alcanzando hasta un 10% en temporada baja y afectando seriamente la rentabilidad. Las herramientas actuales, como Excel o el sistema contable, no resuelven problemas de caducidad ni ofrecen alertas de stock, generando ineficiencia en la planificación de compras. La gerente considera de gran valor una aplicación sencilla que brinde alertas automáticas y reportes claros, y afirma que estaría dispuesta a invertir en una solución digital accesible, siempre que ayude a reducir mermas y mejorar la rentabilidad. |
-| Alicia     | Señala que el control actual con sistema de ventas y Excel provoca errores, mermas del 5% y quiebres de stock por falta de datos precisos, además de que el ERP no cubre caducidad. Su preferencia es contar con una herramienta digital que alerte sobre vencimientos y mínimos de inventario. Se recomienda implementar un sistema especializado de gestión de perecibles integrado al ERP, con alertas automáticas y reportes en tiempo real, lo que optimizaría la rentabilidad y reduciría pérdidas. |
+| Alicia     | Señala que el control actual con sistema de ventas y Excel provoca errores, mermas del 5% y quiebres de stock por falta de datos precisos, además de que el ERP no cubre caducidad. Su preferencia es contar con una herramienta digital que alerte sobre vencimientos y mínimos de inventario. Se recomienda implementar un sistema especializado de gestión de perecibles integrado al ERP, con alertas automáticas y reportes en tiempo real, lo que optimizaría la rentabilidad y reduciría pérdidas.                                                                                                                                                                                                |
 
 ## 2.3. Needfinding
 
@@ -655,37 +660,37 @@ Hemos creado User Personas para los segmentos clave del proyecto, lo que nos per
 
 ### 2.3.2. User Task Matrix
 
-La User Task Matrix permite identificar y priorizar las actividades más importantes que realizan los usuarios en su día a día relacionadas con la gestión de inventarios. A través de esta matriz, se analizan las tareas clave, la frecuencia con la que se realizan y su nivel de importancia dentro de las operaciones. Esto permite reconocer cuáles son las acciones críticas que InventaTrack debe apoyar y cuáles tienen menor prioridad. 
+La User Task Matrix permite identificar y priorizar las actividades más importantes que realizan los usuarios en su día a día relacionadas con la gestión de inventarios. A través de esta matriz, se analizan las tareas clave, la frecuencia con la que se realizan y su nivel de importancia dentro de las operaciones. Esto permite reconocer cuáles son las acciones críticas que InventaTrack debe apoyar y cuáles tienen menor prioridad.
 
 ###### Segmento 1: Usuarios operativos
 
 | **Actividades**                        | **Frecuencia** | **Importancia** |
-|--------------------------------------|---------------|----------------|
-| Registrar insumos recibidos           | Diario        | Alta           |
-| Verificar fechas de caducidad         | Diario        | Alta           |
-| Controlar niveles de stock            | Diario        | Alta           |
-| Planificar compras semanales          | Semanal       | Alta           |
-| Preparar reportes de mermas           | Semanal       | Media          |
-| Coordinar pedidos con proveedores     | Semanal       | Media          |
-| Organizar insumos en almacén          | Diario        | Media          |
-| Revisar condiciones de almacenamiento | Diario        | Alta           |
-| Capacitar al personal en rotación FIFO| Mensual       | Media          |
-| Ajustar compras por cambios de demanda| Ocasional     | Media          |
+| -------------------------------------- | -------------- | --------------- |
+| Registrar insumos recibidos            | Diario         | Alta            |
+| Verificar fechas de caducidad          | Diario         | Alta            |
+| Controlar niveles de stock             | Diario         | Alta            |
+| Planificar compras semanales           | Semanal        | Alta            |
+| Preparar reportes de mermas            | Semanal        | Media           |
+| Coordinar pedidos con proveedores      | Semanal        | Media           |
+| Organizar insumos en almacén           | Diario         | Media           |
+| Revisar condiciones de almacenamiento  | Diario         | Alta            |
+| Capacitar al personal en rotación FIFO | Mensual        | Media           |
+| Ajustar compras por cambios de demanda | Ocasional      | Media           |
 
 ###### Segmento 2: Dueños, gerentes y administradores
 
-| **Actividades**                                  | **Frecuencia** | **Importancia** |
-|--------------------------------------------------|----------------|-----------------|
-| Registrar insumos recibidos                      | Diario         | Alta            |
-| Verificar fechas de caducidad y lotes            | Diario         | Alta            |
-| Controlar niveles de stock                       | Diario         | Alta            |
-| Generar reportes de pérdidas y consumos          | Semanal        | Alta            |
-| Coordinar con equipo de compras                  | Semanal        | Media           |
-| Atender auditorías de inventario                 | Mensual        | Alta            |
-| Validar cumplimiento de normas sanitarias        | Diario         | Alta            |
-| Analizar rotación de productos perecibles        | Semanal        | Alta            |
-| Ajustar pedidos según consumo real               | Semanal        | Media           |
-| Implementar acciones correctivas por caducidad   | Ocasional      | Alta            |
+| **Actividades**                                | **Frecuencia** | **Importancia** |
+| ---------------------------------------------- | -------------- | --------------- |
+| Registrar insumos recibidos                    | Diario         | Alta            |
+| Verificar fechas de caducidad y lotes          | Diario         | Alta            |
+| Controlar niveles de stock                     | Diario         | Alta            |
+| Generar reportes de pérdidas y consumos        | Semanal        | Alta            |
+| Coordinar con equipo de compras                | Semanal        | Media           |
+| Atender auditorías de inventario               | Mensual        | Alta            |
+| Validar cumplimiento de normas sanitarias      | Diario         | Alta            |
+| Analizar rotación de productos perecibles      | Semanal        | Alta            |
+| Ajustar pedidos según consumo real             | Semanal        | Media           |
+| Implementar acciones correctivas por caducidad | Ocasional      | Alta            |
 
 ### 2.3.3. User Journey Mapping
 
@@ -731,79 +736,79 @@ Link del miro: https://miro.com/app/live-embed/uXjVJHVPc7U=/?moveToViewport=-247
 
 El Lenguaje Ubicuo de InventaTrack define los términos clave que serán utilizados por todo el equipo para garantizar una comunicación clara y sin ambigüedades.
 
-| **Término**              | **Definición**                                                                 |
-|---------------------------|---------------------------------------------------------------------------------------------|
-| **Insumo**               | Producto alimenticio perecedero utilizado en el negocio
-| **Lote**                 | Conjunto de insumos de la misma referencia, recibidos en una fecha específica.              |
-| **Fecha de caducidad**   | Día límite hasta el cual un insumo es seguro para consumo.                                   |
-| **Inventario**           | Registro total de insumos disponibles en el almacén o cocina.                               |
-| **Stock**                | Cantidad disponible de un insumo en un momento determinado.                                 |
-| **Stock crítico**        | Nivel mínimo de insumo que al alcanzarse genera una alerta de reabastecimiento.           |
-| **Mermas**               | Pérdidas de insumos por caducidad, mal almacenamiento, errores de preparación u otros.      |
-| **Reporte de inventario**| Documento o dashboard que muestra estado de insumos, mermas y proyecciones de compra.       |
-| **Administrador**        | Usuario encargado de supervisar inventarios y tomar decisiones de compra.                   |
-| **Supervisor de alimentos** | Usuario responsable de auditorías, normas sanitarias y reportes en hoteles/supermercados. |
-| **Rotación FIFO**        | Método de organización de insumos: “First In, First Out” (lo primero que entra, se consume primero). |
-| **Proveedor**            | Persona o empresa que abastece insumos al negocio.                                          |
-| **Pedido de compra**     | Solicitud formal de reposición de insumos a un proveedor.                                   |
-| **Cadena de frío**       | Proceso de conservación de alimentos perecederos a temperaturas adecuadas.                  |
-| **Auditoría de inventario** | Proceso de verificación del estado y control de insumos para fines internos o regulatorios. |
-| **Normativa sanitaria**  | Conjunto de reglas y requisitos legales sobre almacenamiento y manipulación de alimentos.   |
+| **Término**                 | **Definición**                                                                                       |
+| --------------------------- | ---------------------------------------------------------------------------------------------------- |
+| **Insumo**                  | Producto alimenticio perecedero utilizado en el negocio                                              |
+| **Lote**                    | Conjunto de insumos de la misma referencia, recibidos en una fecha específica.                       |
+| **Fecha de caducidad**      | Día límite hasta el cual un insumo es seguro para consumo.                                           |
+| **Inventario**              | Registro total de insumos disponibles en el almacén o cocina.                                        |
+| **Stock**                   | Cantidad disponible de un insumo en un momento determinado.                                          |
+| **Stock crítico**           | Nivel mínimo de insumo que al alcanzarse genera una alerta de reabastecimiento.                      |
+| **Mermas**                  | Pérdidas de insumos por caducidad, mal almacenamiento, errores de preparación u otros.               |
+| **Reporte de inventario**   | Documento o dashboard que muestra estado de insumos, mermas y proyecciones de compra.                |
+| **Administrador**           | Usuario encargado de supervisar inventarios y tomar decisiones de compra.                            |
+| **Supervisor de alimentos** | Usuario responsable de auditorías, normas sanitarias y reportes en hoteles/supermercados.            |
+| **Rotación FIFO**           | Método de organización de insumos: “First In, First Out” (lo primero que entra, se consume primero). |
+| **Proveedor**               | Persona o empresa que abastece insumos al negocio.                                                   |
+| **Pedido de compra**        | Solicitud formal de reposición de insumos a un proveedor.                                            |
+| **Cadena de frío**          | Proceso de conservación de alimentos perecederos a temperaturas adecuadas.                           |
+| **Auditoría de inventario** | Proceso de verificación del estado y control de insumos para fines internos o regulatorios.          |
+| **Normativa sanitaria**     | Conjunto de reglas y requisitos legales sobre almacenamiento y manipulación de alimentos.            |
 
 # Capitulo III: Requirements Specification
 
 # 3.1 User Stories
 
-| Epic / Story ID | Título | Descripción | Criterios de Aceptación | Relacionado con (Epic ID) |
-|-----------------|--------|-------------|-------------------------|----------------------------|
-| **EP01** | Registro y Autenticación | Permitir a los usuarios operativos y gerenciales acceder de forma segura a la plataforma. | - | - |
-| US01 | Registro de usuarios operativos | **Como** administrador de almacén, **Quiero** registrarme en la plataforma, **Para** poder gestionar insumos y stock. | Escenario 01: Registro exitoso. **Dado** que ingreso todos los campos obligatorios, **Cuando** envío el formulario, **Entonces** el sistema confirma el registro y muestra mensaje de bienvenida. <br> Escenario 02: Datos inválidos. **Dado** que dejo campos vacíos o con valores no válidos, **Cuando** intento enviar el formulario, **Entonces** el sistema muestra mensajes de error y no guarda los datos. | EP01 |
-| US02 | Registro de usuarios gerenciales | **Como** gerente, **Quiero** registrar mi cuenta, **Para** acceder a reportes y dashboards. | Escenario 01: Registro exitoso. **Dado** que completo correctamente el formulario, **Cuando** lo envío, **Entonces** el sistema me notifica que la cuenta fue creada. <br> Escenario 02: Correo duplicado. **Dado** que ingreso un correo ya registrado, **Cuando** intento crear la cuenta, **Entonces** el sistema me alerta que ya existe y sugiere iniciar sesión. | EP01 |
-| US03 | Inicio de sesión seguro | **Como** usuario, **Quiero** iniciar sesión con mis credenciales, **Para** acceder a mis funciones según mi rol. | Escenario 01: Acceso válido. **Dado** que ingreso correo y contraseña correctos, **Cuando** presiono iniciar sesión, **Entonces** accedo al panel correspondiente a mi rol. <br> Escenario 02: Acceso fallido. **Dado** que ingreso datos incorrectos, **Cuando** intento iniciar sesión, **Entonces** el sistema muestra error de credenciales. | EP01 |
-| US04 | Recuperación de contraseña | **Como** usuario, **Quiero** recuperar mi contraseña olvidada, **Para** ingresar de nuevo a la plataforma. | Escenario 01: Recuperación exitosa. **Dado** que solicito recuperar contraseña, **Cuando** ingreso mi correo válido, **Entonces** recibo un enlace de restablecimiento. <br> Escenario 02: Correo inexistente. **Dado** que escribo un correo no registrado, **Cuando** lo envío, **Entonces** el sistema muestra error indicando que no existe. | EP01 |
-| **EP02** | Control de Stock | Permitir a los usuarios operativos registrar y monitorear insumos. | - | - |
-| US05 | Registrar insumos | **Como** encargado de cocina, **Quiero** registrar nuevos insumos, **Para** llevar un control de lo que entra al inventario. | Escenario 01: Registro válido. **Dado** que completo los campos requeridos, **Cuando** registro un insumo, **Entonces** este aparece en el listado con fecha y cantidad. <br> Escenario 02: Campos incompletos. **Dado** que dejo campos obligatorios vacíos, **Cuando** intento registrar, **Entonces** el sistema me alerta y no guarda. | EP02 |
-| US06 | Editar insumos | **Como** administrador de almacén, **Quiero** editar información de un insumo, **Para** mantener actualizados los datos. | Escenario 01: Edición válida. **Dado** que selecciono un insumo, **Cuando** modifico sus datos y guardo, **Entonces** el sistema actualiza la información. <br> Escenario 02: Datos inválidos. **Dado** que ingreso valores negativos o vacíos, **Cuando** intento guardar, **Entonces** el sistema rechaza la edición y muestra advertencia. | EP02 |
-| US07 | Visualizar stock | **Como** usuario operativo, **Quiero** ver el listado actualizado de insumos, **Para** conocer el estado del inventario. | Escenario 01: Stock visible. **Dado** que accedo a la sección de inventario, **Cuando** consulto la lista, **Entonces** se muestran cantidades, fechas y estado de cada insumo. | EP02 |
-| US08 | Alertas de caducidad | **Como** encargado de cocina, **Quiero** recibir alertas de insumos próximos a caducar, **Para** evitar desperdicios. | Escenario 01: Notificación previa. **Dado** que un insumo está a 5 días de caducar, **Cuando** accedo a la plataforma, **Entonces** recibo un aviso. <br> Escenario 02: Insumo vencido. **Dado** que un insumo supera la fecha de caducidad, **Cuando** consulto el stock, **Entonces** aparece marcado como vencido. | EP02 |
-| **EP03** | Movimientos de Inventario | Gestionar entradas, salidas y devoluciones de insumos. | - | - |
-| US09 | Registrar entradas de insumos | **Como** administrador de almacén, **Quiero** registrar la entrada de insumos, **Para** mantener actualizado el inventario. | Escenario 01: Entrada válida. **Dado** que registro una entrada, **Cuando** guardo la información, **Entonces** el stock aumenta en la cantidad indicada. | EP03 |
-| US10 | Registrar salidas de insumos | **Como** encargado de cocina, **Quiero** registrar el consumo de insumos, **Para** reflejar el uso en la operación diaria. | Escenario 01: Salida válida. **Dado** que consumo un insumo, **Cuando** lo registro, **Entonces** el stock disminuye. <br> Escenario 02: Stock insuficiente. **Dado** que intento registrar una salida mayor al stock disponible, **Cuando** lo confirmo, **Entonces** el sistema muestra un error. | EP03 |
-| US11 | Registrar devoluciones | **Como** usuario operativo, **Quiero** registrar devoluciones de insumos, **Para** mantener consistencia en el inventario. | Escenario 01: Devolución exitosa. **Dado** que registro una devolución, **Cuando** guardo el movimiento, **Entonces** el stock se incrementa correctamente. | EP03 |
-| US12 | Historial de movimientos | **Como** administrador de almacén, **Quiero** consultar el historial de entradas y salidas, **Para** auditar y rastrear cambios. | Escenario 01: Consulta de historial. **Dado** que accedo a la sección de movimientos, **Cuando** aplico filtros de fecha, **Entonces** visualizo los registros con usuario, fecha y cantidad. | EP03 |
-| **EP04** | Reportes y Dashboard Gerencial | Brindar información a los dueños y gerentes para la toma de decisiones. | - | - |
-| US13 | Visualizar reportes de consumo | **Como** gerente, **Quiero** ver reportes de consumo de insumos, **Para** controlar costos y detectar excesos. | Escenario 01: Reporte generado. **Dado** que selecciono un rango de fechas, **Cuando** genero el reporte, **Entonces** obtengo un resumen detallado. | EP04 |
-| US14 | Dashboard de stock crítico | **Como** gerente, **Quiero** ver un dashboard con insumos críticos, **Para** tomar decisiones de compra. | Escenario 01: Insumos críticos resaltados. **Dado** que el stock de un insumo es bajo, **Cuando** abro el dashboard, **Entonces** aparece destacado en rojo. | EP04 |
-| US15 | Exportar reportes | **Como** administrador, **Quiero** exportar reportes en PDF o Excel, **Para** analizarlos fuera de la plataforma. | Escenario 01: Exportación válida. **Dado** que selecciono un formato, **Cuando** presiono exportar, **Entonces** se genera el archivo correspondiente. | EP04 |
-| US16 | Comparar periodos de consumo | **Como** gerente, **Quiero** comparar consumo de diferentes periodos, **Para** identificar tendencias. | Escenario 01: Comparación exitosa. **Dado** que selecciono dos periodos, **Cuando** confirmo la acción, **Entonces** obtengo gráficos comparativos. | EP04 |
-| **EP05** | Comunicación y Notificaciones | Mantener informados a los usuarios sobre eventos importantes. | - | - |
-| US17 | Notificaciones de stock bajo | **Como** usuario operativo, **Quiero** recibir notificaciones de stock bajo, **Para** reabastecer a tiempo. | Escenario 01: Stock mínimo alcanzado. **Dado** que un insumo llega al mínimo configurado, **Cuando** se actualiza el inventario, **Entonces** recibo una notificación. | EP05 |
-| US18 | Notificación de caducidad | **Como** gerente, **Quiero** recibir alertas de insumos próximos a vencer, **Para** supervisar acciones correctivas. | Escenario 01: Notificación anticipada. **Dado** que un insumo caduca en breve, **Cuando** reviso mi panel, **Entonces** aparece la alerta. | EP05 |
-| US19 | Mensajes internos | **Como** usuario operativo, **Quiero** enviar mensajes a otro usuario del almacén, **Para** coordinar tareas. | Escenario 01: Envío de mensaje. **Dado** que redacto un mensaje, **Cuando** lo envío, **Entonces** el otro usuario lo recibe con confirmación. | EP05 |
-| US20 | Resumen diario automático | **Como** gerente, **Quiero** recibir un resumen diario de stock y movimientos, **Para** mantenerme informado sin ingresar siempre a la app. | Escenario 01: Envío diario. **Dado** que llega fin de jornada, **Cuando** el sistema genera el resumen, **Entonces** recibo el informe en mi correo o panel. | EP05 |
+| Epic / Story ID | Título                           | Descripción                                                                                                                                 | Criterios de Aceptación                                                                                                                                                                                                                                                                                                                                                                                           | Relacionado con (Epic ID) |
+| --------------- | -------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ------------------------- |
+| **EP01**        | Registro y Autenticación         | Permitir a los usuarios operativos y gerenciales acceder de forma segura a la plataforma.                                                   | -                                                                                                                                                                                                                                                                                                                                                                                                                 | -                         |
+| US01            | Registro de usuarios operativos  | **Como** administrador de almacén, **Quiero** registrarme en la plataforma, **Para** poder gestionar insumos y stock.                       | Escenario 01: Registro exitoso. **Dado** que ingreso todos los campos obligatorios, **Cuando** envío el formulario, **Entonces** el sistema confirma el registro y muestra mensaje de bienvenida. <br> Escenario 02: Datos inválidos. **Dado** que dejo campos vacíos o con valores no válidos, **Cuando** intento enviar el formulario, **Entonces** el sistema muestra mensajes de error y no guarda los datos. | EP01                      |
+| US02            | Registro de usuarios gerenciales | **Como** gerente, **Quiero** registrar mi cuenta, **Para** acceder a reportes y dashboards.                                                 | Escenario 01: Registro exitoso. **Dado** que completo correctamente el formulario, **Cuando** lo envío, **Entonces** el sistema me notifica que la cuenta fue creada. <br> Escenario 02: Correo duplicado. **Dado** que ingreso un correo ya registrado, **Cuando** intento crear la cuenta, **Entonces** el sistema me alerta que ya existe y sugiere iniciar sesión.                                            | EP01                      |
+| US03            | Inicio de sesión seguro          | **Como** usuario, **Quiero** iniciar sesión con mis credenciales, **Para** acceder a mis funciones según mi rol.                            | Escenario 01: Acceso válido. **Dado** que ingreso correo y contraseña correctos, **Cuando** presiono iniciar sesión, **Entonces** accedo al panel correspondiente a mi rol. <br> Escenario 02: Acceso fallido. **Dado** que ingreso datos incorrectos, **Cuando** intento iniciar sesión, **Entonces** el sistema muestra error de credenciales.                                                                  | EP01                      |
+| US04            | Recuperación de contraseña       | **Como** usuario, **Quiero** recuperar mi contraseña olvidada, **Para** ingresar de nuevo a la plataforma.                                  | Escenario 01: Recuperación exitosa. **Dado** que solicito recuperar contraseña, **Cuando** ingreso mi correo válido, **Entonces** recibo un enlace de restablecimiento. <br> Escenario 02: Correo inexistente. **Dado** que escribo un correo no registrado, **Cuando** lo envío, **Entonces** el sistema muestra error indicando que no existe.                                                                  | EP01                      |
+| **EP02**        | Control de Stock                 | Permitir a los usuarios operativos registrar y monitorear insumos.                                                                          | -                                                                                                                                                                                                                                                                                                                                                                                                                 | -                         |
+| US05            | Registrar insumos                | **Como** encargado de cocina, **Quiero** registrar nuevos insumos, **Para** llevar un control de lo que entra al inventario.                | Escenario 01: Registro válido. **Dado** que completo los campos requeridos, **Cuando** registro un insumo, **Entonces** este aparece en el listado con fecha y cantidad. <br> Escenario 02: Campos incompletos. **Dado** que dejo campos obligatorios vacíos, **Cuando** intento registrar, **Entonces** el sistema me alerta y no guarda.                                                                        | EP02                      |
+| US06            | Editar insumos                   | **Como** administrador de almacén, **Quiero** editar información de un insumo, **Para** mantener actualizados los datos.                    | Escenario 01: Edición válida. **Dado** que selecciono un insumo, **Cuando** modifico sus datos y guardo, **Entonces** el sistema actualiza la información. <br> Escenario 02: Datos inválidos. **Dado** que ingreso valores negativos o vacíos, **Cuando** intento guardar, **Entonces** el sistema rechaza la edición y muestra advertencia.                                                                     | EP02                      |
+| US07            | Visualizar stock                 | **Como** usuario operativo, **Quiero** ver el listado actualizado de insumos, **Para** conocer el estado del inventario.                    | Escenario 01: Stock visible. **Dado** que accedo a la sección de inventario, **Cuando** consulto la lista, **Entonces** se muestran cantidades, fechas y estado de cada insumo.                                                                                                                                                                                                                                   | EP02                      |
+| US08            | Alertas de caducidad             | **Como** encargado de cocina, **Quiero** recibir alertas de insumos próximos a caducar, **Para** evitar desperdicios.                       | Escenario 01: Notificación previa. **Dado** que un insumo está a 5 días de caducar, **Cuando** accedo a la plataforma, **Entonces** recibo un aviso. <br> Escenario 02: Insumo vencido. **Dado** que un insumo supera la fecha de caducidad, **Cuando** consulto el stock, **Entonces** aparece marcado como vencido.                                                                                             | EP02                      |
+| **EP03**        | Movimientos de Inventario        | Gestionar entradas, salidas y devoluciones de insumos.                                                                                      | -                                                                                                                                                                                                                                                                                                                                                                                                                 | -                         |
+| US09            | Registrar entradas de insumos    | **Como** administrador de almacén, **Quiero** registrar la entrada de insumos, **Para** mantener actualizado el inventario.                 | Escenario 01: Entrada válida. **Dado** que registro una entrada, **Cuando** guardo la información, **Entonces** el stock aumenta en la cantidad indicada.                                                                                                                                                                                                                                                         | EP03                      |
+| US10            | Registrar salidas de insumos     | **Como** encargado de cocina, **Quiero** registrar el consumo de insumos, **Para** reflejar el uso en la operación diaria.                  | Escenario 01: Salida válida. **Dado** que consumo un insumo, **Cuando** lo registro, **Entonces** el stock disminuye. <br> Escenario 02: Stock insuficiente. **Dado** que intento registrar una salida mayor al stock disponible, **Cuando** lo confirmo, **Entonces** el sistema muestra un error.                                                                                                               | EP03                      |
+| US11            | Registrar devoluciones           | **Como** usuario operativo, **Quiero** registrar devoluciones de insumos, **Para** mantener consistencia en el inventario.                  | Escenario 01: Devolución exitosa. **Dado** que registro una devolución, **Cuando** guardo el movimiento, **Entonces** el stock se incrementa correctamente.                                                                                                                                                                                                                                                       | EP03                      |
+| US12            | Historial de movimientos         | **Como** administrador de almacén, **Quiero** consultar el historial de entradas y salidas, **Para** auditar y rastrear cambios.            | Escenario 01: Consulta de historial. **Dado** que accedo a la sección de movimientos, **Cuando** aplico filtros de fecha, **Entonces** visualizo los registros con usuario, fecha y cantidad.                                                                                                                                                                                                                     | EP03                      |
+| **EP04**        | Reportes y Dashboard Gerencial   | Brindar información a los dueños y gerentes para la toma de decisiones.                                                                     | -                                                                                                                                                                                                                                                                                                                                                                                                                 | -                         |
+| US13            | Visualizar reportes de consumo   | **Como** gerente, **Quiero** ver reportes de consumo de insumos, **Para** controlar costos y detectar excesos.                              | Escenario 01: Reporte generado. **Dado** que selecciono un rango de fechas, **Cuando** genero el reporte, **Entonces** obtengo un resumen detallado.                                                                                                                                                                                                                                                              | EP04                      |
+| US14            | Dashboard de stock crítico       | **Como** gerente, **Quiero** ver un dashboard con insumos críticos, **Para** tomar decisiones de compra.                                    | Escenario 01: Insumos críticos resaltados. **Dado** que el stock de un insumo es bajo, **Cuando** abro el dashboard, **Entonces** aparece destacado en rojo.                                                                                                                                                                                                                                                      | EP04                      |
+| US15            | Exportar reportes                | **Como** administrador, **Quiero** exportar reportes en PDF o Excel, **Para** analizarlos fuera de la plataforma.                           | Escenario 01: Exportación válida. **Dado** que selecciono un formato, **Cuando** presiono exportar, **Entonces** se genera el archivo correspondiente.                                                                                                                                                                                                                                                            | EP04                      |
+| US16            | Comparar periodos de consumo     | **Como** gerente, **Quiero** comparar consumo de diferentes periodos, **Para** identificar tendencias.                                      | Escenario 01: Comparación exitosa. **Dado** que selecciono dos periodos, **Cuando** confirmo la acción, **Entonces** obtengo gráficos comparativos.                                                                                                                                                                                                                                                               | EP04                      |
+| **EP05**        | Comunicación y Notificaciones    | Mantener informados a los usuarios sobre eventos importantes.                                                                               | -                                                                                                                                                                                                                                                                                                                                                                                                                 | -                         |
+| US17            | Notificaciones de stock bajo     | **Como** usuario operativo, **Quiero** recibir notificaciones de stock bajo, **Para** reabastecer a tiempo.                                 | Escenario 01: Stock mínimo alcanzado. **Dado** que un insumo llega al mínimo configurado, **Cuando** se actualiza el inventario, **Entonces** recibo una notificación.                                                                                                                                                                                                                                            | EP05                      |
+| US18            | Notificación de caducidad        | **Como** gerente, **Quiero** recibir alertas de insumos próximos a vencer, **Para** supervisar acciones correctivas.                        | Escenario 01: Notificación anticipada. **Dado** que un insumo caduca en breve, **Cuando** reviso mi panel, **Entonces** aparece la alerta.                                                                                                                                                                                                                                                                        | EP05                      |
+| US19            | Mensajes internos                | **Como** usuario operativo, **Quiero** enviar mensajes a otro usuario del almacén, **Para** coordinar tareas.                               | Escenario 01: Envío de mensaje. **Dado** que redacto un mensaje, **Cuando** lo envío, **Entonces** el otro usuario lo recibe con confirmación.                                                                                                                                                                                                                                                                    | EP05                      |
+| US20            | Resumen diario automático        | **Como** gerente, **Quiero** recibir un resumen diario de stock y movimientos, **Para** mantenerme informado sin ingresar siempre a la app. | Escenario 01: Envío diario. **Dado** que llega fin de jornada, **Cuando** el sistema genera el resumen, **Entonces** recibo el informe en mi correo o panel.                                                                                                                                                                                                                                                      | EP05                      |
 
-| ID     | Título                          | Descripción                                                                                                     | Criterios de Aceptación |
-|--------|---------------------------------|-----------------------------------------------------------------------------------------------------------------|--------------------------|
-| TS101  | Registro de usuarios operativos | Como Developer, quiero exponer un endpoint para registrar usuarios operativos, para que puedan gestionar stock. | **Escenario 01:** Registro exitoso<br>Dado que se envía un `POST` con datos válidos,<br>Cuando el sistema procesa la solicitud,<br>Entonces responde `201 Created` con el objeto del usuario.<br><br>**Escenario 02:** Datos inválidos<br>Dado que se envía un `POST` con campos incompletos o inválidos,<br>Cuando el sistema procesa la solicitud,<br>Entonces responde `400 Bad Request` con detalle del error. |
-| TS102  | Registro de usuarios gerenciales | Como Developer, quiero exponer un endpoint para registrar cuentas gerenciales, para que accedan a reportes. | **Escenario 01:** Registro exitoso<br>Dado que se envía un `POST` con rol "gerente" y datos válidos,<br>Cuando la solicitud se procesa,<br>Entonces responde `201 Created` y el objeto de usuario.<br><br>**Escenario 02:** Correo duplicado<br>Dado que se envía un correo ya existente,<br>Cuando se intenta registrar,<br>Entonces responde `409 Conflict` con mensaje "correo en uso". |
-| TS103  | Inicio de sesión                 | Como Developer, quiero un endpoint de login para validar credenciales y otorgar acceso según rol. | **Escenario 01:** Acceso válido<br>Dado que se envía un `POST` con credenciales correctas,<br>Cuando el sistema valida,<br>Entonces responde `200 OK` con token y rol.<br><br>**Escenario 02:** Credenciales incorrectas<br>Dado que se envían datos inválidos,<br>Cuando el sistema procesa,<br>Entonces responde `401 Unauthorized`. |
-| TS104  | Recuperación de contraseña       | Como Developer, quiero un endpoint para recuperar contraseñas, para que usuarios restablezcan su acceso. | **Escenario 01:** Solicitud válida<br>Dado que se envía un `POST` con correo válido,<br>Cuando el sistema procesa,<br>Entonces responde `200 OK` y envía enlace.<br><br>**Escenario 02:** Correo no registrado<br>Dado que se envía un correo inexistente,<br>Cuando se procesa,<br>Entonces responde `404 Not Found`. |
-| TS201  | Registrar insumos                | Como Developer, quiero un endpoint para registrar insumos en inventario. | **Escenario 01:** Registro válido<br>Dado que se envía un `POST` con datos correctos,<br>Cuando se procesa,<br>Entonces responde `201 Created` con el insumo guardado.<br><br>**Escenario 02:** Campos incompletos<br>Dado que falta un campo obligatorio,<br>Cuando se procesa,<br>Entonces responde `400 Bad Request`. |
-| TS202  | Editar insumos                   | Como Developer, quiero un endpoint para editar información de insumos registrados. | **Escenario 01:** Edición válida<br>Dado que se envía un `PUT` con datos válidos,<br>Cuando se procesa,<br>Entonces responde `200 OK` y devuelve datos actualizados.<br><br>**Escenario 02:** Datos inválidos<br>Dado que se envía un valor negativo en cantidad,<br>Cuando se procesa,<br>Entonces responde `400 Bad Request`. |
-| TS203  | Visualizar stock                 | Como Developer, quiero un endpoint para consultar el listado de insumos con cantidades y fechas. | **Escenario 01:** Consulta exitosa<br>Dado que se envía un `GET`,<br>Cuando el sistema responde,<br>Entonces retorna `200 OK` con lista de insumos.<br><br>**Escenario 02:** Inventario vacío<br>Dado que no hay insumos,<br>Cuando se consulta,<br>Entonces responde `200 OK` con lista vacía. |
-| TS204  | Alertas de caducidad             | Como Developer, quiero un endpoint que devuelva insumos próximos a caducar. | **Escenario 01: Insumos próximos a vencer**<br>Dado que se consulta `GET`,<br>Cuando hay insumos a menos de 5 días,<br>Entonces responde `200 OK` con listado.<br><br>**Escenario 02:** Sin insumos próximos a vencer<br>Dado que se consulta y no hay casos,<br>Entonces responde `200 OK` con lista vacía. |
-| TS301  | Registrar entradas de insumos    | Como Developer, quiero un endpoint para registrar entradas de insumos al inventario. | **Escenario 01:** Entrada válida<br>Dado que se envía un `POST` con datos correctos,<br>Cuando se procesa,<br>Entonces el stock aumenta y responde `201 Created`.<br><br>**Escenario 02:** Datos incompletos<br>Dado que falta información,<br>Cuando se procesa,<br>Entonces responde `400 Bad Request`. |
-| TS302  | Registrar salidas de insumos     | Como Developer, quiero un endpoint para registrar salidas de insumos. | **Escenario 01:** Salida válida<br>Dado que se envía un `POST` con datos correctos,<br>Cuando se procesa,<br>Entonces el stock disminuye y responde `201 Created`.<br><br>**Escenario 02:** Stock insuficiente<br>Dado que la cantidad supera al stock,<br>Cuando se procesa,<br>Entonces responde `409 Conflict`. |
-| TS303  | Registrar devoluciones           | Como Developer, quiero un endpoint para registrar devoluciones de insumos. | **Escenario 01:** Devolución válida<br>Dado que se envía un `POST` con datos correctos,<br>Cuando se procesa,<br>Entonces el stock aumenta y responde `201 Created`. |
-| TS304  | Historial de movimientos         | Como Developer, quiero un endpoint para consultar historial de entradas y salidas. | **Escenario 01:** Consulta con filtros<br>Dado que se envía un `GET`,<br>Cuando se procesa,<br>Entonces responde `200 OK` con movimientos filtrados.<br><br>**Escenario 02:** Sin resultados<br>Dado que no hay movimientos,<br>Entonces responde `200 OK` con lista vacía. |
-| TS401  | Reportes de consumo              | Como Developer, quiero un endpoint para generar reportes de consumo. | **Escenario 01:** Reporte válido<br>Dado que se envía un `GET`,<br>Cuando se procesa,<br>Entonces responde `200 OK` con resumen.<br><br>**Escenario 02:** Fechas inválidas<br>Dado que las fechas son incorrectas,<br>Entonces responde `400 Bad Request`. |
-| TS402  | Dashboard de stock crítico       | Como Developer, quiero un endpoint para listar insumos en nivel crítico. | **Escenario 01:** Stock bajo<br>Dado que se consulta `GET`,<br>Cuando hay insumos en nivel mínimo,<br>Entonces responde `200 OK` con listado.<br><br>**Escenario 02:** Sin insumos críticos<br>Entonces responde `200 OK` con lista vacía. |
-| TS403  | Exportación de reportes          | Como Developer, quiero un endpoint para exportar reportes en PDF o Excel. | **Escenario 01:** Exportación válida<br>Dado que se solicita `GET`,<br>Cuando se procesa,<br>Entonces responde `200 OK` con archivo.<br><br>**Escenario 02:** Formato inválido<br>Dado que el formato no existe,<br>Entonces responde `400 Bad Request`. |
-| TS404  | Comparar periodos de consumo     | Como Developer, quiero un endpoint para comparar consumo entre periodos. | **Escenario 01:** Comparación válida<br>Dado que se envía `GET`,<br>Cuando se procesa,<br>Entonces responde `200 OK` con gráfico comparativo.<br><br>**Escenario 02:** Periodos inválidos<br>Dado que se envían fechas incorrectas,<br>Entonces responde `400 Bad Request`. |
-| TS501  | Notificaciones de stock bajo     | Como Developer, quiero un endpoint para generar notificaciones cuando stock llega a mínimo. | **Escenario 01:** Stock bajo detectado<br>Dado que se procesa `POST`,<br>Cuando un insumo llega a nivel mínimo,<br>Entonces responde `201 Created` y notifica. |
-| TS502  | Notificaciones de caducidad      | Como Developer, quiero un endpoint para generar notificaciones de caducidad. | **Escenario 01:** Insumo próximo a vencer<br>Dado que se consulta `GET`,<br>Cuando hay insumos próximos a vencer,<br>Entonces responde `200 OK` con la lista. |
-| TS503  | Mensajes internos                | Como Developer, quiero un endpoint para enviar mensajes entre usuarios. | **Escenario 01:** Mensaje enviado<br>Dado que se envía un `POST` con remitente, destinatario y texto,<br>Cuando se procesa,<br>Entonces responde `201 Created` y el mensaje queda registrado. |
-| TS504  | Resumen diario automático        | Como Developer, quiero un endpoint que genere un resumen diario de stock y movimientos. | **Escenario 01:** Generación diaria<br>Dado que llega fin de jornada,<br>Cuando se ejecuta `GET`,<br>Entonces responde `200 OK` con el informe del día. |
+| ID    | Título                           | Descripción                                                                                                     | Criterios de Aceptación                                                                                                                                                                                                                                                                                                                                                                                            |
+| ----- | -------------------------------- | --------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
+| TS101 | Registro de usuarios operativos  | Como Developer, quiero exponer un endpoint para registrar usuarios operativos, para que puedan gestionar stock. | **Escenario 01:** Registro exitoso<br>Dado que se envía un `POST` con datos válidos,<br>Cuando el sistema procesa la solicitud,<br>Entonces responde `201 Created` con el objeto del usuario.<br><br>**Escenario 02:** Datos inválidos<br>Dado que se envía un `POST` con campos incompletos o inválidos,<br>Cuando el sistema procesa la solicitud,<br>Entonces responde `400 Bad Request` con detalle del error. |
+| TS102 | Registro de usuarios gerenciales | Como Developer, quiero exponer un endpoint para registrar cuentas gerenciales, para que accedan a reportes.     | **Escenario 01:** Registro exitoso<br>Dado que se envía un `POST` con rol "gerente" y datos válidos,<br>Cuando la solicitud se procesa,<br>Entonces responde `201 Created` y el objeto de usuario.<br><br>**Escenario 02:** Correo duplicado<br>Dado que se envía un correo ya existente,<br>Cuando se intenta registrar,<br>Entonces responde `409 Conflict` con mensaje "correo en uso".                         |
+| TS103 | Inicio de sesión                 | Como Developer, quiero un endpoint de login para validar credenciales y otorgar acceso según rol.               | **Escenario 01:** Acceso válido<br>Dado que se envía un `POST` con credenciales correctas,<br>Cuando el sistema valida,<br>Entonces responde `200 OK` con token y rol.<br><br>**Escenario 02:** Credenciales incorrectas<br>Dado que se envían datos inválidos,<br>Cuando el sistema procesa,<br>Entonces responde `401 Unauthorized`.                                                                             |
+| TS104 | Recuperación de contraseña       | Como Developer, quiero un endpoint para recuperar contraseñas, para que usuarios restablezcan su acceso.        | **Escenario 01:** Solicitud válida<br>Dado que se envía un `POST` con correo válido,<br>Cuando el sistema procesa,<br>Entonces responde `200 OK` y envía enlace.<br><br>**Escenario 02:** Correo no registrado<br>Dado que se envía un correo inexistente,<br>Cuando se procesa,<br>Entonces responde `404 Not Found`.                                                                                             |
+| TS201 | Registrar insumos                | Como Developer, quiero un endpoint para registrar insumos en inventario.                                        | **Escenario 01:** Registro válido<br>Dado que se envía un `POST` con datos correctos,<br>Cuando se procesa,<br>Entonces responde `201 Created` con el insumo guardado.<br><br>**Escenario 02:** Campos incompletos<br>Dado que falta un campo obligatorio,<br>Cuando se procesa,<br>Entonces responde `400 Bad Request`.                                                                                           |
+| TS202 | Editar insumos                   | Como Developer, quiero un endpoint para editar información de insumos registrados.                              | **Escenario 01:** Edición válida<br>Dado que se envía un `PUT` con datos válidos,<br>Cuando se procesa,<br>Entonces responde `200 OK` y devuelve datos actualizados.<br><br>**Escenario 02:** Datos inválidos<br>Dado que se envía un valor negativo en cantidad,<br>Cuando se procesa,<br>Entonces responde `400 Bad Request`.                                                                                    |
+| TS203 | Visualizar stock                 | Como Developer, quiero un endpoint para consultar el listado de insumos con cantidades y fechas.                | **Escenario 01:** Consulta exitosa<br>Dado que se envía un `GET`,<br>Cuando el sistema responde,<br>Entonces retorna `200 OK` con lista de insumos.<br><br>**Escenario 02:** Inventario vacío<br>Dado que no hay insumos,<br>Cuando se consulta,<br>Entonces responde `200 OK` con lista vacía.                                                                                                                    |
+| TS204 | Alertas de caducidad             | Como Developer, quiero un endpoint que devuelva insumos próximos a caducar.                                     | **Escenario 01: Insumos próximos a vencer**<br>Dado que se consulta `GET`,<br>Cuando hay insumos a menos de 5 días,<br>Entonces responde `200 OK` con listado.<br><br>**Escenario 02:** Sin insumos próximos a vencer<br>Dado que se consulta y no hay casos,<br>Entonces responde `200 OK` con lista vacía.                                                                                                       |
+| TS301 | Registrar entradas de insumos    | Como Developer, quiero un endpoint para registrar entradas de insumos al inventario.                            | **Escenario 01:** Entrada válida<br>Dado que se envía un `POST` con datos correctos,<br>Cuando se procesa,<br>Entonces el stock aumenta y responde `201 Created`.<br><br>**Escenario 02:** Datos incompletos<br>Dado que falta información,<br>Cuando se procesa,<br>Entonces responde `400 Bad Request`.                                                                                                          |
+| TS302 | Registrar salidas de insumos     | Como Developer, quiero un endpoint para registrar salidas de insumos.                                           | **Escenario 01:** Salida válida<br>Dado que se envía un `POST` con datos correctos,<br>Cuando se procesa,<br>Entonces el stock disminuye y responde `201 Created`.<br><br>**Escenario 02:** Stock insuficiente<br>Dado que la cantidad supera al stock,<br>Cuando se procesa,<br>Entonces responde `409 Conflict`.                                                                                                 |
+| TS303 | Registrar devoluciones           | Como Developer, quiero un endpoint para registrar devoluciones de insumos.                                      | **Escenario 01:** Devolución válida<br>Dado que se envía un `POST` con datos correctos,<br>Cuando se procesa,<br>Entonces el stock aumenta y responde `201 Created`.                                                                                                                                                                                                                                               |
+| TS304 | Historial de movimientos         | Como Developer, quiero un endpoint para consultar historial de entradas y salidas.                              | **Escenario 01:** Consulta con filtros<br>Dado que se envía un `GET`,<br>Cuando se procesa,<br>Entonces responde `200 OK` con movimientos filtrados.<br><br>**Escenario 02:** Sin resultados<br>Dado que no hay movimientos,<br>Entonces responde `200 OK` con lista vacía.                                                                                                                                        |
+| TS401 | Reportes de consumo              | Como Developer, quiero un endpoint para generar reportes de consumo.                                            | **Escenario 01:** Reporte válido<br>Dado que se envía un `GET`,<br>Cuando se procesa,<br>Entonces responde `200 OK` con resumen.<br><br>**Escenario 02:** Fechas inválidas<br>Dado que las fechas son incorrectas,<br>Entonces responde `400 Bad Request`.                                                                                                                                                         |
+| TS402 | Dashboard de stock crítico       | Como Developer, quiero un endpoint para listar insumos en nivel crítico.                                        | **Escenario 01:** Stock bajo<br>Dado que se consulta `GET`,<br>Cuando hay insumos en nivel mínimo,<br>Entonces responde `200 OK` con listado.<br><br>**Escenario 02:** Sin insumos críticos<br>Entonces responde `200 OK` con lista vacía.                                                                                                                                                                         |
+| TS403 | Exportación de reportes          | Como Developer, quiero un endpoint para exportar reportes en PDF o Excel.                                       | **Escenario 01:** Exportación válida<br>Dado que se solicita `GET`,<br>Cuando se procesa,<br>Entonces responde `200 OK` con archivo.<br><br>**Escenario 02:** Formato inválido<br>Dado que el formato no existe,<br>Entonces responde `400 Bad Request`.                                                                                                                                                           |
+| TS404 | Comparar periodos de consumo     | Como Developer, quiero un endpoint para comparar consumo entre periodos.                                        | **Escenario 01:** Comparación válida<br>Dado que se envía `GET`,<br>Cuando se procesa,<br>Entonces responde `200 OK` con gráfico comparativo.<br><br>**Escenario 02:** Periodos inválidos<br>Dado que se envían fechas incorrectas,<br>Entonces responde `400 Bad Request`.                                                                                                                                        |
+| TS501 | Notificaciones de stock bajo     | Como Developer, quiero un endpoint para generar notificaciones cuando stock llega a mínimo.                     | **Escenario 01:** Stock bajo detectado<br>Dado que se procesa `POST`,<br>Cuando un insumo llega a nivel mínimo,<br>Entonces responde `201 Created` y notifica.                                                                                                                                                                                                                                                     |
+| TS502 | Notificaciones de caducidad      | Como Developer, quiero un endpoint para generar notificaciones de caducidad.                                    | **Escenario 01:** Insumo próximo a vencer<br>Dado que se consulta `GET`,<br>Cuando hay insumos próximos a vencer,<br>Entonces responde `200 OK` con la lista.                                                                                                                                                                                                                                                      |
+| TS503 | Mensajes internos                | Como Developer, quiero un endpoint para enviar mensajes entre usuarios.                                         | **Escenario 01:** Mensaje enviado<br>Dado que se envía un `POST` con remitente, destinatario y texto,<br>Cuando se procesa,<br>Entonces responde `201 Created` y el mensaje queda registrado.                                                                                                                                                                                                                      |
+| TS504 | Resumen diario automático        | Como Developer, quiero un endpoint que genere un resumen diario de stock y movimientos.                         | **Escenario 01:** Generación diaria<br>Dado que llega fin de jornada,<br>Cuando se ejecuta `GET`,<br>Entonces responde `200 OK` con el informe del día.                                                                                                                                                                                                                                                            |
 
 # 3.2 Impact Mapping
 
@@ -817,28 +822,28 @@ Link del miro: https://miro.com/app/board/uXjVJGsSlMY=/?share_link_id=5066730325
 
 Utilizamos la escala de Fibonacci para la estimación de los Story Points.
 
-| Orden | User Story ID | Título                          | Descripción                                                                 | Story Points |
-|-------|---------------|---------------------------------|-----------------------------------------------------------------------------|--------------|
-| 1     | TS101         | Registro de usuarios operativos | Como usuario operativo, deseo registrarme para poder gestionar el inventario. | 3 |
-| 2     | TS102         | Registro de usuarios gerenciales| Como gerente, deseo registrarme para acceder a reportes y dashboards. | 3 |
-| 3     | TS103         | Inicio de sesión                | Como usuario, deseo iniciar sesión para acceder a mis funcionalidades según mi rol. | 3 |
-| 4     | TS104         | Recuperación de contraseña      | Como usuario, deseo recuperar mi contraseña para restablecer mi acceso. | 2 |
-| 5     | TS201         | Registrar insumos               | Como usuario operativo, deseo registrar nuevos insumos para mantener el inventario actualizado. | 3 |
-| 6     | TS202         | Editar insumos                  | Como usuario operativo, deseo editar información de insumos registrados para mantener los datos correctos. | 2 |
-| 7     | TS203         | Visualizar stock                | Como usuario operativo, deseo consultar el listado de insumos con cantidades y fechas para controlar el inventario. | 2 |
-| 8     | TS204         | Alertas de caducidad            | Como usuario operativo, deseo recibir alertas cuando los insumos estén próximos a caducar. | 3 |
-| 9     | TS301         | Registrar entradas de insumos   | Como usuario operativo, deseo registrar entradas de insumos para aumentar el stock. | 3 |
-| 10    | TS302         | Registrar salidas de insumos    | Como usuario operativo, deseo registrar salidas de insumos para disminuir el stock. | 3 |
-| 11    | TS303         | Registrar devoluciones          | Como usuario operativo, deseo registrar devoluciones de insumos para ajustar el stock. | 2 |
-| 12    | TS304         | Historial de movimientos        | Como usuario operativo, deseo consultar el historial de entradas y salidas para verificar movimientos. | 3 |
-| 13    | TS401         | Reportes de consumo             | Como gerente, deseo generar reportes de consumo para analizar el uso de insumos. | 5 |
-| 14    | TS402         | Dashboard de stock crítico      | Como gerente, deseo visualizar un dashboard con insumos en nivel crítico para tomar decisiones. | 3 |
-| 15    | TS403         | Exportación de reportes         | Como gerente, deseo exportar reportes en PDF o Excel para compartirlos. | 5 |
-| 16    | TS404         | Comparar periodos de consumo    | Como gerente, deseo comparar consumo entre periodos para identificar tendencias. | 5 |
-| 17    | TS501         | Notificaciones de stock bajo    | Como usuario operativo, deseo recibir notificaciones cuando un insumo llegue a nivel mínimo. | 3 |
-| 18    | TS502         | Notificaciones de caducidad     | Como usuario operativo, deseo recibir notificaciones automáticas de insumos próximos a vencer. | 3 |
-| 19    | TS503         | Mensajes internos               | Como usuario, deseo enviar mensajes internos para coordinar tareas con otros usuarios. | 3 |
-| 20    | TS504         | Resumen diario automático       | Como gerente, deseo recibir un resumen diario automático de stock y movimientos. | 5 |
+| Orden | User Story ID | Título                           | Descripción                                                                                                         | Story Points |
+| ----- | ------------- | -------------------------------- | ------------------------------------------------------------------------------------------------------------------- | ------------ |
+| 1     | TS101         | Registro de usuarios operativos  | Como usuario operativo, deseo registrarme para poder gestionar el inventario.                                       | 3            |
+| 2     | TS102         | Registro de usuarios gerenciales | Como gerente, deseo registrarme para acceder a reportes y dashboards.                                               | 3            |
+| 3     | TS103         | Inicio de sesión                 | Como usuario, deseo iniciar sesión para acceder a mis funcionalidades según mi rol.                                 | 3            |
+| 4     | TS104         | Recuperación de contraseña       | Como usuario, deseo recuperar mi contraseña para restablecer mi acceso.                                             | 2            |
+| 5     | TS201         | Registrar insumos                | Como usuario operativo, deseo registrar nuevos insumos para mantener el inventario actualizado.                     | 3            |
+| 6     | TS202         | Editar insumos                   | Como usuario operativo, deseo editar información de insumos registrados para mantener los datos correctos.          | 2            |
+| 7     | TS203         | Visualizar stock                 | Como usuario operativo, deseo consultar el listado de insumos con cantidades y fechas para controlar el inventario. | 2            |
+| 8     | TS204         | Alertas de caducidad             | Como usuario operativo, deseo recibir alertas cuando los insumos estén próximos a caducar.                          | 3            |
+| 9     | TS301         | Registrar entradas de insumos    | Como usuario operativo, deseo registrar entradas de insumos para aumentar el stock.                                 | 3            |
+| 10    | TS302         | Registrar salidas de insumos     | Como usuario operativo, deseo registrar salidas de insumos para disminuir el stock.                                 | 3            |
+| 11    | TS303         | Registrar devoluciones           | Como usuario operativo, deseo registrar devoluciones de insumos para ajustar el stock.                              | 2            |
+| 12    | TS304         | Historial de movimientos         | Como usuario operativo, deseo consultar el historial de entradas y salidas para verificar movimientos.              | 3            |
+| 13    | TS401         | Reportes de consumo              | Como gerente, deseo generar reportes de consumo para analizar el uso de insumos.                                    | 5            |
+| 14    | TS402         | Dashboard de stock crítico       | Como gerente, deseo visualizar un dashboard con insumos en nivel crítico para tomar decisiones.                     | 3            |
+| 15    | TS403         | Exportación de reportes          | Como gerente, deseo exportar reportes en PDF o Excel para compartirlos.                                             | 5            |
+| 16    | TS404         | Comparar periodos de consumo     | Como gerente, deseo comparar consumo entre periodos para identificar tendencias.                                    | 5            |
+| 17    | TS501         | Notificaciones de stock bajo     | Como usuario operativo, deseo recibir notificaciones cuando un insumo llegue a nivel mínimo.                        | 3            |
+| 18    | TS502         | Notificaciones de caducidad      | Como usuario operativo, deseo recibir notificaciones automáticas de insumos próximos a vencer.                      | 3            |
+| 19    | TS503         | Mensajes internos                | Como usuario, deseo enviar mensajes internos para coordinar tareas con otros usuarios.                              | 3            |
+| 20    | TS504         | Resumen diario automático        | Como gerente, deseo recibir un resumen diario automático de stock y movimientos.                                    | 5            |
 
 # Capítulo IV: Product Design
 
@@ -851,42 +856,40 @@ A continuación, se detallan los aspectos clave de este enfoque de diseño.
 ## 4.1.1 General Style Guidelines
 
 **Branding:**  
-El branding de **InventaTrack** busca transmitir modernidad, confiabilidad y eficiencia en la gestión de inventarios de alimentos. La identidad visual combina colores frescos y contrastantes que reflejan **tecnología** (azules), **sostenibilidad** (verdes) y **alerta ante riesgos** (amarillos/naranjas). Su propósito es generar confianza en usuarios operativos y gerenciales, asegurando una comunicación clara y profesional en cada punto de contacto.  
+El branding de **InventaTrack** busca transmitir modernidad, confiabilidad y eficiencia en la gestión de inventarios de alimentos. La identidad visual combina colores frescos y contrastantes que reflejan **tecnología** (azules), **sostenibilidad** (verdes) y **alerta ante riesgos** (amarillos/naranjas). Su propósito es generar confianza en usuarios operativos y gerenciales, asegurando una comunicación clara y profesional en cada punto de contacto.
 
 **Brand Name:**  
-**InventaTrack** – El nombre combina “Inventario” y “Track” (seguimiento), resaltando el objetivo principal del producto: **control y trazabilidad de insumos de manera ágil y digital**.  
+**InventaTrack** – El nombre combina “Inventario” y “Track” (seguimiento), resaltando el objetivo principal del producto: **control y trazabilidad de insumos de manera ágil y digital**.
 
 **Typography:**  
-La tipografía organiza el lenguaje visual de las plataformas, garantizando legibilidad y mejorando la experiencia del usuario. Por ello, se eligieron familias tipográficas modernas, sans-serif, ampliamente utilizadas en interfaces digitales y compatibles con navegadores.  
+La tipografía organiza el lenguaje visual de las plataformas, garantizando legibilidad y mejorando la experiencia del usuario. Por ello, se eligieron familias tipográficas modernas, sans-serif, ampliamente utilizadas en interfaces digitales y compatibles con navegadores.
 
 **Head:**  
-**Poppins Bold / 24–32 px / #2563eb (Primary)**  
-- Usado en títulos, encabezados de secciones y nombres de páginas.  
-- Transmite claridad y jerarquía, resaltando lo más importante en la interfaz.  
+**Poppins Bold / 24–32 px / #2563eb (Primary)**
+
+- Usado en títulos, encabezados de secciones y nombres de páginas.
+- Transmite claridad y jerarquía, resaltando lo más importante en la interfaz.
 
 **Body:**  
-**Roboto Regular / 14–16 px / #1f2937 (Text Dark)**  
-- Usado en párrafos, formularios, descripciones y tablas.  
-- Priorizamos la legibilidad en pantallas largas y reportes.  
+**Roboto Regular / 14–16 px / #1f2937 (Text Dark)**
 
-
+- Usado en párrafos, formularios, descripciones y tablas.
+- Priorizamos la legibilidad en pantallas largas y reportes.
 
 **Colors:**
 
-| Rol | HEX | Uso |
-|---|---:|---|
-| Primary | `#2563eb` | Títulos, enlaces y elementos de marca |
-| Primary Dark | `#1e40af` | Gradientes y fondos de énfasis |
-| Secondary | `#10b981` | Indicadores (éxito, progreso) |
-| Accent | `#f59e0b` | Llamadas de atención / acentos |
-| Text Dark | `#1f2937` | Texto principal |
-| Text Light | `#6b7280` | Texto secundario |
-| Background Light | `#f8fafc` | Fondos generales |
-| White | `#ffffff` | Fondos de tarjetas / botones claros |
+| Rol              |       HEX | Uso                                   |
+| ---------------- | --------: | ------------------------------------- |
+| Primary          | `#2563eb` | Títulos, enlaces y elementos de marca |
+| Primary Dark     | `#1e40af` | Gradientes y fondos de énfasis        |
+| Secondary        | `#10b981` | Indicadores (éxito, progreso)         |
+| Accent           | `#f59e0b` | Llamadas de atención / acentos        |
+| Text Dark        | `#1f2937` | Texto principal                       |
+| Text Light       | `#6b7280` | Texto secundario                      |
+| Background Light | `#f8fafc` | Fondos generales                      |
+| White            | `#ffffff` | Fondos de tarjetas / botones claros   |
 
 **Spacing:**
-
-
 
 ## 4.1.2 Web Style Guidelines
 
@@ -924,54 +927,69 @@ Con esta estructura, InventaTech asegura que la información sea accesible, efic
 
 En InventaTech, los íconos y etiquetas se diseñan para ofrecer a los usuarios una navegación intuitiva y rápida comprensión de las funciones disponibles. Cada ícono representa un conjunto de información o acción clave dentro de la plataforma.
 
-| Ícono | Nombre | Descripción |
-|-------|--------|-------------|
-| 👤    | Mi Perfil | Permite a los usuarios (operativos o gerenciales) acceder y modificar su información personal, consultar historial de movimientos de insumos y revisar su actividad reciente. |
-| 📦    | Inventario / Áreas de insumos | Menú desplegable que organiza los insumos por categoría, tipo de producto o ubicación en almacén, facilitando la consulta rápida y eficiente. |
-| 🔍    | Buscar insumo | Permite localizar insumos específicos dentro del inventario, con filtros por nombre, cantidad disponible, fecha de caducidad o proveedor. |
-| ⚠️    | Alertas de caducidad | Notifica a los usuarios sobre insumos próximos a vencer o vencidos, para tomar acciones preventivas y evitar desperdicios. |
-| 📈    | Reportes de consumo | Acceso a reportes detallados sobre consumo de insumos, permitiendo a gerentes tomar decisiones estratégicas sobre compras y control de costos. |
-| 📊    | Dashboard de stock crítico | Visualiza los insumos con nivel crítico, alertando sobre cantidades bajas y ayudando en la planificación de reabastecimiento. |
-| ⚙️    | Configuración | Permite a los usuarios modificar ajustes de la cuenta, preferencias de notificación, roles y permisos dentro de la plataforma. |
-| 🏠    | Inicio / Home | Lleva al usuario a la página principal del panel, mostrando resumen de stock, alertas y accesos rápidos a funciones frecuentes. |
-| 🔔    | Notificaciones | Muestra alertas importantes sobre stock bajo, movimientos recientes, mensajes recibidos o acciones pendientes. |
-| 📝    | Registrar insumo | Acceso rápido a la funcionalidad para agregar nuevos insumos al inventario, completando información como cantidad, fecha y categoría. |
-| ✏️    | Editar insumo | Permite actualizar información de insumos existentes, como cantidad, fecha de caducidad o ubicación en almacén. |
-| ➕    | Registrar entradas | Funcionalidad para registrar entradas de insumos al inventario, aumentando las cantidades disponibles. |
-| ➖    | Registrar salidas | Permite registrar el consumo o salida de insumos, disminuyendo el stock disponible y actualizando registros. |
-| 🔄    | Registrar devoluciones | Función para registrar devoluciones de insumos al inventario, asegurando la consistencia de los datos. |
-| 📜    | Historial de movimientos | Permite consultar el historial completo de entradas, salidas y devoluciones, con filtros por fecha y usuario responsable. |
-| 📤    | Exportar reportes | Función para descargar reportes en PDF o Excel, facilitando análisis fuera de la plataforma. |
-| 🔁    | Comparar periodos de consumo | Permite generar comparaciones entre diferentes periodos para identificar tendencias y patrones de consumo. |
-| 📉    | Notificaciones de stock bajo | Alertas automáticas cuando los insumos llegan a su nivel mínimo configurado, para prevenir faltantes. |
-| ⏰    | Resumen diario automático | Envía un resumen diario de stock y movimientos al correo o panel del gerente, manteniéndolo informado sin necesidad de ingresar manualmente. |
+| Ícono | Nombre                        | Descripción                                                                                                                                                                   |
+| ----- | ----------------------------- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| 👤    | Mi Perfil                     | Permite a los usuarios (operativos o gerenciales) acceder y modificar su información personal, consultar historial de movimientos de insumos y revisar su actividad reciente. |
+| 📦    | Inventario / Áreas de insumos | Menú desplegable que organiza los insumos por categoría, tipo de producto o ubicación en almacén, facilitando la consulta rápida y eficiente.                                 |
+| 🔍    | Buscar insumo                 | Permite localizar insumos específicos dentro del inventario, con filtros por nombre, cantidad disponible, fecha de caducidad o proveedor.                                     |
+| ⚠️    | Alertas de caducidad          | Notifica a los usuarios sobre insumos próximos a vencer o vencidos, para tomar acciones preventivas y evitar desperdicios.                                                    |
+| 📈    | Reportes de consumo           | Acceso a reportes detallados sobre consumo de insumos, permitiendo a gerentes tomar decisiones estratégicas sobre compras y control de costos.                                |
+| 📊    | Dashboard de stock crítico    | Visualiza los insumos con nivel crítico, alertando sobre cantidades bajas y ayudando en la planificación de reabastecimiento.                                                 |
+| ⚙️    | Configuración                 | Permite a los usuarios modificar ajustes de la cuenta, preferencias de notificación, roles y permisos dentro de la plataforma.                                                |
+| 🏠    | Inicio / Home                 | Lleva al usuario a la página principal del panel, mostrando resumen de stock, alertas y accesos rápidos a funciones frecuentes.                                               |
+| 🔔    | Notificaciones                | Muestra alertas importantes sobre stock bajo, movimientos recientes, mensajes recibidos o acciones pendientes.                                                                |
+| 📝    | Registrar insumo              | Acceso rápido a la funcionalidad para agregar nuevos insumos al inventario, completando información como cantidad, fecha y categoría.                                         |
+| ✏️    | Editar insumo                 | Permite actualizar información de insumos existentes, como cantidad, fecha de caducidad o ubicación en almacén.                                                               |
+| ➕    | Registrar entradas            | Funcionalidad para registrar entradas de insumos al inventario, aumentando las cantidades disponibles.                                                                        |
+| ➖    | Registrar salidas             | Permite registrar el consumo o salida de insumos, disminuyendo el stock disponible y actualizando registros.                                                                  |
+| 🔄    | Registrar devoluciones        | Función para registrar devoluciones de insumos al inventario, asegurando la consistencia de los datos.                                                                        |
+| 📜    | Historial de movimientos      | Permite consultar el historial completo de entradas, salidas y devoluciones, con filtros por fecha y usuario responsable.                                                     |
+| 📤    | Exportar reportes             | Función para descargar reportes en PDF o Excel, facilitando análisis fuera de la plataforma.                                                                                  |
+| 🔁    | Comparar periodos de consumo  | Permite generar comparaciones entre diferentes periodos para identificar tendencias y patrones de consumo.                                                                    |
+| 📉    | Notificaciones de stock bajo  | Alertas automáticas cuando los insumos llegan a su nivel mínimo configurado, para prevenir faltantes.                                                                         |
+| ⏰    | Resumen diario automático     | Envía un resumen diario de stock y movimientos al correo o panel del gerente, manteniéndolo informado sin necesidad de ingresar manualmente.                                  |
 
 ### 4.2.3. SEO Tags and Meta Tags
 
-Para garantizar la visibilidad del producto en motores de búsqueda y mejorar la experiencia en redes sociales, se implementaron etiquetas **SEO (Search Engine Optimization)** y **meta tags** en el archivo `index.html`.  
+Para garantizar la visibilidad del producto en motores de búsqueda y mejorar la experiencia en redes sociales, se implementaron etiquetas **SEO (Search Engine Optimization)** y **meta tags** en el archivo `index.html`.
 
 #### Meta tags básicas
+
 ```html
 <meta charset="UTF-8" />
 <meta name="viewport" content="width=device-width, initial-scale=1.0" />
 <title>InventaTrack - Smart Food Inventory Management</title>
-<meta name="description" content="Gestiona inventarios y fechas de caducidad fácilmente con InventaTrack, la solución digital para negocios alimentarios." />
-<meta name="keywords" content="inventarios, alimentos perecederos, control de stock, alertas de caducidad, gestión digital" />
+<meta
+  name="description"
+  content="Gestiona inventarios y fechas de caducidad fácilmente con InventaTrack, la solución digital para negocios alimentarios."
+/>
+<meta
+  name="keywords"
+  content="inventarios, alimentos perecederos, control de stock, alertas de caducidad, gestión digital"
+/>
 <meta name="author" content="InventaTrack" />
-
 ```
 
 #### Open Graph y redes sociales
+
 ```html
 <meta property="og:title" content="InventaTrack" />
-<meta property="og:description" content="Gestiona inventarios y fechas de caducidad fácilmente." />
+<meta
+  property="og:description"
+  content="Gestiona inventarios y fechas de caducidad fácilmente."
+/>
 <meta property="og:image" content="https://inventaTrack.com/og-image.jpg" />
 
 <meta name="twitter:card" content="summary_large_image" />
 <meta name="twitter:title" content="InventaTrack" />
-<meta name="twitter:description" content="Gestiona inventarios y fechas de caducidad fácilmente." />
-<meta name="twitter:image" content="https://inventaTrack.com/twitter-image.jpg" />
-
+<meta
+  name="twitter:description"
+  content="Gestiona inventarios y fechas de caducidad fácilmente."
+/>
+<meta
+  name="twitter:image"
+  content="https://inventaTrack.com/twitter-image.jpg"
+/>
 ```
 
 ### 4.2.4 Searching Systems
@@ -991,7 +1009,7 @@ Dependiendo del contexto y sección, los usuarios podrán filtrar los resultados
 - Nombre del producto o insumo
 - Categoría o tipo de alimento
 - Fecha de caducidad
-- Estado del stock 
+- Estado del stock
 - Fecha de ingreso o última actualización
 
 ### 4.2.5 Navigation Systems
@@ -999,7 +1017,7 @@ Dependiendo del contexto y sección, los usuarios podrán filtrar los resultados
 A continuación, se mostrarán los sistemas de navegación que le permitirán a nuestros usuarios moverse a través de las distintas piezas de contenido o información.
 
 - **Menú principal (Header):**  
-  Ubicado en la parte superior, contiene enlaces ancla hacia las secciones *Features*, *Industries* y *Contact*. Incluye además un botón para cambiar de idioma (`language-switcher`).  
+  Ubicado en la parte superior, contiene enlaces ancla hacia las secciones _Features_, _Industries_ y _Contact_. Incluye además un botón para cambiar de idioma (`language-switcher`).
 
 - **Menú móvil (Hamburger menu):**  
   Para dispositivos con pantallas pequeñas, se implementa un botón tipo hamburguesa que despliega los enlaces en columna (`.nav-links.active`).
@@ -1008,11 +1026,11 @@ A continuación, se mostrarán los sistemas de navegación que le permitirán a 
   “Agregar producto”, “Editar insumo”, “Generar alerta” y “Ver reporte”. Esto facilita que el usuario realice sus tareas de manera rápida e intuitiva.
 
 - **Footer:**  
-  Contiene enlaces secundarios agrupados en cuatro columnas: *Product*, *Support*, *Company* y *Brand description*.  
+  Contiene enlaces secundarios agrupados en cuatro columnas: _Product_, _Support_, _Company_ y _Brand description_.
 
 - **Interactividad:**  
   El archivo `main.js` implementa un **scroll suave** al hacer clic en los enlaces, mejorando la experiencia de navegación.  
-  Además, el header cambia de estilo visual al desplazarse la página (`window.scroll` event).  
+  Además, el header cambia de estilo visual al desplazarse la página (`window.scroll` event).
 
 ## 4.3. Landing Page UI Design
 
@@ -1033,6 +1051,7 @@ El wireframe define la estructura básica de la landing page en bloques principa
 #### Desktop Browser:
 
 ##### Inicio de sesión y registro:
+
 <img src="assets/Wireframe-Login.png" width="100%" height="100%">
 
 <img src="assets/Wireframe-Register.png" width="100%" height="100%">
@@ -1040,25 +1059,31 @@ El wireframe define la estructura básica de la landing page en bloques principa
 ### 4.4.2. Web Applications Wireflow Diagrams
 
 ##### Usuario ingresa a la aplicación iniciando sesión o registrándose:
+
 <img src="assets/Wireflow-1.png" width="100%" height="100%">
 
 ##### Usuario desea realizar un inventario:
+
 <img src="assets/Wireflow-2.png" width="100%" height="100%">
 
 ##### Usuario desea ver el reporte del inventario:
+
 <img src="assets/Wireflow-3.png" width="100%" height="100%">
 
 ### 4.4.3. Web Applications Mock-ups
 
 ##### Inicio de sesión y registro:
+
 <img src="assets/Mockup-Login.png" width="100%" height="100%">
 
 <img src="assets/Mockup-Register.png" width="100%" height="100%">
 
 ##### Vista de inventarios:
+
 <img src="assets/Mockup-Inventario.png" width="100%" height="100%">
 
 #### Vista de reportes:
+
 <img src="assets/Mockup-Reporte.png" width="100%" height="100%">
 
 ### 4.4.4. Web Applications User Flow Diagrams
@@ -1066,48 +1091,50 @@ El wireframe define la estructura básica de la landing page en bloques principa
 ##### User Goal 1: Acceder a la aplicación ya sea con registro o inicio de sesión.
 
 **Descripción:**  
-El usuario necesita entrar al sistema para gestionar inventario o visualizar reportes.  
+El usuario necesita entrar al sistema para gestionar inventario o visualizar reportes.
 
 **Flujo principal (Happy Path):**  
-Inicio → Pantalla de Login → Usuario ingresa correo y contraseña → Click en *Iniciar sesión* → Accede al Dashboard.  
+Inicio → Pantalla de Login → Usuario ingresa correo y contraseña → Click en _Iniciar sesión_ → Accede al Dashboard.
 
-**Flujos alternativos parciales:**  
-- Usuario no tiene cuenta → Click en *Regístrate aquí* → Completa formulario de registro → Accede al Dashboard.  
-- Usuario olvida contraseña → Click en *¿Olvidaste tu contraseña?* → Recupera acceso vía correo → Accede al Dashboard.  
+**Flujos alternativos parciales:**
+
+- Usuario no tiene cuenta → Click en _Regístrate aquí_ → Completa formulario de registro → Accede al Dashboard.
+- Usuario olvida contraseña → Click en _¿Olvidaste tu contraseña?_ → Recupera acceso vía correo → Accede al Dashboard.
 
 ---
 
 ##### User Goal 2: Registrar un inventario
 
 **Descripción:**  
-El usuario desea registrar la entrada/salida de insumos en el inventario.  
+El usuario desea registrar la entrada/salida de insumos en el inventario.
 
 **Flujo principal (Happy Path):**  
-Dashboard → Menú Inventario → Click en *Registrar entrada/salida* → Completa formulario → Click en *Guardar* → Inventario actualizado.  
+Dashboard → Menú Inventario → Click en _Registrar entrada/salida_ → Completa formulario → Click en _Guardar_ → Inventario actualizado.
 
-**Flujos alternativos parciales:**  
-- Usuario cancela → Click en *Cancelar* → Vuelve al listado de inventario.  
-- Datos inválidos → Sistema muestra mensaje de error → Usuario corrige → Guarda con éxito.  
+**Flujos alternativos parciales:**
+
+- Usuario cancela → Click en _Cancelar_ → Vuelve al listado de inventario.
+- Datos inválidos → Sistema muestra mensaje de error → Usuario corrige → Guarda con éxito.
 
 ---
 
 ##### User Goal 3: Visualizar un reporte de inventario
 
 **Descripción:**  
-El usuario busca analizar el estado del inventario mediante gráficos y reportes exportables.  
+El usuario busca analizar el estado del inventario mediante gráficos y reportes exportables.
 
 **Flujo principal (Happy Path):**  
-Dashboard → Menú Reportes → Selecciona rango de fechas + categoría → Click en *Generar reporte* → Visualiza gráficos (barras, pie chart) y tabla → Puede exportar a PDF/Excel.  
+Dashboard → Menú Reportes → Selecciona rango de fechas + categoría → Click en _Generar reporte_ → Visualiza gráficos (barras, pie chart) y tabla → Puede exportar a PDF/Excel.
 
-**Flujos alternativos parciales:**  
-- Usuario no selecciona filtros → Sistema muestra mensaje de advertencia → Usuario selecciona y genera reporte.  
-- Usuario intenta exportar sin conexión → Sistema muestra error y sugiere reintentar.  
+**Flujos alternativos parciales:**
 
+- Usuario no selecciona filtros → Sistema muestra mensaje de advertencia → Usuario selecciona y genera reporte.
+- Usuario intenta exportar sin conexión → Sistema muestra error y sugiere reintentar.
 
 ## 4.5. Web Applications Prototyping
 
 - Link del video:
-https://upcedupe-my.sharepoint.com/:v:/g/personal/u202216150_upc_edu_pe/EV7-KC3nN7NDp6pfHqdMvyUBgYPQGFivb42UTauogrb-1A?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJPbmVEcml2ZUZvckJ1c2luZXNzIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXciLCJyZWZlcnJhbFZpZXciOiJNeUZpbGVzTGlua0NvcHkifX0&e=QqlCJJ
+  https://upcedupe-my.sharepoint.com/:v:/g/personal/u202216150_upc_edu_pe/EV7-KC3nN7NDp6pfHqdMvyUBgYPQGFivb42UTauogrb-1A?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJPbmVEcml2ZUZvckJ1c2luZXNzIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXciLCJyZWZlcnJhbFZpZXciOiJNeUZpbGVzTGlua0NvcHkifX0&e=QqlCJJ
 
 ## 4.6. Domain-Driven Software Architecture
 
@@ -1133,7 +1160,7 @@ Link del miro: https://miro.com/app/board/uXjVJGeS0Kc=/?share_link_id=9136950196
 
 ## 4.7 Software Object-Oriented Design
 
-### 4.7.1  Class Diagrams
+### 4.7.1 Class Diagrams
 
 <img src="assets/CD.png" width="100%" height="100%">
 
@@ -1153,99 +1180,103 @@ Link del diagrama: https://drive.google.com/file/d/1jcCJUNHeWBzlNkrEl9jwdaP_kr-q
 
 ###### Requirements Management
 
-En esta categoría se incluyen las herramientas que el equipo de InventaTrack emplea para identificar, documentar y representar de forma visual los requisitos del sistema, asegurando claridad y entendimiento común entre todos los miembros del proyecto.  
+En esta categoría se incluyen las herramientas que el equipo de InventaTrack emplea para identificar, documentar y representar de forma visual los requisitos del sistema, asegurando claridad y entendimiento común entre todos los miembros del proyecto.
 
-- **Miro**: Se utiliza para la creación de diagramas de flujo, mapas mentales y esquemas de procesos que permiten analizar los requisitos funcionales y no funcionales de la aplicación. [https://miro.com](https://miro.com)  
+- **Miro**: Se utiliza para la creación de diagramas de flujo, mapas mentales y esquemas de procesos que permiten analizar los requisitos funcionales y no funcionales de la aplicación. [https://miro.com](https://miro.com)
 
-- **Canva**: Permite diseñar presentaciones visuales e infografías que resumen los requisitos y necesidades detectadas en las entrevistas con los usuarios y stakeholders. [https://www.canva.com](https://www.canva.com)  
+- **Canva**: Permite diseñar presentaciones visuales e infografías que resumen los requisitos y necesidades detectadas en las entrevistas con los usuarios y stakeholders. [https://www.canva.com](https://www.canva.com)
 
 - **Figma**: Es fundamental para el prototipado y diseño de interfaces, transformando los requisitos en wireframes y mockups interactivos que sirven como guía para el desarrollo. [https://www.figma.com](https://www.figma.com)
 
 ###### Software Development
 
-En esta categoría se consideran las herramientas y lenguajes utilizados para la programación de InventaTrack, permitiendo implementar las funcionalidades definidas en los requisitos y plasmadas en los prototipos de diseño.  
+En esta categoría se consideran las herramientas y lenguajes utilizados para la programación de InventaTrack, permitiendo implementar las funcionalidades definidas en los requisitos y plasmadas en los prototipos de diseño.
 
-- **JetBrains WebStorm**: Entorno de desarrollo integrado (IDE) especializado en JavaScript y tecnologías web, que facilita la codificación, depuración y pruebas del proyecto gracias a su conjunto de herramientas inteligentes. [https://www.jetbrains.com/webstorm/](https://www.jetbrains.com/webstorm/)  
-- **JavaScript**: Lenguaje de programación utilizado para implementar la lógica y la interactividad dentro de la plataforma, permitiendo que la aplicación sea dinámica y responsiva. [https://developer.mozilla.org/es/docs/Web/JavaScript](https://developer.mozilla.org/es/docs/Web/JavaScript)  
+- **JetBrains WebStorm**: Entorno de desarrollo integrado (IDE) especializado en JavaScript y tecnologías web, que facilita la codificación, depuración y pruebas del proyecto gracias a su conjunto de herramientas inteligentes. [https://www.jetbrains.com/webstorm/](https://www.jetbrains.com/webstorm/)
+- **JavaScript**: Lenguaje de programación utilizado para implementar la lógica y la interactividad dentro de la plataforma, permitiendo que la aplicación sea dinámica y responsiva. [https://developer.mozilla.org/es/docs/Web/JavaScript](https://developer.mozilla.org/es/docs/Web/JavaScript)
 
-- **HTML**: Lenguaje de marcado empleado para estructurar el contenido de las páginas de la aplicación, sirviendo como la base para la interfaz del usuario. [https://developer.mozilla.org/es/docs/Web/HTML](https://developer.mozilla.org/es/docs/Web/HTML)  
+- **HTML**: Lenguaje de marcado empleado para estructurar el contenido de las páginas de la aplicación, sirviendo como la base para la interfaz del usuario. [https://developer.mozilla.org/es/docs/Web/HTML](https://developer.mozilla.org/es/docs/Web/HTML)
 
 - **CSS**: Lenguaje de estilos que define la apariencia visual de la aplicación, garantizando un diseño atractivo, coherente y adaptado a distintos dispositivos. [https://developer.mozilla.org/es/docs/Web/CSS](https://developer.mozilla.org/es/docs/Web/CSS)
 
 ###### Software Deployment
 
-En esta categoría se incluyen las herramientas que permiten publicar y poner en funcionamiento la aplicación InventaTrack, asegurando su disponibilidad para los usuarios finales y manteniendo un flujo de entrega ágil y controlado.  
+En esta categoría se incluyen las herramientas que permiten publicar y poner en funcionamiento la aplicación InventaTrack, asegurando su disponibilidad para los usuarios finales y manteniendo un flujo de entrega ágil y controlado.
 
-- **GitHub Pages**: Servicio de hosting que facilita el despliegue de aplicaciones web estáticas directamente desde los repositorios de GitHub, simplificando la publicación de versiones iniciales y prototipos. [https://pages.github.com/](https://pages.github.com/)  
+- **GitHub Pages**: Servicio de hosting que facilita el despliegue de aplicaciones web estáticas directamente desde los repositorios de GitHub, simplificando la publicación de versiones iniciales y prototipos. [https://pages.github.com/](https://pages.github.com/)
 
-- **Netlify**: Plataforma que automatiza el proceso de despliegue, ofreciendo integración continua, previsualización de cambios y optimización de recursos para mejorar el rendimiento de la aplicación. [https://www.netlify.com/](https://www.netlify.com/)  
+- **Netlify**: Plataforma que automatiza el proceso de despliegue, ofreciendo integración continua, previsualización de cambios y optimización de recursos para mejorar el rendimiento de la aplicación. [https://www.netlify.com/](https://www.netlify.com/)
 
 - **Vercel**: Herramienta enfocada en proyectos web que permite desplegar aplicaciones rápidamente con soporte para flujos de trabajo en equipo, facilitando escalabilidad y pruebas en diferentes entornos. [https://vercel.com/](https://vercel.com/)
 
 ###### Software Documentation and Project Management
 
-En esta categoría se incluyen las herramientas que el equipo de InventaTrack emplea para la documentación técnica, control de versiones y la gestión de tareas dentro del ciclo de vida del proyecto.  
+En esta categoría se incluyen las herramientas que el equipo de InventaTrack emplea para la documentación técnica, control de versiones y la gestión de tareas dentro del ciclo de vida del proyecto.
 
-- **GitHub**: Herramienta esencial para el control de versiones del código, permitiendo a los miembros del equipo colaborar de manera simultánea, gestionar ramas, registrar cambios y mantener la documentación técnica del proyecto en repositorios centralizados. [https://github.com](https://github.com)  
-- **Trello**: Se utiliza para la gestión del backlog y la organización de las tareas del equipo. Permite planificar los sprints, asignar responsables, establecer prioridades y dar un seguimiento visual al progreso mediante tableros Kanban. [https://trello.com](https://trello.com)  
+- **GitHub**: Herramienta esencial para el control de versiones del código, permitiendo a los miembros del equipo colaborar de manera simultánea, gestionar ramas, registrar cambios y mantener la documentación técnica del proyecto en repositorios centralizados. [https://github.com](https://github.com)
+- **Trello**: Se utiliza para la gestión del backlog y la organización de las tareas del equipo. Permite planificar los sprints, asignar responsables, establecer prioridades y dar un seguimiento visual al progreso mediante tableros Kanban. [https://trello.com](https://trello.com)
 
 ## 5.1.2. Source Code Management
 
-El proyecto adopta las convenciones del modelo GitFlow como flujo de trabajo principal para el control de versiones, garantizando una adecuada organización de ramas y facilitando la integración continua. Como plataforma central, se utiliza GitHub, donde se gestionan los repositorios oficiales del proyecto.  
+El proyecto adopta las convenciones del modelo GitFlow como flujo de trabajo principal para el control de versiones, garantizando una adecuada organización de ramas y facilitando la integración continua. Como plataforma central, se utiliza GitHub, donde se gestionan los repositorios oficiales del proyecto.
 
 En esta etapa, se comparten los enlaces a los repositorios asociados al desarrollo del proyecto, asegurando la trazabilidad y transparencia. Este mismo enfoque será aplicado de manera consistente en los demás productos que conforman el proyecto, con el objetivo de mantener un estándar unificado de gestión de código y colaboración entre los miembros del equipo.
 
 ###### Repositorio de GitHub:
 
-* **URL para acceder a nuestro reporte en GitHub:** https://github.com/1asi0729-2520-7394-InventaTech/inventatrack-report
-* **URL para acceder nuestro repositorio de Landing Page:** https://github.com/1asi0729-2520-7394-InventaTech/inventatrack-website
+- **URL para acceder a nuestro reporte en GitHub:** https://github.com/1asi0729-2520-7394-InventaTech/inventatrack-report
+- **URL para acceder nuestro repositorio de Landing Page:** https://github.com/1asi0729-2520-7394-InventaTech/inventatrack-website
 
 ## 5.1.3. Source Code Style Guide & Conventions
 
 #### HTML5
+
 En InventaTrack, el uso de HTML5 constituye la base para estructurar el contenido de la Landing Page y las vistas del sistema de inventario. Para mantener un código ordenado y accesible se aplican las siguientes prácticas:
 
-- Usar etiquetas en minúsculas para mantener uniformidad y facilitar la lectura.  
-- Cerrar correctamente todas las etiquetas, garantizando compatibilidad entre navegadores.  
-- Documentar con comentarios breves y claros cada sección del código.  
-- Mantener un formato limpio evitando líneas demasiado extensas o espacios innecesarios.  
-- Incluir elementos esenciales como `<title>`, `<html>`, `<head>` y `<body>`.  
-- Definir el idioma del contenido con el atributo `lang` en la etiqueta `<html>`.  
-- Añadir atributos como `alt`, `width` y `height` en imágenes para mejorar la accesibilidad y la experiencia de usuario.  
-- Usar la metaetiqueta `<meta name="viewport">` para asegurar la correcta visualización en dispositivos móviles.  
+- Usar etiquetas en minúsculas para mantener uniformidad y facilitar la lectura.
+- Cerrar correctamente todas las etiquetas, garantizando compatibilidad entre navegadores.
+- Documentar con comentarios breves y claros cada sección del código.
+- Mantener un formato limpio evitando líneas demasiado extensas o espacios innecesarios.
+- Incluir elementos esenciales como `<title>`, `<html>`, `<head>` y `<body>`.
+- Definir el idioma del contenido con el atributo `lang` en la etiqueta `<html>`.
+- Añadir atributos como `alt`, `width` y `height` en imágenes para mejorar la accesibilidad y la experiencia de usuario.
+- Usar la metaetiqueta `<meta name="viewport">` para asegurar la correcta visualización en dispositivos móviles.
 
-#### CSS 
-CSS en InventaTrack se utiliza para dar un diseño moderno y profesional, priorizando la usabilidad y la experiencia del usuario. Las convenciones aplicadas incluyen:  
+#### CSS
 
-- Nomenclatura clara y coherente para clases e identificadores, lo que facilita la colaboración.  
-- Indentación uniforme y uso de espacios adecuados para mantener un código legible.  
-- Comentarios que expliquen la lógica de bloques de estilos o secciones clave.  
-- Agrupar propiedades relacionadas para mantener orden en las hojas de estilo.  
-- Evitar selectores demasiado específicos que dificulten la escalabilidad del proyecto.  
-- Probar los estilos en distintos navegadores y dispositivos para asegurar consistencia visual.  
-- Optimizar el código reduciendo duplicidades y validarlo con herramientas como el validador de W3C.  
+CSS en InventaTrack se utiliza para dar un diseño moderno y profesional, priorizando la usabilidad y la experiencia del usuario. Las convenciones aplicadas incluyen:
+
+- Nomenclatura clara y coherente para clases e identificadores, lo que facilita la colaboración.
+- Indentación uniforme y uso de espacios adecuados para mantener un código legible.
+- Comentarios que expliquen la lógica de bloques de estilos o secciones clave.
+- Agrupar propiedades relacionadas para mantener orden en las hojas de estilo.
+- Evitar selectores demasiado específicos que dificulten la escalabilidad del proyecto.
+- Probar los estilos en distintos navegadores y dispositivos para asegurar consistencia visual.
+- Optimizar el código reduciendo duplicidades y validarlo con herramientas como el validador de W3C.
 
 #### JavaScript
-JavaScript en InventaTrack permite implementar las funcionalidades dinámicas del sistema, como alertas de vencimiento o validaciones en formularios. Las buenas prácticas adoptadas son:  
 
-- Usar una nomenclatura consistente para variables, funciones y objetos.  
-- Aplicar una indentación clara y usar espacios adecuados después de palabras clave (`if`, `for`, `function`).  
-- Incluir comentarios que describan la lógica de cada sección del código.  
-- Minimizar el uso de variables globales, favoreciendo el uso de contextos locales.  
-- Implementar mecanismos de manejo de errores (`try-catch`) para garantizar robustez.  
-- Optimizar el rendimiento con técnicas como caché y minimización de scripts.  
-- Realizar pruebas cruzadas en diferentes navegadores y dispositivos.  
+JavaScript en InventaTrack permite implementar las funcionalidades dinámicas del sistema, como alertas de vencimiento o validaciones en formularios. Las buenas prácticas adoptadas son:
+
+- Usar una nomenclatura consistente para variables, funciones y objetos.
+- Aplicar una indentación clara y usar espacios adecuados después de palabras clave (`if`, `for`, `function`).
+- Incluir comentarios que describan la lógica de cada sección del código.
+- Minimizar el uso de variables globales, favoreciendo el uso de contextos locales.
+- Implementar mecanismos de manejo de errores (`try-catch`) para garantizar robustez.
+- Optimizar el rendimiento con técnicas como caché y minimización de scripts.
+- Realizar pruebas cruzadas en diferentes navegadores y dispositivos.
 
 #### Gherkin
-Para las pruebas de comportamiento de InventaTrack, se utiliza el lenguaje Gherkin, asegurando que los escenarios sean claros y entendibles por todo el equipo:  
 
-- Redactar escenarios simples y legibles, alineados con los requisitos del negocio.  
-- Mantener la estructura estandarizada con palabras clave como `Feature`, `Scenario`, `Given`, `When`, `Then` y `And`.  
-- Especificar claramente el estado inicial, las acciones y los resultados esperados.  
-- Reutilizar pasos comunes con `And` para evitar redundancias.  
-- Mantener escenarios enfocados en una funcionalidad concreta.  
-- Usar comentarios solo cuando sea necesario para añadir contexto adicional.  
-- Revisar escenarios en equipo para validar su alineación con los objetivos de InventaTrack.  
+Para las pruebas de comportamiento de InventaTrack, se utiliza el lenguaje Gherkin, asegurando que los escenarios sean claros y entendibles por todo el equipo:
+
+- Redactar escenarios simples y legibles, alineados con los requisitos del negocio.
+- Mantener la estructura estandarizada con palabras clave como `Feature`, `Scenario`, `Given`, `When`, `Then` y `And`.
+- Especificar claramente el estado inicial, las acciones y los resultados esperados.
+- Reutilizar pasos comunes con `And` para evitar redundancias.
+- Mantener escenarios enfocados en una funcionalidad concreta.
+- Usar comentarios solo cuando sea necesario para añadir contexto adicional.
+- Revisar escenarios en equipo para validar su alineación con los objetivos de InventaTrack.
 
 ## 5.1.4. Software Deployment Configuration
 
@@ -1257,10 +1288,11 @@ Para la publicación en línea de InventaTrack, se implementó un proceso de des
    Los repositorios de InventaTrack están alojados en GitHub. Netlify se enlaza directamente con estos repositorios, lo que permite que, cada vez que se registra un nuevo commit o se actualiza una rama, se inicie automáticamente el proceso de construcción del sitio.
 
 2. **Compilación Automatizada**  
-   Durante el proceso de build, Netlify transforma el código fuente (HTML, CSS, JavaScript, TypeScript) en una versión optimizada y lista para producción. Este proceso incluye:  
-   - Minificación de archivos.  
-   - Optimización de recursos estáticos (imágenes, fuentes).  
-   - Generación de un sitio seguro y compatible con múltiples navegadores.  
+   Durante el proceso de build, Netlify transforma el código fuente (HTML, CSS, JavaScript, TypeScript) en una versión optimizada y lista para producción. Este proceso incluye:
+
+   - Minificación de archivos.
+   - Optimización de recursos estáticos (imágenes, fuentes).
+   - Generación de un sitio seguro y compatible con múltiples navegadores.
 
 3. **Despliegue en Red CDN**  
    Una vez completada la compilación, el contenido de InventaTrack se despliega en una red global de entrega de contenido (CDN), lo que garantiza tiempos de carga rápidos y disponibilidad del sistema en cualquier parte del mundo.
@@ -1387,13 +1419,13 @@ Para la publicación en línea de InventaTrack, se implementó un proceso de des
 
 Durante el Sprint 1, el equipo de InventaTrack asignó líderes (L) y colaboradores (C) para aspectos esenciales como diseño de interfaz, desarrollo de la landing page, planificación de sprints, pruebas iniciales y documentación. Esta distribución permitió un trabajo equilibrado y un avance organizado del proyecto.
 
-| Miembro del Equipo          | GitHub Username | UI/UX | Landing Page | Sprint Planning | Testing | Documentación |
-|-----------------------------|-----------------|-------|--------------|-----------------|---------|---------------|
-| Gonzalo Carhuancote         | Gonzalo251104   | L     | C            | C               | C       | C             |
-| Juan Carlos Alvarado        | JuanCarlosAlvarado900 | C     | C            | L               | C       | C             |
-| Joan Teves                  | JoanTeves       | C     | L            | C               | C       | C             |
-| Antonio Duran               | Sltcrd          | C     | C            | C               | L       | C             |
-| Daiki Oshiro                | DaikiOY         | C     | C            | C               | C       | L             |
+| Miembro del Equipo   | GitHub Username       | UI/UX | Landing Page | Sprint Planning | Testing | Documentación |
+| -------------------- | --------------------- | ----- | ------------ | --------------- | ------- | ------------- |
+| Gonzalo Carhuancote  | Gonzalo251104         | L     | C            | C               | C       | C             |
+| Juan Carlos Alvarado | JuanCarlosAlvarado900 | C     | C            | L               | C       | C             |
+| Joan Teves           | JoanTeves             | C     | L            | C               | C       | C             |
+| Antonio Duran        | Sltcrd                | C     | C            | C               | L       | C             |
+| Daiki Oshiro         | DaikiOY               | C     | C            | C               | C       | L             |
 
 #### 5.2.1.3. Sprint Backlog 1
 
@@ -1501,32 +1533,31 @@ Link de commits del repositorio del landing page: https://github.com/1asi0729-25
 
 Principales avances en implementación con relación al Sprint:
 
-| Repository | Branch | Commit Id | Commit Message | Commit Message Body |  Commited on (Date) |
-| ---------- | ------ | --------- | --------- | ------------------- | ------------------- |
-|Landing Page|main| c9beceb | Initial commit  | create the README.md  | 17/09/2025 |
-|            |main| 46bc680 | Create index.html  | create the index.html  | 17/09/2025 |
-|            |main| 46bc680 | feat: added Section Home | added content in the section Home  | 17/09/2025 |
-|            |main| 09a0384 | feat: added assets carpet | create the assets carpet  | 18/09/2025 |
-|            |main| 09a0384 | feat: added css carpet | create the css carpet  | 18/09/2025 |
-|            |main| f3ec60e | feat: added i18n.js file | create the i18n.js file | 19/09/2025 |
+| Repository   | Branch | Commit Id | Commit Message            | Commit Message Body               | Commited on (Date) |
+| ------------ | ------ | --------- | ------------------------- | --------------------------------- | ------------------ |
+| Landing Page | main   | c9beceb   | Initial commit            | create the README.md              | 17/09/2025         |
+|              | main   | 46bc680   | Create index.html         | create the index.html             | 17/09/2025         |
+|              | main   | 46bc680   | feat: added Section Home  | added content in the section Home | 17/09/2025         |
+|              | main   | 09a0384   | feat: added assets carpet | create the assets carpet          | 18/09/2025         |
+|              | main   | 09a0384   | feat: added css carpet    | create the css carpet             | 18/09/2025         |
+|              | main   | f3ec60e   | feat: added i18n.js file  | create the i18n.js file           | 19/09/2025         |
 
 #### 5.2.1.5. Execution Evidence for Sprint Review
 
 Durante el primer sprint, se lograron varios hitos importantes en el desarrollo de la landing page para InventaTrack. A continuación, se presenta un resumen de los logros alcanzados:
 
-* **Establecimiento de repositorios:** Se crearon y configuraron repositorios en GitHub para gestionar el código y las pruebas, asegurando una correcta organización y control de versiones.
+- **Establecimiento de repositorios:** Se crearon y configuraron repositorios en GitHub para gestionar el código y las pruebas, asegurando una correcta organización y control de versiones.
 
 <img src="assets/Rep.png" width="100%" height="100%">
 
-* **Implementación del Landing Page:** Se diseñó y desarrolló la landing page de InventaTrack, implementando funcionalidades clave y asegurando que cumpla con los requisitos definidos en el proyecto.
+- **Implementación del Landing Page:** Se diseñó y desarrolló la landing page de InventaTrack, implementando funcionalidades clave y asegurando que cumpla con los requisitos definidos en el proyecto.
 
-* **Imágenes del Landing Page:**
-   
-  * **Inicio:**
+- **Imágenes del Landing Page:**
+  - **Inicio:**
 
 <img src="assets/Ini.png" width="100%" height="100%">
 
-  * **Sección Características:**
+- **Sección Características:**
 
 <img src="assets/Car.png" width="100%" height="100%">
   
@@ -1544,75 +1575,74 @@ Durante el primer sprint, se desarrolló el Landing Page del proyecto como una p
 
 #### 5.2.1.7. Software Deployment Evidence for Sprint Review
 
-Durante este Sprint se llevaron a cabo las siguientes actividades relacionadas con el despliegue de la Landing Page.  
+Durante este Sprint se llevaron a cabo las siguientes actividades relacionadas con el despliegue de la Landing Page.
 
 #### Creación de Repositorios y Configuración en GitHub
 
-- Se crearon repositorios en GitHub para gestionar el código fuente y realizar el seguimiento de cambios, incluyendo la Landing Page y otros componentes del proyecto.  
-- Los repositorios fueron configurados para habilitar el despliegue mediante GitHub Pages.  
-- GitHub Pages: Se configuró GitHub Pages para desplegar la Landing Page, ofreciendo una solución sencilla de alojamiento directamente desde el repositorio en GitHub.  
+- Se crearon repositorios en GitHub para gestionar el código fuente y realizar el seguimiento de cambios, incluyendo la Landing Page y otros componentes del proyecto.
+- Los repositorios fueron configurados para habilitar el despliegue mediante GitHub Pages.
+- GitHub Pages: Se configuró GitHub Pages para desplegar la Landing Page, ofreciendo una solución sencilla de alojamiento directamente desde el repositorio en GitHub.
 
-<img src="assets/EE2.png" width="100%" height="100%"> 
+<img src="assets/EE2.png" width="100%" height="100%">
 
 #### Proceso de Despliegue
 
-- Despliegue de la Landing Page:  
-  - Se subió el código de la Landing Page al repositorio correspondiente en GitHub.  
+- Despliegue de la Landing Page:
+  - Se subió el código de la Landing Page al repositorio correspondiente en GitHub.
   - Se configuró GitHub Pages para publicar el sitio en línea, incluyendo la personalización de la página de inicio.
-    
-<img src="assets/EE1.png" width="100%" height="100%"> 
 
-- Verificación del Despliegue:  
-  - Se realizó una revisión exhaustiva del sitio publicado en GitHub Pages para asegurar que todos los elementos funcionaran correctamente.  
+<img src="assets/EE1.png" width="100%" height="100%">
+
+- Verificación del Despliegue:
+  - Se realizó una revisión exhaustiva del sitio publicado en GitHub Pages para asegurar que todos los elementos funcionaran correctamente.
   - Se ejecutaron pruebas de funcionalidad para verificar la correcta carga del sitio y la ausencia de errores en el contenido desplegado.
 
-<img src="assets/Ini.png" width="100%" height="100%"> 
+<img src="assets/Ini.png" width="100%" height="100%">
 
-El proceso de despliegue realizado durante este Sprint 1 permitió establecer una base sólida para la gestión y publicación del proyecto. La configuración de GitHub Pages optimizó el despliegue y garantizó una integración continua efectiva, facilitando futuras actualizaciones de la aplicación web.  
- 
+El proceso de despliegue realizado durante este Sprint 1 permitió establecer una base sólida para la gestión y publicación del proyecto. La configuración de GitHub Pages optimizó el despliegue y garantizó una integración continua efectiva, facilitando futuras actualizaciones de la aplicación web.
+
 Link del Landing Page: https://1asi0729-2520-7394-inventatech.github.io/inventatrack-website/
 
 #### 5.2.1.8. Team Collaboration Insights during Sprint
 
 Durante este Sprint, el equipo llevó a cabo un trabajo colaborativo enfocado en el diseño y la implementación de la Landing Page de InventaTrack. Las actividades se distribuyeron entre los integrantes, asegurando que la landing page cumpliera con los objetivos planteados para esta fase. Asimismo, se registraron avances en la gestión del repositorio de GitHub, evidenciados en los commits y métricas de colaboración que reflejan la participación activa de cada miembro del equipo.
 
-| Author              | Task completed                                   |
-|---------------------|--------------------------------------------------|
+| Author              | Task completed                                      |
+| ------------------- | --------------------------------------------------- |
 | Gonzalo Carhuancote | Integration of landing page sections and deployment |
-| Daiki Oshiro        | Report development                               |
-| Juan Alvarado       | Design and development of mockups and wireframes |
-| Joan Teves          | Development of Toolbar and Footer                |
-| Antonio Duran       | Development of Subscription Features             |
+| Daiki Oshiro        | Report development                                  |
+| Juan Alvarado       | Design and development of mockups and wireframes    |
+| Joan Teves          | Development of Toolbar and Footer                   |
+| Antonio Duran       | Development of Subscription Features                |
 
 Captura de Analíticos de Colaboración en GitHub en el repositorio de la Landing Page:
 
-* **Link de commits del repositorio del reporte:** https://github.com/1asi0729-2520-7394-InventaTech/inventatrack-report/commits/main/
+- **Link de commits del repositorio del reporte:** https://github.com/1asi0729-2520-7394-InventaTech/inventatrack-report/commits/main/
 
-* **Link de commits del repositorio del landing page:** https://github.com/1asi0729-2520-7394-InventaTech/inventatrack-website/commits/main/
+- **Link de commits del repositorio del landing page:** https://github.com/1asi0729-2520-7394-InventaTech/inventatrack-website/commits/main/
 
-<img src="assets/Col1.png" width="100%" height="100%"> 
+<img src="assets/Col1.png" width="100%" height="100%">
 
 <img src="assets/Col3.png" width="100%" height="100%">
 
-<img src="assets/Col2.png" width="100%" height="100%"> 
+<img src="assets/Col2.png" width="100%" height="100%">
 
-<img src="assets/Col4.png" width="100%" height="100%"> 
+<img src="assets/Col4.png" width="100%" height="100%">
 
-<img src="assets/Col5.png" width="100%" height="100%"> 
+<img src="assets/Col5.png" width="100%" height="100%">
 
-<img src="assets/Col6.png" width="100%" height="100%"> 
+<img src="assets/Col6.png" width="100%" height="100%">
 
-<img src="assets/Col7.png" width="100%" height="100%"> 
+<img src="assets/Col7.png" width="100%" height="100%">
 
-<img src="assets/Col8.png" width="100%" height="100%"> 
-
+<img src="assets/Col8.png" width="100%" height="100%">
 
 # Bibliografía
 
 ## Referencias
 
-- Agencia Agraria de Noticias. (2020, 16 de octubre). *[Perú desperdicia 12,8 millones de toneladas de alimentos cada año](https://agraria.pe/noticias/peru-desperdicia-12-8-millones-de-toneladas-de-alimentos-cad-23953)*. Agraria.pe.  
+- Agencia Agraria de Noticias. (2020, 16 de octubre). _[Perú desperdicia 12,8 millones de toneladas de alimentos cada año](https://agraria.pe/noticias/peru-desperdicia-12-8-millones-de-toneladas-de-alimentos-cad-23953)_. Agraria.pe.
 
-- La República. (2019, 3 de julio). *[Más del 33 % de los alimentos producidos al año se descompone por mal uso de la cadena de frío](https://larepublica.pe/sociedad/2019/07/03/peru-mas-del-33-de-los-alimentos-producidos-al-ano-se-descompone-debido-al-mal-uso-de-la-cadena-de-frio-desnutricion)*. La República.  
+- La República. (2019, 3 de julio). _[Más del 33 % de los alimentos producidos al año se descompone por mal uso de la cadena de frío](https://larepublica.pe/sociedad/2019/07/03/peru-mas-del-33-de-los-alimentos-producidos-al-ano-se-descompone-debido-al-mal-uso-de-la-cadena-de-frio-desnutricion)_. La República.
 
-- La República. (2024, 5 de abril). *[Costos ocultos pueden generar pérdidas de hasta 15 % en restaurantes en Perú](https://www.larepublica.co/globoeconomia/costos-ocultos-pueden-generar-perdidas-de-hasta-15-en-restaurantes-en-peru-3425480)*. La República.  
+- La República. (2024, 5 de abril). _[Costos ocultos pueden generar pérdidas de hasta 15 % en restaurantes en Perú](https://www.larepublica.co/globoeconomia/costos-ocultos-pueden-generar-perdidas-de-hasta-15-en-restaurantes-en-peru-3425480)_. La República.
