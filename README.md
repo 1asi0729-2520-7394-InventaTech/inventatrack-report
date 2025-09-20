@@ -231,12 +231,83 @@ En esta etapa, se comparten los enlaces a los repositorios asociados al desarrol
 
 ###### Repositorio de GitHub:
 
-* URL para acceder a nuestro reporte en GitHub: https://github.com/1asi0729-2520-7394-InventaTech/inventatrack-report
-* URL para acceder nuestro repositorio de Landing Page:
+* **URL para acceder a nuestro reporte en GitHub:** https://github.com/1asi0729-2520-7394-InventaTech/inventatrack-report
+* **URL para acceder nuestro repositorio de Landing Page:** https://github.com/1asi0729-2520-7394-InventaTech/inventatrack-website
 
 ## 5.1.3. Source Code Style Guide & Conventions
 
+#### HTML5
+En InventaTrack, el uso de HTML5 constituye la base para estructurar el contenido de la Landing Page y las vistas del sistema de inventario. Para mantener un código ordenado y accesible se aplican las siguientes prácticas:
+
+- Usar etiquetas en minúsculas para mantener uniformidad y facilitar la lectura.  
+- Cerrar correctamente todas las etiquetas, garantizando compatibilidad entre navegadores.  
+- Documentar con comentarios breves y claros cada sección del código.  
+- Mantener un formato limpio evitando líneas demasiado extensas o espacios innecesarios.  
+- Incluir elementos esenciales como `<title>`, `<html>`, `<head>` y `<body>`.  
+- Definir el idioma del contenido con el atributo `lang` en la etiqueta `<html>`.  
+- Añadir atributos como `alt`, `width` y `height` en imágenes para mejorar la accesibilidad y la experiencia de usuario.  
+- Usar la metaetiqueta `<meta name="viewport">` para asegurar la correcta visualización en dispositivos móviles.  
+
+#### CSS 
+CSS en InventaTrack se utiliza para dar un diseño moderno y profesional, priorizando la usabilidad y la experiencia del usuario. Las convenciones aplicadas incluyen:  
+
+- Nomenclatura clara y coherente para clases e identificadores, lo que facilita la colaboración.  
+- Indentación uniforme y uso de espacios adecuados para mantener un código legible.  
+- Comentarios que expliquen la lógica de bloques de estilos o secciones clave.  
+- Agrupar propiedades relacionadas para mantener orden en las hojas de estilo.  
+- Evitar selectores demasiado específicos que dificulten la escalabilidad del proyecto.  
+- Probar los estilos en distintos navegadores y dispositivos para asegurar consistencia visual.  
+- Optimizar el código reduciendo duplicidades y validarlo con herramientas como el validador de W3C.  
+
+#### JavaScript
+JavaScript en InventaTrack permite implementar las funcionalidades dinámicas del sistema, como alertas de vencimiento o validaciones en formularios. Las buenas prácticas adoptadas son:  
+
+- Usar una nomenclatura consistente para variables, funciones y objetos.  
+- Aplicar una indentación clara y usar espacios adecuados después de palabras clave (`if`, `for`, `function`).  
+- Incluir comentarios que describan la lógica de cada sección del código.  
+- Minimizar el uso de variables globales, favoreciendo el uso de contextos locales.  
+- Implementar mecanismos de manejo de errores (`try-catch`) para garantizar robustez.  
+- Optimizar el rendimiento con técnicas como caché y minimización de scripts.  
+- Realizar pruebas cruzadas en diferentes navegadores y dispositivos.  
+
+#### Gherkin
+Para las pruebas de comportamiento de InventaTrack, se utiliza el lenguaje Gherkin, asegurando que los escenarios sean claros y entendibles por todo el equipo:  
+
+- Redactar escenarios simples y legibles, alineados con los requisitos del negocio.  
+- Mantener la estructura estandarizada con palabras clave como `Feature`, `Scenario`, `Given`, `When`, `Then` y `And`.  
+- Especificar claramente el estado inicial, las acciones y los resultados esperados.  
+- Reutilizar pasos comunes con `And` para evitar redundancias.  
+- Mantener escenarios enfocados en una funcionalidad concreta.  
+- Usar comentarios solo cuando sea necesario para añadir contexto adicional.  
+- Revisar escenarios en equipo para validar su alineación con los objetivos de InventaTrack.  
+
 ## 5.1.4. Software Deployment Configuration
+
+Para la publicación en línea de InventaTrack, se implementó un proceso de despliegue moderno y automatizado utilizando Netlify como plataforma principal de hosting y GitHub como gestor central del código fuente. Esta configuración permite mantener un flujo de integración y entrega continua (CI/CD) que asegura la disponibilidad y actualización constante de los productos digitales del proyecto.
+
+#### Proceso de Despliegue
+
+1. **Integración con Repositorios Git**  
+   Los repositorios de InventaTrack están alojados en GitHub. Netlify se enlaza directamente con estos repositorios, lo que permite que, cada vez que se registra un nuevo commit o se actualiza una rama, se inicie automáticamente el proceso de construcción del sitio.
+
+2. **Compilación Automatizada**  
+   Durante el proceso de build, Netlify transforma el código fuente (HTML, CSS, JavaScript, TypeScript) en una versión optimizada y lista para producción. Este proceso incluye:  
+   - Minificación de archivos.  
+   - Optimización de recursos estáticos (imágenes, fuentes).  
+   - Generación de un sitio seguro y compatible con múltiples navegadores.  
+
+3. **Despliegue en Red CDN**  
+   Una vez completada la compilación, el contenido de InventaTrack se despliega en una red global de entrega de contenido (CDN), lo que garantiza tiempos de carga rápidos y disponibilidad del sistema en cualquier parte del mundo.
+
+4. **Vistas Previas por Rama**  
+   Netlify genera automáticamente una versión previa del sitio para cada rama o Pull Request, lo que facilita al equipo revisar los cambios antes de su integración. Esto mejora el trabajo colaborativo y permite detectar errores en etapas tempranas.
+
+5. **Despliegue Continuo**  
+   Cuando una rama es fusionada con la rama principal (`main`), Netlify actualiza el entorno productivo de forma automática. De esta manera, los usuarios siempre interactúan con la versión más reciente y estable del sistema.
+
+#### Productos Desplegados
+
+- **Landing Page de InventaTrack**: desplegada mediante GitHub Pages, integrada directamente con el repositorio en GitHub, lo que permite actualizaciones automáticas y una publicación sencilla del sitio.
 
 # 5.2. Landing Page, Services & Applications Implementation
 
@@ -460,7 +531,7 @@ https://trello.com/invite/b/68392dfb34795737cb55ab57/ATTI12319d8d47e238a19380ca2
 
 En el presente sprint se logró desarrollar la primera versión del Landing Page de InventaTrack, la cual presenta de manera clara el propósito de la plataforma y las problemáticas que busca resolver en la gestión de inventarios. La información mostrada fue organizada de forma comprensible y acompañada de elementos visuales que refuerzan el mensaje. Asimismo, se consideró un diseño atractivo e intuitivo que busca captar la atención de los usuarios y transmitir confianza en la solución propuesta.
 
-Link del landing page: https://1asi0729-2520-7394-inventatech.github.io/inventatrack-website/
+Link de commits del repositorio del landing page: https://github.com/1asi0729-2520-7394-InventaTech/inventatrack-website/commits/main/
 
 Principales avances en implementación con relación al Sprint:
 
@@ -549,10 +620,22 @@ Durante este Sprint, el equipo llevó a cabo un trabajo colaborativo enfocado en
 
 Captura de Analíticos de Colaboración en GitHub en el repositorio de la Landing Page:
 
-<img src="assets/Col1.png" width="100%" height="100%"> 
+* **Link de commits del repositorio del reporte:** https://github.com/1asi0729-2520-7394-InventaTech/inventatrack-report/commits/main/
 
-<img src="assets/Col2.png" width="100%" height="100%"> 
+* **Link de commits del repositorio del landing page:** https://github.com/1asi0729-2520-7394-InventaTech/inventatrack-website/commits/main/
+
+<img src="assets/Col1.png" width="100%" height="100%"> 
 
 <img src="assets/Col3.png" width="100%" height="100%">
 
+<img src="assets/Col2.png" width="100%" height="100%"> 
+
 <img src="assets/Col4.png" width="100%" height="100%"> 
+
+<img src="assets/Col5.png" width="100%" height="100%"> 
+
+<img src="assets/Col6.png" width="100%" height="100%"> 
+
+<img src="assets/Col7.png" width="100%" height="100%"> 
+
+<img src="assets/Col8.png" width="100%" height="100%"> 
