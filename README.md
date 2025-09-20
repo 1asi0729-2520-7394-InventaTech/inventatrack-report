@@ -394,9 +394,10 @@ El wireframe define la estructura básica de la landing page en bloques principa
 ### 4.4.2. Web Applications Wireflow Diagrams
 
 ##### Usuario ingresa a la aplicación iniciando sesión o registrándose:
-
+<img src="assets/Wireflow-1.png" width="100%" height="100%">
 
 ##### Usuario desea realizar un inventario:
+<img src="assets/Wireflow-2.png" width="100%" height="100%">
 
 ##### Usuario desea ver el reporte del inventario:
 
@@ -411,7 +412,7 @@ El wireframe define la estructura básica de la landing page en bloques principa
 <img src="assets/Mockup-Inventario.png" width="100%" height="100%">
 
 #### Vista de reportes:
-
+<img src="assets/Mockup-Reporte.png" width="100%" height="100%">
 
 ### 4.4.4. Web Applications User Flow Diagrams
 
