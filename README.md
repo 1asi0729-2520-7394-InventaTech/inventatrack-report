@@ -387,6 +387,9 @@ El wireframe define la estructura básica de la landing page en bloques principa
 #### Desktop Browser:
 
 ##### Inicio de sesión y registro:
+<img src="assets/Wireframe-Login.png" width="100%" height="100%">
+
+<img src="assets/Wireframe-Register.png" width="100%" height="100%">
 
 ### 4.4.2. Web Applications Wireflow Diagrams
 
