@@ -405,6 +405,8 @@ El wireframe define la estructura básica de la landing page en bloques principa
 ##### Inicio de sesión y registro:
 <img src="assets/Mockup-Login.png" width="100%" height="100%">
 
+<img src="assets/Mockup-Register.png" width="100%" height="100%">
+
 ##### Vista de inventarios:
 <img src="assets/Mockup-Inventario.png" width="100%" height="100%">
 
