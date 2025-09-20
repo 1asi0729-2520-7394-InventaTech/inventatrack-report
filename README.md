@@ -470,12 +470,11 @@ A continuación, se presenta un cuadro resumen donde se registrarán los nombres
 
 | **Nombre** | **Preferencias y Recomendaciones** |
 |------------|-------------------------------------|
-|||
-|||
-|||
+| Juan       | Describe una gestión más avanzada con ERP que controla caducidad y rotación, pero aún enfrenta mermas del 2%–3% en frutas, verduras y lácteos, agravadas por la logística de proveedores y picos de demanda. Prefiere una solución digital que se integre con su ERP, con alertas predictivas y reportes en tiempo real. Se recomienda complementar el sistema actual con un módulo inteligente de predicción de demanda y control de cadena de frío, además de capacitación continua al personal, lo que reduciría pérdidas y optimizaría la planificación en temporadas críticas.|
+| Leslie     | Indica que la gestión manual con Excel ocasiona pérdidas de hasta un 10% en pescados y mariscos, con problemas en almacenamiento, rotación FIFO y sobrestock por compras desordenadas, especialmente los fines de semana. Su preferencia es una aplicación que genere alertas de caducidad y reportes claros para mejorar el control. Se recomienda implementar una solución digital que automatice el seguimiento de insumos, optimice la planificación de compras y garantice el cumplimiento de normas sanitarias, lo que permitiría reducir mermas y aumentar la eficiencia operativa.|
 | Ernesto    | Actualmente utiliza Excel y controles manuales para gestionar el inventario, lo que genera dificultades al calcular compras y controlar productos perecederos. Señala que las mermas ocurren mensualmente, especialmente por la caducidad de productos. Considera muy útil una aplicación que agilice el proceso de inventario, emita alertas sobre fechas de vencimiento y niveles de stock, y facilite la toma de decisiones al planificar compras. Recomienda que la herramienta sea sencilla, rápida y accesible en costos. Está dispuesto a invertir en una solución digital siempre que represente beneficios claros y ayude a reducir pérdidas. |
-|||
-|||
+| Adriana    | Ahora la gestión del inventario en el restaurante es manual y poco confiable, lo que provoca pérdidas frecuentes de productos perecibles como frutas, verduras y lácteos, alcanzando hasta un 10% en temporada baja y afectando seriamente la rentabilidad. Las herramientas actuales, como Excel o el sistema contable, no resuelven problemas de caducidad ni ofrecen alertas de stock, generando ineficiencia en la planificación de compras. La gerente considera de gran valor una aplicación sencilla que brinde alertas automáticas y reportes claros, y afirma que estaría dispuesta a invertir en una solución digital accesible, siempre que ayude a reducir mermas y mejorar la rentabilidad. |
+| Alicia     | Señala que el control actual con sistema de ventas y Excel provoca errores, mermas del 5% y quiebres de stock por falta de datos precisos, además de que el ERP no cubre caducidad. Su preferencia es contar con una herramienta digital que alerte sobre vencimientos y mínimos de inventario. Se recomienda implementar un sistema especializado de gestión de perecibles integrado al ERP, con alertas automáticas y reportes en tiempo real, lo que optimizaría la rentabilidad y reduciría pérdidas. |
 
 ## 2.3. Needfinding
 
