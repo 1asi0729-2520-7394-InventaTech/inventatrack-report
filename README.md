@@ -389,34 +389,40 @@ Destacar la especialización en PYMEs y el soporte cercano frente a grandes comp
 
 ###### Entrevista 1:
 
-Nombre: 
-Edad: 
-Distrito: 
+**Nombre:** Juan Ramos
+**Edad:** 25
+**Distrito:** San Borja
 
-Resumen de la entrevista:
-Link:
+<img src="assets/ET1Segmento1.png" width="100%" height="100%">
+
+**Resumen de la entrevista:**
+
+Juan Ramos, gerente de un supermercado, explicó que la gestión de insumos perecibles se apoya en un ERP especializado que controla caducidad, rotación y registros en tiempo real. Aunque el sistema reduce pérdidas, aún enfrentan mermas en frutas, verduras y lácteos debido a la rotación y a la logística de proveedores. Reconoció que las auditorías sanitarias son frecuentes y que la cadena de frío es un punto crítico, especialmente en temporadas de alta demanda.
+
+Señaló que las compras se planifican con datos históricos y proyecciones de consumo, aunque los picos de ventas en campañas festivas complican las estimaciones y generan sobrestock. Estima que las mermas representan entre el 2% y el 3% de los costos totales.
+
+Considera indispensable que una solución digital ofrezca alertas predictivas, reportes en tiempo real y se integre con el ERP actual. Asimismo, resaltó la importancia de la capacitación periódica del personal para mantener estándares de almacenamiento. Confirmó que estaría dispuesto a invertir en una herramienta que reduzca pérdidas y optimice el tiempo administrativo.
+
+**Link:** https://upcedupe-my.sharepoint.com/:v:/g/personal/u202117303_upc_edu_pe/ETRwF1xvTR9Nr-rV4ltMzM8Bz8G7oh0qmFyGFSJrEY06AA?e=JwpG17
 
 ###### Entrevista 2:
 
-Nombre: 
-Edad: 
-Distrito: 
+**Nombre:** Leslie Kasimiro
+**Edad:** 27
+**Distrito:** Jesús María
 
-Resumen de la entrevista:
-Link:
+<img src="assets/ET2Segmento1.png" width="100%" height="100%">
 
-###### Entrevista 3:
+**Resumen de la entrevista:**
 
-Nombre: 
-Edad: 
-Distrito: 
+Leslie Kasimiro, dueña de un restaurante de mariscos, explicó que el control de insumos aún es manual y depende de Excel, lo que genera pérdidas recurrentes, sobre todo en pescados y mariscos. Reconoció que las auditorías sanitarias señalan mejoras en almacenamiento y que la rotación FIFO no siempre se cumple. Los fines de semana son un reto para mantener el orden en el stock, y gran parte del sobrestock proviene de compras poco planificadas. Estima que las mermas representan hasta el 10% de sus costos. Considera indispensable una aplicación que dé alertas de caducidad y reportes claros, y estaría dispuesta a invertir en ella si demuestra eficiencia.
 
-Resumen de la entrevista:
-Link:
+**Link:** https://upcedupe-my.sharepoint.com/:v:/g/personal/u202117303_upc_edu_pe/EfRQiGPXFhVHsr0R3qoONzkBuGHyGSrPXtAa5w41rQXYXw?e=CYieEb&
+
 
 ##### Segmento 2: Dueños, gerentes y administradores
 
-###### Entrevista 4:
+###### Entrevista 1:
 
 **Nombre:** Ernesto Ruiz
 **Edad:** 24
@@ -428,7 +434,7 @@ Link:
 
 **Link:** https://upcedupe-my.sharepoint.com/:v:/g/personal/u20201f846_upc_edu_pe/ETKurgiX4bFFv0eXJ1qpPecB0qUSNWXVUEObe7lLg_Jnnw?e=bSr2FT
 
-###### Entrevista 5:
+###### Entrevista 2:
 
 **Nombre:** Adriana Diestra
 **Edad:** 20
@@ -440,7 +446,7 @@ Link:
 
 **Link:** https://upcedupe-my.sharepoint.com/:v:/g/personal/u202210720_upc_edu_pe/EYLEOxpEz3FCvphhmvFqP9wBbvv4A8s3OKdXo8g8D8t0FA?e=9OOXEO
 
-###### Entrevista 6:
+###### Entrevista 3:
 
 **Nombre:** Alicia Melgarejo
 **Edad:** 53 años
