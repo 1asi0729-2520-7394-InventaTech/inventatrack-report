@@ -406,27 +406,44 @@ El wireframe define la estructura básica de la landing page en bloques principa
 
 ##### User Goal 1: Acceder a la aplicación ya sea con registro o inicio de sesión.
 
-##### Descripción:
+**Descripción:**  
+El usuario necesita entrar al sistema para gestionar inventario o visualizar reportes.  
 
-##### Flujo principal (Happy Path):
+**Flujo principal (Happy Path):**  
+Inicio → Pantalla de Login → Usuario ingresa correo y contraseña → Click en *Iniciar sesión* → Accede al Dashboard.  
 
-##### Flujos alternativos parciales:
+**Flujos alternativos parciales:**  
+- Usuario no tiene cuenta → Click en *Regístrate aquí* → Completa formulario de registro → Accede al Dashboard.  
+- Usuario olvida contraseña → Click en *¿Olvidaste tu contraseña?* → Recupera acceso vía correo → Accede al Dashboard.  
 
-##### User Goal 2: 
+---
 
-##### Descripción:
+##### User Goal 2: Registrar un inventario
 
-##### Flujo principal (Happy Path):
+**Descripción:**  
+El usuario desea registrar la entrada/salida de insumos en el inventario.  
 
-##### Flujos alternativos parciales:
+**Flujo principal (Happy Path):**  
+Dashboard → Menú Inventario → Click en *Registrar entrada/salida* → Completa formulario → Click en *Guardar* → Inventario actualizado.  
 
-##### User Goal 3: 
+**Flujos alternativos parciales:**  
+- Usuario cancela → Click en *Cancelar* → Vuelve al listado de inventario.  
+- Datos inválidos → Sistema muestra mensaje de error → Usuario corrige → Guarda con éxito.  
 
-##### Descripción:
+---
 
-##### Flujo principal (Happy Path):
+##### User Goal 3: Visualizar un reporte de inventario
 
-##### Flujos alternativos parciales:
+**Descripción:**  
+El usuario busca analizar el estado del inventario mediante gráficos y reportes exportables.  
+
+**Flujo principal (Happy Path):**  
+Dashboard → Menú Reportes → Selecciona rango de fechas + categoría → Click en *Generar reporte* → Visualiza gráficos (barras, pie chart) y tabla → Puede exportar a PDF/Excel.  
+
+**Flujos alternativos parciales:**  
+- Usuario no selecciona filtros → Sistema muestra mensaje de advertencia → Usuario selecciona y genera reporte.  
+- Usuario intenta exportar sin conexión → Sistema muestra error y sugiere reintentar.  
+
 
 ## 4.5. Web Applications Prototyping
 
