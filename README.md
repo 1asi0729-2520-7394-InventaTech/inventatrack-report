@@ -840,6 +840,311 @@ Utilizamos la escala de Fibonacci para la estimación de los Story Points.
 | 19    | TS503         | Mensajes internos               | Como usuario, deseo enviar mensajes internos para coordinar tareas con otros usuarios. | 3 |
 | 20    | TS504         | Resumen diario automático       | Como gerente, deseo recibir un resumen diario automático de stock y movimientos. | 5 |
 
+# Capítulo IV: Product Design
+
+## 4.1 Style Guidelines
+
+Las guías de estilo son fundamentales para asegurar una comunicación clara, coherente y profesional en todos los aspectos del proyecto. En esta sección, definiremos las pautas que el equipo utilizará para diseñar la aplicación InventaTech. Estas directrices abarcan aspectos como la selección de colores, tipografía y la estructura general del diseño.
+
+A continuación, se detallan los aspectos clave de este enfoque de diseño.
+
+## 4.1.1 General Style Guidelines
+
+**Branding:**  
+El branding de **InventaTrack** busca transmitir modernidad, confiabilidad y eficiencia en la gestión de inventarios de alimentos. La identidad visual combina colores frescos y contrastantes que reflejan **tecnología** (azules), **sostenibilidad** (verdes) y **alerta ante riesgos** (amarillos/naranjas). Su propósito es generar confianza en usuarios operativos y gerenciales, asegurando una comunicación clara y profesional en cada punto de contacto.  
+
+**Brand Name:**  
+**InventaTrack** – El nombre combina “Inventario” y “Track” (seguimiento), resaltando el objetivo principal del producto: **control y trazabilidad de insumos de manera ágil y digital**.  
+
+**Typography:**  
+La tipografía organiza el lenguaje visual de las plataformas, garantizando legibilidad y mejorando la experiencia del usuario. Por ello, se eligieron familias tipográficas modernas, sans-serif, ampliamente utilizadas en interfaces digitales y compatibles con navegadores.  
+
+**Head:**  
+**Poppins Bold / 24–32 px / #2563eb (Primary)**  
+- Usado en títulos, encabezados de secciones y nombres de páginas.  
+- Transmite claridad y jerarquía, resaltando lo más importante en la interfaz.  
+
+**Body:**  
+**Roboto Regular / 14–16 px / #1f2937 (Text Dark)**  
+- Usado en párrafos, formularios, descripciones y tablas.  
+- Priorizamos la legibilidad en pantallas largas y reportes.  
+
+
+
+**Colors:**
+
+| Rol | HEX | Uso |
+|---|---:|---|
+| Primary | `#2563eb` | Títulos, enlaces y elementos de marca |
+| Primary Dark | `#1e40af` | Gradientes y fondos de énfasis |
+| Secondary | `#10b981` | Indicadores (éxito, progreso) |
+| Accent | `#f59e0b` | Llamadas de atención / acentos |
+| Text Dark | `#1f2937` | Texto principal |
+| Text Light | `#6b7280` | Texto secundario |
+| Background Light | `#f8fafc` | Fondos generales |
+| White | `#ffffff` | Fondos de tarjetas / botones claros |
+
+**Spacing:**
+
+
+
+## 4.1.2 Web Style Guidelines
+
+En esta sección se establecen los estándares visuales y de interacción aplicados a las interfaces web de InventaTech, asegurando consistencia, accesibilidad y una experiencia de usuario óptima en cualquier dispositivo.
+
+**Elementos Visuales (Imágenes)**
+
+Las imágenes juegan un papel fundamental dentro de la interfaz, ya sea como íconos funcionales, fotografías de perfil o ilustraciones. Los íconos funcionales se emplean en menús, botones y notificaciones, y deben ser minimalistas, lineales y adaptados a tamaños de entre 20px y 32px según el contexto. Las fotografías de perfil de los usuarios deben tener un formato cuadrado o circular, con resolución mínima de 300x300px, optimizadas para carga rápida sin perder calidad. Las imágenes ilustrativas se utilizarán en landing pages, pantallas de onboarding y secciones de ayuda, buscando transmitir confianza, modernidad y profesionalismo, siempre respetando la paleta de colores definida para la marca. Todas las imágenes deberán estar optimizadas, preferiblemente en formato WebP, y su peso no debe superar los 200kb cuando sea posible.
+
+**Botones**
+
+Los botones son elementos clave para la interacción del usuario y deben ser fácilmente reconocibles en cualquier pantalla. Se diferencian principalmente en tres tipos: botones primarios para acciones principales como “Guardar” o “Enviar”, botones secundarios para acciones complementarias como “Cancelar” o “Volver” y botones de acento para llamadas de atención específicas como “Reintentar”. Cada botón debe incluir estados visuales claramente definidos, incluyendo el estado por defecto, hover, activo y deshabilitado, siempre respetando el contraste y la accesibilidad.
+
+**Formularios**
+
+Los formularios se implementarán en diferentes secciones de la aplicación, como inicio de sesión, registro de usuarios, inventario y reportes. El diseño de los formularios debe priorizar la claridad, mostrando etiquetas visibles sobre los campos, validación en tiempo real y mensajes de error y éxito diferenciados con colores específicos. La consistencia visual se mantiene mediante bordes suaves, espaciado interno uniforme y tipografía legible. Además, los formularios deben ser accesibles mediante teclado y contener placeholders claros que guíen al usuario. Se considerará el perfil de usuario para la adaptación del formulario: los usuarios operativos tendrán formularios breves y rápidos de llenar, mientras que los usuarios gerenciales dispondrán de formularios más completos con filtros y opciones avanzadas para generar reportes y análisis.
+
+## 4.2. Information Architecture
+
+### 4.2.1. Organization Systems
+
+En InventaTech, la información se organiza estratégicamente para facilitar la operación de los usuarios operativos y la supervisión de gerentes y administradores. Se aplican distintos tipos de organización visual y categorización según el tipo de contenido y el perfil del usuario:
+
+- **Por categorías de insumos:** Alimentos, bebidas, material de limpieza, utensilios, ingredientes especiales. Esto permite a los usuarios operativos localizar rápidamente los productos y generar reportes específicos.
+- **Por tipo de movimiento:** Entradas, salidas y devoluciones. La organización secuencial garantiza consistencia en los registros y facilidad en la auditoría de procesos.
+- **Por estado del stock:** Crítico, medio o suficiente. La estructura jerárquica permite resaltar insumos que requieren atención inmediata en dashboards y reportes gerenciales.
+- **Por información temporal:** Fecha de ingreso, fecha de caducidad y última actualización. La organización cronológica facilita priorizar insumos próximos a vencer y auditar el historial de movimientos.
+- **Por usuario responsable:** Encargados de cocina o administradores de almacén. La categorización matricial permite filtrar registros según quién realizó cada acción, útil para trazabilidad y seguimiento.
+- **Por alertas y notificaciones:** Stock bajo, caducidad próxima, movimientos pendientes. Se combinan jerarquía y organización matricial para asegurar que la información crítica sea visible y accesible.
+- **Por prioridad de gestión:** Urgentes, regulares y de baja rotación. La organización jerárquica ayuda a planificar eficientemente las tareas diarias y proporciona información estratégica para la toma de decisiones.
+
+Con esta estructura, InventaTech asegura que la información sea accesible, eficiente y útil tanto para la operación diaria como para la supervisión estratégica.
+
+### 4.2.2. Labeling Systems
+
+En InventaTech, los íconos y etiquetas se diseñan para ofrecer a los usuarios una navegación intuitiva y rápida comprensión de las funciones disponibles. Cada ícono representa un conjunto de información o acción clave dentro de la plataforma.
+
+| Ícono | Nombre | Descripción |
+|-------|--------|-------------|
+| 👤    | Mi Perfil | Permite a los usuarios (operativos o gerenciales) acceder y modificar su información personal, consultar historial de movimientos de insumos y revisar su actividad reciente. |
+| 📦    | Inventario / Áreas de insumos | Menú desplegable que organiza los insumos por categoría, tipo de producto o ubicación en almacén, facilitando la consulta rápida y eficiente. |
+| 🔍    | Buscar insumo | Permite localizar insumos específicos dentro del inventario, con filtros por nombre, cantidad disponible, fecha de caducidad o proveedor. |
+| ⚠️    | Alertas de caducidad | Notifica a los usuarios sobre insumos próximos a vencer o vencidos, para tomar acciones preventivas y evitar desperdicios. |
+| 📈    | Reportes de consumo | Acceso a reportes detallados sobre consumo de insumos, permitiendo a gerentes tomar decisiones estratégicas sobre compras y control de costos. |
+| 📊    | Dashboard de stock crítico | Visualiza los insumos con nivel crítico, alertando sobre cantidades bajas y ayudando en la planificación de reabastecimiento. |
+| ⚙️    | Configuración | Permite a los usuarios modificar ajustes de la cuenta, preferencias de notificación, roles y permisos dentro de la plataforma. |
+| 🏠    | Inicio / Home | Lleva al usuario a la página principal del panel, mostrando resumen de stock, alertas y accesos rápidos a funciones frecuentes. |
+| 🔔    | Notificaciones | Muestra alertas importantes sobre stock bajo, movimientos recientes, mensajes recibidos o acciones pendientes. |
+| 📝    | Registrar insumo | Acceso rápido a la funcionalidad para agregar nuevos insumos al inventario, completando información como cantidad, fecha y categoría. |
+| ✏️    | Editar insumo | Permite actualizar información de insumos existentes, como cantidad, fecha de caducidad o ubicación en almacén. |
+| ➕    | Registrar entradas | Funcionalidad para registrar entradas de insumos al inventario, aumentando las cantidades disponibles. |
+| ➖    | Registrar salidas | Permite registrar el consumo o salida de insumos, disminuyendo el stock disponible y actualizando registros. |
+| 🔄    | Registrar devoluciones | Función para registrar devoluciones de insumos al inventario, asegurando la consistencia de los datos. |
+| 📜    | Historial de movimientos | Permite consultar el historial completo de entradas, salidas y devoluciones, con filtros por fecha y usuario responsable. |
+| 📤    | Exportar reportes | Función para descargar reportes en PDF o Excel, facilitando análisis fuera de la plataforma. |
+| 🔁    | Comparar periodos de consumo | Permite generar comparaciones entre diferentes periodos para identificar tendencias y patrones de consumo. |
+| 📉    | Notificaciones de stock bajo | Alertas automáticas cuando los insumos llegan a su nivel mínimo configurado, para prevenir faltantes. |
+| ⏰    | Resumen diario automático | Envía un resumen diario de stock y movimientos al correo o panel del gerente, manteniéndolo informado sin necesidad de ingresar manualmente. |
+
+### 4.2.3. SEO Tags and Meta Tags
+
+Para garantizar la visibilidad del producto en motores de búsqueda y mejorar la experiencia en redes sociales, se implementaron etiquetas **SEO (Search Engine Optimization)** y **meta tags** en el archivo `index.html`.  
+
+#### Meta tags básicas
+```html
+<meta charset="UTF-8" />
+<meta name="viewport" content="width=device-width, initial-scale=1.0" />
+<title>InventaTrack - Smart Food Inventory Management</title>
+<meta name="description" content="Gestiona inventarios y fechas de caducidad fácilmente con InventaTrack, la solución digital para negocios alimentarios." />
+<meta name="keywords" content="inventarios, alimentos perecederos, control de stock, alertas de caducidad, gestión digital" />
+<meta name="author" content="InventaTrack" />
+
+```
+
+#### Open Graph y redes sociales
+```html
+<meta property="og:title" content="InventaTrack" />
+<meta property="og:description" content="Gestiona inventarios y fechas de caducidad fácilmente." />
+<meta property="og:image" content="https://inventaTrack.com/og-image.jpg" />
+
+<meta name="twitter:card" content="summary_large_image" />
+<meta name="twitter:title" content="InventaTrack" />
+<meta name="twitter:description" content="Gestiona inventarios y fechas de caducidad fácilmente." />
+<meta name="twitter:image" content="https://inventaTrack.com/twitter-image.jpg" />
+
+```
+
+### 4.2.4 Searching Systems
+
+En esta sección se describen los medios de ayuda que se brindarán al usuario para la búsqueda eficiente de datos dentro del producto digital. El objetivo principal es evitar que los usuarios se sientan abrumados o perdidos ante un gran volumen de información, facilitando el acceso rápido y preciso a los datos relevantes.
+
+###### Opciones de búsqueda
+
+- **Búsqueda por texto libre:** Los usuarios podrán ingresar palabras clave o términos relacionados para localizar rápidamente productos, insumos o reportes dentro de la plataforma.
+
+- **Búsqueda avanzada:** Se ofrecerá una búsqueda con filtros específicos que permiten acotar resultados según parámetros relevantes.
+
+###### Filtros disponibles
+
+Dependiendo del contexto y sección, los usuarios podrán filtrar los resultados por:
+
+- Nombre del producto o insumo
+- Categoría o tipo de alimento
+- Fecha de caducidad
+- Estado del stock 
+- Fecha de ingreso o última actualización
+
+### 4.2.5 Navigation Systems
+
+A continuación, se mostrarán los sistemas de navegación que le permitirán a nuestros usuarios moverse a través de las distintas piezas de contenido o información.
+
+- **Menú principal (Header):**  
+  Ubicado en la parte superior, contiene enlaces ancla hacia las secciones *Features*, *Industries* y *Contact*. Incluye además un botón para cambiar de idioma (`language-switcher`).  
+
+- **Menú móvil (Hamburger menu):**  
+  Para dispositivos con pantallas pequeñas, se implementa un botón tipo hamburguesa que despliega los enlaces en columna (`.nav-links.active`).
+
+- **Botones de acción (Call to Action - CTA) claros y visibles:**
+  “Agregar producto”, “Editar insumo”, “Generar alerta” y “Ver reporte”. Esto facilita que el usuario realice sus tareas de manera rápida e intuitiva.
+
+- **Footer:**  
+  Contiene enlaces secundarios agrupados en cuatro columnas: *Product*, *Support*, *Company* y *Brand description*.  
+
+- **Interactividad:**  
+  El archivo `main.js` implementa un **scroll suave** al hacer clic en los enlaces, mejorando la experiencia de navegación.  
+  Además, el header cambia de estilo visual al desplazarse la página (`window.scroll` event).  
+
+## 4.3. Landing Page UI Design
+
+### 4.3.1. Landing Page Wireframe
+
+El wireframe define la estructura básica de la landing page en bloques principales:
+
+<img src="assets/Wireframe-Landing.png" width="100%" height="100%">
+
+### 4.3.1. Landing Page Mock-ups
+
+<img src="assets/Mockup-Landing.png" width="100%" height="100%">
+
+## 4.4. Web Applications UX/UI Design
+
+### 4.4.1. Web Applications Wireframes
+
+#### Desktop Browser:
+
+##### Inicio de sesión y registro:
+<img src="assets/Wireframe-Login.png" width="100%" height="100%">
+
+<img src="assets/Wireframe-Register.png" width="100%" height="100%">
+
+### 4.4.2. Web Applications Wireflow Diagrams
+
+##### Usuario ingresa a la aplicación iniciando sesión o registrándose:
+<img src="assets/Wireflow-1.png" width="100%" height="100%">
+
+##### Usuario desea realizar un inventario:
+<img src="assets/Wireflow-2.png" width="100%" height="100%">
+
+##### Usuario desea ver el reporte del inventario:
+<img src="assets/Wireflow-3.png" width="100%" height="100%">
+
+### 4.4.3. Web Applications Mock-ups
+
+##### Inicio de sesión y registro:
+<img src="assets/Mockup-Login.png" width="100%" height="100%">
+
+<img src="assets/Mockup-Register.png" width="100%" height="100%">
+
+##### Vista de inventarios:
+<img src="assets/Mockup-Inventario.png" width="100%" height="100%">
+
+#### Vista de reportes:
+<img src="assets/Mockup-Reporte.png" width="100%" height="100%">
+
+### 4.4.4. Web Applications User Flow Diagrams
+
+##### User Goal 1: Acceder a la aplicación ya sea con registro o inicio de sesión.
+
+**Descripción:**  
+El usuario necesita entrar al sistema para gestionar inventario o visualizar reportes.  
+
+**Flujo principal (Happy Path):**  
+Inicio → Pantalla de Login → Usuario ingresa correo y contraseña → Click en *Iniciar sesión* → Accede al Dashboard.  
+
+**Flujos alternativos parciales:**  
+- Usuario no tiene cuenta → Click en *Regístrate aquí* → Completa formulario de registro → Accede al Dashboard.  
+- Usuario olvida contraseña → Click en *¿Olvidaste tu contraseña?* → Recupera acceso vía correo → Accede al Dashboard.  
+
+---
+
+##### User Goal 2: Registrar un inventario
+
+**Descripción:**  
+El usuario desea registrar la entrada/salida de insumos en el inventario.  
+
+**Flujo principal (Happy Path):**  
+Dashboard → Menú Inventario → Click en *Registrar entrada/salida* → Completa formulario → Click en *Guardar* → Inventario actualizado.  
+
+**Flujos alternativos parciales:**  
+- Usuario cancela → Click en *Cancelar* → Vuelve al listado de inventario.  
+- Datos inválidos → Sistema muestra mensaje de error → Usuario corrige → Guarda con éxito.  
+
+---
+
+##### User Goal 3: Visualizar un reporte de inventario
+
+**Descripción:**  
+El usuario busca analizar el estado del inventario mediante gráficos y reportes exportables.  
+
+**Flujo principal (Happy Path):**  
+Dashboard → Menú Reportes → Selecciona rango de fechas + categoría → Click en *Generar reporte* → Visualiza gráficos (barras, pie chart) y tabla → Puede exportar a PDF/Excel.  
+
+**Flujos alternativos parciales:**  
+- Usuario no selecciona filtros → Sistema muestra mensaje de advertencia → Usuario selecciona y genera reporte.  
+- Usuario intenta exportar sin conexión → Sistema muestra error y sugiere reintentar.  
+
+
+## 4.5. Web Applications Prototyping
+
+- Link del video:
+https://upcedupe-my.sharepoint.com/:v:/g/personal/u202216150_upc_edu_pe/EV7-KC3nN7NDp6pfHqdMvyUBgYPQGFivb42UTauogrb-1A?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJPbmVEcml2ZUZvckJ1c2luZXNzIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXciLCJyZWZlcnJhbFZpZXciOiJNeUZpbGVzTGlua0NvcHkifX0&e=QqlCJJ
+
+## 4.6. Domain-Driven Software Architecture
+
+### 4.6.1 Design-Level Event Storming
+
+En esta sección se presenta el resultado de la sesión de Design-Level EventStorming realizada para InventaTrack. Esta técnica colaborativa permitió mapear los eventos clave, comandos, actores y subdominios del sistema, facilitando la comprensión detallada del dominio y la definición de los bounded contexts. A continuación, se muestra una captura del tablero digital donde se registraron y organizaron estos elementos durante la sesión.
+
+<img src="assets/DLES.png" width="100%" height="100%">
+
+Link del miro: https://miro.com/app/board/uXjVJGeS0Kc=/?share_link_id=913695019646
+
+### 4.6.2 Software Architecture Context Diagram
+
+<img src="assets/DD1.png" width="100%" height="100%">
+
+### 4.6.3 Software Architecture Container Diagrams
+
+<img src="assets/DD2.png" width="100%" height="100%">
+
+### 4.6.4 Software Architecture Components Diagrams
+
+<img src="assets/DD3.png" width="100%" height="100%">
+
+## 4.7 Software Object-Oriented Design
+
+### 4.7.1  Class Diagrams
+
+<img src="assets/CD.png" width="100%" height="100%">
+
+Link del diagrama: https://drive.google.com/file/d/1jcCJUNHeWBzlNkrEl9jwdaP_kr-qJreI/view?usp=sharing
+
+## 4.8 Database Design
+
+### 4.8.1 Database Diagrams
+
+<img src="assets/DB.png" width="100%" height="100%">
+
 # Bibliografía
 
 ## Referencias
