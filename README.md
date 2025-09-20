@@ -430,21 +430,25 @@ Link:
 
 ###### Entrevista 5:
 
-Nombre: 
-Edad: 
-Distrito: 
+**Nombre:** Adriana Diestra
+**Edad:** 20
+**Distrito:** Rímac
 
-Resumen de la entrevista:
-Link:
+<img src="assets/Entrevista2.png" width="100%" height="100%">
+
+**Resumen de la entrevista:** Adriana (20 años), gerente de un restaurante en el Rímac, controla su inventario con Excel y revisiones visuales, lo que genera errores y dependencia del personal. Las mermas son frecuentes en productos frescos y pueden llegar al 10%, afectando la rentabilidad. La gerente ve útil una aplicación con alertas y reportes claros, y estaría dispuesta a invertir en una solución digital accesible que reduzca pérdidas.
+
+**Link:** https://upcedupe-my.sharepoint.com/:v:/g/personal/u202210720_upc_edu_pe/EYLEOxpEz3FCvphhmvFqP9wBbvv4A8s3OKdXo8g8D8t0FA?e=9OOXEO
 
 ###### Entrevista 6:
 
-Nombre: 
-Edad: 
-Distrito: 
+**Nombre:** 
+**Edad:** 
+**Distrito:** 
 
-Resumen de la entrevista:
-Link:
+**Resumen de la entrevista:**
+
+**Link:**
 
 ### 2.2.3. Análisis de entrevistas
 
