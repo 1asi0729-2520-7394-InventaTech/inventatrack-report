@@ -395,6 +395,7 @@ El wireframe define la estructura básica de la landing page en bloques principa
 
 ##### Usuario ingresa a la aplicación iniciando sesión o registrándose:
 
+
 ##### Usuario desea realizar un inventario:
 
 ##### Usuario desea ver el reporte del inventario:
@@ -404,6 +405,7 @@ El wireframe define la estructura básica de la landing page en bloques principa
 ##### Inicio de sesión y registro:
 
 ##### Vista de inventarios:
+<img src="assets/Mockup-Inventario.png" width="100%" height="100%">
 
 ### 4.4.4. Web Applications User Flow Diagrams
 
