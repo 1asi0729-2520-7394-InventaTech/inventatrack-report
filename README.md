@@ -1145,6 +1145,468 @@ Link del diagrama: https://drive.google.com/file/d/1jcCJUNHeWBzlNkrEl9jwdaP_kr-q
 
 <img src="assets/DB.png" width="100%" height="100%">
 
+# Capítulo V: Product Implementation, Validation & Deployment.
+
+# 5.1. Software Configuration Management
+
+## 5.1.1. Software Development Enviroment Configuration
+
+###### Requirements Management
+
+En esta categoría se incluyen las herramientas que el equipo de InventaTrack emplea para identificar, documentar y representar de forma visual los requisitos del sistema, asegurando claridad y entendimiento común entre todos los miembros del proyecto.  
+
+- **Miro**: Se utiliza para la creación de diagramas de flujo, mapas mentales y esquemas de procesos que permiten analizar los requisitos funcionales y no funcionales de la aplicación. [https://miro.com](https://miro.com)  
+
+- **Canva**: Permite diseñar presentaciones visuales e infografías que resumen los requisitos y necesidades detectadas en las entrevistas con los usuarios y stakeholders. [https://www.canva.com](https://www.canva.com)  
+
+- **Figma**: Es fundamental para el prototipado y diseño de interfaces, transformando los requisitos en wireframes y mockups interactivos que sirven como guía para el desarrollo. [https://www.figma.com](https://www.figma.com)
+
+###### Software Development
+
+En esta categoría se consideran las herramientas y lenguajes utilizados para la programación de InventaTrack, permitiendo implementar las funcionalidades definidas en los requisitos y plasmadas en los prototipos de diseño.  
+
+- **JetBrains WebStorm**: Entorno de desarrollo integrado (IDE) especializado en JavaScript y tecnologías web, que facilita la codificación, depuración y pruebas del proyecto gracias a su conjunto de herramientas inteligentes. [https://www.jetbrains.com/webstorm/](https://www.jetbrains.com/webstorm/)  
+- **JavaScript**: Lenguaje de programación utilizado para implementar la lógica y la interactividad dentro de la plataforma, permitiendo que la aplicación sea dinámica y responsiva. [https://developer.mozilla.org/es/docs/Web/JavaScript](https://developer.mozilla.org/es/docs/Web/JavaScript)  
+
+- **HTML**: Lenguaje de marcado empleado para estructurar el contenido de las páginas de la aplicación, sirviendo como la base para la interfaz del usuario. [https://developer.mozilla.org/es/docs/Web/HTML](https://developer.mozilla.org/es/docs/Web/HTML)  
+
+- **CSS**: Lenguaje de estilos que define la apariencia visual de la aplicación, garantizando un diseño atractivo, coherente y adaptado a distintos dispositivos. [https://developer.mozilla.org/es/docs/Web/CSS](https://developer.mozilla.org/es/docs/Web/CSS)
+
+###### Software Deployment
+
+En esta categoría se incluyen las herramientas que permiten publicar y poner en funcionamiento la aplicación InventaTrack, asegurando su disponibilidad para los usuarios finales y manteniendo un flujo de entrega ágil y controlado.  
+
+- **GitHub Pages**: Servicio de hosting que facilita el despliegue de aplicaciones web estáticas directamente desde los repositorios de GitHub, simplificando la publicación de versiones iniciales y prototipos. [https://pages.github.com/](https://pages.github.com/)  
+
+- **Netlify**: Plataforma que automatiza el proceso de despliegue, ofreciendo integración continua, previsualización de cambios y optimización de recursos para mejorar el rendimiento de la aplicación. [https://www.netlify.com/](https://www.netlify.com/)  
+
+- **Vercel**: Herramienta enfocada en proyectos web que permite desplegar aplicaciones rápidamente con soporte para flujos de trabajo en equipo, facilitando escalabilidad y pruebas en diferentes entornos. [https://vercel.com/](https://vercel.com/)
+
+###### Software Documentation and Project Management
+
+En esta categoría se incluyen las herramientas que el equipo de InventaTrack emplea para la documentación técnica, control de versiones y la gestión de tareas dentro del ciclo de vida del proyecto.  
+
+- **GitHub**: Herramienta esencial para el control de versiones del código, permitiendo a los miembros del equipo colaborar de manera simultánea, gestionar ramas, registrar cambios y mantener la documentación técnica del proyecto en repositorios centralizados. [https://github.com](https://github.com)  
+- **Trello**: Se utiliza para la gestión del backlog y la organización de las tareas del equipo. Permite planificar los sprints, asignar responsables, establecer prioridades y dar un seguimiento visual al progreso mediante tableros Kanban. [https://trello.com](https://trello.com)  
+
+## 5.1.2. Source Code Management
+
+El proyecto adopta las convenciones del modelo GitFlow como flujo de trabajo principal para el control de versiones, garantizando una adecuada organización de ramas y facilitando la integración continua. Como plataforma central, se utiliza GitHub, donde se gestionan los repositorios oficiales del proyecto.  
+
+En esta etapa, se comparten los enlaces a los repositorios asociados al desarrollo del proyecto, asegurando la trazabilidad y transparencia. Este mismo enfoque será aplicado de manera consistente en los demás productos que conforman el proyecto, con el objetivo de mantener un estándar unificado de gestión de código y colaboración entre los miembros del equipo.
+
+###### Repositorio de GitHub:
+
+* **URL para acceder a nuestro reporte en GitHub:** https://github.com/1asi0729-2520-7394-InventaTech/inventatrack-report
+* **URL para acceder nuestro repositorio de Landing Page:** https://github.com/1asi0729-2520-7394-InventaTech/inventatrack-website
+
+## 5.1.3. Source Code Style Guide & Conventions
+
+#### HTML5
+En InventaTrack, el uso de HTML5 constituye la base para estructurar el contenido de la Landing Page y las vistas del sistema de inventario. Para mantener un código ordenado y accesible se aplican las siguientes prácticas:
+
+- Usar etiquetas en minúsculas para mantener uniformidad y facilitar la lectura.  
+- Cerrar correctamente todas las etiquetas, garantizando compatibilidad entre navegadores.  
+- Documentar con comentarios breves y claros cada sección del código.  
+- Mantener un formato limpio evitando líneas demasiado extensas o espacios innecesarios.  
+- Incluir elementos esenciales como `<title>`, `<html>`, `<head>` y `<body>`.  
+- Definir el idioma del contenido con el atributo `lang` en la etiqueta `<html>`.  
+- Añadir atributos como `alt`, `width` y `height` en imágenes para mejorar la accesibilidad y la experiencia de usuario.  
+- Usar la metaetiqueta `<meta name="viewport">` para asegurar la correcta visualización en dispositivos móviles.  
+
+#### CSS 
+CSS en InventaTrack se utiliza para dar un diseño moderno y profesional, priorizando la usabilidad y la experiencia del usuario. Las convenciones aplicadas incluyen:  
+
+- Nomenclatura clara y coherente para clases e identificadores, lo que facilita la colaboración.  
+- Indentación uniforme y uso de espacios adecuados para mantener un código legible.  
+- Comentarios que expliquen la lógica de bloques de estilos o secciones clave.  
+- Agrupar propiedades relacionadas para mantener orden en las hojas de estilo.  
+- Evitar selectores demasiado específicos que dificulten la escalabilidad del proyecto.  
+- Probar los estilos en distintos navegadores y dispositivos para asegurar consistencia visual.  
+- Optimizar el código reduciendo duplicidades y validarlo con herramientas como el validador de W3C.  
+
+#### JavaScript
+JavaScript en InventaTrack permite implementar las funcionalidades dinámicas del sistema, como alertas de vencimiento o validaciones en formularios. Las buenas prácticas adoptadas son:  
+
+- Usar una nomenclatura consistente para variables, funciones y objetos.  
+- Aplicar una indentación clara y usar espacios adecuados después de palabras clave (`if`, `for`, `function`).  
+- Incluir comentarios que describan la lógica de cada sección del código.  
+- Minimizar el uso de variables globales, favoreciendo el uso de contextos locales.  
+- Implementar mecanismos de manejo de errores (`try-catch`) para garantizar robustez.  
+- Optimizar el rendimiento con técnicas como caché y minimización de scripts.  
+- Realizar pruebas cruzadas en diferentes navegadores y dispositivos.  
+
+#### Gherkin
+Para las pruebas de comportamiento de InventaTrack, se utiliza el lenguaje Gherkin, asegurando que los escenarios sean claros y entendibles por todo el equipo:  
+
+- Redactar escenarios simples y legibles, alineados con los requisitos del negocio.  
+- Mantener la estructura estandarizada con palabras clave como `Feature`, `Scenario`, `Given`, `When`, `Then` y `And`.  
+- Especificar claramente el estado inicial, las acciones y los resultados esperados.  
+- Reutilizar pasos comunes con `And` para evitar redundancias.  
+- Mantener escenarios enfocados en una funcionalidad concreta.  
+- Usar comentarios solo cuando sea necesario para añadir contexto adicional.  
+- Revisar escenarios en equipo para validar su alineación con los objetivos de InventaTrack.  
+
+## 5.1.4. Software Deployment Configuration
+
+Para la publicación en línea de InventaTrack, se implementó un proceso de despliegue moderno y automatizado utilizando Netlify como plataforma principal de hosting y GitHub como gestor central del código fuente. Esta configuración permite mantener un flujo de integración y entrega continua (CI/CD) que asegura la disponibilidad y actualización constante de los productos digitales del proyecto.
+
+#### Proceso de Despliegue
+
+1. **Integración con Repositorios Git**  
+   Los repositorios de InventaTrack están alojados en GitHub. Netlify se enlaza directamente con estos repositorios, lo que permite que, cada vez que se registra un nuevo commit o se actualiza una rama, se inicie automáticamente el proceso de construcción del sitio.
+
+2. **Compilación Automatizada**  
+   Durante el proceso de build, Netlify transforma el código fuente (HTML, CSS, JavaScript, TypeScript) en una versión optimizada y lista para producción. Este proceso incluye:  
+   - Minificación de archivos.  
+   - Optimización de recursos estáticos (imágenes, fuentes).  
+   - Generación de un sitio seguro y compatible con múltiples navegadores.  
+
+3. **Despliegue en Red CDN**  
+   Una vez completada la compilación, el contenido de InventaTrack se despliega en una red global de entrega de contenido (CDN), lo que garantiza tiempos de carga rápidos y disponibilidad del sistema en cualquier parte del mundo.
+
+4. **Vistas Previas por Rama**  
+   Netlify genera automáticamente una versión previa del sitio para cada rama o Pull Request, lo que facilita al equipo revisar los cambios antes de su integración. Esto mejora el trabajo colaborativo y permite detectar errores en etapas tempranas.
+
+5. **Despliegue Continuo**  
+   Cuando una rama es fusionada con la rama principal (`main`), Netlify actualiza el entorno productivo de forma automática. De esta manera, los usuarios siempre interactúan con la versión más reciente y estable del sistema.
+
+#### Productos Desplegados
+
+- **Landing Page de InventaTrack**: desplegada mediante GitHub Pages, integrada directamente con el repositorio en GitHub, lo que permite actualizaciones automáticas y una publicación sencilla del sitio.
+
+# 5.2. Landing Page, Services & Applications Implementation
+
+## 5.2.1 Sprint 1
+
+### 5.2.1.1 Sprint planning 1
+
+<table align="center" border="1" width="90%" style="text-align:center;">
+    <tr align="left">
+        <td>
+            <b>Sprint #</b>
+        </td>
+        <td>
+            <b>Sprint 1</b>           
+        </td>
+    </tr>
+    <tr align="left">
+        <td colspan="2">
+            <b>Sprint Planning Background</b>
+        </td>
+    </tr>
+    <tr align="left">
+        <td>
+            <b>Date</b>
+        </td>
+        <td>
+            19/09/25         
+        </td>
+    </tr>
+    <tr align="left">
+        <td>
+            <b>Time</b>
+        </td>
+        <td>
+            10:00         
+        </td>
+    </tr>
+    <tr align="left">
+        <td>
+            <b>Location</b>
+        </td>
+        <td>
+            Modalidad Remota por Discord
+        </td>
+    </tr>
+    <tr align="left">
+        <td>
+            <b>Prepared By</b>
+        </td>
+        <td>
+            Equipo InventaTech    
+        </td>
+    </tr>
+    <tr align="left">
+        <td>
+            <b>Attendees (to planning meeting)</b>
+        </td>
+        <td>
+            - Gonzalo Carhuancote <br>
+            - Juan Carlos Alvarado <br>
+            - Joan Teves <br>
+            - Antonio Duran <br>
+            - Daiki Oshiro <br>
+        </td>
+    </tr>
+    <tr align="left">
+        <td>
+            <b>Sprint n - 1</b> <br>
+            <b>Review Summary</b>
+        </td>
+        <td>
+            No existe un sprint anterior para realizar el review, siendo este el primer sprint a desarrollar para InventaTrack.  
+        </td>
+    </tr>
+    <tr align="left">
+        <td>
+            <b>Sprint n - 1</b> <br>
+            <b>Retrospective Summary</b>
+        </td>
+        <td>
+            No existe un sprint anterior para realizar una retrospectiva. Sin embargo, basándonos en lo avanzado, debemos priorizar la correcta definición y desarrollo de las User Stories y una planificación eficiente del Product Backlog.
+        </td>
+    </tr>
+    <tr align="left">
+        <td>
+            <b>Sprint 1 Goal</b>
+        </td>
+        <td>
+            El objetivo del sprint es desarrollar la landing page de InventaTrack con un diseño moderno, claro e intuitivo, que comunique eficazmente la propuesta de valor de la plataforma: facilitar la gestión digital de inventarios de alimentos perecederos para negocios, mejorando el control, reduciendo pérdidas y optimizando la operación diaria.
+        </td>
+    </tr>
+    <tr align="left">
+        <td>
+            <b>Sprint 1 Velocity</b>
+        </td>
+        <td>
+            8
+        </td>
+    </tr>
+    <tr align="left">
+        <td>
+            <b>Sum of Story Points</b>
+        </td>
+        <td>
+            8
+        </td>
+    </tr>
+</table>
+
+### 5.2.1.2. Aspect Leaders and Collaborators
+
+Durante el Sprint 1, el equipo de InventaTrack asignó líderes (L) y colaboradores (C) para aspectos esenciales como diseño de interfaz, desarrollo de la landing page, planificación de sprints, pruebas iniciales y documentación. Esta distribución permitió un trabajo equilibrado y un avance organizado del proyecto.
+
+| Miembro del Equipo          | GitHub Username | UI/UX | Landing Page | Sprint Planning | Testing | Documentación |
+|-----------------------------|-----------------|-------|--------------|-----------------|---------|---------------|
+| Gonzalo Carhuancote         | Gonzalo251104   | L     | C            | C               | C       | C             |
+| Juan Carlos Alvarado        | JuanCarlosAlvarado900 | C     | C            | L               | C       | C             |
+| Joan Teves                  | JoanTeves       | C     | L            | C               | C       | C             |
+| Antonio Duran               | Sltcrd          | C     | C            | C               | L       | C             |
+| Daiki Oshiro                | DaikiOY         | C     | C            | C               | C       | L             |
+
+#### 5.2.1.3. Sprint Backlog 1
+
+El objetivo principal del Sprint 1 fue establecer la base del proyecto InventaTrack, centrando los esfuerzos en el diseño de la interfaz (UI/UX), la construcción inicial de la landing page, la definición de los Sprints en la herramienta de gestión y el desarrollo de documentación base. También se incluyeron tareas generales como configuración de repositorios y organización del equipo.
+
+A continuación se presenta un screenshot del Board de Sprint 1 en Trello, junto con el enlace público correspondiente:
+
+https://trello.com/invite/b/68392dfb34795737cb55ab57/ATTI12319d8d47e238a19380ca29a0b7cdb4904CD423/sprint1
+
+<img src="assets/Trello1.png" width="100%" height="100%">
+
+<table align="center" border="1" width="95%" style="text-align:center">
+  <tr>
+    <td colspan="1"><b>Sprint #</b></td>
+    <td colspan="8"><b>Sprint 1</b></td>
+  </tr>
+  <tr>
+    <td colspan="2"><b>User Story</b></td>
+    <td colspan="7"><b>Work-Item / Task</b></td>
+  </tr>
+  <tr>
+    <td><b>Id</b></td>
+    <td><b>Title</b></td>
+    <td><b>Id</b></td>
+    <td><b>Title</b></td>
+    <td><b>Description</b></td>
+    <td><b>Estimation (Hours)</b></td>
+    <td><b>Assigned To</b></td>
+    <td><b>Student Code</b></td>
+    <td><b>Status</b></td>
+  </tr>
+
+  <!-- US11 -->
+  <tr>
+    <td rowspan="2">US11</td>
+    <td rowspan="2">Visualizar página informativa</td>
+    <td>T01</td>
+    <td>Maquetación HTML inicial</td>
+    <td>Diseñar la estructura base en HTML para la landing page.</td>
+    <td>3</td>
+    <td>Gonzalo Carhuancote</td>
+    <td>U202210720</td>
+    <td>Done</td>
+  </tr>
+  <tr>
+    <td>T02</td>
+    <td>Estilización general</td>
+    <td>Aplicar estilos CSS para definir la apariencia general.</td>
+    <td>3</td>
+    <td>Juan Carlos Alvarado</td>
+    <td>U202216150</td>
+    <td>Done</td>
+  </tr>
+
+  <!-- US12 -->
+  <tr>
+    <td rowspan="2">US12</td>
+    <td rowspan="2">Landing Page intuitiva</td>
+    <td>T01</td>
+    <td>Diseño de navegación</td>
+    <td>Crear menú de navegación con enlaces funcionales.</td>
+    <td>3</td>
+    <td>Joan Teves</td>
+    <td>U202117303</td>
+    <td>Done</td>
+  </tr>
+  <tr>
+    <td>T02</td>
+    <td>Personalización del Navbar</td>
+    <td>Aplicar diseño e identidad visual al menú de navegación.</td>
+    <td>3</td>
+    <td>Antonio Duran</td>
+    <td>U202215721</td>
+    <td>Done</td>
+  </tr>
+
+  <!-- US14 -->
+  <tr>
+    <td rowspan="2">US14</td>
+    <td rowspan="2">Landing Page responsiva</td>
+    <td>T01</td>
+    <td>Adaptar contenido principal</td>
+    <td>Aplicar media queries para que el contenido se adapte a distintos dispositivos.</td>
+    <td>3</td>
+    <td>Daiki Oshiro</td>
+    <td>U20201F846</td>
+    <td>Done</td>
+  </tr>
+  <tr>
+    <td>T02</td>
+    <td>Navbar adaptable</td>
+    <td>Hacer que el menú de navegación funcione correctamente en pantallas móviles.</td>
+    <td>3</td>
+    <td>Gonzalo Carhuancote</td>
+    <td>U202210720</td>
+    <td>Done</td>
+  </tr>
+</table>
+
+#### 5.2.1.4. Development Evidence for Sprint Review
+
+En el presente sprint se logró desarrollar la primera versión del Landing Page de InventaTrack, la cual presenta de manera clara el propósito de la plataforma y las problemáticas que busca resolver en la gestión de inventarios. La información mostrada fue organizada de forma comprensible y acompañada de elementos visuales que refuerzan el mensaje. Asimismo, se consideró un diseño atractivo e intuitivo que busca captar la atención de los usuarios y transmitir confianza en la solución propuesta.
+
+Link de commits del repositorio del landing page: https://github.com/1asi0729-2520-7394-InventaTech/inventatrack-website/commits/main/
+
+Principales avances en implementación con relación al Sprint:
+
+| Repository | Branch | Commit Id | Commit Message | Commit Message Body |  Commited on (Date) |
+| ---------- | ------ | --------- | --------- | ------------------- | ------------------- |
+|Landing Page|main| c9beceb | Initial commit  | create the README.md  | 17/09/2025 |
+|            |main| 46bc680 | Create index.html  | create the index.html  | 17/09/2025 |
+|            |main| 46bc680 | feat: added Section Home | added content in the section Home  | 17/09/2025 |
+|            |main| 09a0384 | feat: added assets carpet | create the assets carpet  | 18/09/2025 |
+|            |main| 09a0384 | feat: added css carpet | create the css carpet  | 18/09/2025 |
+|            |main| f3ec60e | feat: added i18n.js file | create the i18n.js file | 19/09/2025 |
+
+#### 5.2.1.5. Execution Evidence for Sprint Review
+
+Durante el primer sprint, se lograron varios hitos importantes en el desarrollo de la landing page para InventaTrack. A continuación, se presenta un resumen de los logros alcanzados:
+
+* **Establecimiento de repositorios:** Se crearon y configuraron repositorios en GitHub para gestionar el código y las pruebas, asegurando una correcta organización y control de versiones.
+
+<img src="assets/Rep.png" width="100%" height="100%">
+
+* **Implementación del Landing Page:** Se diseñó y desarrolló la landing page de InventaTrack, implementando funcionalidades clave y asegurando que cumpla con los requisitos definidos en el proyecto.
+
+* **Imágenes del Landing Page:**
+   
+  * **Inicio:**
+
+<img src="assets/Ini.png" width="100%" height="100%">
+
+  * **Sección Características:**
+
+<img src="assets/Car.png" width="100%" height="100%">
+  
+  * **Planes de subscripción:**
+
+ <img src="assets/Sub.png" width="100%" height="100%"> 
+  
+  * **Preguntas Frecuentes:**
+
+ <img src="assets/Pre.png" width="100%" height="100%"> 
+ 
+#### 5.2.1.6. Services Documentation Evidence for Sprint Review
+
+Durante el primer sprint, se desarrolló el Landing Page del proyecto como una primera entrega visual. Esta implementación se centró únicamente en la estructura y diseño, sin integrar aún servicios web ni funcionalidades conectadas a sistemas externos.
+
+#### 5.2.1.7. Software Deployment Evidence for Sprint Review
+
+Durante este Sprint se llevaron a cabo las siguientes actividades relacionadas con el despliegue de la Landing Page.  
+
+#### Creación de Repositorios y Configuración en GitHub
+
+- Se crearon repositorios en GitHub para gestionar el código fuente y realizar el seguimiento de cambios, incluyendo la Landing Page y otros componentes del proyecto.  
+- Los repositorios fueron configurados para habilitar el despliegue mediante GitHub Pages.  
+- GitHub Pages: Se configuró GitHub Pages para desplegar la Landing Page, ofreciendo una solución sencilla de alojamiento directamente desde el repositorio en GitHub.  
+
+<img src="assets/EE2.png" width="100%" height="100%"> 
+
+#### Proceso de Despliegue
+
+- Despliegue de la Landing Page:  
+  - Se subió el código de la Landing Page al repositorio correspondiente en GitHub.  
+  - Se configuró GitHub Pages para publicar el sitio en línea, incluyendo la personalización de la página de inicio.
+    
+<img src="assets/EE1.png" width="100%" height="100%"> 
+
+- Verificación del Despliegue:  
+  - Se realizó una revisión exhaustiva del sitio publicado en GitHub Pages para asegurar que todos los elementos funcionaran correctamente.  
+  - Se ejecutaron pruebas de funcionalidad para verificar la correcta carga del sitio y la ausencia de errores en el contenido desplegado.
+
+<img src="assets/Ini.png" width="100%" height="100%"> 
+
+El proceso de despliegue realizado durante este Sprint 1 permitió establecer una base sólida para la gestión y publicación del proyecto. La configuración de GitHub Pages optimizó el despliegue y garantizó una integración continua efectiva, facilitando futuras actualizaciones de la aplicación web.  
+ 
+Link del Landing Page: https://1asi0729-2520-7394-inventatech.github.io/inventatrack-website/
+
+#### 5.2.1.8. Team Collaboration Insights during Sprint
+
+Durante este Sprint, el equipo llevó a cabo un trabajo colaborativo enfocado en el diseño y la implementación de la Landing Page de InventaTrack. Las actividades se distribuyeron entre los integrantes, asegurando que la landing page cumpliera con los objetivos planteados para esta fase. Asimismo, se registraron avances en la gestión del repositorio de GitHub, evidenciados en los commits y métricas de colaboración que reflejan la participación activa de cada miembro del equipo.
+
+| Author              | Task completed                                   |
+|---------------------|--------------------------------------------------|
+| Gonzalo Carhuancote | Integration of landing page sections and deployment |
+| Daiki Oshiro        | Report development                               |
+| Juan Alvarado       | Design and development of mockups and wireframes |
+| Joan Teves          | Development of Toolbar and Footer                |
+| Antonio Duran       | Development of Subscription Features             |
+
+Captura de Analíticos de Colaboración en GitHub en el repositorio de la Landing Page:
+
+* **Link de commits del repositorio del reporte:** https://github.com/1asi0729-2520-7394-InventaTech/inventatrack-report/commits/main/
+
+* **Link de commits del repositorio del landing page:** https://github.com/1asi0729-2520-7394-InventaTech/inventatrack-website/commits/main/
+
+<img src="assets/Col1.png" width="100%" height="100%"> 
+
+<img src="assets/Col3.png" width="100%" height="100%">
+
+<img src="assets/Col2.png" width="100%" height="100%"> 
+
+<img src="assets/Col4.png" width="100%" height="100%"> 
+
+<img src="assets/Col5.png" width="100%" height="100%"> 
+
+<img src="assets/Col6.png" width="100%" height="100%"> 
+
+<img src="assets/Col7.png" width="100%" height="100%"> 
+
+<img src="assets/Col8.png" width="100%" height="100%"> 
+
+
 # Bibliografía
 
 ## Referencias
