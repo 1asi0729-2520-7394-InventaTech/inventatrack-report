@@ -203,7 +203,7 @@ El objetivo de este análisis es entender mejor el panorama competitivo y posici
   </tr>
   <tr>
     <td colspan="2"></td>
-    <td><b>InventaTrack <img src="./assets/InventaTrack.png" alt="InventaTrack" width="120" height="120" /> </b></td>
+    <td><b>InventaTrack <img src="./assets/InvenTrack-Logo.png" alt="InventaTrack" width="120" height="120" /> </b></td>
     <td><b>Toast POS</b> <img src="./assets/Toast.jpg" width="120" height="120" /> </td>
     <td><b>MarketMan</b> <img src="./assets/MarketMan.jpeg" width="120" height="120" /> </td>
     <td><b>BlueCart</b> <img src="./assets/BlueCart.png" width="120" height="120" /> </td>
