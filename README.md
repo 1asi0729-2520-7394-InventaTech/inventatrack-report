@@ -1,7 +1,7 @@
 <h3 align="center"> Universidad Peruana de Ciencias Aplicadas </h3>
 
 <h3 align="center"> Ingeniería de Software </h3>
-<h3 align="center"> Ciclo 2025 - 2</h3>
+<h3 align="center"> Ciclo 2025 - 20 </h3>
 
 <br>
 
@@ -13,9 +13,7 @@
 
 <h1 align="center"> TB1 Report </h1>
 
-<h3 align="center"> Desarrollo de Aplicaciones Open Source </h3>
-
-<h3 align="center"> 1ASI0729-2520-7394 </h3>
+<h3 align="center"> Desarrollo de Aplicaciones Open Source - 7394 </h3>
 
 <h3 align="center"> Docente: Hugo Allan Mori Paiva </h3>
 
@@ -42,6 +40,7 @@
 | Versión |  Fecha   |                                       Autor                                        |                                                  Descripción de modificación                                                   |
 | :-----: | :------: | :--------------------------------------------------------------------------------: | :----------------------------------------------------------------------------------------------------------------------------: |
 |   TB1   | 15/09/25 | Gonzalo Carhuancote, Juan Carlos Alvarado, Joan Teves, Antonio Duran, Daiki Oshiro | Para esta primera entrega, realizamos los primeros 5 capítulos del informe y desarrollamos la primera versión del landing page |
+|   TP1   | 05/10/25 | Gonzalo Carhuancote, Juan Carlos Alvarado, Joan Teves, Antonio Duran, Daiki Oshiro | Para esta entrega parcial, realizamos el sprint 2 y se realizaron correcciones generales |
 
 ## Project Report Collaboration Insights
 
@@ -54,6 +53,10 @@ A continuación, se detallan los repositorios utilizados a lo largo del proyecto
 #### Link del repositorio de la Landing Page:
 
 - https://github.com/1asi0729-2520-7394-InventaTech/inventatrack-website
+
+#### Link del repositorio del Frontend:
+
+- 
 
 ### Entrega TB1:
 
@@ -72,6 +75,22 @@ Durante esta entrega se elaboraron los capítulos 1 al 5 del informe. La redacci
 - Daiki Oscar Oshiro Yamashita: Desarrollo de los capítulos 2 y 3, parte del 4 y Sprint 1.
 
 <img src="assets/DOY1.png" width="100%" height="100%">
+
+### Entrega TP1:
+
+Durante esta entrega se elaboró la primera versión del Frontend correspondiente al Sprint 2 y se realizaron las correcciones del avance previo. El desarrollo de esta fase se distribuyó entre los miembros del equipo con el objetivo de completar las funcionalidades pendientes y mejorar los aspectos identificados en la retroalimentación anterior.
+
+##### Participación por integrante:
+
+- Gonzalo Alonso Carhuancote Dominguez: 
+
+- Juan Carlos Alvarado de la Cruz: 
+
+- Joan Fernando Teves Samaniego:
+
+- Antonio Rodrigo Duran Díaz:
+
+- Daiki Oscar Oshiro Yamashita: 
 
 # Contenido
 
@@ -175,8 +194,8 @@ Objetivo general, ABET – EAC - Student Outcome 3: Capacidad de comunicarse efe
 
 | **Criterio específico**                                                   | **Acciones realizadas**                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                       | **Conclusiones**                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                   |
 | ------------------------------------------------------------------------- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| **Comunica oralmente con efectividad a diferentes rangos de audiencia**   | Gonzalo Alonso Carhuancote Dominguez <br>**TB1**: Expliqué InventaTrack en reuniones y entrevistas, ajustando el lenguaje según si la audiencia era técnica o de negocio. <br> Juan Carlos Alvarado de la Cruz <br>**TB1**:Expliqué ideas de diseño y navegación del prototipo en Figma de forma clara a mi equipo y adapté el lenguaje técnico en las reuniones con el docente. <br> Joan Fernando Teves Samaniego <br>**TB1**:Explique el proposito del proyecto para extraer buena información utíl al proyecto <br> Antonio Rodrigo Duran Díaz <br>**TB1**: Participé dando ideas para la creación de Inventatrack asi como adaptar la comunicacion clara en las entrevistas <br> Daiki Oscar Oshiro Yamashita <br>**TB1**: Participé constantemente en las reuniones programadas que realizamos con el fin de coordinar avances e informar el progreso del trabajo. <br> | Gonzalo Alonso Carhuancote Dominguez <br>**TB1**: Logré transmitir las ideas con claridad y generar retroalimentación útil para mejorar el proyecto. <br> Juan Carlos Alvarado de la Cruz <br>**TB1**:Logré transmitir mis aportes de manera comprensible y útil para distintos públicos. <br> Joan Fernando Teves Samaniego <br>**TB1**: Expliqué claramente mis ideas y tuve buena comunicaion con los miembros de mi equipo <br> Antonio Rodrigo Duran Díaz <br>**TB1**: Logré una buena comunicacion y explique de manera correcta mis ideas <br> Daiki Oscar Oshiro Yamashita <br>**TB1**: La efectiva comunicación entre los miembros del equipo facilitó el logro de los objetivos planteados en esta fase inicial. <br>    |
-| **Comunica por escrito con efectividad a diferentes rangos de audiencia** | Gonzalo Alonso Carhuancote Dominguez <br>**TB1**: Redacté entrevistas, resúmenes y análisis con un estilo adaptado a cada tipo de lector. <br> Juan Carlos Alvarado de la Cruz <br>**TB1**:Redacté secciones del informe con un estilo formal y claro, y utilicé mensajes breves en GitHub para la colaboración técnica del equipo. <br> Joan Fernando Teves Samaniego <br>**TB1**: Redacte mis entrevistas, resumenes y análisis para ser de ayuda con el proyecto<br> Antonio Rodrigo Duran Díaz <br>**TB1**: Redacté los primero capitulos para tener una base en el avance del proyecto <br> Daiki Oscar Oshiro Yamashita <br>**TB1**: Contribuí principalmente al desarrollo de los capítulos 2 y 3, así como a partes de los capítulos 4 y 5. <br>                                                                                                                      | Gonzalo Alonso Carhuancote Dominguez <br>**TB1**: La escritura clara y precisa facilitó la comprensión del proyecto y fortaleció la confianza en la propuesta. <br> Juan Carlos Alvarado de la Cruz <br>**TB1**:Mi comunicación escrita se adaptó exitosamente tanto al entorno académico como al técnico. <br> Joan Fernando Teves Samaniego <br>**TB1**: Estableci comunicacion clara de manera escrita para el proyecto <br> Antonio Rodrigo Duran Díaz <br>**TB1**: Mi participación fue debidamente útil y de comprensión para el avance del proyecto <br> Daiki Oscar Oshiro Yamashita <br>**TB1**: La contribución en la elaboración del texto facilitó un desarrollo significativo en los capítulos correspondientes. <br> |
+| **Comunica oralmente con efectividad a diferentes rangos de audiencia**   | Gonzalo Alonso Carhuancote Dominguez <br>**TB1**: Expliqué InventaTrack en reuniones y entrevistas, ajustando el lenguaje según si la audiencia era técnica o de negocio. <br> Juan Carlos Alvarado de la Cruz <br>**TB1**:Expliqué ideas de diseño y navegación del prototipo en Figma de forma clara a mi equipo y adapté el lenguaje técnico en las reuniones con el docente. <br> Joan Fernando Teves Samaniego <br>**TB1**:Explique el proposito del proyecto para extraer buena información utíl al proyecto <br> Antonio Rodrigo Duran Díaz <br>**TB1**: Participé dando ideas para la creación de Inventatrack asi como adaptar la comunicacion clara en las entrevistas <br> Daiki Oscar Oshiro Yamashita <br>**TB1**: Participé constantemente en las reuniones programadas que realizamos con el fin de coordinar avances e informar el progreso del trabajo.<br><br>**TP1**: La comunicación efectiva del análisis del bounded context del sistema de inventario permitió identificar y separar claramente los dominios de gestión de productos, control de existencias, facilitando la planificación y el diseño modular del sistema.<br>  | Gonzalo Alonso Carhuancote Dominguez <br>**TB1**: Logré transmitir las ideas con claridad y generar retroalimentación útil para mejorar el proyecto. <br> Juan Carlos Alvarado de la Cruz <br>**TB1**:Logré transmitir mis aportes de manera comprensible y útil para distintos públicos. <br> Joan Fernando Teves Samaniego <br>**TB1**: Expliqué claramente mis ideas y tuve buena comunicaion con los miembros de mi equipo <br> Antonio Rodrigo Duran Díaz <br>**TB1**: Logré una buena comunicacion y explique de manera correcta mis ideas <br> Daiki Oscar Oshiro Yamashita <br>**TB1**: La efectiva comunicación entre los miembros del equipo facilitó el logro de los objetivos planteados en esta fase inicial.<br><br>**TP1**: Comunicar claramente el bounded context favoreció la alineación del equipo y una planificación más ordenada, asegurando coherencia en el desarrollo del sistema.<br>   |
+| **Comunica por escrito con efectividad a diferentes rangos de audiencia** | Gonzalo Alonso Carhuancote Dominguez <br>**TB1**: Redacté entrevistas, resúmenes y análisis con un estilo adaptado a cada tipo de lector. <br> Juan Carlos Alvarado de la Cruz <br>**TB1**:Redacté secciones del informe con un estilo formal y claro, y utilicé mensajes breves en GitHub para la colaboración técnica del equipo. <br> Joan Fernando Teves Samaniego <br>**TB1**: Redacte mis entrevistas, resumenes y análisis para ser de ayuda con el proyecto<br> Antonio Rodrigo Duran Díaz <br>**TB1**: Redacté los primero capitulos para tener una base en el avance del proyecto <br> Daiki Oscar Oshiro Yamashita <br>**TB1**: Contribuí principalmente al desarrollo de los capítulos 2 y 3, así como a partes de los capítulos 4 y 5.<br><br>**TP1**: Aporté en la elaboración y refinamiento del informe técnico, desarrollando el bounded context del subdominio Inventory, con el objetivo de establecer límites funcionales claros y coherentes con la arquitectura del sistema.<br>     | Gonzalo Alonso Carhuancote Dominguez <br>**TB1**: La escritura clara y precisa facilitó la comprensión del proyecto y fortaleció la confianza en la propuesta. <br> Juan Carlos Alvarado de la Cruz <br>**TB1**:Mi comunicación escrita se adaptó exitosamente tanto al entorno académico como al técnico. <br> Joan Fernando Teves Samaniego <br>**TB1**: Estableci comunicacion clara de manera escrita para el proyecto <br> Antonio Rodrigo Duran Díaz <br>**TB1**: Mi participación fue debidamente útil y de comprensión para el avance del proyecto <br> Daiki Oscar Oshiro Yamashita <br>**TB1**: La contribución en la elaboración del texto facilitó un desarrollo significativo en los capítulos correspondientes.<br><br>**TP1**: Mi participación en la redacción contribuyó significativamente al desarrollo de los capítulos asignados, adaptando el contenido a los requisitos del proyecto. Además, incluí el análisis del bounded context del subdominio Inventory y realicé mejoras en la estructura y coherencia general del informe.<br>|
 
 <div style="page-break-after: always;"></div>
 
@@ -1192,8 +1211,7 @@ En esta categoría se incluyen las herramientas que el equipo de InventaTrack em
 
 En esta categoría se consideran las herramientas y lenguajes utilizados para la programación de InventaTrack, permitiendo implementar las funcionalidades definidas en los requisitos y plasmadas en los prototipos de diseño.
 
-- **JetBrains WebStorm**: Entorno de desarrollo integrado (IDE) especializado en JavaScript y tecnologías web, que facilita la codificación, depuración y pruebas del proyecto gracias a su conjunto de herramientas inteligentes. [https://www.jetbrains.com/webstorm/](https://www.jetbrains.com/webstorm/)
-- **JavaScript**: Lenguaje de programación utilizado para implementar la lógica y la interactividad dentro de la plataforma, permitiendo que la aplicación sea dinámica y responsiva. [https://developer.mozilla.org/es/docs/Web/JavaScript](https://developer.mozilla.org/es/docs/Web/JavaScript)
+- **JetBrains WebStorm**: Entorno de desarrollo integrado (IDE) especializado en tecnologías web, que facilita la codificación, depuración y pruebas del proyecto gracias a su conjunto de herramientas inteligentes. [https://www.jetbrains.com/webstorm/](https://www.jetbrains.com/webstorm/)
 
 - **HTML**: Lenguaje de marcado empleado para estructurar el contenido de las páginas de la aplicación, sirviendo como la base para la interfaz del usuario. [https://developer.mozilla.org/es/docs/Web/HTML](https://developer.mozilla.org/es/docs/Web/HTML)
 
@@ -1254,18 +1272,6 @@ CSS en InventaTrack se utiliza para dar un diseño moderno y profesional, priori
 - Probar los estilos en distintos navegadores y dispositivos para asegurar consistencia visual.
 - Optimizar el código reduciendo duplicidades y validarlo con herramientas como el validador de W3C.
 
-#### JavaScript
-
-JavaScript en InventaTrack permite implementar las funcionalidades dinámicas del sistema, como alertas de vencimiento o validaciones en formularios. Las buenas prácticas adoptadas son:
-
-- Usar una nomenclatura consistente para variables, funciones y objetos.
-- Aplicar una indentación clara y usar espacios adecuados después de palabras clave (`if`, `for`, `function`).
-- Incluir comentarios que describan la lógica de cada sección del código.
-- Minimizar el uso de variables globales, favoreciendo el uso de contextos locales.
-- Implementar mecanismos de manejo de errores (`try-catch`) para garantizar robustez.
-- Optimizar el rendimiento con técnicas como caché y minimización de scripts.
-- Realizar pruebas cruzadas en diferentes navegadores y dispositivos.
-
 #### Gherkin
 
 Para las pruebas de comportamiento de InventaTrack, se utiliza el lenguaje Gherkin, asegurando que los escenarios sean claros y entendibles por todo el equipo:
@@ -1288,7 +1294,7 @@ Para la publicación en línea de InventaTrack, se implementó un proceso de des
    Los repositorios de InventaTrack están alojados en GitHub. Netlify se enlaza directamente con estos repositorios, lo que permite que, cada vez que se registra un nuevo commit o se actualiza una rama, se inicie automáticamente el proceso de construcción del sitio.
 
 2. **Compilación Automatizada**  
-   Durante el proceso de build, Netlify transforma el código fuente (HTML, CSS, JavaScript, TypeScript) en una versión optimizada y lista para producción. Este proceso incluye:
+   Durante el proceso de build, Netlify transforma el código fuente (HTML, CSS, TypeScript) en una versión optimizada y lista para producción. Este proceso incluye:
 
    - Minificación de archivos.
    - Optimización de recursos estáticos (imágenes, fuentes).
