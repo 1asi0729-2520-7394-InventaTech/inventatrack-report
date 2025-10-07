@@ -269,7 +269,7 @@ Esta situación provoca pérdidas económicas, desperdicio de alimentos y proble
 
 - En Perú, se desperdician cerca de 12,8 millones de toneladas de alimentos al año, y en el sector gastronómico las pérdidas por mermas y errores alcanzan entre el 10 % y 15 % del costo operativo (La República, 2024). La solución implica una inversión inicial accesible y un costo mensual competitivo para hosting y mantenimiento, con posibilidad de escalar a modelos de suscripción accesibles que aseguren la sostenibilidad del sistema.
 
-### 1.2.2 Lean UX Proces
+### 1.2.2 Lean UX Process
 
 #### 1.2.2.1 Lean UX Problem Statements
 
@@ -1471,7 +1471,7 @@ https://trello.com/invite/b/68392dfb34795737cb55ab57/ATTI12319d8d47e238a19380ca2
     <td>T01</td>
     <td>Maquetación HTML inicial</td>
     <td>Diseñar la estructura base en HTML para la landing page.</td>
-    <td>3</td>
+    <td>4</td>
     <td>Gonzalo Carhuancote</td>
     <td>U202210720</td>
     <td>Done</td>
@@ -1480,7 +1480,7 @@ https://trello.com/invite/b/68392dfb34795737cb55ab57/ATTI12319d8d47e238a19380ca2
     <td>T02</td>
     <td>Estilización general</td>
     <td>Aplicar estilos CSS para definir la apariencia general.</td>
-    <td>3</td>
+    <td>4</td>
     <td>Juan Carlos Alvarado</td>
     <td>U202216150</td>
     <td>Done</td>
@@ -1493,7 +1493,7 @@ https://trello.com/invite/b/68392dfb34795737cb55ab57/ATTI12319d8d47e238a19380ca2
     <td>T01</td>
     <td>Diseño de navegación</td>
     <td>Crear menú de navegación con enlaces funcionales.</td>
-    <td>3</td>
+    <td>4</td>
     <td>Joan Teves</td>
     <td>U202117303</td>
     <td>Done</td>
@@ -1502,7 +1502,7 @@ https://trello.com/invite/b/68392dfb34795737cb55ab57/ATTI12319d8d47e238a19380ca2
     <td>T02</td>
     <td>Personalización del Navbar</td>
     <td>Aplicar diseño e identidad visual al menú de navegación.</td>
-    <td>3</td>
+    <td>4</td>
     <td>Antonio Duran</td>
     <td>U202215721</td>
     <td>Done</td>
@@ -1515,7 +1515,7 @@ https://trello.com/invite/b/68392dfb34795737cb55ab57/ATTI12319d8d47e238a19380ca2
     <td>T01</td>
     <td>Adaptar contenido principal</td>
     <td>Aplicar media queries para que el contenido se adapte a distintos dispositivos.</td>
-    <td>3</td>
+    <td>4</td>
     <td>Daiki Oshiro</td>
     <td>U20201F846</td>
     <td>Done</td>
@@ -1524,7 +1524,7 @@ https://trello.com/invite/b/68392dfb34795737cb55ab57/ATTI12319d8d47e238a19380ca2
     <td>T02</td>
     <td>Navbar adaptable</td>
     <td>Hacer que el menú de navegación funcione correctamente en pantallas móviles.</td>
-    <td>3</td>
+    <td>4</td>
     <td>Gonzalo Carhuancote</td>
     <td>U202210720</td>
     <td>Done</td>
@@ -1642,6 +1642,298 @@ Captura de Analíticos de Colaboración en GitHub en el repositorio de la Landin
 <img src="assets/Col7.png" width="100%" height="100%">
 
 <img src="assets/Col8.png" width="100%" height="100%">
+
+## 5.2.2 Sprint 2
+
+### 5.2.2.1 Sprint planning 2
+
+<table align="center" border="1" width="90%" style="text-align:center;">
+    <tr align="left">
+        <td>
+            <b>Sprint #</b>
+        </td>
+        <td>
+            <b>Sprint 2</b>           
+        </td>
+    </tr>
+    <tr align="left">
+        <td colspan="2">
+            <b>Sprint Planning Background</b>
+        </td>
+    </tr>
+    <tr align="left">
+        <td>
+            <b>Date</b>
+        </td>
+        <td>
+            04/10/25         
+        </td>
+    </tr>
+    <tr align="left">
+        <td>
+            <b>Time</b>
+        </td>
+        <td>
+            11:00         
+        </td>
+    </tr>
+    <tr align="left">
+        <td>
+            <b>Location</b>
+        </td>
+        <td>
+            Modalidad Remota por Discord
+        </td>
+    </tr>
+    <tr align="left">
+        <td>
+            <b>Prepared By</b>
+        </td>
+        <td>
+            Equipo InventaTech    
+        </td>
+    </tr>
+    <tr align="left">
+        <td>
+            <b>Attendees (to planning meeting)</b>
+        </td>
+        <td>
+            - Gonzalo Carhuancote <br>
+            - Juan Carlos Alvarado <br>
+            - Joan Teves <br>
+            - Antonio Duran <br>
+            - Daiki Oshiro <br>
+        </td>
+    </tr>
+    <tr align="left">
+        <td>
+            <b>Sprint 1</b> <br>
+            <b>Review Summary</b>
+        </td>
+        <td>
+            En el Sprint 1 se desarrolló la landing page de la aplicación InventaTrack. Se implementó la estructura base en HTML, la estilización general mediante CSS, la navegación funcional y un menú de navegación completamente responsive. La página se adapta a distintos dispositivos, garantizando una experiencia de usuario fluida e intuitiva. Todas las tareas fueron completadas con éxito, entregando una página informativa atractiva y visualmente alineada con la identidad y los objetivos del proyecto InventaTrack.
+        </td>
+    </tr>
+    <tr align="left">
+        <td>
+            <b>Sprint 1</b> <br>
+            <b>Retrospective Summary</b>
+        </td>
+        <td>
+            El Sprint 1 fue exitoso en la entrega de la landing page de InventaTrack, cumpliendo los objetivos planificados. Se identificaron áreas de mejora en la definición de algunos componentes y su implementación. El equipo mostró buena comunicación y adaptabilidad. En el siguiente sprint se enfocará en optimizar la planificación de tareas, mejorar el código y realizar pruebas tempranas de usabilidad para fortalecer la experiencia del usuario.
+        </td>
+    </tr>
+    <tr align="left">
+        <td>
+            <b>Sprint 2 Goal</b>
+        </td>
+        <td>
+            Desarrollar el Frontend de la aplicación web de InventaTrack, enfocándose en la implementación de los bounded contexts de registro e inicio de sesión, inventario con su funcionaliad de búsqueda por fechas y artículo, reportes, añadir producto y perfil.
+        </td>
+    </tr>
+    <tr align="left">
+        <td>
+            <b>Sprint 2 Velocity</b>
+        </td>
+        <td>
+            8
+        </td>
+    </tr>
+    <tr align="left">
+        <td>
+            <b>Sum of Story Points</b>
+        </td>
+        <td>
+            22
+        </td>
+    </tr>
+</table>
+
+### 5.2.2.2. Aspect Leaders and Collaborators
+
+Durante el Sprint 2, el equipo de InventaTrack asignó líderes (L) y colaboradores (C) para aspectos esenciales como diseño de interfaz, desarrollo de la landing page, planificación de sprints, pruebas iniciales y documentación. Esta distribución permitió un trabajo equilibrado y un avance organizado del proyecto.
+
+| Miembro del Equipo   | GitHub Username       | Landing Page | Login/Register | Inventory | Reports | Profile |
+| -------------------- | --------------------- | ----- | ------------ | --------------- | ------- | ------------- |
+| Gonzalo Carhuancote  | Gonzalo251104         | L     | C            | C               | C       | C             |
+| Juan Carlos Alvarado | JuanCarlosAlvarado900 | C     | C            | C               | C       | L             |
+| Joan Teves           | JoanTeves             | C     | L            | C               | C       | C             |
+| Antonio Duran        | Sltcrd                | C     | C            | C               | L       | C             |
+| Daiki Oshiro         | DaikiOY               | C     | C            | L               | C       | C             |
+
+#### 5.2.2.3. Sprint Backlog 2
+
+El objetivo principal del Sprint 2 fue establecer el inicio del Frontend del proyecto InventaTrack, centrando los esfuerzos en el diseño de la interfaz y desarrollo de los bounded context principales de login, register, inventory, reports y profile. También se incluyeron tareas generales como configuración de repositorios y organización del equipo.
+
+A continuación se presenta un screenshot del Board de Sprint 2 en Trello, junto con el enlace público correspondiente:
+
+https://trello.com/invite/b/68e593ebd894d7fa7c2c206f/ATTIb351ba477f7ec5c6a5ea3986a5bec4d3AD187ACD/sprint2
+
+<img src="assets/Trello2.png" width="100%" height="100%">
+
+<table align="center" border="1" width="95%" style="text-align:center">
+  <tr>
+    <td><b>Sprint #</b></td>
+    <td colspan="8"><b>Sprint 1</b></td>
+  </tr>
+  <tr>
+    <td colspan="2"><b>User Story</b></td>
+    <td colspan="7"><b>Work-Item / Task</b></td>
+  </tr>
+  <tr>
+    <td><b>Id</b></td>
+    <td><b>Title</b></td>
+    <td><b>Id</b></td>
+    <td><b>Title</b></td>
+    <td><b>Description</b></td>
+    <td><b>Estimation (Hours)</b></td>
+    <td><b>Assigned To</b></td>
+    <td><b>Student Code</b></td>
+    <td><b>Status</b></td>
+  </tr>
+
+  <!-- US03 - Inicio de sesión -->
+  <tr>
+    <td rowspan="2">US03</td>
+    <td rowspan="2">Inicio de sesión</td>
+    <td>T01</td>
+    <td>Formulario de login</td>
+    <td>Permitir ingresar con correo y contraseña.</td>
+    <td>4</td>
+    <td>Gonzalo Carhuancote</td>
+    <td>U202210720</td>
+    <td>Done</td>
+  </tr>
+  <tr>
+    <td>T02</td>
+    <td>Validación de credenciales</td>
+    <td>Verificar datos ingresados y mostrar mensaje de error si es incorrecto.</td>
+    <td>4</td>
+    <td>Gonzalo Carhuancote</td>
+    <td>U202210720</td>
+    <td>Done</td>
+  </tr>
+
+  <!-- US01 - Perfil -->
+  <tr>
+    <td rowspan="2">US01</td>
+    <td rowspan="2">Gestión de perfil</td>
+    <td>T01</td>
+    <td>Visualización de perfil</td>
+    <td>Mostrar datos del usuario como nombre, correo.</td>
+    <td>4</td>
+    <td>Juan Carlos Alvarado</td>
+    <td>U202216150</td>
+    <td>Done</td>
+  </tr>
+  <tr>
+    <td>T02</td>
+    <td>Edición de perfil</td>
+    <td>Permitir actualizar información personal y cambiar contraseña.</td>
+    <td>4</td>
+    <td>Juan Carlos Alvarado</td>
+    <td>U202216150</td>
+    <td>Done</td>
+  </tr>
+
+  <!-- US07 - Inventario -->
+  <tr>
+    <td rowspan="2">US07</td>
+    <td rowspan="2">Inventario</td>
+    <td>T01</td>
+    <td>Listado de productos</td>
+    <td>Mostrar todos los productos con cantidad, fecha de ingreso y caducidad.</td>
+    <td>5</td>
+    <td>Daiki Oshiro</td>
+    <td>U20201F846</td>
+    <td>Done</td>
+  </tr>
+  <tr>
+    <td>T02</td>
+    <td>Filtros de búsqueda</td>
+    <td>Permitir buscar productos por nombre y filtrar por fechas.</td>
+    <td>5</td>
+    <td>Daiki Oshiro</td>
+    <td>U20201F846</td>
+    <td>Done</td>
+  </tr>
+
+  <!-- US14 - Reportes -->
+  <tr>
+    <td rowspan="2">US14</td>
+    <td rowspan="2">Reportes</td>
+    <td>T01</td>
+    <td>Insumos críticos</td>
+    <td>Visualizar productos próximos a vencer o con baja cantidad.</td>
+    <td>4</td>
+    <td>Antonio Duran</td>
+    <td>U202215721</td>
+    <td>Done</td>
+  </tr>
+  <tr>
+    <td>T02</td>
+    <td>Generación de reportes</td>
+    <td>Exportar reportes con resumen de stock y fechas de caducidad.</td>
+    <td>4</td>
+    <td>Gonzalo Carhuancote</td>
+    <td>U202210720</td>
+    <td>Done</td>
+  </tr>
+
+  <!-- US05 - Añadir producto -->
+  <tr>
+    <td rowspan="2">US05</td>
+    <td rowspan="2">Añadir producto</td>
+    <td>T01</td>
+    <td>Formulario de nuevo producto</td>
+    <td>Ingresar nombre, cantidad, fecha de ingreso y caducidad.</td>
+    <td>4</td>
+    <td>Juan Carlos Alvarado</td>
+    <td>U202216150</td>
+    <td>Done</td>
+  </tr>
+  <tr>
+    <td>T02</td>
+    <td>Validación de datos</td>
+    <td>Verificar que todos los campos estén completos y correctos antes de guardar.</td>
+    <td>4</td>
+    <td>Juan Carlos Alvarado</td>
+    <td>U202216150</td>
+    <td>Done</td>
+  </tr>
+</table>
+
+#### 5.2.2.4. Development Evidence for Sprint Review
+
+En el presente sprint se logró desarrollar la primera versión del Frontend de InventaTrack. La interfaz implementada busca reflejar de manera clara y funcional los objetivos de la plataforma, facilitando la interacción del usuario con las funcionalidades principales, como inicio de sesión, gestión de perfiles, control de inventario, búsqueda de productos, reportes y registro de nuevos insumos. Se priorizó una experiencia intuitiva, acompañada de un diseño coherente con la identidad visual de InventaTrack y de elementos visuales que complementan y enriquecen la navegación, con el fin de ofrecer una plataforma atractiva, accesible y alineada con las necesidades de los usuarios.
+
+Link de commits del repositorio del Frontend: https://github.com/1asi0729-2520-7394-InventaTech/Frontend-Inventatrack/commits/main/
+
+Link de commits del repositorio del fake API: https://github.com/DaikiOY/fake-inventory-api/commits/main/
+
+Principales avances en implementación con relación al Sprint:
+
+| Repository   | Branch | Commit Id | Commit Message            | Commit Message Body               | Commited on (Date) |
+| ------------ | ------ | --------- | ------------------------- | --------------------------------- | ------------------ |
+| Frontend     | main   | de6f665   | Initial commit            | create the README.md              | 07/10/2025         |
+|              | main   | c3592b2   | Create en.json            | create the en.json                | 07/10/2025         |
+|              | main   | c149ab3   | Create es.json            | create the es.json                | 07/10/2025         |
+|              | main   | 43ff9ad   | Create base-api.ts        | create the base-api.ts            | 07/10/2025         |
+|              | main   | 846000e   | Create footer-content.css | create the footer-content.css     | 07/10/2025         |
+|              | main   | 3b0fb26   | Create language-switcher.css | create the language-switcher.css | 07/10/2025       |
+|              | main   | 08ed51a   | Create static.json        | create the static.json            | 07/10/2025         |
+| fake-inventory-api | main   | 9b98769   | Initial commit | create the README.md                   | 07/10/2025         |
+|                    | main   | c2f49fa   | Create db.json | create the db.json                     | 07/10/2025         |
+|                    | main   | c88c1e5   | Create server.js | create the server.js                 | 07/10/2025         |
+|                    | main   | b5bed01   | Create package.json | create the package.json           | 07/10/2025         |
+
+
+#### 5.2.2.5. Execution Evidence for Sprint Review
+
+Durante el segundo sprint, se lograron varios hitos importantes en el desarrollo del Frontend para InventaTrack. A continuación, se presenta un resumen de los logros alcanzados:
+
+Establecimiento de Repositorios: Se crearon y configuraron repositorios en GitHub para gestionar el código y las pruebas.
+
 
 # Bibliografía
 
