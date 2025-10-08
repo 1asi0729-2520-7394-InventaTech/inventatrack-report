@@ -56,7 +56,7 @@ A continuación, se detallan los repositorios utilizados a lo largo del proyecto
 
 #### Link del repositorio del Frontend:
 
-- 
+- https://github.com/1asi0729-2520-7394-InventaTech/Frontend-Inventatrack
 
 ### Entrega TB1:
 
@@ -90,7 +90,9 @@ Durante esta entrega se elaboró la primera versión del Frontend correspondient
 
 - Antonio Rodrigo Duran Díaz:
 
-- Daiki Oscar Oshiro Yamashita: 
+- Daiki Oscar Oshiro Yamashita: Desarrollo del Frontend, sprint 2 y correcciones generales.
+
+<img src="assets/DOY2.png" width="100%" height="100%">
 
 # Contenido
 
@@ -172,12 +174,22 @@ Durante esta entrega se elaboró la primera versión del Frontend correspondient
   - [5.2. Landing Page, Services & Applications Implementation](#52-landing-page-services--applications-implementation)
     - [5.2.1. Sprint 1](#521-sprint-1)
       - [5.2.1.1. Sprint Planning 1](#5211-sprint-planning-1)
+      - [5.2.1.2. Aspect Leaders and Collaborators](#5212-aspect-leaders-and-collaborators)
       - [5.2.1.3. Sprint Backlog 1](#5213-sprint-backlog-1)
       - [5.2.1.4. Development Evidence for Sprint Review](#5214-development-evidence-for-sprint-review)
       - [5.2.1.5. Execution Evidence for Sprint Review](#5215-execution-evidence-for-sprint-review)
       - [5.2.1.6. Services Documentation Evidence for Sprint Review](#5216-services-documentation-evidence-for-sprint-review)
       - [5.2.1.7. Software Deployment Evidence for Sprint Review](#5217-software-deployment-evidence-for-sprint-review)
       - [5.2.1.8. Team Collaboration Insights during Sprint](#5218-team-collaboration-insights-during-sprint)
+    - [5.2.2. Sprint 2](#522-sprint-2)
+      - [5.2.2.1. Sprint Planning 1](#5221-sprint-planning-1)
+      - [5.2.2.2. Aspect Leaders and Collaborators](#5222-aspect-leaders-and-collaborators)
+      - [5.2.2.3. Sprint Backlog 1](#5223-sprint-backlog-1)
+      - [5.2.2.4. Development Evidence for Sprint Review](#5224-development-evidence-for-sprint-review)
+      - [5.2.2.5. Execution Evidence for Sprint Review](#5225-execution-evidence-for-sprint-review)
+      - [5.2.2.6. Services Documentation Evidence for Sprint Review](#5226-services-documentation-evidence-for-sprint-review)
+      - [5.2.2.7. Software Deployment Evidence for Sprint Review](#5227-software-deployment-evidence-for-sprint-review)
+      - [5.2.2.8. Team Collaboration Insights during Sprint](#5228-team-collaboration-insights-during-sprint)
   - [5.3. Validation Interviews]()
     - [5.3.1. Diseño de Entrevistas](#531-diseño-de-entrevistas)
     - [5.3.2. Registro de Entrevistas](#532-registro-de-entrevistas)
@@ -1934,6 +1946,184 @@ Durante el segundo sprint, se lograron varios hitos importantes en el desarrollo
 
 Establecimiento de Repositorios: Se crearon y configuraron repositorios en GitHub para gestionar el código y las pruebas.
 
+<img src="assets/Rep2.png" width="100%" height="100%">
+
+###### Login & Register:
+
+<img src="assets/Login2.png" width="100%" height="100%">
+
+###### Home:
+
+<img src="assets/Home2.png" width="100%" height="100%">
+
+###### Inventory:
+
+<img src="assets/Inventory2.png" width="100%" height="100%">
+
+###### Add product:
+
+<img src="assets/Add2.png" width="100%" height="100%">
+
+###### Profile:
+
+<img src="assets/Profile2.png" width="100%" height="100%">
+
+###### Reports:
+
+<img src="assets/Reports2.png" width="100%" height="100%">
+
+###### db.json:
+
+<img src="assets/DBjson1.png" width="100%" height="100%">
+
+<img src="assets/DBjson2.png" width="100%" height="100%">
+
+#### 5.2.2.6. Services Documentation Evidence for Sprint Review
+
+Durante este sprint, se desarrolló y desplegó la primera versión de la aplicación web de InventaTrack, la cual permite gestionar inventarios y registrar insumos, así como consultar reportes de stock crítico y próximos a vencer. Para pruebas de funcionalidad, se utilizó un archivo db.json como fuente de datos simulada, exponiendo endpoints falsos mediante JSON Server que permitieron validar flujos clave como inicio de sesión, gestión de perfiles, inventarios, filtros de búsqueda y registro de nuevos productos.
+
+A continuación, se resumen los endpoints simulados con JSON Server indicando su funcionalidad, método HTTP y parámetros principales:
+
+<table align="center" border="1" width="95%" style="text-align:center">
+  <tr>
+    <td><b>Endpoint</b></td>
+    <td><b>Acción / Descripción</b></td>
+    <td><b>Método HTTP</b></td>
+    <td><b>Sintaxis de llamada</b></td>
+    <td><b>Parámetros Principales</b></td>
+    <td><b>URL Swagger</b></td>
+  </tr>
+  <tr>
+    <td>/login</td>
+    <td>Iniciar sesión de usuario operativo o gerencial. Valida credenciales y devuelve token de sesión.</td>
+    <td>POST</td>
+    <td>POST /login</td>
+    <td>email, password</td>
+    <td>/swagger/login</td>
+  </tr>
+  <tr>
+    <td>/users/{id}</td>
+    <td>Obtener información de perfil de un usuario específico. Permite mostrar datos del perfil en la interfaz.</td>
+    <td>GET</td>
+    <td>GET /users/{id}</td>
+    <td>idUsuario</td>
+    <td>/swagger/users</td>
+  </tr>
+  <tr>
+    <td>/inventory</td>
+    <td>Listar inventarios. Permite filtrar productos por nombre, fecha de registro o fecha de caducidad.</td>
+    <td>GET</td>
+    <td>GET /inventory?nombre=&fechaDesde=&fechaHasta=</td>
+    <td>nombreProducto (opcional), fechaDesde, fechaHasta</td>
+    <td>/swagger/inventory</td>
+  </tr>
+  <tr>
+    <td>/inventory</td>
+    <td>Registrar un nuevo producto en el inventario. Se valida que los campos obligatorios estén completos.</td>
+    <td>POST</td>
+    <td>POST /inventory</td>
+    <td>nombreProducto, cantidad, fechaCaducidad, proveedor</td>
+    <td>/swagger/inventory</td>
+  </tr>
+  <tr>
+    <td>/inventory/{id}</td>
+    <td>Actualizar información de un producto existente. Incluye modificación de cantidad, nombre o fecha de caducidad.</td>
+    <td>PUT</td>
+    <td>PUT /inventory/{id}</td>
+    <td>idProducto, nombreProducto, cantidad, fechaCaducidad, proveedor</td>
+    <td>/swagger/inventory</td>
+  </tr>
+  <tr>
+    <td>/reports/stock</td>
+    <td>Generar reportes de stock crítico, indicando productos con baja cantidad para priorizar compras.</td>
+    <td>GET</td>
+    <td>GET /reports/stock?fechaDesde=&fechaHasta=</td>
+    <td>fechaDesde, fechaHasta</td>
+    <td>/swagger/reports/stock</td>
+  </tr>
+  <tr>
+    <td>/reports/expiration</td>
+    <td>Generar reportes de productos próximos a vencer, permitiendo acciones preventivas para evitar pérdidas.</td>
+    <td>GET</td>
+    <td>GET /reports/expiration?diasPrevios=5</td>
+    <td>diasPrevios (cantidad de días antes de la caducidad para generar alerta)</td>
+    <td>/swagger/reports/expiration</td>
+  </tr>
+  <tr>
+    <td>/inventory/search</td>
+    <td>Búsqueda avanzada de productos por nombre, fechas de ingreso o caducidad, y proveedor.</td>
+    <td>GET</td>
+    <td>GET /inventory/search?nombre=&fechaDesde=&fechaHasta=&proveedor=</td>
+    <td>nombreProducto, fechaDesde, fechaHasta, proveedor (opcional)</td>
+    <td>/swagger/inventory/search</td>
+  </tr>
+</table>
+
+#### 5.2.2.7. Software Deployment Evidence for Sprint Review
+
+Durante este Sprint, se realizaron actividades clave para el despliegue del Frontend de InventaTrack, asegurando que la aplicación web estuviera disponible y funcional para pruebas y validaciones. Esto permitió a los miembros del equipo y stakeholders interactuar con el sistema y verificar las funcionalidades implementadas.
+
+###### Creación de Repositorios y Configuración en GitHub
+
+- Se crearon y organizaron repositorios específicos para el Frontend de InventaTrack.
+- Se configuró la integración con la plataforma de despliegue, permitiendo que los cambios en la rama principal se reflejen automáticamente en la aplicación.
+- Se habilitó un flujo de despliegue continuo, garantizando que las nuevas versiones se publiquen de manera eficiente y sin interrupciones.
+
+###### Proceso de Despliegue en Netlify
+
+- Se subió y mantuvo el código actualizado en el repositorio de GitHub.
+
+<img src="assets/GitH1.png" width="100%" height="100%">
+
+<img src="assets/GitH2.png" width="100%" height="100%">
+
+- Netlify detectó automáticamente los cambios y ejecutó el proceso de build y despliegue.
+- Se asignó una URL pública y personalizada para el acceso a la aplicación.
+
+<img src="assets/Net1.png" width="100%" height="100%">
+
+###### Verificación del Despliegue
+
+- Se probaron distintos dispositivos y navegadores para asegurar compatibilidad y rendimiento.
+- Se corrigieron pequeños errores de estilo detectados durante la revisión en línea.
+
+<img src="assets/Net2.png" width="100%" height="100%">
+
+<img src="assets/Net3.png" width="100%" height="100%">
+
+Link del Frontend: https://inventatrack.netlify.app/login
+
+#### 5.2.2.8. Team Collaboration Insights during Sprint
+
+Durante el Sprint 2, el equipo de InventaTrack organizó el desarrollo del frontend utilizando ramas por bounded-context, siguiendo la metodología GitFlow. Esto permitió trabajar de manera paralela en distintas funcionalidades del sistema, facilitando la integración y el mantenimiento del código. Cada miembro gestionó sus tareas, commits y revisiones a través de GitHub, asegurando colaboración continua, control de calidad y trazabilidad de los cambios.
+
+| Author              | Task completed                                      |
+| ------------------- | --------------------------------------------------- |
+| Gonzalo Carhuancote | update the landing page content                     |
+| Daiki Oshiro        | added inventory bounded-context                     |
+| Juan Alvarado       | added Profile bounded-context                       |
+| Joan Teves          | added Login/Register bounded-context                |
+| Antonio Duran       | added Reports bounded-context                       |
+
+Captura de Analíticos de Colaboración en GitHub en el repositorio de la Landing Page:
+
+- **Link de commits del repositorio del reporte:** https://github.com/1asi0729-2520-7394-InventaTech/inventatrack-report/commits/main/
+
+- **Link de commits del repositorio del landing page:** https://github.com/1asi0729-2520-7394-InventaTech/inventatrack-website/commits/main/
+
+- **Link de commits del repositorio del frontend:** https://github.com/1asi0729-2520-7394-InventaTech/Frontend-Inventatrack/commits/main/
+
+- **Link de commits del repositorio del db.json:** https://github.com/DaikiOY/fake-inventory-api/commits/main/
+
+<img src="assets/Evidence1.png" width="100%" height="100%">
+
+<img src="assets/Evidence2.png" width="100%" height="100%">
+
+<img src="assets/Evidence3.png" width="100%" height="100%">
+
+<img src="assets/Evidence4.png" width="100%" height="100%">
+
+<img src="assets/Evidence5.png" width="100%" height="100%">
 
 # Bibliografía
 
