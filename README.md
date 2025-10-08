@@ -92,6 +92,8 @@ Durante esta entrega se elaboró la primera versión del Frontend correspondient
 
 - Daiki Oscar Oshiro Yamashita: Desarrollo del Frontend, sprint 2 y correcciones generales.
 
+<img src="assets/DOY3.png" width="100%" height="100%">
+
 <img src="assets/DOY2.png" width="100%" height="100%">
 
 # Contenido
