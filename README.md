@@ -51,7 +51,7 @@ A continuación, se detallan los repositorios utilizados a lo largo del proyecto
 
 - https://github.com/1asi0729-2520-7394-InventaTech/Frontend-Inventatrack
 
-### Entrega TB1:
+### **Entrega TB1:**
 
 Durante esta entrega se elaboraron los capítulos 1 al 5 del informe. La redacción fue dividida equitativamente entre los integrantes del equipo, quienes se encargaron de desarrollar sus respectivas secciones de manera paralela. Cada miembro subió sus contribuciones directamente al repositorio de GitHub, asegurando así un seguimiento claro de los avances y la colaboración conjunta.
 
@@ -61,15 +61,15 @@ Durante esta entrega se elaboraron los capítulos 1 al 5 del informe. La redacci
 
 - Juan Carlos Alvarado de la Cruz: Desarrollo de los capitulos 1 y 4.
 
-- Joan Fernando Teves Samaniego:
+- Joan Fernando Teves Samaniego: Desarrollo de capitulo 2 y 4.
 
-- Antonio Rodrigo Duran Díaz:
+- Antonio Rodrigo Duran Díaz: Desarrollo de los capitulos 1, 2 y 3.
 
 - Daiki Oscar Oshiro Yamashita: Desarrollo de los capítulos 2 y 3, parte del 4 y Sprint 1.
 
 <img src="assets/DOY1.png" width="100%" height="100%">
 
-### Entrega TP1:
+### **Entrega TP1:**
 
 Durante esta entrega se elaboró la primera versión del Frontend correspondiente al Sprint 2 y se realizaron las correcciones del avance previo. El desarrollo de esta fase se distribuyó entre los miembros del equipo con el objetivo de completar las funcionalidades pendientes y mejorar los aspectos identificados en la retroalimentación anterior.
 
@@ -81,13 +81,16 @@ Durante esta entrega se elaboró la primera versión del Frontend correspondient
 
 - Joan Fernando Teves Samaniego:
 
-- Antonio Rodrigo Duran Díaz:
+- Antonio Rodrigo Duran Díaz: Mejoras al informe.
 
 - Daiki Oscar Oshiro Yamashita: Desarrollo del Frontend, sprint 2 y correcciones generales.
 
 <img src="assets/DOY3.png" width="100%" height="100%">
 
 <img src="assets/DOY2.png" width="100%" height="100%">
+
+
+<div style="page-break-after: always;"></div>
 
 # Contenido
 
@@ -195,6 +198,9 @@ Durante esta entrega se elaboró la primera versión del Frontend correspondient
 - [Bibliografía](#bibliografía)
 - [Anexos](#anexos)
 
+
+<div style="page-break-after: always;"></div>
+
 ## Student Outcome
 
 Objetivo general, ABET – EAC - Student Outcome 3: Capacidad de comunicarse efectivamente con un rango de audiencias.
@@ -208,7 +214,7 @@ Objetivo general, ABET – EAC - Student Outcome 3: Capacidad de comunicarse efe
 
 <div style="page-break-after: always;"></div>
 
-# Capitulo I: Introduccion
+# Capitulo I: Introducción
 
 ## 1.1. StartUp Profile
 
@@ -393,7 +399,7 @@ El objetivo de este análisis es entender mejor el panorama competitivo y posici
     <td colspan="5">Este análisis fue realizado para conocer las fortalezas y debilidades de las plataformas digitales de gestión de inventarios perecederos, con el fin de desarrollar una solución innovadora y competitiva.</td>
   </tr>
   <tr>
-    <td colspan="2"></td>
+    <td colspan="2">Nombre y logo de competidor</td>
     <td><b>InventaTrack <img src="./assets/InvenTrack-Logo.png" alt="InventaTrack" width="120" height="120" /> </b></td>
     <td><b>Toast POS</b> <img src="./assets/Toast.jpg" width="120" height="120" /> </td>
     <td><b>MarketMan</b> <img src="./assets/MarketMan.jpeg" width="120" height="120" /> </td>
@@ -785,7 +791,7 @@ El Lenguaje Ubicuo de InventaTrack define los términos clave que serán utiliza
 
 # 3.1 User Stories
 
-| Epic / Story ID | Título                           | Descripción                                                                                                                                 | Criterios de Aceptación                                                                                                                                                                                                                                                                                                                                                                                           | Relacionado con (Epic ID) |
+| Epic/Story ID | Título                           | Descripción                                                                                                                                 | Criterios de Aceptación                                                                                                                                                                                                                                                                                                                                                                                           | Relacionado con (Epic ID) |
 | --------------- | -------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ------------------------- |
 | **EP01**        | Registro y Autenticación         | Permitir a los usuarios operativos y gerenciales acceder de forma segura a la plataforma.                                                   | -                                                                                                                                                                                                                                                                                                                                                                                                                 | -                         |
 | US01            | Registro de usuarios operativos  | **Como** administrador de almacén, **Quiero** registrarme en la plataforma, **Para** poder gestionar insumos y stock.                       | Escenario 01: Registro exitoso. **Dado** que ingreso todos los campos obligatorios, **Cuando** envío el formulario, **Entonces** el sistema confirma el registro y muestra mensaje de bienvenida. <br> Escenario 02: Datos inválidos. **Dado** que dejo campos vacíos o con valores no válidos, **Cuando** intento enviar el formulario, **Entonces** el sistema muestra mensajes de error y no guarda los datos. | EP01                      |
