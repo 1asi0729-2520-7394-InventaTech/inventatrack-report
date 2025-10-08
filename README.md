@@ -1,37 +1,30 @@
-<h3 align="center"> Universidad Peruana de Ciencias Aplicadas </h3>
-
-<h3 align="center"> Ingeniería de Software </h3>
-<h3 align="center"> Ciclo 2025 - 20 </h3>
-
-<br>
-
 <div align="center">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/f/fc/UPC_logo_transparente.png"></img><br>
-</div>
 
-<br>
+# Universidad Peruana de Ciencias Aplicadas
+![upc-logo](./assets/logo-upc.png)
 
-<h1 align="center"> TB1 Report </h1>
+# Ingeniería de Software
 
-<h3 align="center"> Desarrollo de Aplicaciones Open Source - 7394 </h3>
+## 1ASI0729 - Desarrollo de Aplicaciones Open Source
 
-<h3 align="center"> Docente: Hugo Allan Mori Paiva </h3>
+### NRC: 7394
+### Docente: Hugo Allan Mori Paiva
 
-<h3 align="center"> Startup: InventaTech </h3>
+## "Informe de Trabajo Parcial"
+### Startup: InventaTech
+### Producto: InventaTrack
 
-<h3 align="center"> Producto: InventaTrack </h3>
-
-<h3> Team Members:</h3>
-
-|                Nombre                |   Código   |
+|                **Alumno**            | **Código** |
 | :----------------------------------: | :--------: |
 | Gonzalo Alonso Carhuancote Dominguez | U202210720 |
 |   Juan Carlos Alvarado de la Cruz    | U202216150 |
 |    Joan Fernando Teves Samaniego     | U202117303 |
-|      Antonio Rodrigo Duran Díaz      | U202215721 |
+|      Antonio Rodrigo Duran Diaz      | U202215721 |
 |     Daiki Oscar Oshiro Yamashita     | U20201f846 |
 
-<h3 align="center">Septiembre, 2025-02</h3>
+### Octubre 2025
+## 2025-20
+</div>
 
 <div style="page-break-after: always;"></div>
 
