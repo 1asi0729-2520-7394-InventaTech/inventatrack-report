@@ -21,7 +21,7 @@
 
 <h3 align="center"> Producto: InventaTrack </h3>
 
-<h3> Team Members: </h3>
+<h3> Team Members:</h3>
 
 |                Nombre                |   Código   |
 | :----------------------------------: | :--------: |
@@ -31,7 +31,7 @@
 |      Antonio Rodrigo Duran Díaz      | U202215721 |
 |     Daiki Oscar Oshiro Yamashita     | U20201f846 |
 
-<h3 align="center">Septiembre, 2025</h3>
+<h3 align="center">Septiembre, 2025-02</h3>
 
 <div style="page-break-after: always;"></div>
 
@@ -241,7 +241,7 @@ Queremos que InventaTrack sea la herramienta número uno preferida para la gesti
 
 | Nombre Completo del integrante       | Descripcion de Carrera                                              | Fotografía                                                        | Conocimientos y Habilidades a apuntar                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                 |
 | ------------------------------------ | ------------------------------------------------------------------- | ----------------------------------------------------------------- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| Gonzalo Alonso Carhuancote Dominguez | Ingenieria de Software <br>Universiad Peruana de Ciencias Aplicadas | ![Gonzalo Alonso](./assets/foto%20Gonzalo.jpg)                    | Tengo 20 años, estudio la carrera de ingeniería de software en la UPC. En mis tiempos libres estudio, juego videojuegos y me informo del mundo actual y moderno. Me apasiona la tecnología y manejo lenguajes como C++, Java, Typescript y Python.                                                                                                                                                                                                                                                                                                    |
+| Gonzalo Alonso Carhuancote Dominguez | Ingenieria de Software <br>Universiad Peruana de Ciencias Aplicadas | ![Gonzalo Alonso](./assets/foto%20Gonzalo.jpg)                    | Tengo 20 años, estudio la carrera de ingeniería de software en la UPC. En mis tiempos libres estudio, juego videojuegos y me informo del mundo actual y moderno. Me apasiona la tecnología y manejo lenguajes como C++, javascript, Typescript y Python.                                                                                                                                                                                                                                                                                                    |
 | Juan Carlos Alvarado de la Cruz      | Ingenieria de Software <br>Universiad Peruana de Ciencias Aplicadas | ![Juan Carlos](./assets/foto_juan.png)                            | Soy Juan Carlos Alvarado, soy estudiante de la carrera de Ing. de Software. Me gusta resolver problemas y aprender cosas que son de mi interés, tengo experiencia programando en C++ y en Python.                                                                                                                                                                                                                                                                                                                                                     |
 | Joan Fernando Teves Samaniego        | Ingenieria de Software <br>Universiad Peruana de Ciencias Aplicadas | ![Joan Fernando](./assets/foto%20joan.jpg)                        | Tengo 22 años estoy estudiando actualmente en la Univeridad Peruana de Ciencias Aplicadas. Tengo interes por el mundo de la cibersegurirdad y el primer paso es enteder al derecho y al revez las aplicaciones web , se c++ , javascript , html , css , mongodb ,sql , sqlserver , posgresql,python, soy creativo , responsable , trabajo en equipo , me gusta resolver problemas me adaptofacilmente y gestiono muy bien mi tiempo.Espero que en este proyecto pueda incrementar mis habilidades y conocimiento sobre las aplicaciones web y demas . |
 | Antonio Rodrigo Duran Díaz           | Ingenieria de Software <br>Universiad Peruana de Ciencias Aplicadas | ![Antonio Rodrigo](./assets/foto%20Antonio.jpg)                   | Soy estudiante de la carrera de Ingeniería de Software en la Universidad Peruana de Ciencias Aplicadas y tengo 20 años. Estoy avanzando en mi formación académica y reforzando mis conocimientos en los diferentes temas relacionados con la creación de software. Durante mis estudios me ha gustado trabajar con gestores de bases de datos, en especial con SQL Server y MongoDB. En este proyecto espero seguir mejorando mis habilidades y conocimientos, además de lograr un buen desempeño en el trabajo grupal.                               |
@@ -2126,6 +2126,42 @@ Captura de Analíticos de Colaboración en GitHub en el repositorio de la Landin
 <img src="assets/Evidence4.png" width="100%" height="100%">
 
 <img src="assets/Evidence5.png" width="100%" height="100%">
+
+# Conclusiones
+
+## Conclusiones y recomendaciones
+
+### **Conclusiones**
+A lo largo del desarrollo de InventaTrack, logramos validar los principales supuestos e hipótesis planteados en el proceso Lean UX. Mediante entrevistas, análisis competitivo y pruebas de concepto, comprobamos que la problemática definida en los Problem Statements —la falta de control digital en la gestión de inventarios de productos perecederos— es una realidad común en restaurantes, supermercados y negocios similares, generando pérdidas entre el 5 % y 15 % de sus costos operativos.
+
+Nuestros assumptions sobre el comportamiento de los segmentos fueron en gran medida acertados: los usuarios buscan soluciones simples, accesibles y adaptadas a sus capacidades tecnológicas. Sin embargo, observamos también una disposición mayor de la esperada hacia la adopción de herramientas digitales, siempre que estas aporten valor inmediato y no requieran procesos de implementación complejos.
+
+Respecto a los Hypotheses Statements, logramos validar que:
+
+- Las alertas automáticas y reportes claros ayudan a reducir pérdidas y mejorar la planificación de compras.
+
+- La accesibilidad desde distintos dispositivos incrementa la percepción de valor y utilidad del sistema.
+
+- Los reportes visuales y personalizados son altamente valorados por los usuarios gerenciales.
+
+- Una interfaz sencilla, acompañada de mensajes claros, mejora la experiencia de uso y la disposición a adoptar la herramienta.
+
+En general, concluimos que InventaTrack es una propuesta viable y alineada con las necesidades del mercado objetivo. La aplicación aborda de forma efectiva los puntos críticos del proceso de control de inventarios, ofreciendo una alternativa moderna, económica y adaptable para las PYMEs del sector alimentario. Además, el trabajo en equipo nos permitió aplicar los principios de Lean UX y metodologías ágiles de manera colaborativa, integrando diseño, validación y desarrollo en un flujo iterativo que fortaleció la calidad del producto final.
+
+### **Recomendaciones**
+Como equipo, consideramos importante continuar con el desarrollo de InventaTrack siguiendo un enfoque de mejora continua. Entre las principales acciones que proponemos se encuentran:
+
+- Validar con usuarios finales en entorno real:
+Realizar pruebas de usabilidad con negocios del segmento objetivo para identificar oportunidades de mejora en la navegación, visualización de alertas y reportes.
+
+- Optimizar la interfaz y experiencia de usuario:
+Ajustar el diseño visual y los flujos de interacción en base a la retroalimentación obtenida durante la validación, priorizando la simplicidad y claridad.
+
+- Ampliar las funcionalidades analíticas:
+Incorporar módulos de reportes avanzados, pronóstico de demanda y métricas de rotación de productos, fortaleciendo la toma de decisiones basada en datos.
+
+- Proyección a mediano plazo:
+Consideramos viable evolucionar la plataforma hacia modelos con inteligencia predictiva o módulos móviles independientes, lo que ampliaría su alcance en distintos sectores relacionados con la gestión de insumos perecederos.
 
 # Bibliografía
 
