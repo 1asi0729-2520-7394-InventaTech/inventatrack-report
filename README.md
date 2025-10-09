@@ -1184,7 +1184,7 @@ Link del miro: https://miro.com/app/board/uXjVJGeS0Kc=/?share_link_id=9136950196
 
 ### 4.6.3 Software Architecture Container Diagrams
 
-<img src="assets/DD2.png" width="100%" height="100%">
+<img src="assets/DD2.1.png" width="100%" height="100%">
 
 ### 4.6.4 Software Architecture Components Diagrams
 
