@@ -180,9 +180,9 @@ Durante esta entrega se elaboró la primera versión del Frontend correspondient
       - [5.2.1.7. Software Deployment Evidence for Sprint Review](#5217-software-deployment-evidence-for-sprint-review)
       - [5.2.1.8. Team Collaboration Insights during Sprint](#5218-team-collaboration-insights-during-sprint)
     - [5.2.2. Sprint 2](#522-sprint-2)
-      - [5.2.2.1. Sprint Planning 1](#5221-sprint-planning-1)
+      - [5.2.2.1. Sprint Planning 2](#5221-sprint-planning-2)
       - [5.2.2.2. Aspect Leaders and Collaborators](#5222-aspect-leaders-and-collaborators)
-      - [5.2.2.3. Sprint Backlog 1](#5223-sprint-backlog-1)
+      - [5.2.2.3. Sprint Backlog 2(#5223-sprint-backlog-2)
       - [5.2.2.4. Development Evidence for Sprint Review](#5224-development-evidence-for-sprint-review)
       - [5.2.2.5. Execution Evidence for Sprint Review](#5225-execution-evidence-for-sprint-review)
       - [5.2.2.6. Services Documentation Evidence for Sprint Review](#5226-services-documentation-evidence-for-sprint-review)
@@ -1787,7 +1787,7 @@ https://trello.com/invite/b/68e593ebd894d7fa7c2c206f/ATTIb351ba477f7ec5c6a5ea398
 <table align="center" border="1" width="95%" style="text-align:center">
   <tr>
     <td><b>Sprint #</b></td>
-    <td colspan="8"><b>Sprint 1</b></td>
+    <td colspan="8"><b>Sprint 2</b></td>
   </tr>
   <tr>
     <td colspan="2"><b>User Story</b></td>
