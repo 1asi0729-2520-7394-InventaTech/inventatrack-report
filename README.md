@@ -75,7 +75,9 @@ Durante esta entrega se elaboró la primera versión del Frontend correspondient
 
 ##### Participación por integrante:
 
-- Gonzalo Alonso Carhuancote Dominguez: 
+- Gonzalo Alonso Carhuancote Dominguez: Correcciones de Landing Page y generales del reporte y ppt.
+
+<img src="assets/GCD1.png" width="100%" height="100%">
 
 - Juan Carlos Alvarado de la Cruz: 
 
