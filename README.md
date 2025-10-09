@@ -1,7 +1,7 @@
 <div align="center">
 
 # Universidad Peruana de Ciencias Aplicadas
-![upc-logo](./assets/logo-upc.png)
+<img src="https://upload.wikimedia.org/wikipedia/commons/f/fc/UPC_logo_transparente.png"></img><br>
 
 # Ingeniería de Software
 
