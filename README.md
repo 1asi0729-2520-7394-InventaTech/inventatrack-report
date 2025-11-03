@@ -1,31 +1,27 @@
-<div align="center">
+<div align="center"> 
 
-# Universidad Peruana de Ciencias Aplicadas
 <img src="https://upload.wikimedia.org/wikipedia/commons/f/fc/UPC_logo_transparente.png"></img><br>
-
+# Universidad Peruana de Ciencias Aplicadas
 # Ingeniería de Software
-
+## 2025-20
 ## 1ASI0729 - Desarrollo de Aplicaciones Open Source
-
 ### NRC: 7394
-### Docente: Hugo Allan Mori Paiva
+### Nombre del profesor: Hugo Allan Mori Paiva
 
-## "Informe de Trabajo Parcial"
+## "Informe de Trabajo Final"
 ### Startup: InventaTech
 ### Producto: InventaTrack
 
-|                **Alumno**            | **Código** |
-| :----------------------------------: | :--------: |
-| Gonzalo Alonso Carhuancote Dominguez | U202210720 |
-|   Juan Carlos Alvarado de la Cruz    | U202216150 |
-|    Joan Fernando Teves Samaniego     | U202117303 |
-|      Antonio Rodrigo Duran Diaz      | U202215721 |
-|     Daiki Oscar Oshiro Yamashita     | U20201f846 |
+| **Código**   | **Apellidos y Nombres**              |
+| :-----------: | :----------------------------------- |
+| U202216150    | Alvarado de la Cruz, Juan Carlos     |
+| U202210720    | Carhuancote Dominguez, Gonzalo Alonso|
+| U202215721    | Duran Diaz, Antonio Rodrigo          |
+| U20201f846    | Oshiro Yamashita, Daiki Oscar        |
+| U202117303    | Teves Samaniego, Joan Fernando       |
 
-### Octubre 2025
-## 2025-20
+### Noviembre 2025
 </div>
-
 <div style="page-break-after: always;"></div>
 
 ## Registro de Versiones del Informe
@@ -34,7 +30,7 @@
 | :-----: | :------: | :--------------------------------------------------------------------------------: | :----------------------------------------------------------------------------------------------------------------------------: |
 |   TB1   | 15/09/25 | Gonzalo Carhuancote, Juan Carlos Alvarado, Joan Teves, Antonio Duran, Daiki Oshiro | Para esta primera entrega, realizamos los primeros 5 capítulos del informe y desarrollamos la primera versión del landing page |
 |   TP1   | 05/10/25 | Gonzalo Carhuancote, Juan Carlos Alvarado, Joan Teves, Antonio Duran, Daiki Oshiro | Para esta entrega parcial, realizamos el sprint 2 y se realizaron correcciones generales |
-
+|   TB2   | 02/11/25 | Gonzalo Carhuancote, Juan Carlos Alvarado, Joan Teves, Antonio Duran, Daiki Oshiro | Para esta segunda entrega, realizamos el sprint 3, entrevistas de validación y se realizaron correcciones generales |
 ## Project Report Collaboration Insights
 
 A continuación, se detallan los repositorios utilizados a lo largo del proyecto:
@@ -91,6 +87,21 @@ Durante esta entrega se elaboró la primera versión del Frontend correspondient
 
 <img src="assets/DOY2.png" width="100%" height="100%">
 
+### **Entrega TB2:**
+
+En la tercera entrega, el equipo documentó el comportamiento técnico de cada subdominio y finalizó la estructura del informe.
+
+##### Participación por integrante:
+
+- Gonzalo Alonso Carhuancote Dominguez:
+
+- Juan Carlos Alvarado de la Cruz: 
+
+- Joan Fernando Teves Samaniego:
+
+- Antonio Rodrigo Duran Díaz: 
+
+- Daiki Oscar Oshiro Yamashita: Desarrollo del Backend y correcciones generales.
 
 <div style="page-break-after: always;"></div>
 
@@ -209,8 +220,8 @@ Objetivo general, ABET – EAC - Student Outcome 3: Capacidad de comunicarse efe
 
 | **Criterio específico**                                                   | **Acciones realizadas**                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                | **Conclusiones**                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                  |
 | ------------------------------------------------------------------------- |------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-| **Comunica oralmente con efectividad a diferentes rangos de audiencia**   | Gonzalo Alonso Carhuancote Dominguez <br>**TB1**: Expliqué InventaTrack en reuniones y entrevistas, ajustando el lenguaje según si la audiencia era técnica o de negocio.<br>**TP1**: Comunicación eficaz para organizar respecto a las funcionalidades del proyecto en la capa frontend. <br> Juan Carlos Alvarado de la Cruz <br>**TB1**:Expliqué ideas de diseño y navegación del prototipo en Figma de forma clara a mi equipo y adapté el lenguaje técnico en las reuniones con el docente. <br> Joan Fernando Teves Samaniego <br>**TB1**:Explique el proposito del proyecto para extraer buena información utíl al proyecto <br> Antonio Rodrigo Duran Díaz <br>**TB1**: Participé dando ideas para la creación de Inventatrack asi como adaptar la comunicacion clara en las entrevistas <br> Daiki Oscar Oshiro Yamashita <br>**TB1**: Participé constantemente en las reuniones programadas que realizamos con el fin de coordinar avances e informar el progreso del trabajo.<br><br>**TP1**: La comunicación efectiva del análisis del bounded context del sistema de inventario permitió identificar y separar claramente los dominios de gestión de productos, control de existencias, facilitando la planificación y el diseño modular del sistema.<br> | Gonzalo Alonso Carhuancote Dominguez <br>**TB1**: Logré transmitir las ideas con claridad y generar retroalimentación útil para mejorar el proyecto.<br>**TP1**: Logre la coneccion deseada para lograr comunicar los distintos aspectos a resolver en esta entrega. <br> Juan Carlos Alvarado de la Cruz <br>**TB1**:Logré transmitir mis aportes de manera comprensible y útil para distintos públicos. <br> Joan Fernando Teves Samaniego <br>**TB1**: Expliqué claramente mis ideas y tuve buena comunicaion con los miembros de mi equipo <br> Antonio Rodrigo Duran Díaz <br>**TB1**: Logré una buena comunicacion y explique de manera correcta mis ideas <br> Daiki Oscar Oshiro Yamashita <br>**TB1**: La efectiva comunicación entre los miembros del equipo facilitó el logro de los objetivos planteados en esta fase inicial.<br><br>**TP1**: Comunicar claramente el bounded context favoreció la alineación del equipo y una planificación más ordenada, asegurando coherencia en el desarrollo del sistema.<br>                                                                                                                                                                   |
-| **Comunica por escrito con efectividad a diferentes rangos de audiencia** | Gonzalo Alonso Carhuancote Dominguez <br>**TB1**: Redacté entrevistas, resúmenes y análisis con un estilo adaptado a cada tipo de lector.<br>**TP1**: Realice mejoras al Landing page para que sea acorde a la aplicacion fornted ademas de estar completamente conectadas, ademas de correcciones en el reporte tecnico. <br> Juan Carlos Alvarado de la Cruz <br>**TB1**:Redacté secciones del informe con un estilo formal y claro, y utilicé mensajes breves en GitHub para la colaboración técnica del equipo. <br> Joan Fernando Teves Samaniego <br>**TB1**: Redacte mis entrevistas, resumenes y análisis para ser de ayuda con el proyecto<br> Antonio Rodrigo Duran Díaz <br>**TB1**: Redacté los primero capitulos para tener una base en el avance del proyecto <br> Daiki Oscar Oshiro Yamashita <br>**TB1**: Contribuí principalmente al desarrollo de los capítulos 2 y 3, así como a partes de los capítulos 4 y 5.<br><br>**TP1**: Aporté en la elaboración y refinamiento del informe técnico, desarrollando el bounded context del subdominio Inventory, con el objetivo de establecer límites funcionales claros y coherentes con la arquitectura del sistema.<br>                                                                                 | Gonzalo Alonso Carhuancote Dominguez <br>**TB1**: La escritura clara y precisa facilitó la comprensión del proyecto y fortaleció la confianza en la propuesta.<br>**TP1**: Las designaciones pro escrito de cada participación ayudó a poder desarrollar los objetivos de manera precisa y eficaz. <br> Juan Carlos Alvarado de la Cruz <br>**TB1**:Mi comunicación escrita se adaptó exitosamente tanto al entorno académico como al técnico. <br> Joan Fernando Teves Samaniego <br>**TB1**: Estableci comunicacion clara de manera escrita para el proyecto <br> Antonio Rodrigo Duran Díaz <br>**TB1**: Mi participación fue debidamente útil y de comprensión para el avance del proyecto <br> Daiki Oscar Oshiro Yamashita <br>**TB1**: La contribución en la elaboración del texto facilitó un desarrollo significativo en los capítulos correspondientes.<br><br>**TP1**: Mi participación en la redacción contribuyó significativamente al desarrollo de los capítulos asignados, adaptando el contenido a los requisitos del proyecto. Además, incluí el análisis del bounded context del subdominio Inventory y realicé mejoras en la estructura y coherencia general del informe.<br> |
+| **Comunica oralmente con efectividad a diferentes rangos de audiencia**   | Gonzalo Alonso Carhuancote Dominguez <br>**TB1**: Expliqué InventaTrack en reuniones y entrevistas, ajustando el lenguaje según si la audiencia era técnica o de negocio.<br>**TP1**: Comunicación eficaz para organizar respecto a las funcionalidades del proyecto en la capa frontend. <br> Juan Carlos Alvarado de la Cruz <br>**TB1**:Expliqué ideas de diseño y navegación del prototipo en Figma de forma clara a mi equipo y adapté el lenguaje técnico en las reuniones con el docente. <br> Joan Fernando Teves Samaniego <br>**TB1**:Explique el proposito del proyecto para extraer buena información utíl al proyecto <br> Antonio Rodrigo Duran Díaz <br>**TB1**: Participé dando ideas para la creación de Inventatrack asi como adaptar la comunicacion clara en las entrevistas <br> Daiki Oscar Oshiro Yamashita <br>**TB1**: Participé constantemente en las reuniones programadas que realizamos con el fin de coordinar avances e informar el progreso del trabajo.<br><br>**TP1**: La comunicación efectiva del análisis del bounded context del sistema de inventario permitió identificar y separar claramente los dominios de gestión de productos, control de existencias, facilitando la planificación y el diseño modular del sistema.<br><br>**TB2**: Expliqué con claridad el diseño de los endpoints, lo cual permitió al equipo comprender la lógica de negocio e integrarla correctamente con otros subdominios.<br> | Gonzalo Alonso Carhuancote Dominguez <br>**TB1**: Logré transmitir las ideas con claridad y generar retroalimentación útil para mejorar el proyecto.<br>**TP1**: Logre la coneccion deseada para lograr comunicar los distintos aspectos a resolver en esta entrega. <br> Juan Carlos Alvarado de la Cruz <br>**TB1**:Logré transmitir mis aportes de manera comprensible y útil para distintos públicos. <br> Joan Fernando Teves Samaniego <br>**TB1**: Expliqué claramente mis ideas y tuve buena comunicaion con los miembros de mi equipo <br> Antonio Rodrigo Duran Díaz <br>**TB1**: Logré una buena comunicacion y explique de manera correcta mis ideas <br> Daiki Oscar Oshiro Yamashita <br>**TB1**: La efectiva comunicación entre los miembros del equipo facilitó el logro de los objetivos planteados en esta fase inicial.<br><br>**TP1**: Comunicar claramente el bounded context favoreció la alineación del equipo y una planificación más ordenada, asegurando coherencia en el desarrollo del sistema.<br><br>**TB2**: La explicación clara del comportamiento de los endpoints permitió al equipo comprender la lógica de negocio implementada y ayudó a identificar posibles conflictos en la planificación.<br>                                                                                                                                                                    |
+| **Comunica por escrito con efectividad a diferentes rangos de audiencia** | Gonzalo Alonso Carhuancote Dominguez <br>**TB1**: Redacté entrevistas, resúmenes y análisis con un estilo adaptado a cada tipo de lector.<br>**TP1**: Realice mejoras al Landing page para que sea acorde a la aplicacion fornted ademas de estar completamente conectadas, ademas de correcciones en el reporte tecnico. <br> Juan Carlos Alvarado de la Cruz <br>**TB1**:Redacté secciones del informe con un estilo formal y claro, y utilicé mensajes breves en GitHub para la colaboración técnica del equipo. <br> Joan Fernando Teves Samaniego <br>**TB1**: Redacte mis entrevistas, resumenes y análisis para ser de ayuda con el proyecto<br> Antonio Rodrigo Duran Díaz <br>**TB1**: Redacté los primero capitulos para tener una base en el avance del proyecto <br> Daiki Oscar Oshiro Yamashita <br>**TB1**: Contribuí principalmente al desarrollo de los capítulos 2 y 3, así como a partes de los capítulos 4 y 5.<br><br>**TP1**: Aporté en la elaboración y refinamiento del informe técnico, desarrollando el bounded context del subdominio Inventory, con el objetivo de establecer límites funcionales claros y coherentes con la arquitectura del sistema.<br><br>**TB2**: Documenté todo lo avanzado y actualizado tanto en los sprints pasados como en el resto del documento, facilitando la lectura técnica por parte del equipo.<br>                                                                                 | Gonzalo Alonso Carhuancote Dominguez <br>**TB1**: La escritura clara y precisa facilitó la comprensión del proyecto y fortaleció la confianza en la propuesta.<br>**TP1**: Las designaciones pro escrito de cada participación ayudó a poder desarrollar los objetivos de manera precisa y eficaz. <br> Juan Carlos Alvarado de la Cruz <br>**TB1**:Mi comunicación escrita se adaptó exitosamente tanto al entorno académico como al técnico. <br> Joan Fernando Teves Samaniego <br>**TB1**: Estableci comunicacion clara de manera escrita para el proyecto <br> Antonio Rodrigo Duran Díaz <br>**TB1**: Mi participación fue debidamente útil y de comprensión para el avance del proyecto <br> Daiki Oscar Oshiro Yamashita <br>**TB1**: La contribución en la elaboración del texto facilitó un desarrollo significativo en los capítulos correspondientes.<br><br>**TP1**: Mi participación en la redacción contribuyó significativamente al desarrollo de los capítulos asignados, adaptando el contenido a los requisitos del proyecto. Además, incluí el análisis del bounded context del subdominio Inventory y realicé mejoras en la estructura y coherencia general del informe.<br><br>**TP1**: Mi contribución escrita permitió mejorar la documentación del backend de forma coherente, organizando la comprensión de los flujos por parte del equipo. <br> |
 
 <div style="page-break-after: always;"></div>
 
@@ -2128,6 +2139,302 @@ Captura de Analíticos de Colaboración en GitHub en el repositorio de la Landin
 
 <img src="assets/Evidence5.png" width="100%" height="100%">
 
+## 5.2.3. Sprint 3
+
+### 5.2.3.1 Sprint planning 3
+
+
+
+### 5.2.3.2. Aspect Leaders and Collaborators
+
+Durante el Sprint 3, el equipo de InventaTrack asignó líderes (L) y colaboradores (C) para aspectos esenciales como diseño de interfaz, desarrollo de la landing page, planificación de sprints, pruebas iniciales y documentación. Esta distribución permitió un trabajo equilibrado y un avance organizado del proyecto.
+
+| Miembro del Equipo   | GitHub Username       | Sprint 3 | Validation Interviews | Heuristic Evaluations | user-controller | inventory-controller | report-controller | 
+| -------------------- | --------------------- | ----- | ------------ | --------------- | ------- | ------------- | ------------- |
+| Gonzalo Carhuancote  | Gonzalo251104         | L     | C            | C               | C       | C             |  C             |
+| Juan Carlos Alvarado | JuanCarlosAlvarado900 | C     | C            | C               | C       | C             |  C             |
+| Joan Teves           | JoanTeves             | C     | L            | C               | C       | C             |  C             |
+| Antonio Duran        | Sltcrd                | C     | C            | C               | C       | C             |  C             |
+| Daiki Oshiro         | DaikiOY               | C     | C            | C               | L       | L             |  L             |
+
+#### 5.2.3.3. Sprint Backlog 3
+
+
+#### 5.2.3.4. Development Evidence for Sprint Review
+
+
+#### 5.2.3.5. Execution Evidence for Sprint Review
+
+
+#### 5.2.3.6. Services Documentation Evidence for Sprint Review
+
+
+#### 5.2.3.7. Software Deployment Evidence for Sprint Review
+
+
+#### 5.2.3.8. Team Collaboration Insights during Sprint
+
+
+## 5.3. Validation Interviews
+
+### 5.3.1. Diseño de Entrevistas
+
+##### Segmento 1: Usuarios operativos
+
+###### Objetivo
+
+Validar la experiencia de usuario (UX) y la propuesta de valor de la app desde la perspectiva de quienes buscan una mejora en la gestión de inventarios, así como identificar mejoras en funcionalidades clave.
+
+###### Estructura
+
+1. **Contexto de uso**
+
+   * ¿Qué tarea buscabas realizar en tu primera sesión?
+
+   * ¿En qué dispositivo la usaste principalmente?
+
+2. **Descubrimiento**
+
+   * ¿Cómo fue tu primera impresión al registrarte?
+
+   * ¿Hubo algo confuso o que te tomó tiempo entender?
+
+3. **Búsqueda y registro de productos**
+
+   *¿Qué información te gustaría poder ver rápidamente al buscar un producto?
+
+   * ¿Qué tipo de filtros o funciones te ayudarían a encontrar productos más rápido?
+
+4. **Alertas y seguimiento**
+
+   * ¿Consideras más útil recibir notificaciones sobre productos críticos, o prefieres simplemente ver esa información destacada en los reportes?
+     
+   * ¿Qué tipo de notificaciones te resultarían más útiles?
+
+5. **Percepción de uso**
+
+   * ¿Qué características te parecerían más útiles en una herramienta como InventaTrack?
+     
+   * Si pudieras cambiar una cosa de tu sistema actual, ¿cuál sería?
+
+##### Segmento 2: Dueños, gerentes y administradores
+
+###### Objetivo
+
+Recoger feedback sobre las herramientas de gestión de inventarios y descubrir nuevas funcionalidades que potencien su productividad y escalabilidad.
+
+###### Estructura
+
+1. **Contexto de uso**
+
+   * ¿Qué tarea buscabas realizar en tu primera sesión?
+
+   * ¿En qué dispositivo la usaste principalmente?
+
+2. **Descubrimiento**
+
+   * ¿Cómo fue tu primera impresión al registrarte?
+
+   * ¿Hubo algo confuso o que te tomó tiempo entender?
+
+3. **Necesidades de análisis**
+
+   * ¿Qué tipo de reportes o métricas son más valiosas para ti o tus clientes?
+
+   * ¿Qué tipo de filtros o segmentaciones te ayudarían a hacer tus análisis más precisos?
+
+4. **Alertas y seguimiento**
+
+   * ¿Consideras más útil recibir notificaciones sobre productos críticos, o prefieres simplemente ver esa información destacada en los reportes?
+     
+   * ¿Qué tipo de notificaciones te resultarían más útiles?
+
+5. **Percepción de valor**
+     
+   * ¿Qué beneficios esperas obtener de una plataforma como InventaTrack?
+  
+   * ¿Estarías dispuesto a recomendar o implementar una herramienta como InventaTrack en tus proyectos? ¿Por qué?
+
+### 5.3.2. Registro de Entrevistas
+
+##### Segmento 1: Usuarios operativos
+
+###### Entrevista 1:
+
+ - **Nombre:** 
+ - **Edad:** 
+ - **Distrito:**
+ - **Link:**
+ - 
+###### Entrevista 2:
+
+ - **Nombre:** 
+ - **Edad:** 
+ - **Distrito:**
+ - **Link:**
+
+###### Entrevista 3:
+
+ - **Nombre:** 
+ - **Edad:** 
+ - **Distrito:**
+ - **Link:**
+   
+##### Segmento 2: Dueños, gerentes y administradores
+
+###### Entrevista 4:
+
+ - **Nombre:** 
+ - **Edad:** 
+ - **Distrito:**
+ - **Link:**
+ - 
+###### Entrevista 5:
+
+ - **Nombre:** 
+ - **Edad:** 
+ - **Distrito:**
+ - **Link:**
+
+###### Entrevista 6:
+
+ - **Nombre:** 
+ - **Edad:** 
+ - **Distrito:**
+ - **Link:**
+
+### 5.3.3. Evaluaciones según heurísticas
+
+#### UX Heuristics & Principles Evaluation
+
+#### Usability – Inclusive Design – Information Architecture
+
+**SITE O APP A EVALUAR:** Inventatrack
+
+**TAREAS A EVALUAR:**
+
+El alcance de esta evaluación incluye la revisión de la usabilidad de las siguientes tareas:
+
+- Registro de nuevos usuarios
+- Búsqueda de productos
+- Visualización del inventario
+- Agrergar un nuevo producto al inventario
+- Recepción de notificaciones
+- Actualización de perfil del usuario
+
+No están incluidas en esta versión de la evaluación las siguientes tareas:
+
+- Proceso de pagos para los productos
+- Acceso y uso del historial de productos
+- Uso del botón de favoritos para guardar productos
+
+**ESCALA DE SEVERIDAD:**
+
+Los errores serán puntuados tomando en cuenta la siguiente escala de severidad.
+
+## Niveles de Severidad de Problemas de Usabilidad
+
+| **Nivel** | **Descripción** |
+|-------|-------------|
+| 1 | Problema superficial: puede ser fácilmente superador por el usuario ó ocurre con muy poco frecuencia. No necesita ser arreglado a no ser que exista disponibilidad de tiempo. |
+| 2 | Problema menor: puede ocurrir un poco más frecuentemente o es un poco más difícil de superar para el usuario. Se le debería asignar una prioridad baja resolverlo de cara al siguiente reléase. |
+| 3 | Problema mayor: ocurre frecuentemente o los usuarios no son capaces de resolverlos. Es importante que sean corregidos y se les debe asignar una prioridad alta. |
+| 4 | Problema muy grave: un error de gran impacto que impide al usuario continuar con el uso de la herramienta. Es imperativo que sea corregido antes del lanzamiento. |
+
+**TABLA RESUMEN:**
+
+La siguiente tabla presenta un resumen de los resultados obtenidos en la evaluación:
+
+### Tabla Resumen de Evaluación Heurística - Inventatrack
+
+| Nº | Problema Detectado | Escala de Severidad | Heurística / Principio Violado |
+|----|---------------------|---------------------|---------------------------------|
+| 1 | Registro de nuevos usuarios | 3 | Usability: Flexibilidad y eficiencia de uso |
+| 2 | Falta de confirmación al añadir un nuevo producto | 2 | Usability: Visibilidad del estado del sistema |
+| 3 | Falta de filtros avanzados en la búsqueda de productos | 3 | Usability: Flexibilidad y eficiencia de uso |
+| 4 | Falta de criterios claros al visualizar el inventario | 2 | Usability: Visibilidad del estado del sistema |
+| 5 | Falta de previsualización de cambios antes de guardar | 2 | Usability: Visibilidad del estado del sistema |
+| 6 | Notificaciones sin acción directa desde la alerta | 3 | Usability: Flexibilidad y eficiencia de uso |
+| 7 | Barra de búsqueda con resultados limitados y sin sugerencias | 3 | Usability: Flexibilidad y eficiencia de uso |
+
+### DESCRIPCIÓN DE PROBLEMAS:
+
+#### PROBLEMA #1: Registro de nuevos usuarios
+
+- **Severidad:** 3
+
+- **Heurística violada:** Flexibilidad y eficiencia de uso
+
+- **Problema:** Durante el registro, el sistema no valida en tiempo real si el correo ya ha sido usado. El usuario solo se entera del error después de enviar el formulario, lo que genera frustración y pérdida de tiempo.
+
+- **Recomendación:** Implementar validación en tiempo real del campo de correo electrónico, con mensajes claros y visibles para evitar el intento de registro con correos duplicados.
+
+#### PROBLEMA #2: 
+
+- **Severidad:** 
+
+- **Heurística violada:** 
+
+- **Problema:** 
+
+- **Recomendación:** 
+
+#### PROBLEMA #3: 
+
+- **Severidad:** 
+
+- **Heurística violada:** 
+
+- **Problema:** 
+
+- **Recomendación:**
+
+#### PROBLEMA #4: 
+
+- **Severidad:** 
+
+- **Heurística violada:** 
+
+- **Problema:** 
+
+- **Recomendación:** 
+
+#### PROBLEMA #5: 
+
+- **Severidad:** 
+
+- **Heurística violada:** 
+
+- **Problema:** 
+
+- **Recomendación:**
+
+#### PROBLEMA #6: 
+
+- **Severidad:** 
+
+- **Heurística violada:** 
+
+- **Problema:** 
+
+- **Recomendación:** 
+
+#### PROBLEMA #7: 
+
+- **Severidad:** 
+
+- **Heurística violada:** 
+
+- **Problema:** 
+
+- **Recomendación:**
+
+### 5.3.4 Video About-the-Product
+
+En este breve video te mostramos cómo funciona Inventatrack, para quién está pensada y cómo puede ayudarte a mejorar la gestión de inventarios.
+
+Link del video: 
+
 # Conclusiones
 
 ## Conclusiones y recomendaciones
@@ -2164,6 +2471,12 @@ Incorporar módulos de reportes avanzados, pronóstico de demanda y métricas de
 - Proyección a mediano plazo:
 Consideramos viable evolucionar la plataforma hacia modelos con inteligencia predictiva o módulos móviles independientes, lo que ampliaría su alcance en distintos sectores relacionados con la gestión de insumos perecederos.
 
+## Video About-the-Team
+
+Este video resume el trabajo realizado por el equipo InventaTech durante el proyecto, mostrando narración del proceso y testimonios individuales sobre las tareas realizadas, logros obtenidos y competencias desarrolladas.
+
+Link del video: 
+
 # Bibliografía
 
 ## Referencias
@@ -2173,3 +2486,25 @@ Consideramos viable evolucionar la plataforma hacia modelos con inteligencia pre
 - La República. (2019, 3 de julio). _[Más del 33 % de los alimentos producidos al año se descompone por mal uso de la cadena de frío](https://larepublica.pe/sociedad/2019/07/03/peru-mas-del-33-de-los-alimentos-producidos-al-ano-se-descompone-debido-al-mal-uso-de-la-cadena-de-frio-desnutricion)_. La República.
 
 - La República. (2024, 5 de abril). _[Costos ocultos pueden generar pérdidas de hasta 15 % en restaurantes en Perú](https://www.larepublica.co/globoeconomia/costos-ocultos-pueden-generar-perdidas-de-hasta-15-en-restaurantes-en-peru-3425480)_. La República.
+
+## Anexos
+
+#### Link Landing Page: 
+
+- https://1asi0729-2520-7394-inventatech.github.io/inventatrack-website/
+
+#### Link Frontend:
+
+- https://inventatrack.netlify.app/login
+
+#### Link Backend:
+
+- https://inventatrack-azekbja3h9eyb0fy.canadacentral-01.azurewebsites.net/swagger-ui/index.html#/
+
+#### Video About The Product:
+
+- 
+
+#### Video About The Team:
+
+- 
