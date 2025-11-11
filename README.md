@@ -2284,11 +2284,14 @@ Recoger feedback sobre las herramientas de gestión de inventarios y descubrir n
 
 ###### Entrevista 4:
 
- - **Nombre:** 
- - **Edad:** 
- - **Distrito:**
- - **Link:**
- - 
+ - **Nombre:** Ernesto Ruiz
+ - **Edad:** 24
+ - **Distrito:** Jesúsu María
+ - **Link:** https://upcedupe-my.sharepoint.com/:v:/g/personal/u20201f846_upc_edu_pe/IQBa-qkQbq00SrdGp9_a-1IaAQQnjw-mC2-h9rth4zc_MGI?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJPbmVEcml2ZUZvckJ1c2luZXNzIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXciLCJyZWZlcnJhbFZpZXciOiJNeUZpbGVzTGlua0NvcHkifX0&e=QAiA0k
+ - Ernesto Ruiz, quien buscaba mejorar la gestión de inventarios, comentó que la aplicación le parecía útil y que, de implementarla, la utilizaría a diario para optimizar su trabajo.
+
+<img src="assets/Val4.png" width="100%" height="100%">
+ 
 ###### Entrevista 5:
 
  - **Nombre:** 
