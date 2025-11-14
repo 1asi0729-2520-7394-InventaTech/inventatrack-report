@@ -47,6 +47,10 @@ A continuación, se detallan los repositorios utilizados a lo largo del proyecto
 
 - https://github.com/1asi0729-2520-7394-InventaTech/Frontend-Inventatrack
 
+#### Link del repositorio del Backend:
+
+- https://github.com/1asi0729-2520-7394-InventaTech/Backend-Inventatrack
+
 ### **Entrega TB1:**
 
 Durante esta entrega se elaboraron los capítulos 1 al 5 del informe. La redacción fue dividida equitativamente entre los integrantes del equipo, quienes se encargaron de desarrollar sus respectivas secciones de manera paralela. Cada miembro subió sus contribuciones directamente al repositorio de GitHub, asegurando así un seguimiento claro de los avances y la colaboración conjunta.
@@ -102,6 +106,8 @@ En la tercera entrega, el equipo documentó el comportamiento técnico de cada s
 - Antonio Rodrigo Duran Díaz: 
 
 - Daiki Oscar Oshiro Yamashita: Desarrollo del Backend y correcciones generales.
+
+<img src="assets/DOY4.png" width="100%" height="100%">
 
 <div style="page-break-after: always;"></div>
 
@@ -2511,3 +2517,18 @@ Link del video:
 #### Video About The Team:
 
 - 
+
+#### Trello de los sprints:
+
+- https://trello.com/invite/b/68392dfb34795737cb55ab57/ATTI12319d8d47e238a19380ca29a0b7cdb4904CD423/sprint1
+- https://trello.com/invite/b/68e593ebd894d7fa7c2c206f/ATTIb351ba477f7ec5c6a5ea3986a5bec4d3AD187ACD/sprint2
+-
+
+#### Canva:
+
+- https://www.canva.com/design/DAGzeDiLANQ/QA3fnBM8jb7-kl_Ywny25w/edit
+
+
+
+
+
