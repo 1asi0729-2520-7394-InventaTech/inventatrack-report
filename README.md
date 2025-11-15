@@ -2278,10 +2278,14 @@ Recoger feedback sobre las herramientas de gestión de inventarios y descubrir n
 
 ###### Entrevista 2:
 
- - **Nombre:** 
- - **Edad:** 
- - **Distrito:**
- - **Link:**
+ - **Nombre:** Leslie Kasimiro
+ - **Edad:** 27
+ - **Distrito:** Jesús María
+ - **Cargo:** Encargada de restaurante
+ - **Link:** https://upcedupe-my.sharepoint.com/:v:/g/personal/u202117303_upc_edu_pe/IQDOwpNXb9yFR5qP3ObYwdEEAWVWRjS3lVbxq5fbtiEL_6k?e=MraVhk
+ - Leslie Kasimiro, trabaja en un restaurante de mariscos, explicó que el control de insumos aún es manual y depende de Excel, lo que genera pérdidas recurrentes, sobre todo en pescados y mariscos. Reconoció que las auditorías sanitarias señalan mejoras en almacenamiento y que la rotación FIFO no siempre se cumple. Los fines de semana son un reto para mantener el orden en el stock, y gran parte del sobrestock proviene de compras poco planificadas. Estima que las mermas representan hasta el 10% de sus costos. Considera indispensable una aplicación que dé alertas de caducidad y reportes claros, y estaría dispuesta a invertir en ella si demuestra eficiencia.
+
+<img src="assets/Val2.png" width="100%" height="100%">
 
 ###### Entrevista 3:
 
@@ -2382,26 +2386,20 @@ La siguiente tabla presenta un resumen de los resultados obtenidos en la evaluac
 
 - **Recomendación:** Implementar validación en tiempo real del campo de correo electrónico, con mensajes claros y visibles para evitar el intento de registro con correos duplicados.
 
-#### PROBLEMA #2: 
+#### PROBLEMA #2: Falta de confirmación al añadir un nuevo producto
 
-- **Severidad:** 
+- **Severidad:** 2
+- **Heurística violada:** Usability: Visibilidad del estado del sistema
+- **Problema:** Después de que un usuario operativo (como un encargado de almacén) llena el formulario para "Registrar Nuevo Producto" y presiona "Agregar producto", el sistema no proporciona una retroalimentación inmediata y prominente (como una notificación "toast" o un modal de éxito). El usuario puede dudar si la acción se completó correctamente y podría intentar agregar el producto nuevamente, creando entradas duplicadas.
+- **Recomendación:** Implementar un mensaje de confirmación visual claro e inmediato. Se sugiere usar una notificación "toast" (ej. "✅ Producto añadido exitosamente") que aparezca en la esquina de la pantalla sin interrumpir el flujo, o redirigir al inventario resaltando el nuevo producto añadido.
 
-- **Heurística violada:** 
+#### PROBLEMA #3: Falta de filtros avanzados en la búsqueda de productos
 
-- **Problema:** 
-
-- **Recomendación:** 
-
-#### PROBLEMA #3: 
-
-- **Severidad:** 
-
-- **Heurística violada:** 
-
-- **Problema:** 
-
-- **Recomendación:**
-
+- **Severidad:** 3
+- **Heurística violada:** Usability: Flexibilidad y eficiencia de uso
+- **Problema:** La pantalla de "Inventario de Productos" actualmente solo permite buscar por nombre y filtrar por fecha (año/mes). Para un usuario gerencial o un jefe de almacén con cientos de artículos (como en un supermercado), esto es muy ineficiente. Los usuarios necesitan encontrar productos basándose en criterios más específicos, como el estado de caducidad o el tipo de producto.
+- **Recomendación:** Añadir opciones de filtros avanzados. Esto debe incluir, como mínimo, la capacidad de filtrar por **Estado** (ej. OK, Por Vencer, Vencido) y por **Categoría** (ej. Lácteos, Carnes, Bebidas). Esto permitiría a los usuarios identificar rápidamente los productos que requieren acción inmediata, mejorando la eficiencia.
+- 
 #### PROBLEMA #4: 
 
 - **Severidad:** 
