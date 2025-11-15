@@ -2267,11 +2267,15 @@ Recoger feedback sobre las herramientas de gestión de inventarios y descubrir n
 
 ###### Entrevista 1:
 
- - **Nombre:** 
- - **Edad:** 
- - **Distrito:**
- - **Link:**
- - 
+ - **Nombre:** Juan Ramos
+ - **Edad:** 25
+ - **Distrito:** San Borja
+ - **Cargo:** Gerente de plaza vea
+ - **Link:** [https://upcedupe-my.sharepoint.com/:v:/g/personal/u202117303_upc_edu_pe/ETRwF1xvTR9Nr-rV4ltMzM8Bz8G7oh0qmFyGFSJrEY06AA?e=JwpG17](https://upcedupe-my.sharepoint.com/:v:/g/personal/u202117303_upc_edu_pe/IQDu_zm_6y67TLlD1VEurd2HAaxgo2N9_RSpF2nzUAKZPEk?e=i6ppgN)
+ - Juan Ramos, Gerente de plaza vea (supermercado), explicó que su gestión de perecibles se apoya en un ERP especializado que controla caducidad y rotación en tiempo real. Aunque esto reduce pérdidas, aún enfrentan mermas (estimadas entre 2% y 3% de los costos) en frutas, verduras y lácteos, debido a la logística de proveedores y picos de demanda. Considera indispensable que una solución digital ofrezca alertas predictivas, reportes en tiempo real y se integre con el ERP actual. Confirmó que estaría dispuesto a invertir en una herramienta que reduzca pérdidas y optimice el tiempo administrativo.
+
+<img src="assets/Val1.png" width="100%" height="100%">
+
 ###### Entrevista 2:
 
  - **Nombre:** 
