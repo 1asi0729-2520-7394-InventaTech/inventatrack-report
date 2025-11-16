@@ -2300,7 +2300,7 @@ Recoger feedback sobre las herramientas de gestión de inventarios y descubrir n
 
  - **Nombre:** Ernesto Ruiz
  - **Edad:** 24
- - **Distrito:** Jesúsu María
+ - **Distrito:** Jesús María
  - **Link:** https://upcedupe-my.sharepoint.com/:v:/g/personal/u20201f846_upc_edu_pe/IQBa-qkQbq00SrdGp9_a-1IaAQQnjw-mC2-h9rth4zc_MGI?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJPbmVEcml2ZUZvckJ1c2luZXNzIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXciLCJyZWZlcnJhbFZpZXciOiJNeUZpbGVzTGlua0NvcHkifX0&e=QAiA0k
  - Ernesto Ruiz, quien buscaba mejorar la gestión de inventarios, comentó que la aplicación le parecía útil y que, de implementarla, la utilizaría a diario para optimizar su trabajo.
 
@@ -2315,10 +2315,13 @@ Recoger feedback sobre las herramientas de gestión de inventarios y descubrir n
 
 ###### Entrevista 6:
 
- - **Nombre:** 
- - **Edad:** 
- - **Distrito:**
- - **Link:**
+ - **Nombre:** Alicia Melgarejo
+ - **Edad:** 53 años
+ - **Distrito:** Jesús María
+ - **Link:** https://upcedupe-my.sharepoint.com/:v:/g/personal/u202215721_upc_edu_pe/IQAHbGF8ja8GQqXpfrPprK8PAd0GqHbEXiy-OGMO2yomJyU?e=qfzcXm&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D
+ - Alicia valoró positivamente la interfaz profesional e intuitiva de InventaTrack, resaltando la utilidad del resumen visual en el Home y la función de exportar reportes a PDF. La plataforma cumplió sus expectativas gerenciales al proporcionar información clara sobre productos críticos sin requerir capacitación compleja, por lo que está evaluando implementarla en todos sus puntos de venta.
+
+<img src="assets/Val6.png" width="100%" height="100%">
 
 ### 5.3.3. Evaluaciones según heurísticas
 
