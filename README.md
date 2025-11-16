@@ -97,7 +97,7 @@ En la tercera entrega, el equipo documentó el comportamiento técnico de cada s
 
 ##### Participación por integrante:
 
-- Gonzalo Alonso Carhuancote Dominguez:
+- Gonzalo Alonso Carhuancote Dominguez: Desarollo de Entrevista de Validacion y desarollo del informe de Reporte y Keynote, ademas de corecciones generales
 
 - Juan Carlos Alvarado de la Cruz: 
 
