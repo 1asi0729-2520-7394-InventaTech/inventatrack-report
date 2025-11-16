@@ -2473,11 +2473,11 @@ La siguiente tabla presenta un resumen de los resultados obtenidos en la evaluac
 
 - **Severidad:** 2
 
-- **Heurística violada:** 
+- **Heurística violada:** Usability: Visibilidad del estado del sistema
 
 - **Problema:** El formulario "Registrar Nuevo Inventario" permite ingresar datos incorrectos (cantidades negativas, fechas pasadas, IDs duplicados) sin alertar al usuario hasta después de hacer clic en "Registrar". Tampoco muestra confirmación visual clara cuando el producto se guarda exitosamente, generando incertidumbre sobre si la acción funcionó correctamente.
 
-- **Recomendación:** Mostrar validación mientras el usuario escribe: checkmark verde si el dato es correcto, mensaje rojo si hay error. Después de guardar, mostrar mensaje en la esquina.
+- **Recomendación:** Mostrar validación mientras el usuario escribe si el dato es correcto, o si hay error. Después de guardar, mostrar mensaje en la esquina.
 
 #### PROBLEMA #6: Notificaciones sin acción directa desde la alerta
 
@@ -2487,7 +2487,7 @@ La siguiente tabla presenta un resumen de los resultados obtenidos en la evaluac
 
 - **Problema:** El Dashboard muestra "Productos por vencer: 6" y "Bajo stock: 4" como texto estático. Los usuarios deben memorizar estos números, ir manualmente a "Inventory" y buscar cuáles son esos productos. Este flujo requiere múltiples clics innecesarios y dificulta la acción rápida ante productos críticos. Los entrevistados enfatizaron que necesitan alertas que permitan actuar inmediatamente para evitar las mermas del 5-10% que actualmente sufren.
 
-- **Recomendación:** Hacer las tarjetas del Dashboard clicables. Al hacer clic en "Productos por vencer: 6", redirigir automáticamente al inventario mostrando solo esos 6 productos filtrados. Agregar botón "Ver productos →" en cada tarjeta para hacer evidente la acción.
+- **Recomendación:** Hacer las tarjetas del Dashboard clicables. Al hacer clic en "Productos por vencer: 6", redirigir automáticamente al inventario mostrando solo esos 6 productos filtrados. Agregar botón "Ver productos" en cada tarjeta para hacer evidente la acción.
 
 ### 5.3.4 Video About-the-Product
 
