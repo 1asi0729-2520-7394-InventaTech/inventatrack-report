@@ -2229,6 +2229,8 @@ Link del Backend: https://inventatrack-azekbja3h9eyb0fy.canadacentral-01.azurewe
 #### 5.2.3.8. Team Collaboration Insights during Sprint
 Durante el Sprint 3, la colaboración fue intensa y se centró en la definición de los contratos API (DTOs). El equipo de Backend trabajó en paralelo en sus respectivos controladores, fusionando el trabajo frecuentemente para evitar conflictos. Se realizaron reuniones de sincronización diarias para asegurar que los Schemas (ej. CreateUserResource, InventoryResource) fueran consistentes y cumplieran con los requisitos del Frontend.
 
+ <img src="assets/Contributors3.png" width="100%" height="100%">
+
 Link la organizacion de GitHub: https://github.com/1asi0729-2520-7394-InventaTech
 
 ## 5.3. Validation Interviews
