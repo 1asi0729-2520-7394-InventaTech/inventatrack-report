@@ -2171,7 +2171,7 @@ Durante el Sprint 3, el equipo de InventaTrack asignó líderes (L) y colaborado
 | -------------------- | --------------------- | ----- | ------------ | --------------- | ------- | ------------- | ------------- |
 | Gonzalo Carhuancote  | Gonzalo251104         | L     | C            | C               | C       | C             |  C             |
 | Juan Carlos Alvarado | JuanCarlosAlvarado900 | C     | C            | C               | C       | C             |  C             |
-| Joan Teves           | JoanTeves             | C     | L            | C               | C       | C             |  C             |
+| Joan Teves           | Joan3210              | C     | L            | C               | C       | C             |  C             |
 | Antonio Duran        | Sltcrd                | C     | C            | C               | C       | C             |  C             |
 | Daiki Oshiro         | DaikiOY               | C     | C            | C               | L       | L             |  L             |
 
