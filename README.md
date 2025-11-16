@@ -2429,10 +2429,9 @@ La siguiente tabla presenta un resumen de los resultados obtenidos en la evaluac
 | 1 | Registro de nuevos usuarios | 3 | Usability: Flexibilidad y eficiencia de uso |
 | 2 | Falta de confirmación al añadir un nuevo producto | 2 | Usability: Visibilidad del estado del sistema |
 | 3 | Falta de filtros avanzados en la búsqueda de productos | 3 | Usability: Flexibilidad y eficiencia de uso |
-| 4 | Falta de criterios claros al visualizar el inventario | 2 | Usability: Visibilidad del estado del sistema |
+| 4 | Falta de criterios claros al visualizar el inventario | 3 | Usability: Visibilidad del estado del sistema |
 | 5 | Falta de previsualización de cambios antes de guardar | 2 | Usability: Visibilidad del estado del sistema |
 | 6 | Notificaciones sin acción directa desde la alerta | 3 | Usability: Flexibilidad y eficiencia de uso |
-| 7 | Barra de búsqueda con resultados limitados y sin sugerencias | 3 | Usability: Flexibilidad y eficiencia de uso |
 
 ### DESCRIPCIÓN DE PROBLEMAS:
 
@@ -2460,45 +2459,35 @@ La siguiente tabla presenta un resumen de los resultados obtenidos en la evaluac
 - **Problema:** La pantalla de "Inventario de Productos" actualmente solo permite buscar por nombre y filtrar por fecha (año/mes). Para un usuario gerencial o un jefe de almacén con cientos de artículos (como en un supermercado), esto es muy ineficiente. Los usuarios necesitan encontrar productos basándose en criterios más específicos, como el estado de caducidad o el tipo de producto.
 - **Recomendación:** Añadir opciones de filtros avanzados. Esto debe incluir, como mínimo, la capacidad de filtrar por **Estado** (ej. OK, Por Vencer, Vencido) y por **Categoría** (ej. Lácteos, Carnes, Bebidas). Esto permitiría a los usuarios identificar rápidamente los productos que requieren acción inmediata, mejorando la eficiencia.
 - 
-#### PROBLEMA #4: 
+#### PROBLEMA #4: Falta de criterios claros al visualizar el inventario
 
-- **Severidad:** 
+- **Severidad:** 3
 
-- **Heurística violada:** 
+- **Heurística violada:** Usability: Visibilidad del estado del sistema
 
-- **Problema:** 
+- **Problema:** La tabla de inventario muestra todos los productos con colores (verde, amarillo, rojo) pero sin opciones de filtrado por estado. Los usuarios deben revisar manualmente toda la lista para encontrar productos vencidos o por vencer. Con 124 productos registrados, esto genera pérdida de tiempo y aumenta el riesgo de que productos críticos pasen desapercibidos. Los entrevistados reportaron mermas del 5-10% por dificultad para identificar rápidamente qué productos requieren atención inmediata.
 
-- **Recomendación:** 
+- **Recomendación:** Agregar botones de filtro encima de la tabla: [Todos | OK | Por Vencer | Vencido | Stock Bajo]. Al hacer clic en un filtro, mostrar solo los productos de esa categoría. Ordenar automáticamente la tabla poniendo primero los productos más críticos (vencidos arriba, luego por vencer, finalmente OK). Mostrar un contador visible: "5 productos vencidos de 124 totales".
 
-#### PROBLEMA #5: 
+#### PROBLEMA #5: Falta de previsualización de cambios antes de guardar
 
-- **Severidad:** 
-
-- **Heurística violada:** 
-
-- **Problema:** 
-
-- **Recomendación:**
-
-#### PROBLEMA #6: 
-
-- **Severidad:** 
+- **Severidad:** 2
 
 - **Heurística violada:** 
 
-- **Problema:** 
+- **Problema:** El formulario "Registrar Nuevo Inventario" permite ingresar datos incorrectos (cantidades negativas, fechas pasadas, IDs duplicados) sin alertar al usuario hasta después de hacer clic en "Registrar". Tampoco muestra confirmación visual clara cuando el producto se guarda exitosamente, generando incertidumbre sobre si la acción funcionó correctamente.
 
-- **Recomendación:** 
+- **Recomendación:** Mostrar validación mientras el usuario escribe: checkmark verde si el dato es correcto, mensaje rojo si hay error. Después de guardar, mostrar mensaje en la esquina.
 
-#### PROBLEMA #7: 
+#### PROBLEMA #6: Notificaciones sin acción directa desde la alerta
 
-- **Severidad:** 
+- **Severidad:** 3
 
-- **Heurística violada:** 
+- **Heurística violada:** Usability: Flexibilidad y eficiencia de uso
 
-- **Problema:** 
+- **Problema:** El Dashboard muestra "Productos por vencer: 6" y "Bajo stock: 4" como texto estático. Los usuarios deben memorizar estos números, ir manualmente a "Inventory" y buscar cuáles son esos productos. Este flujo requiere múltiples clics innecesarios y dificulta la acción rápida ante productos críticos. Los entrevistados enfatizaron que necesitan alertas que permitan actuar inmediatamente para evitar las mermas del 5-10% que actualmente sufren.
 
-- **Recomendación:**
+- **Recomendación:** Hacer las tarjetas del Dashboard clicables. Al hacer clic en "Productos por vencer: 6", redirigir automáticamente al inventario mostrando solo esos 6 productos filtrados. Agregar botón "Ver productos →" en cada tarjeta para hacer evidente la acción.
 
 ### 5.3.4 Video About-the-Product
 
