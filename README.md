@@ -637,6 +637,18 @@ Leslie Kasimiro, trabaja en un restaurante de mariscos, explicó que el control 
 
 **Link:** https://upcedupe-my.sharepoint.com/:v:/g/personal/u202117303_upc_edu_pe/EfRQiGPXFhVHsr0R3qoONzkBuGHyGSrPXtAa5w41rQXYXw?e=CYieEb&
 
+###### Entrevista 3:
+
+**Nombre:** Rómulo Gálvez
+**Edad:** 32
+**Distrito:** San Juan de Lurigancho
+
+<img src="assets/Entrevista3.png" width="100%" height="100%">
+
+**Resumen de la entrevista:** Rómulo Gálvez, encargado de almacén de cocina en un restaurante, gestiona actualmente su inventario con cuadernos y Excel, lo que genera pérdidas recurrentes de productos perecederos estimadas en 8-10% mensual. Considera muy útil una aplicación que genere alertas automáticas de vencimiento y permita consultar el stock desde el celular, manifestando disposición total para adoptar una solución digital de bajo costo que reduzca desperdicios y simplifique su trabajo diario.
+
+**Link:** https://upcedupe-my.sharepoint.com/:v:/g/personal/u202215721_upc_edu_pe/IQAhUWlCi3bDQ4ahAk-cM5qZAQeJplxtP4AdTkjVZ1vOPhM?e=ck89Rl&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D
+
 ##### Segmento 2: Dueños, gerentes y administradores
 
 ###### Entrevista 1:
