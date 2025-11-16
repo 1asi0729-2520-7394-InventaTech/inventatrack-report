@@ -2312,7 +2312,7 @@ Recoger feedback sobre las herramientas de gestión de inventarios y descubrir n
  - **Edad:** 20 años
  - **Distrito:** Rimac
  - **Link: ** https://upcedupe-my.sharepoint.com/:v:/g/personal/u202210720_upc_edu_pe/IQAnKrZIGlRhTJc58YwDnyneAW87caDiIsHJ5aDKySZe8e8?e=6W7UQ7&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D
- - Adriana Diestra, quien buscamba mejorar la eficacia de el control de insumos de sus restaurante, comentó que la aplicacion era intuitiva y agilizaba los procesos, la recomendaria e utilizaria diariamente.
+ - Adriana Diestra, quien buscaba mejorar la eficacia de el control de insumos de sus restaurante, comentó que la aplicacion era intuitiva y agilizaba los procesos, la recomendaria e utilizaria diariamente.
 
 <img src="assets/Val5.png" width="100%" height="100%">
 
