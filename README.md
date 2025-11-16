@@ -2301,10 +2301,14 @@ Recoger feedback sobre las herramientas de gestión de inventarios y descubrir n
 
 ###### Entrevista 3:
 
- - **Nombre:** 
- - **Edad:** 
- - **Distrito:**
- - **Link:**
+ - **Nombre:** Romulo Galvez
+ - **Edad:** 32 años
+ - **Distrito:** San Juan de Lurigancho
+ - **Link:** https://upcedupe-my.sharepoint.com/:v:/g/personal/u202215721_upc_edu_pe/IQA1qeQAgL49RJVUUdwcJXgNAe9bWnkcmRdY6siKujCbEE8?e=GxLgMP&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D
+
+ - Rómulo encontró InventaTrack muy fácil de usar, destacando especialmente el sistema de colores en la tabla de inventario que le permite identificar rápidamente productos críticos. La aplicación cumplió perfectamente sus necesidades al centralizar toda la información que antes manejaba desordenadamente entre cuaderno y Excel.
+
+ <img src="assets/Val3.png" width="100%" height="100%">
    
 ##### Segmento 2: Dueños, gerentes y administradores
 
