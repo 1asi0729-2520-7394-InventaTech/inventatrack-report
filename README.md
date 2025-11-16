@@ -2271,7 +2271,7 @@ Recoger feedback sobre las herramientas de gestión de inventarios y descubrir n
  - **Edad:** 25
  - **Distrito:** San Borja
  - **Cargo:** Gerente de plaza vea
- - **Link:** [https://upcedupe-my.sharepoint.com/:v:/g/personal/u202117303_upc_edu_pe/ETRwF1xvTR9Nr-rV4ltMzM8Bz8G7oh0qmFyGFSJrEY06AA?e=JwpG17](https://upcedupe-my.sharepoint.com/:v:/g/personal/u202117303_upc_edu_pe/IQDu_zm_6y67TLlD1VEurd2HAaxgo2N9_RSpF2nzUAKZPEk?e=i6ppgN)
+ - **Link:** https://upcedupe-my.sharepoint.com/:v:/g/personal/u202117303_upc_edu_pe/IQDu_zm_6y67TLlD1VEurd2HAbBl1wca-4J99pwDrX87Hho?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D&e=LHSiGY
  - Juan Ramos, Gerente de plaza vea (supermercado), explicó que su gestión de perecibles se apoya en un ERP especializado que controla caducidad y rotación en tiempo real. Aunque esto reduce pérdidas, aún enfrentan mermas (estimadas entre 2% y 3% de los costos) en frutas, verduras y lácteos, debido a la logística de proveedores y picos de demanda. Considera indispensable que una solución digital ofrezca alertas predictivas, reportes en tiempo real y se integre con el ERP actual. Confirmó que estaría dispuesto a invertir en una herramienta que reduzca pérdidas y optimice el tiempo administrativo.
 
 <img src="assets/Val1.png" width="100%" height="100%">
@@ -2282,7 +2282,7 @@ Recoger feedback sobre las herramientas de gestión de inventarios y descubrir n
  - **Edad:** 27
  - **Distrito:** Jesús María
  - **Cargo:** Encargada de restaurante
- - **Link:** https://upcedupe-my.sharepoint.com/:v:/g/personal/u202117303_upc_edu_pe/IQDOwpNXb9yFR5qP3ObYwdEEAWVWRjS3lVbxq5fbtiEL_6k?e=MraVhk
+ - **Link:** https://upcedupe-my.sharepoint.com/:v:/g/personal/u202117303_upc_edu_pe/IQDOwpNXb9yFR5qP3ObYwdEEATP2mshqEdG8zKsz96e2lTc?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D&e=3loxqJ
  - Leslie Kasimiro, trabaja en un restaurante de mariscos, explicó que el control de insumos aún es manual y depende de Excel, lo que genera pérdidas recurrentes, sobre todo en pescados y mariscos. Reconoció que las auditorías sanitarias señalan mejoras en almacenamiento y que la rotación FIFO no siempre se cumple. Los fines de semana son un reto para mantener el orden en el stock, y gran parte del sobrestock proviene de compras poco planificadas. Estima que las mermas representan hasta el 10% de sus costos. Considera indispensable una aplicación que dé alertas de caducidad y reportes claros, y estaría dispuesta a invertir en ella si demuestra eficiencia.
 
 <img src="assets/Val2.png" width="100%" height="100%">
@@ -2391,7 +2391,7 @@ La siguiente tabla presenta un resumen de los resultados obtenidos en la evaluac
 - **Severidad:** 2
 - **Heurística violada:** Usability: Visibilidad del estado del sistema
 - **Problema:** Después de que un usuario operativo (como un encargado de almacén) llena el formulario para "Registrar Nuevo Producto" y presiona "Agregar producto", el sistema no proporciona una retroalimentación inmediata y prominente (como una notificación "toast" o un modal de éxito). El usuario puede dudar si la acción se completó correctamente y podría intentar agregar el producto nuevamente, creando entradas duplicadas.
-- **Recomendación:** Implementar un mensaje de confirmación visual claro e inmediato. Se sugiere usar una notificación "toast" (ej. "✅ Producto añadido exitosamente") que aparezca en la esquina de la pantalla sin interrumpir el flujo, o redirigir al inventario resaltando el nuevo producto añadido.
+- **Recomendación:** Implementar un mensaje de confirmación visual claro e inmediato. Se sugiere usar una notificación "toast" (ej. " Producto añadido exitosamente") que aparezca en la esquina de la pantalla sin interrumpir el flujo, o redirigir al inventario resaltando el nuevo producto añadido.
 
 #### PROBLEMA #3: Falta de filtros avanzados en la búsqueda de productos
 
