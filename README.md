@@ -2268,7 +2268,7 @@ Recoger feedback sobre las herramientas de gestión de inventarios y descubrir n
 ###### Entrevista 1:
 
  - **Nombre:** Juan Ramos
- - **Edad:** 25
+ - **Edad:** 25 años
  - **Distrito:** San Borja
  - **Cargo:** Gerente de plaza vea
  - **Link:** https://upcedupe-my.sharepoint.com/:v:/g/personal/u202117303_upc_edu_pe/IQDu_zm_6y67TLlD1VEurd2HAbBl1wca-4J99pwDrX87Hho?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D&e=LHSiGY
@@ -2279,7 +2279,7 @@ Recoger feedback sobre las herramientas de gestión de inventarios y descubrir n
 ###### Entrevista 2:
 
  - **Nombre:** Leslie Kasimiro
- - **Edad:** 27
+ - **Edad:** 27 años
  - **Distrito:** Jesús María
  - **Cargo:** Encargada de restaurante
  - **Link:** https://upcedupe-my.sharepoint.com/:v:/g/personal/u202117303_upc_edu_pe/IQDOwpNXb9yFR5qP3ObYwdEEATP2mshqEdG8zKsz96e2lTc?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D&e=3loxqJ
@@ -2299,7 +2299,7 @@ Recoger feedback sobre las herramientas de gestión de inventarios y descubrir n
 ###### Entrevista 4:
 
  - **Nombre:** Ernesto Ruiz
- - **Edad:** 24
+ - **Edad:** 24 años
  - **Distrito:** Jesús María
  - **Link:** https://upcedupe-my.sharepoint.com/:v:/g/personal/u20201f846_upc_edu_pe/IQBa-qkQbq00SrdGp9_a-1IaAQQnjw-mC2-h9rth4zc_MGI?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJPbmVEcml2ZUZvckJ1c2luZXNzIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXciLCJyZWZlcnJhbFZpZXciOiJNeUZpbGVzTGlua0NvcHkifX0&e=QAiA0k
  - Ernesto Ruiz, quien buscaba mejorar la gestión de inventarios, comentó que la aplicación le parecía útil y que, de implementarla, la utilizaría a diario para optimizar su trabajo.
@@ -2308,10 +2308,13 @@ Recoger feedback sobre las herramientas de gestión de inventarios y descubrir n
  
 ###### Entrevista 5:
 
- - **Nombre:** 
- - **Edad:** 
- - **Distrito:**
- - **Link:**
+ - **Nombre:** Adriana Diestra 
+ - **Edad:** 20 años
+ - **Distrito:** Rimac
+ - **Link: ** https://upcedupe-my.sharepoint.com/:v:/g/personal/u202210720_upc_edu_pe/IQAnKrZIGlRhTJc58YwDnyneAW87caDiIsHJ5aDKySZe8e8?e=6W7UQ7&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D
+ - Adriana Diestra, quien buscamba mejorar la eficacia de el control de insumos de sus restaurante, comentó que la aplicacion era intuitiva y agilizaba los procesos, la recomendaria e utilizaria diariamente.
+
+<img src="assets/Val5.png" width="100%" height="100%">
 
 ###### Entrevista 6:
 
