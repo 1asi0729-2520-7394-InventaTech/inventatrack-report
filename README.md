@@ -2176,22 +2176,60 @@ Durante el Sprint 3, el equipo de InventaTrack asignó líderes (L) y colaborado
 | Daiki Oshiro         | DaikiOY               | C     | C            | C               | L       | L             |  L             |
 
 #### 5.2.3.3. Sprint Backlog 3
+El objetivo principal del Sprint 3 fue reemplazar completamente el Fake API (db.json) por un Backend robusto y desplegado, implementando toda la lógica de negocio definida en los User Stories.
 
+<table align="center" border="1" width="95%" style="text-align:center">   <tr>     <td><b>Sprint #</b></td>     <td colspan="8"><b>Sprint 3</b></td>   </tr>   <tr>     <td colspan="2"><b>User Story</b></td>     <td colspan="7"><b>Work-Item / Task</b></td>   </tr>   <tr>     <td><b>Id</b></td>     <td><b>Title</b></td>     <td><b>Id</b></td>     <td><b>Title</b></td>     <td><b>Description</b></td>     <td><b>Estimation (Hours)</b></td>     <td><b>Assigned To</b></td>     <td><b>Student Code</b></td>     <td><b>Status</b></td>   </tr>
+
+    <tr>     <td rowspan="2">US01/US03</td>     <td rowspan="2">Gestión de Acceso y Perfil</td>     <td>T01</td>     <td>Implementar AuthController (Login)</td>     <td>Crear endpoint /api/v1/auth/login con Spring Security.</td>     <td>5</td>     <td>Gonzalo Carhuancote</td>     <td>U202210720</td>     <td>Done</td>   </tr>   <tr>     <td>T02</td>     <td>Implementar UserController (CRUD)</td>     <td>Crear endpoints para registrar, obtener, actualizar y eliminar usuarios.</td>     <td>5</td>     <td>Juan Carlos Alvarado</td>     <td>U202216150</td>     <td>Done</td>   </tr>
+
+    <tr>     <td rowspan="3">US07</td>     <td rowspan="3">Gestión de Inventario</td>     <td>T01</td>     <td>Implementar InventoryController (CRUD)</td>     <td>Desarrollar lógica CRUD para /api/inventories.</td>     <td>6</td>     <td>Daiki Oshiro</td>     <td>U20201F846</td>     <td>Done</td>   </tr>   <tr>     <td>T02</td>     <td>Implementar Filtros de Búsqueda</td>     <td>Endpoints para /search, /month y /category.</td>     <td>5</td>     <td>Daiki Oshiro</td>     <td>U20201F846</td>     <td>Done</td>   </tr>
+
+<tr>     <td>T03</td>     <td>Gestión de Productos en Inventario</td>     <td>Lógica para DELETE /api/inventories/{invId}/products/{prodId}.</td>     <td>3</td>     <td>Daiki Oshiro</td>     <td>U20201F846</td>     <td>Done</td>   </tr>
+
+    <tr>     <td rowspan="2">US14/US18</td>     <td rowspan="2">Reportes y Alertas</td>     <td>T01</td>     <td>Implementar ReportController</td>     <td>Endpoints para reportes de stock bajo y productos vencidos/por vencer.</td>     <td>5</td>     <td>Antonio Duran</td>     <td>U202215721</td>     <td>Done</td>   </tr>   <tr>     <td>T02</td>     <td>Implementar NotificationController</td>     <td>Endpoints para alertas de la semana, hoy y stock bajo.</td>     <td>5</td>     <td>Joan Teves</td>     <td>U202117303</td>     <td>Done</td>   </tr>
+
+</table>
 
 #### 5.2.3.4. Development Evidence for Sprint Review
-
+En este sprint se desarrolló el Backend completo de InventaTrack utilizando Java y Spring Boot. Se implementaron los controladores REST (user-controller, inventory-controller, auth-controller, report-controller, product-notification-controller) que sustituyen al Fake API. Se configuró la persistencia de datos y se aseguró la correcta estructura de los recursos (DTOs) para la integración.
 
 #### 5.2.3.5. Execution Evidence for Sprint Review
+Durante el tercer sprint, la ejecución se centró en la implementación del Backend. Se utilizó la herramienta Swagger UI (integrada con SpringDoc) para realizar pruebas de caja blanca sobre cada endpoint desarrollado, asegurando que la lógica de negocio, las validaciones y las respuestas (DTOs) fueran correctas antes de la integración con el Frontend.
 
+Swagger UI:
+<img src="assets/swagger-evidence.png" width="100%" height="100%">
 
 #### 5.2.3.6. Services Documentation Evidence for Sprint Review
+Durante este sprint, se reemplazó la documentación simulada (db.json) por una documentación de API real y auto-generada mediante OpenAPI 3.1 (SpringDoc). Esta documentación sirvió como contrato formal entre el Frontend y el Backend, detallando todos los endpoints, modelos de datos (Schemas) y respuestas esperadas.
 
+A continuación, se resumen los endpoints reales implementados y desplegados en Azure:
+
+<table align="center" border="1" width="95%" style="text-align:center">   <tr>     <td><b>Endpoint</b></td>     <td><b>Acción / Descripción</b></td>     <td><b>Método HTTP</b></td>     <td><b>Sintaxis de llamada</b></td>     <td><b>Parámetros Principales</b></td>     <td><b>URL Swagger</b></td>   </tr>     <tr>     <td>/api/v1/auth/login</td>     <td>Autenticación de usuario. Devuelve credenciales.</td>     <td>POST</td>     <td>POST /api/v1/auth/login</td>     <td>Body: LoginRequest</td>     <td>/swagger-ui/index.html#/auth-controller</td>   </tr>     <tr>     <td>/api/v1/users</td>     <td>Registro de un nuevo usuario.</td>     <td>POST</td>     <td>POST /api/v1/users</td>     <td>Body: CreateUserResource</td>     <td>/swagger-ui/index.html#/user-controller</td>   </tr>   <tr>     <td>/api/v1/users/{id}</td>     <td>Obtener perfil de usuario por ID.</td>     <td>GET</td>     <td>GET /api/v1/users/1</td>     <td>Path: id</td>     <td>/swagger-ui/index.html#/user-controller</td>   </tr>     <tr>     <td>/api/inventories</td>     <td>Obtener todos los inventarios.</td>     <td>GET</td>     <td>GET /api/inventories</td>     <td>N/A</td>     <td>/swagger-ui/index.html#/inventory-controller</td>   </tr>   <tr>     <td>/api/inventories/search</td>     <td>Búsqueda general de productos en inventario.</td>     <td>GET</td>     <td>GET /api/inventories/search?q=...</td>     <td>Query: q (término)</td>     <td>/swagger-ui/index.html#/inventory-controller</td>   </tr>   <tr>     <td>/api/inventories/month/{month}</td>     <td>Filtrar inventario por mes.</td>     <td>GET</td>     <td>GET /api/inventories/month/11</td>     <td>Path: month</td>     <td>/swagger-ui/index.html#/inventory-controller</td>   </tr>     <tr>     <td>/api/reports/low-stock</td>     <td>Reporte de productos con stock bajo.</td>     <td>GET</td>     <td>GET /api/reports/low-stock</td>     <td>N/A</td>     <td>/swagger-ui/index.html#/report-controller</td>   </tr>   <tr>     <td>/api/reports/expired-products</td>     <td>Reporte de productos vencidos (merma).</td>     <td>GET</td>     <td>GET /api/reports/expired-products</td>     <td>N/A</td>     <td>/swagger-ui/index.html#/report-controller</td>   </tr>     <tr>     <td>/api/v1/notifications/expiring-today</td>     <td>Alerta de productos que vencen hoy.</td>     <td>GET</td>     <td>GET /api/v1/notifications/expiring-today</td>     <td>N/A</td>     <td>/swagger-ui/index.html#/product-notification-controller</td>   </tr> </table>
 
 #### 5.2.3.7. Software Deployment Evidence for Sprint Review
+Durante este Sprint, se realizó el despliegue del Backend (API) en la nube de Microsoft Azure, utilizando Azure App Service para la aplicación Spring Boot y una base de datos Azure SQL Database para la persistencia.
 
+Creación de Repositorios y Configuración en GitHub
+Se creó un nuevo repositorio para el código del Backend.
+
+Se configuró GitHub Actions (CI/CD) para compilar, probar y desplegar automáticamente la aplicación en Azure cada vez que se realizaba un push a la rama main.
+
+Proceso de Despliegue en Azure
+Se provisionaron los recursos en Azure (App Service Plan, App Service, SQL Database).
+
+Se configuraron las variables de entorno en Azure App Service (como la cadena de conexión a la base de datos y el JWT Secret) para asegurar un despliegue seguro.
+
+Verificación del Despliegue
+Se verificó que la aplicación estuviera activa y sirviendo peticiones en la URL pública.
+
+Se accedió a la interfaz de Swagger UI directamente en el entorno de producción para confirmar que todos los endpoints estuvieran documentados y funcionales.
+
+Link del Backend: https://inventatrack-azekbja3h9eyb0fy.canadacentral-01.azurewebsites.net/swagger-ui/index.html#/
 
 #### 5.2.3.8. Team Collaboration Insights during Sprint
+Durante el Sprint 3, la colaboración fue intensa y se centró en la definición de los contratos API (DTOs). El equipo de Backend trabajó en paralelo en sus respectivos controladores, fusionando el trabajo frecuentemente para evitar conflictos. Se realizaron reuniones de sincronización diarias para asegurar que los Schemas (ej. CreateUserResource, InventoryResource) fueran consistentes y cumplieran con los requisitos del Frontend.
 
+Link la organizacion de GitHub: https://github.com/1asi0729-2520-7394-InventaTech
 
 ## 5.3. Validation Interviews
 
