@@ -2425,7 +2425,7 @@ Recoger feedback sobre las herramientas de gestión de inventarios y descubrir n
  - **Edad:** 25 años
  - **Distrito:** San Borja
  - **Cargo:** Gerente de plaza vea
- - **Link:** https://upcedupe-my.sharepoint.com/:v:/g/personal/u202117303_upc_edu_pe/IQDu_zm_6y67TLlD1VEurd2HAbBl1wca-4J99pwDrX87Hho?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D&e=LHSiGY
+ - **Link:** https://upcedupe-my.sharepoint.com/:v:/g/personal/u202117303_upc_edu_pe/IQDu_zm_6y67TLlD1VEurd2HAbBl1wca-4J99pwDrX87Hho?e=ooJbKB
  - Juan Ramos, Gerente de plaza vea (supermercado), explicó que su gestión de perecibles se apoya en un ERP especializado que controla caducidad y rotación en tiempo real. Aunque esto reduce pérdidas, aún enfrentan mermas (estimadas entre 2% y 3% de los costos) en frutas, verduras y lácteos, debido a la logística de proveedores y picos de demanda. Considera indispensable que una solución digital ofrezca alertas predictivas, reportes en tiempo real y se integre con el ERP actual. Confirmó que estaría dispuesto a invertir en una herramienta que reduzca pérdidas y optimice el tiempo administrativo.
 
 <img src="assets/Val1.png" width="100%" height="100%">
@@ -2436,7 +2436,7 @@ Recoger feedback sobre las herramientas de gestión de inventarios y descubrir n
  - **Edad:** 27 años
  - **Distrito:** Jesús María
  - **Cargo:** Encargada de restaurante
- - **Link:** https://upcedupe-my.sharepoint.com/:v:/g/personal/u202117303_upc_edu_pe/IQDOwpNXb9yFR5qP3ObYwdEEATP2mshqEdG8zKsz96e2lTc?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D&e=3loxqJ
+ - **Link:** https://upcedupe-my.sharepoint.com/:v:/g/personal/u202117303_upc_edu_pe/IQDOwpNXb9yFR5qP3ObYwdEEATP2mshqEdG8zKsz96e2lTc?e=nBoDuY
  - Leslie Kasimiro, trabaja en un restaurante de mariscos, explicó que el control de insumos aún es manual y depende de Excel, lo que genera pérdidas recurrentes, sobre todo en pescados y mariscos. Reconoció que las auditorías sanitarias señalan mejoras en almacenamiento y que la rotación FIFO no siempre se cumple. Los fines de semana son un reto para mantener el orden en el stock, y gran parte del sobrestock proviene de compras poco planificadas. Estima que las mermas representan hasta el 10% de sus costos. Considera indispensable una aplicación que dé alertas de caducidad y reportes claros, y estaría dispuesta a invertir en ella si demuestra eficiencia.
 
 <img src="assets/Val2.png" width="100%" height="100%">
