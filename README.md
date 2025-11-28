@@ -2216,6 +2216,12 @@ Durante el Sprint 3, el equipo de InventaTrack asignó líderes (L) y colaborado
 #### 5.2.3.3. Sprint Backlog 3
 El objetivo principal del Sprint 3 fue reemplazar completamente el Fake API (db.json) por un Backend robusto y desplegado, implementando toda la lógica de negocio definida en los User Stories.
 
+A continuación se presenta un screenshot del Board de Sprint 3 en Trello, junto con el enlace público correspondiente:
+
+Link del Trello: https://trello.com/invite/b/6929a1a3abbb8aab1bc30313/ATTId7e3baee25e34e554883f0423f1e69c544157ECC/sprint3
+
+<img src="assets/trello3.png" width="100%" height="100%">
+
 <table align="center" border="1" width="95%" style="text-align:center">   <tr>     <td><b>Sprint #</b></td>     <td colspan="8"><b>Sprint 3</b></td>   </tr>   <tr>     <td colspan="2"><b>User Story</b></td>     <td colspan="7"><b>Work-Item / Task</b></td>   </tr>   <tr>     <td><b>Id</b></td>     <td><b>Title</b></td>     <td><b>Id</b></td>     <td><b>Title</b></td>     <td><b>Description</b></td>     <td><b>Estimation (Hours)</b></td>     <td><b>Assigned To</b></td>     <td><b>Student Code</b></td>     <td><b>Status</b></td>   </tr>
 
     <tr>     <td rowspan="2">US01/US03</td>     <td rowspan="2">Gestión de Acceso y Perfil</td>     <td>T01</td>     <td>Implementar AuthController (Login)</td>     <td>Crear endpoint /api/v1/auth/login con Spring Security.</td>     <td>5</td>     <td>Gonzalo Carhuancote</td>     <td>U202210720</td>     <td>Done</td>   </tr>   <tr>     <td>T02</td>     <td>Implementar UserController (CRUD)</td>     <td>Crear endpoints para registrar, obtener, actualizar y eliminar usuarios.</td>     <td>5</td>     <td>Juan Carlos Alvarado</td>     <td>U202216150</td>     <td>Done</td>   </tr>
@@ -2229,15 +2235,35 @@ El objetivo principal del Sprint 3 fue reemplazar completamente el Fake API (db.
 </table>
 
 #### 5.2.3.4. Development Evidence for Sprint Review
-En este sprint se desarrolló el Backend completo de InventaTrack utilizando Java y Spring Boot. Se implementaron los controladores REST (user-controller, inventory-controller, auth-controller, report-controller, product-notification-controller) que sustituyen al Fake API. Se configuró la persistencia de datos y se aseguró la correcta estructura de los recursos (DTOs) para la integración.
+En el presente Sprint 3 se avanzó significativamente en el desarrollo del backend de la plataforma Inventatrack. Se implementaron funcionalidades clave para la gestión de inventarios y reportes, además de la integración de servicios REST que permiten la comunicación eficiente entre frontend y backend. También se trabajó en la validación de datos, manejo de errores y aseguramiento de la integridad de los procesos de negocio, preparando la base para futuras funcionalidades y escalabilidad.
+
+https://github.com/1asi0729-2520-7394-InventaTech/Backend-Inventatrack/commits/main/
+
+Principales avances en implementación con relación al Sprint:
+
+| Repository   | Branch | Commit Id | Commit Message            | Commit Message Body               | Commited on (Date) |
+| ------------ | ------ | --------- | ------------------------- | --------------------------------- | ------------------ |
+| Backend      | main   | de6f665   | Initial commit            | create the README.md              | 22/10/2025         |
+|              | main   | c3592b2   | Create Inventory.java     | Create Inventory.java             | 28/10/2025         |
+|              | main   | c149ab3   | Create User.java          | Create User.java                  | 22/10/2025         |
+|              | main   | 43ff9ad   | Create UserRepository     | Create UserRepository.java        | 22/10/2025         |
+|              | main   | 08ed51a   | Update application.properties | Update application.properties     | 29/10/2025         |
 
 #### 5.2.3.5. Execution Evidence for Sprint Review
+
 Durante el tercer sprint, la ejecución se centró en la implementación del Backend. Se utilizó la herramienta Swagger UI (integrada con SpringDoc) para realizar pruebas de caja blanca sobre cada endpoint desarrollado, asegurando que la lógica de negocio, las validaciones y las respuestas (DTOs) fueran correctas antes de la integración con el Frontend.
 
 Swagger UI:
+
 <img src="assets/swagger-evidence.png" width="100%" height="100%">
+<img src="assets/swagger-evidence2.png" width="100%" height="100%">
+
+Squemas:
+
+<img src="assets/squema11.png" width="100%" height="100%">
 
 #### 5.2.3.6. Services Documentation Evidence for Sprint Review
+
 Durante este sprint, se reemplazó la documentación simulada (db.json) por una documentación de API real y auto-generada mediante OpenAPI 3.1 (SpringDoc). Esta documentación sirvió como contrato formal entre el Frontend y el Backend, detallando todos los endpoints, modelos de datos (Schemas) y respuestas esperadas.
 
 A continuación, se resumen los endpoints reales implementados y desplegados en Azure:
@@ -2245,31 +2271,69 @@ A continuación, se resumen los endpoints reales implementados y desplegados en 
 <table align="center" border="1" width="95%" style="text-align:center">   <tr>     <td><b>Endpoint</b></td>     <td><b>Acción / Descripción</b></td>     <td><b>Método HTTP</b></td>     <td><b>Sintaxis de llamada</b></td>     <td><b>Parámetros Principales</b></td>     <td><b>URL Swagger</b></td>   </tr>     <tr>     <td>/api/v1/auth/login</td>     <td>Autenticación de usuario. Devuelve credenciales.</td>     <td>POST</td>     <td>POST /api/v1/auth/login</td>     <td>Body: LoginRequest</td>     <td>/swagger-ui/index.html#/auth-controller</td>   </tr>     <tr>     <td>/api/v1/users</td>     <td>Registro de un nuevo usuario.</td>     <td>POST</td>     <td>POST /api/v1/users</td>     <td>Body: CreateUserResource</td>     <td>/swagger-ui/index.html#/user-controller</td>   </tr>   <tr>     <td>/api/v1/users/{id}</td>     <td>Obtener perfil de usuario por ID.</td>     <td>GET</td>     <td>GET /api/v1/users/1</td>     <td>Path: id</td>     <td>/swagger-ui/index.html#/user-controller</td>   </tr>     <tr>     <td>/api/inventories</td>     <td>Obtener todos los inventarios.</td>     <td>GET</td>     <td>GET /api/inventories</td>     <td>N/A</td>     <td>/swagger-ui/index.html#/inventory-controller</td>   </tr>   <tr>     <td>/api/inventories/search</td>     <td>Búsqueda general de productos en inventario.</td>     <td>GET</td>     <td>GET /api/inventories/search?q=...</td>     <td>Query: q (término)</td>     <td>/swagger-ui/index.html#/inventory-controller</td>   </tr>   <tr>     <td>/api/inventories/month/{month}</td>     <td>Filtrar inventario por mes.</td>     <td>GET</td>     <td>GET /api/inventories/month/11</td>     <td>Path: month</td>     <td>/swagger-ui/index.html#/inventory-controller</td>   </tr>     <tr>     <td>/api/reports/low-stock</td>     <td>Reporte de productos con stock bajo.</td>     <td>GET</td>     <td>GET /api/reports/low-stock</td>     <td>N/A</td>     <td>/swagger-ui/index.html#/report-controller</td>   </tr>   <tr>     <td>/api/reports/expired-products</td>     <td>Reporte de productos vencidos (merma).</td>     <td>GET</td>     <td>GET /api/reports/expired-products</td>     <td>N/A</td>     <td>/swagger-ui/index.html#/report-controller</td>   </tr>     <tr>     <td>/api/v1/notifications/expiring-today</td>     <td>Alerta de productos que vencen hoy.</td>     <td>GET</td>     <td>GET /api/v1/notifications/expiring-today</td>     <td>N/A</td>     <td>/swagger-ui/index.html#/product-notification-controller</td>   </tr> </table>
 
 #### 5.2.3.7. Software Deployment Evidence for Sprint Review
-Durante este Sprint, se realizó el despliegue del Backend (API) en la nube de Microsoft Azure, utilizando Azure App Service para la aplicación Spring Boot y una base de datos Azure SQL Database para la persistencia.
 
-Creación de Repositorios y Configuración en GitHub
-Se creó un nuevo repositorio para el código del Backend.
+Durante el Sprint 3, se realizó el despliegue del backend de Inventatrack en la plataforma en la nube Microsoft Azure, asegurando que las API del sistema estuvieran disponibles en un entorno productivo y accesible para el frontend y usuarios finales.
 
-Se configuró GitHub Actions (CI/CD) para compilar, probar y desplegar automáticamente la aplicación en Azure cada vez que se realizaba un push a la rama main.
+Configuración y Despliegue en Azure:
 
-Proceso de Despliegue en Azure
-Se provisionaron los recursos en Azure (App Service Plan, App Service, SQL Database).
+Se configuró un servicio de Azure App Service para alojar la aplicación backend desarrollada en Spring Boot.
+Se definieron variables de entorno y se aseguraron las conexiones a la base de datos para garantizar la integridad y seguridad de los datos.
+Se habilitaron mecanismos de monitoreo y escalabilidad para mantener la disponibilidad y el rendimiento bajo demanda.
 
-Se configuraron las variables de entorno en Azure App Service (como la cadena de conexión a la base de datos y el JWT Secret) para asegurar un despliegue seguro.
+Validación y Verificación:
 
-Verificación del Despliegue
-Se verificó que la aplicación estuviera activa y sirviendo peticiones en la URL pública.
+Se realizaron pruebas funcionales en el entorno desplegado para validar la correcta operación de los endpoints REST.
+Se comprobó la comunicación efectiva entre backend y database, asegurando la integración completa del sistema.
+Se monitoreó el estado del servicio en Azure para detectar posibles fallos o degradación de rendimiento.
 
-Se accedió a la interfaz de Swagger UI directamente en el entorno de producción para confirmar que todos los endpoints estuvieran documentados y funcionales.
+Evidencia del backend:
+
+<img src="assets/swagger-evidence.png" width="100%" height="100%">
 
 Link del Backend: https://inventatrack-azekbja3h9eyb0fy.canadacentral-01.azurewebsites.net/swagger-ui/index.html#/
 
 #### 5.2.3.8. Team Collaboration Insights during Sprint
-Durante el Sprint 3, la colaboración fue intensa y se centró en la definición de los contratos API (DTOs). El equipo de Backend trabajó en paralelo en sus respectivos controladores, fusionando el trabajo frecuentemente para evitar conflictos. Se realizaron reuniones de sincronización diarias para asegurar que los Schemas (ej. CreateUserResource, InventoryResource) fueran consistentes y cumplieran con los requisitos del Frontend.
 
- <img src="assets/Contributors3.png" width="100%" height="100%">
+Durante el Sprint 3, el equipo de Inventatech organizó el desarrollo del backend siguiendo la metodología GitFlow, utilizando ramas por endpoint. Esto permitió trabajar de forma paralela en distintos servicios como inventarios, reportes y perfiles, facilitando la integración progresiva. Cada miembro gestionó sus tareas y revisiones mediante pull requests en GitHub, asegurando control de calidad y colaboración eficiente
+
+| Author              | Task completed                                      |
+| ------------------- | --------------------------------------------------- |
+| Gonzalo Carhuancote | update the landing page content                     |
+| Daiki Oshiro        | added inventory endpoint                            |
+| Juan Alvarado       | added Profile endpoint                              |
+| Joan Teves          | added Heuristic Evaluations                         |
+| Antonio Duran       | added Reports endpoint                              |
+
+<img src="assets/Contributors3.png" width="100%" height="100%">
 
 Link la organizacion de GitHub: https://github.com/1asi0729-2520-7394-InventaTech
+
+## 5.2.4. Sprint 4
+
+### 5.2.4.1 Sprint planning 4
+
+
+### 5.2.4.2. Aspect Leaders and Collaborators
+
+
+#### 5.2.4.3. Sprint Backlog 4
+
+
+#### 5.2.4.4. Development Evidence for Sprint Review
+
+
+#### 5.2.4.5. Execution Evidence for Sprint Review
+
+
+#### 5.2.4.6. Services Documentation Evidence for Sprint Review
+
+
+#### 5.2.4.7. Software Deployment Evidence for Sprint Review
+
+
+#### 5.2.4.8. Team Collaboration Insights during Sprint
+
+
 
 ## 5.3. Validation Interviews
 
