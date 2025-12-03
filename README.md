@@ -3044,21 +3044,21 @@ Link del video: https://upcedupe-my.sharepoint.com/:v:/g/personal/u202215721_upc
 
 ### **Conclusiones**
 
-Alta demanda y oportunidad de mercado: Existe un crecimiento notable en la demanda de control de inventarios. La plataforma tiene un gran potencial para convertirse en un recurso esencial para la toma de decisiones empresariales.
+- Alta demanda y oportunidad de mercado: Existe un crecimiento notable en la demanda de control de inventarios. La plataforma tiene un gran potencial para convertirse en un recurso esencial para la toma de decisiones empresariales.
 
-Beneficios para usuarios y gerentes: Los usuarios obtienen acceso ágil a control de inventarios, mientras que los gerentes pueden gestionar y escalar estos servicios aumentando su visibilidad e ingresos, gracias a un mejor control.
+- Beneficios para usuarios y gerentes: Los usuarios obtienen acceso ágil a control de inventarios, mientras que los gerentes pueden gestionar y escalar estos servicios aumentando su visibilidad e ingresos, gracias a un mejor control.
 
-A lo largo del desarrollo de InventaTrack, logramos validar los principales supuestos e hipótesis planteados en el proceso Lean UX. Mediante entrevistas, análisis competitivo y pruebas de concepto, comprobamos que la problemática definida en los Problem Statements la falta de control digital en la gestión de inventarios de productos perecederos— es una realidad común en restaurantes, supermercados y negocios similares, generando pérdidas entre el 5 % y 15 % de sus costos operativos.
+- A lo largo del desarrollo de InventaTrack, logramos validar los principales supuestos e hipótesis planteados en el proceso Lean UX. Mediante entrevistas, análisis competitivo y pruebas de concepto, comprobamos que la problemática definida en los Problem Statements la falta de control digital en la gestión de inventarios de productos perecederos— es una realidad común en restaurantes, supermercados y negocios similares, generando pérdidas entre el 5 % y 15 % de sus costos operativos.
 
-Nuestros assumptions sobre el comportamiento de los segmentos fueron en gran medida acertados: los usuarios buscan soluciones simples, accesibles y adaptadas a sus capacidades tecnológicas. Sin embargo, observamos también una disposición mayor de la esperada hacia la adopción de herramientas digitales, siempre que estas aporten valor inmediato y no requieran procesos de implementación complejos.
+- Nuestros assumptions sobre el comportamiento de los segmentos fueron en gran medida acertados: los usuarios buscan soluciones simples, accesibles y adaptadas a sus capacidades tecnológicas. Sin embargo, observamos también una disposición mayor de la esperada hacia la adopción de herramientas digitales, siempre que estas aporten valor inmediato y no requieran procesos de implementación complejos.
 
-Diseño centrado en el usuario: La interfaz amigable, herramientas de búsqueda avanzada y filtros intuitivos mejoran la experiencia del usuario, optimizando su interacción con la plataforma.
+- Diseño centrado en el usuario: La interfaz amigable, herramientas de búsqueda avanzada y filtros intuitivos mejoran la experiencia del usuario, optimizando su interacción con la plataforma.
 
-Retos identificados: Construir una base sólida de usuarios iniciales y competir con plataformas consolidadas son los principales desafíos que enfrenta InventaTech.
+- Retos identificados: Construir una base sólida de usuarios iniciales y competir con plataformas consolidadas son los principales desafíos que enfrenta InventaTech.
 
-Sostenibilidad y proyección: El modelo de negocio basado en comisiones y suscripciones es viable y cuenta con características que promueven la retención de usuarios, como valoraciones públicas y seguimiento post-sesión.
+- Sostenibilidad y proyección: El modelo de negocio basado en comisiones y suscripciones es viable y cuenta con características que promueven la retención de usuarios, como valoraciones públicas y seguimiento post-sesión.
 
-En general, concluimos que InventaTrack es una propuesta viable y alineada con las necesidades del mercado objetivo. La aplicación aborda de forma efectiva los puntos críticos del proceso de control de inventarios, ofreciendo una alternativa moderna, económica y adaptable para las PYMEs del sector alimentario.
+- En general, concluimos que InventaTrack es una propuesta viable y alineada con las necesidades del mercado objetivo. La aplicación aborda de forma efectiva los puntos críticos del proceso de control de inventarios, ofreciendo una alternativa moderna, económica y adaptable para las PYMEs del sector alimentario.
 
 ### **Recomendaciones**
 
@@ -3102,17 +3102,29 @@ Link del video: https://upcedupe-my.sharepoint.com/:v:/g/personal/u202215721_upc
 
 ## Anexos
 
-#### Link Landing Page: 
+#### Link del Landing Page: 
 
 - https://1asi0729-2520-7394-inventatech.github.io/inventatrack-website/
 
-#### Link Frontend:
+#### Link del repositorio del Landing Page:
+
+- https://github.com/1asi0729-2520-7394-InventaTech/inventatrack-report
+
+#### Link del Frontend:
 
 - https://inventatrack.netlify.app/login
 
-#### Link Backend:
+#### Link del repositorio del Frontend:
+
+- https://github.com/1asi0729-2520-7394-InventaTech/Frontend-Inventatrack
+
+#### Link del Backend:
 
 - https://inventatrack-azekbja3h9eyb0fy.canadacentral-01.azurewebsites.net/swagger-ui/index.html#/
+
+#### Link del repositorio del Backend:
+
+- https://github.com/1asi0729-2520-7394-InventaTech/Backend-Inventatrack
 
 #### Video About The Product:
 
