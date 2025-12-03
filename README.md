@@ -2199,6 +2199,107 @@ Captura de Analíticos de Colaboración en GitHub en el repositorio de la Landin
 
 ### 5.2.3.1 Sprint planning 3
 
+<table align="center" border="1" width="90%" style="text-align:center;">
+    <tr align="left">
+        <td>
+            <b>Sprint #</b>
+        </td>
+        <td>
+            <b>Sprint 3</b>           
+        </td>
+    </tr>
+    <tr align="left">
+        <td colspan="2">
+            <b>Sprint Planning Background</b>
+        </td>
+    </tr>
+    <tr align="left">
+        <td>
+            <b>Date</b>
+        </td>
+        <td>
+            24/11/25         
+        </td>
+    </tr>
+    <tr align="left">
+        <td>
+            <b>Time</b>
+        </td>
+        <td>
+            11:00         
+        </td>
+    </tr>
+    <tr align="left">
+        <td>
+            <b>Location</b>
+        </td>
+        <td>
+            Modalidad Remota por Discord
+        </td>
+    </tr>
+    <tr align="left">
+        <td>
+            <b>Prepared By</b>
+        </td>
+        <td>
+            Equipo InventaTech    
+        </td>
+    </tr>
+    <tr align="left">
+        <td>
+            <b>Attendees (to planning meeting)</b>
+        </td>
+        <td>
+            - Gonzalo Carhuancote <br>
+            - Juan Carlos Alvarado <br>
+            - Joan Teves <br>
+            - Antonio Duran <br>
+            - Daiki Oshiro <br>
+        </td>
+    </tr>
+    <tr align="left">
+        <td>
+            <b>Sprint 2</b> <br>
+            <b>Review Summary</b>
+        </td>
+        <td>
+            Durante el Sprint 2 se desarrolló e integró la primera versión funcional del Frontend de Inventatrack, centrada en la implementación de los principales bounded contexts: registro e inicio de sesión, inventarios, perfiles y reportes. Esta entrega permitió validar la estructura general de la aplicación y sentó las bases para la interacción con los usuarios finales. Asimismo, se mejoraron algunas secciones del informe, landing page y frontend.
+        </td>
+    </tr>
+    <tr align="left">
+        <td>
+            <b>Sprint 2</b> <br>
+            <b>Retrospective Summary</b>
+        </td>
+        <td>
+            Durante el Sprint 2, enfocado en el desarrollo del frontend, el equipo destacó como principal acierto la adecuada planificación y distribución de tareas, lo cual permitió un avance sostenido y coordinado. Como oportunidad de mejora, se identificó la importancia de optimizar los tiempos destinados a la revisión de código y de reforzar los criterios de aceptación, con el fin de garantizar una mayor consistencia en el desarrollo entre los miembros del equipo.
+        </td>
+    </tr>
+    <tr align="left">
+        <td>
+            <b>Sprint 3 Goal</b>
+        </td>
+        <td>
+            Desarrollar y mejorar los endpoints clave del backend de Inventatrack para manejar perfiles, inventarios y reportes, asegurando que funcionen bien mediante pruebas automatizadas.
+        </td>
+    </tr>
+    <tr align="left">
+        <td>
+            <b>Sprint 3 Velocity</b>
+        </td>
+        <td>
+            14
+        </td>
+    </tr>
+    <tr align="left">
+        <td>
+            <b>Sum of Story Points</b>
+        </td>
+        <td>
+            22
+        </td>
+    </tr>
+</table>
 
 
 ### 5.2.3.2. Aspect Leaders and Collaborators
@@ -2214,6 +2315,7 @@ Durante el Sprint 3, el equipo de InventaTrack asignó líderes (L) y colaborado
 | Daiki Oshiro         | DaikiOY               | C     | C            | C               | L       | L             |  L             |
 
 #### 5.2.3.3. Sprint Backlog 3
+
 El objetivo principal del Sprint 3 fue reemplazar completamente el Fake API (db.json) por un Backend robusto y desplegado, implementando toda la lógica de negocio definida en los User Stories.
 
 A continuación se presenta un screenshot del Board de Sprint 3 en Trello, junto con el enlace público correspondiente:
@@ -2247,7 +2349,7 @@ Principales avances en implementación con relación al Sprint:
 |              | main   | c3592b2   | Create Inventory.java     | Create Inventory.java             | 28/10/2025         |
 |              | main   | c149ab3   | Create User.java          | Create User.java                  | 22/10/2025         |
 |              | main   | 43ff9ad   | Create UserRepository     | Create UserRepository.java        | 22/10/2025         |
-|              | main   | 08ed51a   | Update application.properties | Update application.properties     | 29/10/2025         |
+|              | main   | 08ed51a   | Update application.properties | Update application.properties     | 29/10/2025     |
 
 #### 5.2.3.5. Execution Evidence for Sprint Review
 
@@ -2312,28 +2414,363 @@ Link la organizacion de GitHub: https://github.com/1asi0729-2520-7394-InventaTec
 
 ### 5.2.4.1 Sprint planning 4
 
+<table align="center" border="1" width="90%" style="text-align:center;">
+    <tr align="left">
+        <td>
+            <b>Sprint #</b>
+        </td>
+        <td>
+            <b>Sprint 4</b>           
+        </td>
+    </tr>
+    <tr align="left">
+        <td colspan="2">
+            <b>Sprint Planning Background</b>
+        </td>
+    </tr>
+    <tr align="left">
+        <td>
+            <b>Date</b>
+        </td>
+        <td>
+            01/12/25         
+        </td>
+    </tr>
+    <tr align="left">
+        <td>
+            <b>Time</b>
+        </td>
+        <td>
+            11:00         
+        </td>
+    </tr>
+    <tr align="left">
+        <td>
+            <b>Location</b>
+        </td>
+        <td>
+            Modalidad Remota por Discord
+        </td>
+    </tr>
+    <tr align="left">
+        <td>
+            <b>Prepared By</b>
+        </td>
+        <td>
+            Equipo InventaTech    
+        </td>
+    </tr>
+    <tr align="left">
+        <td>
+            <b>Attendees (to planning meeting)</b>
+        </td>
+        <td>
+            - Gonzalo Carhuancote <br>
+            - Juan Carlos Alvarado <br>
+            - Joan Teves <br>
+            - Antonio Duran <br>
+            - Daiki Oshiro <br>
+        </td>
+    </tr>
+    <tr align="left">
+        <td>
+            <b>Sprint 3</b> <br>
+            <b>Review Summary</b>
+        </td>
+        <td>
+          Durante el Sprint 3 se desarrollaron y probaron los principales endpoints del backend de Inventatrack, abordando funcionalidades clave como la gestión de inventarios, manejo de reportes. Esta implementación permitió establecer una base sólida para el futuro consumo desde el frontend y validar la arquitectura general de los servicios. Además, se inició la integración con bases de datos y se dejaron sentadas algunas rutas para próximas funcionalidades.
+        </td>
+    </tr>
+    <tr align="left">
+        <td>
+            <b>Sprint 3</b> <br>
+            <b>Retrospective Summary</b>
+        </td>
+        <td>
+            Durante el Sprint 3, centrado en el desarrollo del backend, el equipo destacó como principal logro la correcta implementación técnica de los endpoints. Sin embargo, se identificaron oportunidades de mejora relacionadas con el despliegue e integración con el frontend.
+        </td>
+    </tr>
+    <tr align="left">
+        <td>
+            <b>Sprint 4 Goal</b>
+        </td>
+        <td>
+          Finalizar las tareas pendientes del frontend, realizar correcciones en el backend, y desplegar ambos módulos en un entorno accesible en línea. Además, se actualizará la información de la landing page con los datos actuales del equipo, dejando lista la plataforma para su presentación final con una experiencia de usuario integrada.
+        </td>
+    </tr>
+    <tr align="left">
+        <td>
+            <b>Sprint 4 Velocity</b>
+        </td>
+        <td>
+            14
+        </td>
+    </tr>
+    <tr align="left">
+        <td>
+            <b>Sum of Story Points</b>
+        </td>
+        <td>
+            22
+        </td>
+    </tr>
+</table>
 
 ### 5.2.4.2. Aspect Leaders and Collaborators
 
+Esta matriz resume los roles de liderazgo (L) y colaboración (C) asumidos por los integrantes del equipo Inventatrack durante el Sprint 4. La asignación se realizó en función de la experiencia técnica y las responsabilidades asumidas por cada miembro en actividades clave como el despliegue y mejora del frontend y backend, la gestión de inventarios y la documentación final del proyecto. Esta distribución permitió consolidar el producto para su entrega final, asegurando eficiencia y coordinación en el trabajo colaborativo.
+
+| Miembro del Equipo   | GitHub Username       | Sprint 4 | Despliegue del Frontend | Despliegue del Backend | Inventarios | Documentación | 
+| -------------------- | --------------------- | ----- | ------------ | --------------- | ------- | ------------- | 
+| Gonzalo Carhuancote  | Gonzalo251104         | C     | L            | C               | C       | C             |  
+| Juan Carlos Alvarado | JuanCarlosAlvarado900 | C     | C            | L               | C       | C             |  
+| Joan Teves           | Joan3210              | C     | L            | C               | C       | C             |  
+| Antonio Duran        | Sltcrd                | C     | C            | C               | L       | C             |  
+| Daiki Oshiro         | DaikiOY               | L     | C            | C               | C       | L             | 
 
 #### 5.2.4.3. Sprint Backlog 4
 
+El objetivo principal del Sprint 4 fue consolidar la integración entre el frontend y el backend de la plataforma Inventatrack, corrigiendo errores críticos detectados en los endpoints existentes, y desplegando ambos componentes en un entorno en línea funcional. Durante este sprint se desarrollaron e integraron las vistas principales del sistema, enfocándose en la experiencia de usuario, la navegación y la presentación visual.
+
+A continuación, se presenta una captura de pantalla del Board de Sprint 4 en Trello, junto con el enlace público correspondiente:
+
+https://trello.com/invite/b/68393260a1695efe042ff395/ATTIf5d16b3ae6b58cb80f583262c8cdc4f4ED3A6617/sprint4
+
+<img src="assets/trello4.png" width="100%" height="100%">
+
+<table border="1" width="100%" style="border-collapse: collapse; text-align: center;">
+  <tr style="background-color: #f0f0f0;">
+    <th colspan="14">Sprint Backlog - Sprint 4</th>
+  </tr>
+  <tr style="background-color: #e0e0e0;">
+    <th colspan="3">User Story</th>
+    <th colspan="11">Work-Item / Task</th>
+  </tr>
+  <tr style="background-color: #e8e8e8;">
+    <th>Id</th>
+    <th colspan="2">Title</th>
+    <th>Id</th>
+    <th colspan="2">Title</th>
+    <th colspan="3">Description</th>
+    <th>Estimation (Hours)</th>
+    <th colspan="1">Assigned To</th>
+    <th>Student Code</th>
+    <th>Status</th>
+  </tr>
+
+  <tr>
+    <td>US08</td>
+    <td colspan="2">Actualizar perfil de inventarios</td>
+    <td>T01</td>
+    <td colspan="2">Ver, editar y eliminar inventarios</td>
+    <td colspan="3">Actualizar el endpoint de gestión de inventarios</td>
+    <td>3</td>
+    <td>Daiki Oshiro Yamashita</td>
+    <td>U20201F846</td>
+    <td>Done</td>
+  </tr>
+
+  <tr>
+    <td>US26</td>
+    <td colspan="2">Integrar Frontend con Backend</td>
+    <td>T01</td>
+    <td colspan="2">Desplegar backend en Azure</td>
+    <td colspan="3">Publicar el despliegue del backend en Azure para que sea accesible en producción.</td>
+    <td>3</td>
+    <td>Gonzalo Carhuancote Dominguez</td>
+    <td>U202210720</td>
+    <td>Done</td>
+  </tr>
+
+  <tr>
+    <td></td>
+    <td colspan="2"></td>
+    <td>T02</td>
+    <td colspan="2">Actualizar endpoints del backend</td>
+    <td colspan="3">Modificar y actualizar los endpoints para mejorar la integridad y funcionalidad.</td>
+    <td>4</td>
+    <td>Joan Teves</td>
+    <td>U202117303</td>
+    <td>Done</td>
+  </tr>
+
+  <tr>
+    <td></td>
+    <td colspan="2"></td>
+    <td>T03</td>
+    <td colspan="2">Comprobar conexión Frontend - Backend</td>
+    <td colspan="3">Validar desde el frontend que los endpoints desplegados funcionen correctamente.</td>
+    <td>2</td>
+    <td>Antonio Duran</td>
+    <td>U202215721</td>
+    <td>Done</td>
+  </tr>
+
+  <tr>
+    <td></td>
+    <td colspan="2"></td>
+    <td>T04</td>
+    <td colspan="2">Actualizar Frontend</td>
+    <td colspan="3">Modificar vistas del frontend para que consuman los datos del backend desplegado.</td>
+    <td>3</td>
+    <td>Juan Carlos Alvarado</td>
+    <td>U202216150</td>
+    <td>Done</td>
+  </tr>
+
+  <tr>
+    <td></td>
+    <td colspan="2"></td>
+    <td>T05</td>
+    <td colspan="2">Desplegar frontend</td>
+    <td colspan="3">Publicar el frontend en Netlify para que sea accesible a los usuarios finales.</td>
+    <td>2</td>
+    <td>Gonzalo Carhuancote Dominguez</td>
+    <td>U202210720</td>
+    <td>Done</td>
+  </tr>
+
+  <tr>
+    <td>US32</td>
+    <td colspan="2">Actualizar landing page</td>
+    <td>T01</td>
+    <td colspan="2">Editar información del equipo y proyecto</td>
+    <td colspan="3">Actualizar la sección del equipo y enlaces del sistema en la landing page.</td>
+    <td>2</td>
+    <td>Daiki Oshiro Yamashita</td>
+    <td>U20201F846</td>
+    <td>Done</td>
+  </tr>
+
+  <tr>
+    <td>US40</td>
+    <td colspan="2">Mejorar experiencia visual</td>
+    <td>T01</td>
+    <td colspan="2">Ajustes de diseño y navegación</td>
+    <td colspan="3">Aplicar mejoras de diseño para una experiencia más intuitiva y fluida.</td>
+    <td>3</td>
+    <td>Daiki Oshiro Yamashita</td>
+    <td>U20201F846</td>
+    <td>Done</td>
+  </tr>
+
+</table>
 
 #### 5.2.4.4. Development Evidence for Sprint Review
 
+En el presente Sprint 4 se avanzó significativamente en la integración y despliegue de los componentes principales de la plataforma Inventatrack. Se realizaron correcciones críticas en el backend, optimizando los endpoints implementados en el sprint anterior, y se completó su despliegue en un entorno en línea funcional. Paralelamente, se desarrollaron e integraron las vistas principales del frontend con dichos endpoints, permitiendo una experiencia de usuario conectada y fluida.
+
+https://github.com/1asi0729-2520-7394-InventaTech/inventatrack-website
+https://github.com/1asi0729-2520-7394-InventaTech/Frontend-Inventatrack
+https://github.com/1asi0729-2520-7394-InventaTech/Backend-Inventatrack
+
+| Repository   | Branch | Commit Id | Commit Message            | Commit Message Body               | Commited on (Date) |
+| ------------ | ------ | --------- | ------------------------- | --------------------------------- | ------------------ |
+| Landing      | main   | 9ad978d   | feat(video): add styles for about the team video section | add styles for about the team video section | 28/11/2025 |
+| Frontend     | main   | de6f665   | Initial commit            | create the README.md              | 07/10/2025         |
+|              | main   | 846000e   | Create footer-content.css | create the footer-content.css     | 07/10/2025         |
+| Backend      | main   | de6f665   | Initial commit            | create the README.md              | 22/10/2025         |
+|              | main   | c3592b2   | Create Inventory.java     | Create Inventory.java             | 28/10/2025         |
+|              | main   | 08ed51a   | Update application.properties | Update application.properties | 29/10/2025         |
 
 #### 5.2.4.5. Execution Evidence for Sprint Review
 
+Durante el Sprint 4, se logró completar la integración entre el frontend y el backend de la plataforma Inventatrack, consolidando así la funcionalidad completa del sistema. Esta integración permitió que las vistas del frontend consumieran datos reales desde los endpoints del backend, desplegado en Azure, asegurando una experiencia de usuario funcional y coherente.
+
+Establecimiento de Repositorios: Se crearon y configuraron repositorios en GitHub para gestionar el código y las pruebas.
+
+<img src="assets/repo4.png" width="100%" height="100%">
+
+Logros alcanzados:
+
+Actualización del Frontend: Se actualizaron las vistas para consumir los datos reales desde el backend desplegado en Azure, eliminando el uso de db.json.
+
+<img src="assets/netlify4.png" width="100%" height="100%">
+
+<img src="assets/Net3.png" width="100%" height="100%">
+
+Integración con Backend: Los formularios y componentes ya interactúan con los endpoints reales del backend, lo que permite registrar usuarios, reservar sesiones, consultar perfiles y gestionar notificaciones.
+
+<img src="assets/swagger-evidence.png" width="100%" height="100%">
+
+Despliegue en Producción:
+
+Frontend: Se desplegó exitosamente en Netlify, garantizando accesibilidad en línea.
+
+Link del Frontend: https://inventatrack.netlify.app/login
+
+Backend: Se desplegó en Azure, integrando servicios REST para comunicación con el frontend.
+
+Link del Backend: https://inventatrack-azekbja3h9eyb0fy.canadacentral-01.azurewebsites.net/swagger-ui/index.html#/
 
 #### 5.2.4.6. Services Documentation Evidence for Sprint Review
 
+Durante este sprint, se integró y desplegó exitosamente una Web Application funcional para Inventatrack, conectada a un backend real hospedado en Microsoft Azure. A diferencia de sprints anteriores que utilizaron db.json como fuente de datos simulada, en este sprint los endpoints REST reales fueron consumidos por el frontend a través de peticiones HTTP, validando la interacción completa entre capas.
+
+A continuación, se resumen los endpoints consumidos desde el frontend, indicando su funcionalidad, método HTTP:
+
+| Endpoint                     | Acción                     | Método HTTP | Sintaxis de llamada      | Parámetros principales           | URL Swagger                                         |
+|-----------------------------|----------------------------|-------------|---------------------------|----------------------------------|-----------------------------------------------------|
+| /api/v1/users/{id}          | Obtener usuario por ID     | GET         | /api/v1/users/5           | id (path)                        | #/user-controller/getUserById                       |
+| /api/v1/users/{id}          | Actualizar usuario         | PUT         | /api/v1/users/5           | id (path), body (usuario)        | #/user-controller/updateUser                        |
+| /api/v1/users/{id}          | Eliminar usuario           | DELETE      | /api/v1/users/5           | id (path)                        | #/user-controller/deleteUser                        |
+| /api/v1/users/{id}/password | Actualizar contraseña      | PUT         | /api/v1/users/5/password  | id (path), body (password)       | #/user-controller/updatePassword                    |
+| /api/v1/users               | Listar usuarios            | GET         | /api/v1/users             | Ninguno                          | #/user-controller/getAllUsers                       |
+| /api/v1/users               | Crear usuario              | POST        | /api/v1/users             | body (usuario)                   | #/user-controller/createUser                        |
+| /api/inventories/{id}                           | Obtener inventario por ID                 | GET         | /api/inventories/10                            | id (path)                                | #/inventory-controller/getInventoryById                  |
+| /api/inventories/{id}                           | Actualizar inventario                     | PUT         | /api/inventories/10                            | id (path), body (inventario)             | #/inventory-controller/updateInventory                   |
+| /api/inventories/{id}                           | Eliminar inventario                       | DELETE      | /api/inventories/10                            | id (path)                                | #/inventory-controller/deleteInventory                   |
+| /api/inventories                                | Listar inventarios                        | GET         | /api/inventories                               | Ninguno                                  | #/inventory-controller/getAllInventories                 |
+| /api/inventories                                | Crear inventario                          | POST        | /api/inventories                               | body (inventario)                        | #/inventory-controller/createInventory                   |
+| /api/inventories/search                         | Buscar inventarios                        | GET         | /api/inventories/search?query=x                | query (string)                            | #/inventory-controller/searchInventories                 |
+| /api/inventories/products/search                | Buscar productos                          | GET         | /api/inventories/products/search?query=x       | query (string)                            | #/inventory-controller/searchProducts                    |
+| /api/inventories/month/{month}                  | Inventarios por mes                       | GET         | /api/inventories/month/noviembre               | month (path)                              | #/inventory-controller/getByMonth                       |
+| /api/inventories/category/{categoryId}          | Inventarios por categoría                 | GET         | /api/inventories/category/4                    | categoryId (path)                         | #/inventory-controller/getByCategory                    |
+| /api/inventories/{inventoryId}/products/{productId} | Eliminar producto de inventario         | DELETE      | /api/inventories/10/products/3                 | inventoryId, productId (path)            | #/inventory-controller/deleteProductFromInventory        |
 
 #### 5.2.4.7. Software Deployment Evidence for Sprint Review
 
+Se evidencia que tanto de la plataforma frontend y el backend fueron desplegados correctamente
+
+Front End:
+
+Para el despliegue del FrontEnd, hemos utilizado la herramienta Netlify, se conecto al repositorio.
+
+<img src="assets/netlify4.png" width="100%" height="100%">
+
+Link del Frontend: https://inventatrack.netlify.app/login
+
+Link del repositorio: https://github.com/1asi0729-2520-7394-InventaTech/inventatrack-frontend
+
+Back End:
+
+Para el despliegue del Backend Web app, hemos utilizado la herramienta de Azure, vincúlandola con nuestro repositorio de GitHub para poder hacer un deployment.
+
+<img src="assets/azure4.png" width="100%" height="100%">
+
+<img src="assets/azure5.png" width="100%" height="100%">
+
+<img src="assets/swagger-evidence.png" width="100%" height="100%">
+
+Link del BackEnd: https://inventatrack-azekbja3h9eyb0fy.canadacentral-01.azurewebsites.net/swagger-ui/index.html#/
+
+Link del repositorio: https://github.com/1asi0729-2520-7394-InventaTech/Backend-Inventatrack
 
 #### 5.2.4.8. Team Collaboration Insights during Sprint
 
+Durante el Sprint 4, el equipo de Inventatrack enfocó su colaboración en la integración final del sistema, combinando el frontend y el backend previamente desarrollados. Se continuó utilizando la metodología GitFlow, manteniendo una estructura ordenada de ramas por funcionalidad, tanto para correcciones en el backend como para el desarrollo de vistas. Las tareas se distribuyeron equitativamente y se gestionaron mediante pull requests, lo que permitió mantener la trazabilidad de cambios y facilitar la revisión cruzada del código.
 
+| Author              | Task completed                                       |
+| ------------------- | ---------------------------------------------------  |
+| Gonzalo Carhuancote | update the landing page content                      |
+| Daiki Oshiro        | added sprint 4                                       |
+| Juan Alvarado       | update Profile endpoint                              |
+| Joan Teves          | update documentation                                 |
+| Antonio Duran       | update Reports endpoint                              |
+
+<img src="assets/evidence121.png" width="100%" height="100%">
+
+<img src="assets/evidence122.png" width="100%" height="100%">
 
 ## 5.3. Validation Interviews
 
@@ -2597,6 +3034,8 @@ La siguiente tabla presenta un resumen de los resultados obtenidos en la evaluac
 
 En este breve video te mostramos cómo funciona Inventatrack, para quién está pensada y cómo puede ayudarte a mejorar la gestión de inventarios.
 
+<img src="assets/product.png" width="100%" height="100%">
+
 Link del video: https://upcedupe-my.sharepoint.com/:v:/g/personal/u202215721_upc_edu_pe/IQBB7GGnujSMS7irIsnl9z0HAcFEaBtqHzl90-1G59iCdtI?e=f20uAt&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D
 
 # Conclusiones
@@ -2647,6 +3086,8 @@ Evaluar constantemente métricas clave y ajustar las funcionalidades basándose 
 
 Este video resume el trabajo realizado por el equipo InventaTech durante el proyecto, mostrando narración del proceso y testimonios individuales sobre las tareas realizadas, logros obtenidos y competencias desarrolladas.
 
+<img src="assets/team.png" width="100%" height="100%">
+
 Link del video: https://upcedupe-my.sharepoint.com/:v:/g/personal/u202215721_upc_edu_pe/IQDs3I_bE-FETKcu8MKhNDdCAaN8x0ol-5xVGtBK3r1Oo2k?e=Cz14Oq&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D
 
 # Bibliografía
@@ -2685,8 +3126,8 @@ Link del video: https://upcedupe-my.sharepoint.com/:v:/g/personal/u202215721_upc
 
 - https://trello.com/invite/b/68392dfb34795737cb55ab57/ATTI12319d8d47e238a19380ca29a0b7cdb4904CD423/sprint1
 - https://trello.com/invite/b/68e593ebd894d7fa7c2c206f/ATTIb351ba477f7ec5c6a5ea3986a5bec4d3AD187ACD/sprint2
--
--
+- https://trello.com/invite/b/6929a1a3abbb8aab1bc30313/ATTId7e3baee25e34e554883f0423f1e69c544157ECC/sprint3
+- https://trello.com/invite/b/68393260a1695efe042ff395/ATTIf5d16b3ae6b58cb80f583262c8cdc4f4ED3A6617/sprint4
 
 #### Canva:
 
