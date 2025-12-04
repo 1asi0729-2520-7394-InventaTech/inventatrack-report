@@ -117,7 +117,9 @@ Para la entrega final, el equipo realizó el sprint 4, las mejoras pendientes de
 
 ##### Participación por integrante:
 
-- Gonzalo Alonso Carhuancote Dominguez: 
+- Gonzalo Alonso Carhuancote Dominguez: Mejoras en el frontend e inclusion de videos en la landing page.
+<img src="assets/GCD1.png" width="100%" height="100%">
+<img src="assets/GCD2.png" width="100%" height="100%">
 
 - Juan Carlos Alvarado de la Cruz: 
 
