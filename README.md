@@ -1,16 +1,16 @@
 <div align="center"> 
 
 <img src="https://upload.wikimedia.org/wikipedia/commons/f/fc/UPC_logo_transparente.png"></img><br>
-# Universidad Peruana de Ciencias Aplicadas
-# Ingeniería de Software
-## 2025-20
-## 1ASI0729 - Desarrollo de Aplicaciones Open Source
-### NRC: 7394
-### Nombre del profesor: Hugo Allan Mori Paiva
-
-## "Informe de Trabajo Final"
-### Startup: InventaTech
-### Producto: InventaTrack
+<h3>Universidad Peruana de Ciencias Aplicadas</h3>
+<h4>Facultad de Ingeniería</h4>
+<h4>Carrera de Ingeniería de Software</h4>
+<h4>Periodo 202520</h4>
+<h4>1ASI0729 Desarrollo de Aplicaciones Open Source</h4>
+<h4>NRC 7394</h4>
+<h4>Docente: Hugo Allan Mori Paiva</h4>
+<h4>Informe del Trabajo Final</h4>
+<h4>Startup: InventaTech</h4>
+<h4>Producto: InventaTrack</h4>
 
 | **Código**   | **Apellidos y Nombres**              |
 | :-----------: | :----------------------------------- |
@@ -20,7 +20,7 @@
 | U20201f846    | Oshiro Yamashita, Daiki Oscar        |
 | U202117303    | Teves Samaniego, Joan Fernando       |
 
-### Noviembre 2025
+### Diciembre 2025
 </div>
 <div style="page-break-after: always;"></div>
 
