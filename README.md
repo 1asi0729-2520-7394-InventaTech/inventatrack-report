@@ -713,7 +713,7 @@ Leslie Kasimiro, trabaja en un restaurante de mariscos, explicó que el control 
 
 **Resumen de la entrevista:** Adriana (20 años), gerente de un restaurante en el Rímac, controla su inventario con Excel y revisiones visuales, lo que genera errores y dependencia del personal. Las mermas son frecuentes en productos frescos y pueden llegar al 10%, afectando la rentabilidad. La gerente ve útil una aplicación con alertas y reportes claros, y estaría dispuesta a invertir en una solución digital accesible que reduzca pérdidas.
 
-**Link:** https://upcedupe-my.sharepoint.com/:v:/g/personal/u202210720_upc_edu_pe/EYLEOxpEz3FCvphhmvFqP9wBbvv4A8s3OKdXo8g8D8t0FA?e=9OOXEO
+**Link:** [https://upcedupe-my.sharepoint.com/:v:/g/personal/u202210720_upc_edu_pe/EYLEOxpEz3FCvphhmvFqP9wBbvv4A8s3OKdXo8g8D8t0FA?e=9OOXEO](https://upcedupe-my.sharepoint.com/:v:/g/personal/u202210720_upc_edu_pe/IQCCxDsaRM9xQr6YYZrxaj_cAdSUBDpS_DbnE5u4XXWTtmE?e=Bjt3qa&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D)
 
 ###### Entrevista 3:
 
