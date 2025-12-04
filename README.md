@@ -1,6 +1,7 @@
-<div align="center"> 
+<div align="center">
 
 <img src="https://upload.wikimedia.org/wikipedia/commons/f/fc/UPC_logo_transparente.png"></img><br>
+
 <h3>Universidad Peruana de Ciencias Aplicadas</h3>
 <h4>Facultad de Ingeniería</h4>
 <h4>Carrera de Ingeniería de Software</h4>
@@ -12,15 +13,16 @@
 <h4>Startup: InventaTech</h4>
 <h4>Producto: InventaTrack</h4>
 
-| **Código**   | **Apellidos y Nombres**              |
-| :-----------: | :----------------------------------- |
-| U202216150    | Alvarado de la Cruz, Juan Carlos     |
-| U202210720    | Carhuancote Dominguez, Gonzalo Alonso|
-| U202215721    | Duran Diaz, Antonio Rodrigo          |
-| U20201f846    | Oshiro Yamashita, Daiki Oscar        |
-| U202117303    | Teves Samaniego, Joan Fernando       |
+| **Código** | **Apellidos y Nombres**               |
+| :--------: | :------------------------------------ |
+| U202216150 | Alvarado de la Cruz, Juan Carlos      |
+| U202210720 | Carhuancote Dominguez, Gonzalo Alonso |
+| U202215721 | Duran Diaz, Antonio Rodrigo           |
+| U20201f846 | Oshiro Yamashita, Daiki Oscar         |
+| U202117303 | Teves Samaniego, Joan Fernando        |
 
 ### Diciembre 2025
+
 </div>
 <div style="page-break-after: always;"></div>
 
@@ -29,9 +31,9 @@
 | Versión |  Fecha   |                                       Autor                                        |                                                  Descripción de modificación                                                   |
 | :-----: | :------: | :--------------------------------------------------------------------------------: | :----------------------------------------------------------------------------------------------------------------------------: |
 |   TB1   | 15/09/25 | Gonzalo Carhuancote, Juan Carlos Alvarado, Joan Teves, Antonio Duran, Daiki Oshiro | Para esta primera entrega, realizamos los primeros 5 capítulos del informe y desarrollamos la primera versión del landing page |
-|   TP1   | 05/10/25 | Gonzalo Carhuancote, Juan Carlos Alvarado, Joan Teves, Antonio Duran, Daiki Oshiro | Para esta entrega parcial, realizamos el sprint 2 y se realizaron correcciones generales |
-|   TB2   | 02/11/25 | Gonzalo Carhuancote, Juan Carlos Alvarado, Joan Teves, Antonio Duran, Daiki Oshiro | Para esta segunda entrega, realizamos el sprint 3, entrevistas de validación y se realizaron correcciones generales |
-|   TF1   | 02/11/25 | Gonzalo Carhuancote, Juan Carlos Alvarado, Joan Teves, Antonio Duran, Daiki Oshiro | Para esta entrega final, realizamos el sprint 4 y se realizaron correcciones generales |
+|   TP1   | 05/10/25 | Gonzalo Carhuancote, Juan Carlos Alvarado, Joan Teves, Antonio Duran, Daiki Oshiro |                    Para esta entrega parcial, realizamos el sprint 2 y se realizaron correcciones generales                    |
+|   TB2   | 02/11/25 | Gonzalo Carhuancote, Juan Carlos Alvarado, Joan Teves, Antonio Duran, Daiki Oshiro |      Para esta segunda entrega, realizamos el sprint 3, entrevistas de validación y se realizaron correcciones generales       |
+|   TF1   | 02/11/25 | Gonzalo Carhuancote, Juan Carlos Alvarado, Joan Teves, Antonio Duran, Daiki Oshiro |                     Para esta entrega final, realizamos el sprint 4 y se realizaron correcciones generales                     |
 
 ## Project Report Collaboration Insights
 
@@ -81,7 +83,7 @@ Durante esta entrega se elaboró la primera versión del Frontend correspondient
 
 <img src="assets/GCD0.png" width="100%" height="100%">
 
-- Juan Carlos Alvarado de la Cruz: 
+- Juan Carlos Alvarado de la Cruz:
 
 - Joan Fernando Teves Samaniego:
 
@@ -101,7 +103,7 @@ En la tercera entrega, el equipo documentó el comportamiento técnico de cada s
 
 - Gonzalo Alonso Carhuancote Dominguez: Desarollo de Entrevista de Validacion y desarollo del informe de Reporte y Keynote, ademas de corecciones generales
 
-- Juan Carlos Alvarado de la Cruz: 
+- Juan Carlos Alvarado de la Cruz:
 
 - Joan Fernando Teves Samaniego:
 
@@ -118,14 +120,14 @@ Para la entrega final, el equipo realizó el sprint 4, las mejoras pendientes de
 ##### Participación por integrante:
 
 - Gonzalo Alonso Carhuancote Dominguez: Mejoras en el frontend e inclusion de videos en la landing page.
-<img src="assets/GCD1.png" width="100%" height="100%">
-<img src="assets/GCD2.png" width="100%" height="100%">
+  <img src="assets/GCD1.png" width="100%" height="100%">
+  <img src="assets/GCD2.png" width="100%" height="100%">
 
-- Juan Carlos Alvarado de la Cruz: 
+- Juan Carlos Alvarado de la Cruz:
 
 - Joan Fernando Teves Samaniego:
 
-- Antonio Rodrigo Duran Díaz: 
+- Antonio Rodrigo Duran Díaz:
 
 - Daiki Oscar Oshiro Yamashita: Corrección y mejoras del reporte.
 
@@ -257,17 +259,36 @@ Para la entrega final, el equipo realizó el sprint 4, las mejoras pendientes de
 - [Bibliografía](#bibliografía)
 - [Anexos](#anexos)
 
-
 <div style="page-break-after: always;"></div>
 
 ## Student Outcome
 
 Objetivo general, ABET – EAC - Student Outcome 3: Capacidad de comunicarse efectivamente con un rango de audiencias.
 
-| **Criterio específico**                                                   | **Acciones realizadas**                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                | **Conclusiones**                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                  |
-| ------------------------------------------------------------------------- |------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-| **Comunica oralmente con efectividad a diferentes rangos de audiencia**   | Gonzalo Alonso Carhuancote Dominguez <br>**TB1**: Expliqué InventaTrack en reuniones y entrevistas, ajustando el lenguaje según si la audiencia era técnica o de negocio.<br>**TP1**: Comunicación eficaz para organizar respecto a las funcionalidades del proyecto en la capa frontend. <br>**TB2**: Organicé al equipo para designar las tareas esperadas para la entrega asi como para las correciones. <br> Juan Carlos Alvarado de la Cruz <br>**TB1**:Expliqué ideas de diseño y navegación del prototipo en Figma de forma clara a mi equipo y adapté el lenguaje técnico en las reuniones con el docente.<br> **TB2**: Expliqué los avances del frontend de forma clara en las reuniones, adaptando mi lenguaje según la audiencia y ayudando a mantener la alineación del equipo. <br> Joan Fernando Teves Samaniego <br>**TB1**:Explique el proposito del proyecto para extraer buena información utíl al proyecto <br> Antonio Rodrigo Duran Díaz <br>**TB1**: Participé dando ideas para la creación de Inventatrack asi como adaptar la comunicacion clara en las entrevistas <br>**TP1**: Aporté ideas en reuniones y entrevistas, adaptando el mensaje según la audiencia y comunicando con claridad los objetivos, lo que permitió obtener información clave para el desarrollo.<br>**TB2**: Participé en reuniones y revisiones, comunicando hallazgos y retroalimentación, adaptando mi mensaje según el contexto y asegurando una comprensión consistente del avance del proyecto.<br><br> Daiki Oscar Oshiro Yamashita <br>**TB1**: Participé constantemente en las reuniones programadas que realizamos con el fin de coordinar avances e informar el progreso del trabajo.<br><br>**TP1**: La comunicación efectiva del análisis del bounded context del sistema de inventario permitió identificar y separar claramente los dominios de gestión de productos, control de existencias, facilitando la planificación y el diseño modular del sistema.<br><br>**TB2**: Expliqué con claridad el diseño de los endpoints, lo cual permitió al equipo comprender la lógica de negocio e integrarla correctamente con otros subdominios.<br><br>**TF1**: Coordiné con el equipo las correcciones necesarias del informe final, comunicando observaciones de forma clara durante las reuniones.<br> | Gonzalo Alonso Carhuancote Dominguez <br>**TB1**: Logré transmitir las ideas con claridad y generar retroalimentación útil para mejorar el proyecto.<br>**TP1**: Logre la coneccion deseada para lograr comunicar los distintos aspectos a resolver en esta entrega. <br>**TB2**: Logre que la comunicacion en equipo lleve al resultado esperado para la realizacion de las tareas asignadas. <br> Juan Carlos Alvarado de la Cruz <br>**TB1**:Logré transmitir mis aportes de manera comprensible y útil para distintos públicos.<br>**TB2**:Mi comunicación oral permitió que el equipo comprendiera claramente los avances y decisiones del frontend, facilitando la coordinación y el progreso del proyecto. <br> Joan Fernando Teves Samaniego <br>**TB1**: Expliqué claramente mis ideas y tuve buena comunicaion con los miembros de mi equipo <br> Antonio Rodrigo Duran Díaz <br>**TB1**: Logré una buena comunicacion y explique de manera correcta mis ideas <br>**TP1**: Facilité la comunicación oral y escrita, aportando claridad en reuniones para transmitir con precisión la visión del proyecto<br>**TB2**: La claridad del informe y apoyé la alineación del equipo con intervenciones orales, asegurando una documentación precisa.<br> Daiki Oscar Oshiro Yamashita <br>**TB1**: La efectiva comunicación entre los miembros del equipo facilitó el logro de los objetivos planteados en esta fase inicial.<br><br>**TP1**: Comunicar claramente el bounded context favoreció la alineación del equipo y una planificación más ordenada, asegurando coherencia en el desarrollo del sistema.<br><br>**TB2**: La explicación clara del comportamiento de los endpoints permitió al equipo comprender la lógica de negocio implementada y ayudó a identificar posibles conflictos en la planificación.<br><br>**TF1**:Gracias a una comunicación oral clara y oportuna, contribuí al alineamiento del equipo en cuanto a los cambios requeridos, lo que permitió realizar correcciones eficientes y mantener la coherencia general del documento.<br>                                                                                                                                                                    |
-| **Comunica por escrito con efectividad a diferentes rangos de audiencia** | Gonzalo Alonso Carhuancote Dominguez <br>**TB1**: Redacté entrevistas, resúmenes y análisis con un estilo adaptado a cada tipo de lector.<br>**TP1**: Realice mejoras al Landing page para que sea acorde a la aplicacion fornted ademas de estar completamente conectadas, ademas de correcciones en el reporte tecnico. <br>**TB2**: Realice entrevistas, correciones generales e informacion faltante en el informe <br> Juan Carlos Alvarado de la Cruz <br>**TB1**:Redacté secciones del informe con un estilo formal y claro, y utilicé mensajes breves en GitHub para la colaboración técnica del equipo.<br>**TB2**: Documenté las decisiones del frontend con redacción clara y organizada, y mejoré la comunicación escrita en GitHub para facilitar el trabajo del equipo. <br> Joan Fernando Teves Samaniego <br>**TB1**: Redacte mis entrevistas, resumenes y análisis para ser de ayuda con el proyecto<br> Antonio Rodrigo Duran Díaz <br>**TB1**: Redacté los primero capitulos para tener una base en el avance del proyecto <br>**TP1**: Redacté los capítulos iniciales del informe, estableciendo una base clara y coherente que facilitó la comunicación de objetivos y alcance del proyecto.<br>**TB2**: Apoyé en actividades de validación con usuarios, evaluaciones heurísticas, documentación, y revisión del funcionamiento de los controladores del sistema.<br> Daiki Oscar Oshiro Yamashita <br>**TB1**: Contribuí principalmente al desarrollo de los capítulos 2 y 3, así como a partes de los capítulos 4 y 5.<br><br>**TP1**: Aporté en la elaboración y refinamiento del informe técnico, desarrollando el bounded context del subdominio Inventory, con el objetivo de establecer límites funcionales claros y coherentes con la arquitectura del sistema.<br><br>**TB2**: Documenté todo lo avanzado y actualizado tanto en los sprints pasados como en el resto del documento, facilitando la lectura técnica por parte del equipo.<br><br>**TF1**:Realicé correcciones de redacción, gramática y formato en el informe final, asegurando claridad y coherencia.<br>                                                                                 | Gonzalo Alonso Carhuancote Dominguez <br>**TB1**: La escritura clara y precisa facilitó la comprensión del proyecto y fortaleció la confianza en la propuesta.<br>**TP1**: Las designaciones pro escrito de cada participación ayudó a poder desarrollar los objetivos de manera precisa y eficaz. <br>**TB2**: Una redacción clara y precisa no solo facilitó la comprensión del proyecto, sino que también reforzó la confianza en la propuesta y aportó mayor solidez a su presentación. <br> Juan Carlos Alvarado de la Cruz <br>**TB1**:Mi comunicación escrita se adaptó exitosamente tanto al entorno académico como al técnico.<br> **TB2**: Mi comunicación escrita aportó claridad y orden a la documentación del proyecto, mejorando la comprensión técnica y la colaboración entre los integrantes. <br> Joan Fernando Teves Samaniego <br>**TB1**: Estableci comunicacion clara de manera escrita para el proyecto <br> Antonio Rodrigo Duran Díaz <br>**TB1**: Mi participación fue debidamente útil y de comprensión para el avance del proyecto <br>**TP1**: La documentación inicial dio una base clara y comprensible para revisión académica y técnica. <br>**TB2**: Las mejoras al informe aseguraron coherencia y precisión, aportando evidencia técnica clara para evaluación. <br><br> Daiki Oscar Oshiro Yamashita  <br>**TB1**: La contribución en la elaboración del texto facilitó un desarrollo significativo en los capítulos correspondientes.<br><br>**TP1**: Mi participación en la redacción contribuyó significativamente al desarrollo de los capítulos asignados, adaptando el contenido a los requisitos del proyecto. Además, incluí el análisis del bounded context del subdominio Inventory y realicé mejoras en la estructura y coherencia general del informe.<br><br>**TB2**: Mi contribución escrita permitió mejorar la documentación del backend de forma coherente, organizando la comprensión de los flujos por parte del equipo. <br><br>**TF1**:Mejoré la calidad escrita del documento, facilitando su comprensión tanto técnica como académica.<br>|
+| **Criterio específico**                                                 | **Acciones realizadas**                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                   | **Conclusiones** |
+| ----------------------------------------------------------------------- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ---------------- |
+| **Comunica oralmente con efectividad a diferentes rangos de audiencia** | Gonzalo Alonso Carhuancote Dominguez <br>**TB1**: Expliqué InventaTrack en reuniones y entrevistas, ajustando el lenguaje según si la audiencia era técnica o de negocio.<br>**TP1**: Me comuniqué eficazmente para coordinar funcionalidades del frontend y asegurar una correcta planificación.<br>**TB2**: Organicé al equipo al designar tareas y correcciones necesarias, guiando la comunicación hacia un trabajo coordinado.<br>**TF1**: Expliqué las observaciones del informe final y coordiné las correcciones con el equipo para mantener coherencia en el documento. <br><br> |
+
+Juan Carlos Alvarado de la Cruz <br>**TB1**: Expliqué ideas de diseño y navegación del prototipo en Figma de forma clara, adaptando mi lenguaje según la audiencia.<br> **TP1**: Coordiné aspectos visuales del frontend comunicando eficazmente los ajustes necesarios.<br>**TB2**: Expliqué los avances del frontend y adapté el mensaje para mantener alineado al equipo y al docente.<br>**TF1**: Expliqué las correcciones necesarias del documento final, contribuyendo a una redacción más coherente. <br><br>
+Joan Fernando Teves Samaniego <br>**TB1**: Expliqué el propósito del proyecto para extraer información útil en entrevistas.<br>**TP1**: Aporté ideas y comuniqué observaciones sobre la experiencia del usuario y estructura del sistema.<br>**TB2**: Expliqué avances del desarrollo para mantener alineado al equipo.<br>**TF1**: Expliqué observaciones sobre el informe final y apoyé en mejorar su claridad. <br><br>
+Antonio Rodrigo Duran Díaz <br>**TB1**: Participé en la creación del proyecto aportando ideas y comunicando claramente en entrevistas.<br>**TP1**: Aporté ideas en reuniones y comuniqué claramente los objetivos del proyecto.<br>**TB2**: Expliqué hallazgos, retroalimentación y tareas necesarias para mantener la alineación del equipo.<br>**TF1**: Comuniqué los cambios requeridos para el informe final, apoyando en su mejora. <br><br>
+Daiki Oscar Oshiro Yamashita <br>**TB1**: Participé activamente en reuniones, informando avances y coordinando tareas.<br>**TP1**: Comunicar el bounded context permitió al equipo alinear la arquitectura y separar dominios funcionales.<br>**TB2**: Expliqué claramente el diseño de los endpoints facilitando su integración con otros subdominios.<br>**TF1**: Coordiné las correcciones del informe final mediante comunicación clara y oportuna.<br>
+| Gonzalo Alonso Carhuancote Domingu ez <br>**TB1**: Logré transmitir ideas con claridad y generar retroalimentación útil para mejorar el proyecto.<br>**TP1**: La comunicación clara permitió coordinar y resolver los puntos clave de la entrega.<br>**TB2**: La comunicación fluida permitió cumplir con las tareas asignadas y alcanzar los resultados esperados.<br>**TF1**: La comunicación clara en la revisión final contribuyó a mejorar la coherencia del informe. <br><br>
+Juan Carlos Alvarado de la Cruz <br>**TB1**: Logré transmitir mis aportes de forma comprensible y útil para distintos públicos.<br>**TP1**: Mi comunicación permitió coordinar correctamente el avance del frontend.<br>**TB2**: La comunicación oral facilitó la comprensión de decisiones técnicas.<br>**TF1**: Mis aportes ayudaron a consolidar la coherencia del informe final. <br><br>
+Joan Fernando Teves Samaniego <br>**TB1**: Expliqué mis ideas y mantuve buena comunicación con mi equipo.<br>**TP1**: Mi comunicación ayudó a transmitir los puntos clave del diseño y estructura del sistema.<br>**TB2**: Mis aportes verbales mejoraron la coordinación del equipo.<br>**TF1**: Mis explicaciones ayudaron a depurar el contenido del informe final. <br><br>
+Antonio Rodrigo Duran Díaz <br>**TB1**: Logré una comunicación clara al explicar mis ideas.<br>**TP1**: Contribuí con claridad a la visión del proyecto y la documentación inicial.<br>**TB2**: Mis intervenciones aseguraron precisión en la documentación y coordinación del equipo.<br>**TF1**: Aporté correcciones que mejoraron la solidez del informe final. <br><br>
+Daiki Oscar Oshiro Yamashita <br>**TB1**: La comunicación efectiva facilitó el logro de los objetivos iniciales.<br>**TP1**: Explicar el bounded context favoreció la coherencia del desarrollo.<br>**TB2**: La explicación de los endpoints ayudó a comprender la lógica de negocio.<br>**TF1**: Mi comunicación permitió realizar correcciones eficientes manteniendo la coherencia general del documento.<br> |
+
+| **Comunica por escrito con efectividad a diferentes rangos de audiencia** | Gonzalo Alonso Carhuancote Dominguez <br>**TB1**: Redacté entrevistas, resúmenes y análisis con un estilo adaptado a cada tipo de lector.<br>**TP1**: Mejoré el landing page y corregí el reporte técnico asegurando claridad.<br>**TB2**: Redacté entrevistas, completé información faltante y realicé correcciones generales del informe.<br>**TF1**: Revisé y corregí la redacción del informe final para asegurar claridad y solidez. <br><br>
+Juan Carlos Alvarado de la Cruz <br>**TB1**: Redacté secciones del informe de forma clara y formal; usé GitHub para comunicar avances técnicos.<br>**TP1**: Documenté las decisiones del frontend con redacción clara y organizada.<br>**TB2**: Redacté documentación del frontend y mejoré la claridad escrita para la colaboración.<br>**TF1**: Revisé partes del informe final mejorando coherencia y redacción. <br><br>
+Joan Fernando Teves Samaniego <br>**TB1**: Redacté entrevistas, resúmenes y análisis para aportar al proyecto.<br>**TP1**: Documenté aspectos del diseño y apoyé en redacción técnica.<br>**TB2**: Revisé partes del informe y escribí contenido relacionado a usabilidad.<br>**TF1**: Aporté correcciones que fortalecieron la claridad del documento final. <br><br>
+Antonio Rodrigo Duran Díaz <br>**TB1**: Redacté los primeros capítulos para establecer una base sólida en el informe.<br>**TP1**: Redacté capítulos iniciales con claridad, expresando objetivos y alcance.<br>**TB2**: Documenté validaciones, análisis heurísticos y revisiones técnicas.<br>**TF1**: Revisé y corregí secciones del informe final para mejorar su precisión. <br><br>
+Daiki Oscar Oshiro Yamashita <br>**TB1**: Contribuí al desarrollo de los capítulos 2, 3 y parte de los capítulos 4 y 5.<br>**TP1**: Redacté y analicé el bounded context del subdominio Inventory, mejorando la estructura del informe.<br>**TB2**: Documenté los avances del backend y los sprints de forma clara.<br>**TF1**: Corregí gramática, redacción y formato asegurando claridad en el informe final. <br> |
+Gonzalo Alonso Carhuancote Dominguez <br>**TB1**: La escritura clara facilitó la comprensión del proyecto y fortaleció la confianza en la propuesta.<br>**TP1**: La asignación escrita permitió desarrollar los objetivos de manera precisa.<br>**TB2**: La redacción clara aportó solidez y coherencia al informe.<br>**TF1**: Mis correcciones finales mejoraron la calidad general del documento. <br><br>
+Juan Carlos Alvarado de la Cruz <br>**TB1**: Mi comunicación escrita se adaptó tanto al entorno académico como al técnico.<br> **TP1**: La documentación escrita facilitó la coordinación en el frontend.<br>**TB2**: Mi escritura aportó claridad a la documentación y mejoró la colaboración técnica.<br>**TF1**: La revisión final consolidó la cohesión del informe. <br><br>
+Joan Fernando Teves Samaniego <br>**TB1**: Escribí con claridad para apoyar el proyecto.<br>**TP1**: Mi documentación aportó claridad al diseño conceptual.<br>**TB2**: Mis aportes escritos mejoraron la coherencia del informe.<br>**TF1**: Mis correcciones ayudaron a clarificar el documento final. <br><br>
+Antonio Rodrigo Duran Díaz <br>**TB1**: Mi participación escrita facilitó el avance y comprensión del proyecto.<br>**TP1**: La documentación inicial dio una base clara y comprensible.<br>**TB2**: Mis mejoras aseguraron precisión y evidencia técnica clara.<br>**TF1**: Mis ajustes fortalecieron la solidez del documento final. <br><br>
+Daiki Oscar Oshiro Yamashita <br>**TB1**: Mi contribución escrita facilitó el desarrollo de los capítulos asignados.<br>**TP1**: Mi análisis y redacción del bounded context mejoraron la coherencia del informe.<br>**TB2**: Mi documentación permitió comprender mejor el backend y sus flujos.<br>**TF1**: Mis correcciones mejoraron la claridad técnica y académica del documento. |
 
 <div style="page-break-after: always;"></div>
 
@@ -299,7 +320,7 @@ Queremos que InventaTrack sea la herramienta número uno preferida para la gesti
 
 | Nombre Completo del integrante       | Descripcion de Carrera                                              | Fotografía                                                        | Conocimientos y Habilidades a apuntar                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                 |
 | ------------------------------------ | ------------------------------------------------------------------- | ----------------------------------------------------------------- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| Gonzalo Alonso Carhuancote Dominguez | Ingenieria de Software <br>Universiad Peruana de Ciencias Aplicadas | ![Gonzalo Alonso](./assets/foto%20Gonzalo.jpg)                    | Tengo 20 años, estudio la carrera de ingeniería de software en la UPC. En mis tiempos libres estudio, juego videojuegos y me informo del mundo actual y moderno. Me apasiona la tecnología y manejo lenguajes como C++, javascript, Typescript y Python.                                                                                                                                                                                                                                                                                                    |
+| Gonzalo Alonso Carhuancote Dominguez | Ingenieria de Software <br>Universiad Peruana de Ciencias Aplicadas | ![Gonzalo Alonso](./assets/foto%20Gonzalo.jpg)                    | Tengo 20 años, estudio la carrera de ingeniería de software en la UPC. En mis tiempos libres estudio, juego videojuegos y me informo del mundo actual y moderno. Me apasiona la tecnología y manejo lenguajes como C++, javascript, Typescript y Python.                                                                                                                                                                                                                                                                                              |
 | Juan Carlos Alvarado de la Cruz      | Ingenieria de Software <br>Universiad Peruana de Ciencias Aplicadas | ![Juan Carlos](./assets/foto_juan.png)                            | Soy Juan Carlos Alvarado, soy estudiante de la carrera de Ing. de Software. Me gusta resolver problemas y aprender cosas que son de mi interés, tengo experiencia programando en C++ y en Python.                                                                                                                                                                                                                                                                                                                                                     |
 | Joan Fernando Teves Samaniego        | Ingenieria de Software <br>Universiad Peruana de Ciencias Aplicadas | ![Joan Fernando](./assets/foto%20joan.jpg)                        | Tengo 22 años estoy estudiando actualmente en la Univeridad Peruana de Ciencias Aplicadas. Tengo interes por el mundo de la cibersegurirdad y el primer paso es enteder al derecho y al revez las aplicaciones web , se c++ , javascript , html , css , mongodb ,sql , sqlserver , posgresql,python, soy creativo , responsable , trabajo en equipo , me gusta resolver problemas me adaptofacilmente y gestiono muy bien mi tiempo.Espero que en este proyecto pueda incrementar mis habilidades y conocimiento sobre las aplicaciones web y demas . |
 | Antonio Rodrigo Duran Díaz           | Ingenieria de Software <br>Universiad Peruana de Ciencias Aplicadas | ![Antonio Rodrigo](./assets/foto%20Antonio.jpg)                   | Soy estudiante de la carrera de Ingeniería de Software en la Universidad Peruana de Ciencias Aplicadas y tengo 20 años. Estoy avanzando en mi formación académica y reforzando mis conocimientos en los diferentes temas relacionados con la creación de software. Durante mis estudios me ha gustado trabajar con gestores de bases de datos, en especial con SQL Server y MongoDB. En este proyecto espero seguir mejorando mis habilidades y conocimientos, además de lograr un buen desempeño en el trabajo grupal.                               |
@@ -863,32 +884,32 @@ El Lenguaje Ubicuo de InventaTrack define los términos clave que serán utiliza
 # 3.1 User Stories
 
 | Epic/Story ID | Título                           | Descripción                                                                                                                                 | Criterios de Aceptación                                                                                                                                                                                                                                                                                                                                                                                           | Relacionado con (Epic ID) |
-| --------------- | -------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ------------------------- |
-| **EP01**        | Registro y Autenticación         | Permitir a los usuarios operativos y gerenciales acceder de forma segura a la plataforma.                                                   | -                                                                                                                                                                                                                                                                                                                                                                                                                 | -                         |
-| US01            | Registro de usuarios operativos  | **Como** administrador de almacén, **Quiero** registrarme en la plataforma, **Para** poder gestionar insumos y stock.                       | Escenario 01: Registro exitoso. **Dado** que ingreso todos los campos obligatorios, **Cuando** envío el formulario, **Entonces** el sistema confirma el registro y muestra mensaje de bienvenida. <br> Escenario 02: Datos inválidos. **Dado** que dejo campos vacíos o con valores no válidos, **Cuando** intento enviar el formulario, **Entonces** el sistema muestra mensajes de error y no guarda los datos. | EP01                      |
-| US02            | Registro de usuarios gerenciales | **Como** gerente, **Quiero** registrar mi cuenta, **Para** acceder a reportes y dashboards.                                                 | Escenario 01: Registro exitoso. **Dado** que completo correctamente el formulario, **Cuando** lo envío, **Entonces** el sistema me notifica que la cuenta fue creada. <br> Escenario 02: Correo duplicado. **Dado** que ingreso un correo ya registrado, **Cuando** intento crear la cuenta, **Entonces** el sistema me alerta que ya existe y sugiere iniciar sesión.                                            | EP01                      |
-| US03            | Inicio de sesión seguro          | **Como** usuario, **Quiero** iniciar sesión con mis credenciales, **Para** acceder a mis funciones según mi rol.                            | Escenario 01: Acceso válido. **Dado** que ingreso correo y contraseña correctos, **Cuando** presiono iniciar sesión, **Entonces** accedo al panel correspondiente a mi rol. <br> Escenario 02: Acceso fallido. **Dado** que ingreso datos incorrectos, **Cuando** intento iniciar sesión, **Entonces** el sistema muestra error de credenciales.                                                                  | EP01                      |
-| US04            | Recuperación de contraseña       | **Como** usuario, **Quiero** recuperar mi contraseña olvidada, **Para** ingresar de nuevo a la plataforma.                                  | Escenario 01: Recuperación exitosa. **Dado** que solicito recuperar contraseña, **Cuando** ingreso mi correo válido, **Entonces** recibo un enlace de restablecimiento. <br> Escenario 02: Correo inexistente. **Dado** que escribo un correo no registrado, **Cuando** lo envío, **Entonces** el sistema muestra error indicando que no existe.                                                                  | EP01                      |
-| **EP02**        | Control de Stock                 | Permitir a los usuarios operativos registrar y monitorear insumos.                                                                          | -                                                                                                                                                                                                                                                                                                                                                                                                                 | -                         |
-| US05            | Registrar insumos                | **Como** encargado de cocina, **Quiero** registrar nuevos insumos, **Para** llevar un control de lo que entra al inventario.                | Escenario 01: Registro válido. **Dado** que completo los campos requeridos, **Cuando** registro un insumo, **Entonces** este aparece en el listado con fecha y cantidad. <br> Escenario 02: Campos incompletos. **Dado** que dejo campos obligatorios vacíos, **Cuando** intento registrar, **Entonces** el sistema me alerta y no guarda.                                                                        | EP02                      |
-| US06            | Editar insumos                   | **Como** administrador de almacén, **Quiero** editar información de un insumo, **Para** mantener actualizados los datos.                    | Escenario 01: Edición válida. **Dado** que selecciono un insumo, **Cuando** modifico sus datos y guardo, **Entonces** el sistema actualiza la información. <br> Escenario 02: Datos inválidos. **Dado** que ingreso valores negativos o vacíos, **Cuando** intento guardar, **Entonces** el sistema rechaza la edición y muestra advertencia.                                                                     | EP02                      |
-| US07            | Visualizar stock                 | **Como** usuario operativo, **Quiero** ver el listado actualizado de insumos, **Para** conocer el estado del inventario.                    | Escenario 01: Stock visible. **Dado** que accedo a la sección de inventario, **Cuando** consulto la lista, **Entonces** se muestran cantidades, fechas y estado de cada insumo.                                                                                                                                                                                                                                   | EP02                      |
-| US08            | Alertas de caducidad             | **Como** encargado de cocina, **Quiero** recibir alertas de insumos próximos a caducar, **Para** evitar desperdicios.                       | Escenario 01: Notificación previa. **Dado** que un insumo está a 5 días de caducar, **Cuando** accedo a la plataforma, **Entonces** recibo un aviso. <br> Escenario 02: Insumo vencido. **Dado** que un insumo supera la fecha de caducidad, **Cuando** consulto el stock, **Entonces** aparece marcado como vencido.                                                                                             | EP02                      |
-| **EP03**        | Movimientos de Inventario        | Gestionar entradas, salidas y devoluciones de insumos.                                                                                      | -                                                                                                                                                                                                                                                                                                                                                                                                                 | -                         |
-| US09            | Registrar entradas de insumos    | **Como** administrador de almacén, **Quiero** registrar la entrada de insumos, **Para** mantener actualizado el inventario.                 | Escenario 01: Entrada válida. **Dado** que registro una entrada, **Cuando** guardo la información, **Entonces** el stock aumenta en la cantidad indicada.                                                                                                                                                                                                                                                         | EP03                      |
-| US10            | Registrar salidas de insumos     | **Como** encargado de cocina, **Quiero** registrar el consumo de insumos, **Para** reflejar el uso en la operación diaria.                  | Escenario 01: Salida válida. **Dado** que consumo un insumo, **Cuando** lo registro, **Entonces** el stock disminuye. <br> Escenario 02: Stock insuficiente. **Dado** que intento registrar una salida mayor al stock disponible, **Cuando** lo confirmo, **Entonces** el sistema muestra un error.                                                                                                               | EP03                      |
-| US11            | Registrar devoluciones           | **Como** usuario operativo, **Quiero** registrar devoluciones de insumos, **Para** mantener consistencia en el inventario.                  | Escenario 01: Devolución exitosa. **Dado** que registro una devolución, **Cuando** guardo el movimiento, **Entonces** el stock se incrementa correctamente.                                                                                                                                                                                                                                                       | EP03                      |
-| US12            | Historial de movimientos         | **Como** administrador de almacén, **Quiero** consultar el historial de entradas y salidas, **Para** auditar y rastrear cambios.            | Escenario 01: Consulta de historial. **Dado** que accedo a la sección de movimientos, **Cuando** aplico filtros de fecha, **Entonces** visualizo los registros con usuario, fecha y cantidad.                                                                                                                                                                                                                     | EP03                      |
-| **EP04**        | Reportes y Dashboard Gerencial   | Brindar información a los dueños y gerentes para la toma de decisiones.                                                                     | -                                                                                                                                                                                                                                                                                                                                                                                                                 | -                         |
-| US13            | Visualizar reportes de consumo   | **Como** gerente, **Quiero** ver reportes de consumo de insumos, **Para** controlar costos y detectar excesos.                              | Escenario 01: Reporte generado. **Dado** que selecciono un rango de fechas, **Cuando** genero el reporte, **Entonces** obtengo un resumen detallado.                                                                                                                                                                                                                                                              | EP04                      |
-| US14            | Dashboard de stock crítico       | **Como** gerente, **Quiero** ver un dashboard con insumos críticos, **Para** tomar decisiones de compra.                                    | Escenario 01: Insumos críticos resaltados. **Dado** que el stock de un insumo es bajo, **Cuando** abro el dashboard, **Entonces** aparece destacado en rojo.                                                                                                                                                                                                                                                      | EP04                      |
-| US15            | Exportar reportes                | **Como** administrador, **Quiero** exportar reportes en PDF o Excel, **Para** analizarlos fuera de la plataforma.                           | Escenario 01: Exportación válida. **Dado** que selecciono un formato, **Cuando** presiono exportar, **Entonces** se genera el archivo correspondiente.                                                                                                                                                                                                                                                            | EP04                      |
-| US16            | Comparar periodos de consumo     | **Como** gerente, **Quiero** comparar consumo de diferentes periodos, **Para** identificar tendencias.                                      | Escenario 01: Comparación exitosa. **Dado** que selecciono dos periodos, **Cuando** confirmo la acción, **Entonces** obtengo gráficos comparativos.                                                                                                                                                                                                                                                               | EP04                      |
-| **EP05**        | Comunicación y Notificaciones    | Mantener informados a los usuarios sobre eventos importantes.                                                                               | -                                                                                                                                                                                                                                                                                                                                                                                                                 | -                         |
-| US17            | Notificaciones de stock bajo     | **Como** usuario operativo, **Quiero** recibir notificaciones de stock bajo, **Para** reabastecer a tiempo.                                 | Escenario 01: Stock mínimo alcanzado. **Dado** que un insumo llega al mínimo configurado, **Cuando** se actualiza el inventario, **Entonces** recibo una notificación.                                                                                                                                                                                                                                            | EP05                      |
-| US18            | Notificación de caducidad        | **Como** gerente, **Quiero** recibir alertas de insumos próximos a vencer, **Para** supervisar acciones correctivas.                        | Escenario 01: Notificación anticipada. **Dado** que un insumo caduca en breve, **Cuando** reviso mi panel, **Entonces** aparece la alerta.                                                                                                                                                                                                                                                                        | EP05                      |
-| US19            | Mensajes internos                | **Como** usuario operativo, **Quiero** enviar mensajes a otro usuario del almacén, **Para** coordinar tareas.                               | Escenario 01: Envío de mensaje. **Dado** que redacto un mensaje, **Cuando** lo envío, **Entonces** el otro usuario lo recibe con confirmación.                                                                                                                                                                                                                                                                    | EP05                      |
-| US20            | Resumen diario automático        | **Como** gerente, **Quiero** recibir un resumen diario de stock y movimientos, **Para** mantenerme informado sin ingresar siempre a la app. | Escenario 01: Envío diario. **Dado** que llega fin de jornada, **Cuando** el sistema genera el resumen, **Entonces** recibo el informe en mi correo o panel.                                                                                                                                                                                                                                                      | EP05                      |
+| ------------- | -------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ------------------------- |
+| **EP01**      | Registro y Autenticación         | Permitir a los usuarios operativos y gerenciales acceder de forma segura a la plataforma.                                                   | -                                                                                                                                                                                                                                                                                                                                                                                                                 | -                         |
+| US01          | Registro de usuarios operativos  | **Como** administrador de almacén, **Quiero** registrarme en la plataforma, **Para** poder gestionar insumos y stock.                       | Escenario 01: Registro exitoso. **Dado** que ingreso todos los campos obligatorios, **Cuando** envío el formulario, **Entonces** el sistema confirma el registro y muestra mensaje de bienvenida. <br> Escenario 02: Datos inválidos. **Dado** que dejo campos vacíos o con valores no válidos, **Cuando** intento enviar el formulario, **Entonces** el sistema muestra mensajes de error y no guarda los datos. | EP01                      |
+| US02          | Registro de usuarios gerenciales | **Como** gerente, **Quiero** registrar mi cuenta, **Para** acceder a reportes y dashboards.                                                 | Escenario 01: Registro exitoso. **Dado** que completo correctamente el formulario, **Cuando** lo envío, **Entonces** el sistema me notifica que la cuenta fue creada. <br> Escenario 02: Correo duplicado. **Dado** que ingreso un correo ya registrado, **Cuando** intento crear la cuenta, **Entonces** el sistema me alerta que ya existe y sugiere iniciar sesión.                                            | EP01                      |
+| US03          | Inicio de sesión seguro          | **Como** usuario, **Quiero** iniciar sesión con mis credenciales, **Para** acceder a mis funciones según mi rol.                            | Escenario 01: Acceso válido. **Dado** que ingreso correo y contraseña correctos, **Cuando** presiono iniciar sesión, **Entonces** accedo al panel correspondiente a mi rol. <br> Escenario 02: Acceso fallido. **Dado** que ingreso datos incorrectos, **Cuando** intento iniciar sesión, **Entonces** el sistema muestra error de credenciales.                                                                  | EP01                      |
+| US04          | Recuperación de contraseña       | **Como** usuario, **Quiero** recuperar mi contraseña olvidada, **Para** ingresar de nuevo a la plataforma.                                  | Escenario 01: Recuperación exitosa. **Dado** que solicito recuperar contraseña, **Cuando** ingreso mi correo válido, **Entonces** recibo un enlace de restablecimiento. <br> Escenario 02: Correo inexistente. **Dado** que escribo un correo no registrado, **Cuando** lo envío, **Entonces** el sistema muestra error indicando que no existe.                                                                  | EP01                      |
+| **EP02**      | Control de Stock                 | Permitir a los usuarios operativos registrar y monitorear insumos.                                                                          | -                                                                                                                                                                                                                                                                                                                                                                                                                 | -                         |
+| US05          | Registrar insumos                | **Como** encargado de cocina, **Quiero** registrar nuevos insumos, **Para** llevar un control de lo que entra al inventario.                | Escenario 01: Registro válido. **Dado** que completo los campos requeridos, **Cuando** registro un insumo, **Entonces** este aparece en el listado con fecha y cantidad. <br> Escenario 02: Campos incompletos. **Dado** que dejo campos obligatorios vacíos, **Cuando** intento registrar, **Entonces** el sistema me alerta y no guarda.                                                                        | EP02                      |
+| US06          | Editar insumos                   | **Como** administrador de almacén, **Quiero** editar información de un insumo, **Para** mantener actualizados los datos.                    | Escenario 01: Edición válida. **Dado** que selecciono un insumo, **Cuando** modifico sus datos y guardo, **Entonces** el sistema actualiza la información. <br> Escenario 02: Datos inválidos. **Dado** que ingreso valores negativos o vacíos, **Cuando** intento guardar, **Entonces** el sistema rechaza la edición y muestra advertencia.                                                                     | EP02                      |
+| US07          | Visualizar stock                 | **Como** usuario operativo, **Quiero** ver el listado actualizado de insumos, **Para** conocer el estado del inventario.                    | Escenario 01: Stock visible. **Dado** que accedo a la sección de inventario, **Cuando** consulto la lista, **Entonces** se muestran cantidades, fechas y estado de cada insumo.                                                                                                                                                                                                                                   | EP02                      |
+| US08          | Alertas de caducidad             | **Como** encargado de cocina, **Quiero** recibir alertas de insumos próximos a caducar, **Para** evitar desperdicios.                       | Escenario 01: Notificación previa. **Dado** que un insumo está a 5 días de caducar, **Cuando** accedo a la plataforma, **Entonces** recibo un aviso. <br> Escenario 02: Insumo vencido. **Dado** que un insumo supera la fecha de caducidad, **Cuando** consulto el stock, **Entonces** aparece marcado como vencido.                                                                                             | EP02                      |
+| **EP03**      | Movimientos de Inventario        | Gestionar entradas, salidas y devoluciones de insumos.                                                                                      | -                                                                                                                                                                                                                                                                                                                                                                                                                 | -                         |
+| US09          | Registrar entradas de insumos    | **Como** administrador de almacén, **Quiero** registrar la entrada de insumos, **Para** mantener actualizado el inventario.                 | Escenario 01: Entrada válida. **Dado** que registro una entrada, **Cuando** guardo la información, **Entonces** el stock aumenta en la cantidad indicada.                                                                                                                                                                                                                                                         | EP03                      |
+| US10          | Registrar salidas de insumos     | **Como** encargado de cocina, **Quiero** registrar el consumo de insumos, **Para** reflejar el uso en la operación diaria.                  | Escenario 01: Salida válida. **Dado** que consumo un insumo, **Cuando** lo registro, **Entonces** el stock disminuye. <br> Escenario 02: Stock insuficiente. **Dado** que intento registrar una salida mayor al stock disponible, **Cuando** lo confirmo, **Entonces** el sistema muestra un error.                                                                                                               | EP03                      |
+| US11          | Registrar devoluciones           | **Como** usuario operativo, **Quiero** registrar devoluciones de insumos, **Para** mantener consistencia en el inventario.                  | Escenario 01: Devolución exitosa. **Dado** que registro una devolución, **Cuando** guardo el movimiento, **Entonces** el stock se incrementa correctamente.                                                                                                                                                                                                                                                       | EP03                      |
+| US12          | Historial de movimientos         | **Como** administrador de almacén, **Quiero** consultar el historial de entradas y salidas, **Para** auditar y rastrear cambios.            | Escenario 01: Consulta de historial. **Dado** que accedo a la sección de movimientos, **Cuando** aplico filtros de fecha, **Entonces** visualizo los registros con usuario, fecha y cantidad.                                                                                                                                                                                                                     | EP03                      |
+| **EP04**      | Reportes y Dashboard Gerencial   | Brindar información a los dueños y gerentes para la toma de decisiones.                                                                     | -                                                                                                                                                                                                                                                                                                                                                                                                                 | -                         |
+| US13          | Visualizar reportes de consumo   | **Como** gerente, **Quiero** ver reportes de consumo de insumos, **Para** controlar costos y detectar excesos.                              | Escenario 01: Reporte generado. **Dado** que selecciono un rango de fechas, **Cuando** genero el reporte, **Entonces** obtengo un resumen detallado.                                                                                                                                                                                                                                                              | EP04                      |
+| US14          | Dashboard de stock crítico       | **Como** gerente, **Quiero** ver un dashboard con insumos críticos, **Para** tomar decisiones de compra.                                    | Escenario 01: Insumos críticos resaltados. **Dado** que el stock de un insumo es bajo, **Cuando** abro el dashboard, **Entonces** aparece destacado en rojo.                                                                                                                                                                                                                                                      | EP04                      |
+| US15          | Exportar reportes                | **Como** administrador, **Quiero** exportar reportes en PDF o Excel, **Para** analizarlos fuera de la plataforma.                           | Escenario 01: Exportación válida. **Dado** que selecciono un formato, **Cuando** presiono exportar, **Entonces** se genera el archivo correspondiente.                                                                                                                                                                                                                                                            | EP04                      |
+| US16          | Comparar periodos de consumo     | **Como** gerente, **Quiero** comparar consumo de diferentes periodos, **Para** identificar tendencias.                                      | Escenario 01: Comparación exitosa. **Dado** que selecciono dos periodos, **Cuando** confirmo la acción, **Entonces** obtengo gráficos comparativos.                                                                                                                                                                                                                                                               | EP04                      |
+| **EP05**      | Comunicación y Notificaciones    | Mantener informados a los usuarios sobre eventos importantes.                                                                               | -                                                                                                                                                                                                                                                                                                                                                                                                                 | -                         |
+| US17          | Notificaciones de stock bajo     | **Como** usuario operativo, **Quiero** recibir notificaciones de stock bajo, **Para** reabastecer a tiempo.                                 | Escenario 01: Stock mínimo alcanzado. **Dado** que un insumo llega al mínimo configurado, **Cuando** se actualiza el inventario, **Entonces** recibo una notificación.                                                                                                                                                                                                                                            | EP05                      |
+| US18          | Notificación de caducidad        | **Como** gerente, **Quiero** recibir alertas de insumos próximos a vencer, **Para** supervisar acciones correctivas.                        | Escenario 01: Notificación anticipada. **Dado** que un insumo caduca en breve, **Cuando** reviso mi panel, **Entonces** aparece la alerta.                                                                                                                                                                                                                                                                        | EP05                      |
+| US19          | Mensajes internos                | **Como** usuario operativo, **Quiero** enviar mensajes a otro usuario del almacén, **Para** coordinar tareas.                               | Escenario 01: Envío de mensaje. **Dado** que redacto un mensaje, **Cuando** lo envío, **Entonces** el otro usuario lo recibe con confirmación.                                                                                                                                                                                                                                                                    | EP05                      |
+| US20          | Resumen diario automático        | **Como** gerente, **Quiero** recibir un resumen diario de stock y movimientos, **Para** mantenerme informado sin ingresar siempre a la app. | Escenario 01: Envío diario. **Dado** que llega fin de jornada, **Cuando** el sistema genera el resumen, **Entonces** recibo el informe en mi correo o panel.                                                                                                                                                                                                                                                      | EP05                      |
 
 | ID    | Título                           | Descripción                                                                                                     | Criterios de Aceptación                                                                                                                                                                                                                                                                                                                                                                                            |
 | ----- | -------------------------------- | --------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
@@ -1838,12 +1859,12 @@ Captura de Analíticos de Colaboración en GitHub en el repositorio de la Landin
 Durante el Sprint 2, el equipo de InventaTrack asignó líderes (L) y colaboradores (C) para aspectos esenciales como diseño de interfaz, desarrollo de la landing page, planificación de sprints, pruebas iniciales y documentación. Esta distribución permitió un trabajo equilibrado y un avance organizado del proyecto.
 
 | Miembro del Equipo   | GitHub Username       | Landing Page | Login/Register | Inventory | Reports | Profile |
-| -------------------- | --------------------- | ----- | ------------ | --------------- | ------- | ------------- |
-| Gonzalo Carhuancote  | Gonzalo251104         | L     | C            | C               | C       | C             |
-| Juan Carlos Alvarado | JuanCarlosAlvarado900 | C     | C            | C               | C       | L             |
-| Joan Teves           | JoanTeves             | C     | L            | C               | C       | C             |
-| Antonio Duran        | Sltcrd                | C     | C            | C               | L       | C             |
-| Daiki Oshiro         | DaikiOY               | C     | C            | L               | C       | C             |
+| -------------------- | --------------------- | ------------ | -------------- | --------- | ------- | ------- |
+| Gonzalo Carhuancote  | Gonzalo251104         | L            | C              | C         | C       | C       |
+| Juan Carlos Alvarado | JuanCarlosAlvarado900 | C            | C              | C         | C       | L       |
+| Joan Teves           | JoanTeves             | C            | L              | C         | C       | C       |
+| Antonio Duran        | Sltcrd                | C            | C              | C         | L       | C       |
+| Daiki Oshiro         | DaikiOY               | C            | C              | L         | C       | C       |
 
 #### 5.2.2.3. Sprint Backlog 2
 
@@ -1997,20 +2018,19 @@ Link de commits del repositorio del fake API: https://github.com/DaikiOY/fake-in
 
 Principales avances en implementación con relación al Sprint:
 
-| Repository   | Branch | Commit Id | Commit Message            | Commit Message Body               | Commited on (Date) |
-| ------------ | ------ | --------- | ------------------------- | --------------------------------- | ------------------ |
-| Frontend     | main   | de6f665   | Initial commit            | create the README.md              | 07/10/2025         |
-|              | main   | c3592b2   | Create en.json            | create the en.json                | 07/10/2025         |
-|              | main   | c149ab3   | Create es.json            | create the es.json                | 07/10/2025         |
-|              | main   | 43ff9ad   | Create base-api.ts        | create the base-api.ts            | 07/10/2025         |
-|              | main   | 846000e   | Create footer-content.css | create the footer-content.css     | 07/10/2025         |
-|              | main   | 3b0fb26   | Create language-switcher.css | create the language-switcher.css | 07/10/2025       |
-|              | main   | 08ed51a   | Create static.json        | create the static.json            | 07/10/2025         |
-| fake-inventory-api | main   | 9b98769   | Initial commit | create the README.md                   | 07/10/2025         |
-|                    | main   | c2f49fa   | Create db.json | create the db.json                     | 07/10/2025         |
-|                    | main   | c88c1e5   | Create server.js | create the server.js                 | 07/10/2025         |
-|                    | main   | b5bed01   | Create package.json | create the package.json           | 07/10/2025         |
-
+| Repository         | Branch | Commit Id | Commit Message               | Commit Message Body              | Commited on (Date) |
+| ------------------ | ------ | --------- | ---------------------------- | -------------------------------- | ------------------ |
+| Frontend           | main   | de6f665   | Initial commit               | create the README.md             | 07/10/2025         |
+|                    | main   | c3592b2   | Create en.json               | create the en.json               | 07/10/2025         |
+|                    | main   | c149ab3   | Create es.json               | create the es.json               | 07/10/2025         |
+|                    | main   | 43ff9ad   | Create base-api.ts           | create the base-api.ts           | 07/10/2025         |
+|                    | main   | 846000e   | Create footer-content.css    | create the footer-content.css    | 07/10/2025         |
+|                    | main   | 3b0fb26   | Create language-switcher.css | create the language-switcher.css | 07/10/2025         |
+|                    | main   | 08ed51a   | Create static.json           | create the static.json           | 07/10/2025         |
+| fake-inventory-api | main   | 9b98769   | Initial commit               | create the README.md             | 07/10/2025         |
+|                    | main   | c2f49fa   | Create db.json               | create the db.json               | 07/10/2025         |
+|                    | main   | c88c1e5   | Create server.js             | create the server.js             | 07/10/2025         |
+|                    | main   | b5bed01   | Create package.json          | create the package.json          | 07/10/2025         |
 
 #### 5.2.2.5. Execution Evidence for Sprint Review
 
@@ -2169,13 +2189,13 @@ Link del Frontend: https://inventatrack.netlify.app/login
 
 Durante el Sprint 2, el equipo de InventaTrack organizó el desarrollo del frontend utilizando ramas por bounded-context, siguiendo la metodología GitFlow. Esto permitió trabajar de manera paralela en distintas funcionalidades del sistema, facilitando la integración y el mantenimiento del código. Cada miembro gestionó sus tareas, commits y revisiones a través de GitHub, asegurando colaboración continua, control de calidad y trazabilidad de los cambios.
 
-| Author              | Task completed                                      |
-| ------------------- | --------------------------------------------------- |
-| Gonzalo Carhuancote | update the landing page content                     |
-| Daiki Oshiro        | added inventory bounded-context                     |
-| Juan Alvarado       | added Profile bounded-context                       |
-| Joan Teves          | added Login/Register bounded-context                |
-| Antonio Duran       | added Reports bounded-context                       |
+| Author              | Task completed                       |
+| ------------------- | ------------------------------------ |
+| Gonzalo Carhuancote | update the landing page content      |
+| Daiki Oshiro        | added inventory bounded-context      |
+| Juan Alvarado       | added Profile bounded-context        |
+| Joan Teves          | added Login/Register bounded-context |
+| Antonio Duran       | added Reports bounded-context        |
 
 Captura de Analíticos de Colaboración en GitHub en el repositorio de la Landing Page:
 
@@ -2303,18 +2323,17 @@ Captura de Analíticos de Colaboración en GitHub en el repositorio de la Landin
     </tr>
 </table>
 
-
 ### 5.2.3.2. Aspect Leaders and Collaborators
 
 Durante el Sprint 3, el equipo de InventaTrack asignó líderes (L) y colaboradores (C) para aspectos esenciales como diseño de interfaz, desarrollo de la landing page, planificación de sprints, pruebas iniciales y documentación. Esta distribución permitió un trabajo equilibrado y un avance organizado del proyecto.
 
-| Miembro del Equipo   | GitHub Username       | Sprint 3 | Validation Interviews | Heuristic Evaluations | user-controller | inventory-controller | report-controller | 
-| -------------------- | --------------------- | ----- | ------------ | --------------- | ------- | ------------- | ------------- |
-| Gonzalo Carhuancote  | Gonzalo251104         | L     | C            | C               | C       | C             |  C             |
-| Juan Carlos Alvarado | JuanCarlosAlvarado900 | C     | C            | C               | C       | C             |  C             |
-| Joan Teves           | Joan3210              | C     | L            | C               | C       | C             |  C             |
-| Antonio Duran        | Sltcrd                | C     | C            | C               | C       | C             |  C             |
-| Daiki Oshiro         | DaikiOY               | C     | C            | C               | L       | L             |  L             |
+| Miembro del Equipo   | GitHub Username       | Sprint 3 | Validation Interviews | Heuristic Evaluations | user-controller | inventory-controller | report-controller |
+| -------------------- | --------------------- | -------- | --------------------- | --------------------- | --------------- | -------------------- | ----------------- |
+| Gonzalo Carhuancote  | Gonzalo251104         | L        | C                     | C                     | C               | C                    | C                 |
+| Juan Carlos Alvarado | JuanCarlosAlvarado900 | C        | C                     | C                     | C               | C                    | C                 |
+| Joan Teves           | Joan3210              | C        | L                     | C                     | C               | C                    | C                 |
+| Antonio Duran        | Sltcrd                | C        | C                     | C                     | C               | C                    | C                 |
+| Daiki Oshiro         | DaikiOY               | C        | C                     | C                     | L               | L                    | L                 |
 
 #### 5.2.3.3. Sprint Backlog 3
 
@@ -2328,30 +2347,31 @@ Link del Trello: https://trello.com/invite/b/6929a1a3abbb8aab1bc30313/ATTId7e3ba
 
 <table align="center" border="1" width="95%" style="text-align:center">   <tr>     <td><b>Sprint #</b></td>     <td colspan="8"><b>Sprint 3</b></td>   </tr>   <tr>     <td colspan="2"><b>User Story</b></td>     <td colspan="7"><b>Work-Item / Task</b></td>   </tr>   <tr>     <td><b>Id</b></td>     <td><b>Title</b></td>     <td><b>Id</b></td>     <td><b>Title</b></td>     <td><b>Description</b></td>     <td><b>Estimation (Hours)</b></td>     <td><b>Assigned To</b></td>     <td><b>Student Code</b></td>     <td><b>Status</b></td>   </tr>
 
-    <tr>     <td rowspan="2">US01/US03</td>     <td rowspan="2">Gestión de Acceso y Perfil</td>     <td>T01</td>     <td>Implementar AuthController (Login)</td>     <td>Crear endpoint /api/v1/auth/login con Spring Security.</td>     <td>5</td>     <td>Gonzalo Carhuancote</td>     <td>U202210720</td>     <td>Done</td>   </tr>   <tr>     <td>T02</td>     <td>Implementar UserController (CRUD)</td>     <td>Crear endpoints para registrar, obtener, actualizar y eliminar usuarios.</td>     <td>5</td>     <td>Juan Carlos Alvarado</td>     <td>U202216150</td>     <td>Done</td>   </tr>
+<tr>     <td rowspan="2">US01/US03</td>     <td rowspan="2">Gestión de Acceso y Perfil</td>     <td>T01</td>     <td>Implementar AuthController (Login)</td>     <td>Crear endpoint /api/v1/auth/login con Spring Security.</td>     <td>5</td>     <td>Gonzalo Carhuancote</td>     <td>U202210720</td>     <td>Done</td>   </tr>   <tr>     <td>T02</td>     <td>Implementar UserController (CRUD)</td>     <td>Crear endpoints para registrar, obtener, actualizar y eliminar usuarios.</td>     <td>5</td>     <td>Juan Carlos Alvarado</td>     <td>U202216150</td>     <td>Done</td>   </tr>
 
-    <tr>     <td rowspan="3">US07</td>     <td rowspan="3">Gestión de Inventario</td>     <td>T01</td>     <td>Implementar InventoryController (CRUD)</td>     <td>Desarrollar lógica CRUD para /api/inventories.</td>     <td>6</td>     <td>Daiki Oshiro</td>     <td>U20201F846</td>     <td>Done</td>   </tr>   <tr>     <td>T02</td>     <td>Implementar Filtros de Búsqueda</td>     <td>Endpoints para /search, /month y /category.</td>     <td>5</td>     <td>Daiki Oshiro</td>     <td>U20201F846</td>     <td>Done</td>   </tr>
+<tr>     <td rowspan="3">US07</td>     <td rowspan="3">Gestión de Inventario</td>     <td>T01</td>     <td>Implementar InventoryController (CRUD)</td>     <td>Desarrollar lógica CRUD para /api/inventories.</td>     <td>6</td>     <td>Daiki Oshiro</td>     <td>U20201F846</td>     <td>Done</td>   </tr>   <tr>     <td>T02</td>     <td>Implementar Filtros de Búsqueda</td>     <td>Endpoints para /search, /month y /category.</td>     <td>5</td>     <td>Daiki Oshiro</td>     <td>U20201F846</td>     <td>Done</td>   </tr>
 
 <tr>     <td>T03</td>     <td>Gestión de Productos en Inventario</td>     <td>Lógica para DELETE /api/inventories/{invId}/products/{prodId}.</td>     <td>3</td>     <td>Daiki Oshiro</td>     <td>U20201F846</td>     <td>Done</td>   </tr>
 
-    <tr>     <td rowspan="2">US14/US18</td>     <td rowspan="2">Reportes y Alertas</td>     <td>T01</td>     <td>Implementar ReportController</td>     <td>Endpoints para reportes de stock bajo y productos vencidos/por vencer.</td>     <td>5</td>     <td>Antonio Duran</td>     <td>U202215721</td>     <td>Done</td>   </tr>   <tr>     <td>T02</td>     <td>Implementar NotificationController</td>     <td>Endpoints para alertas de la semana, hoy y stock bajo.</td>     <td>5</td>     <td>Joan Teves</td>     <td>U202117303</td>     <td>Done</td>   </tr>
+<tr>     <td rowspan="2">US14/US18</td>     <td rowspan="2">Reportes y Alertas</td>     <td>T01</td>     <td>Implementar ReportController</td>     <td>Endpoints para reportes de stock bajo y productos vencidos/por vencer.</td>     <td>5</td>     <td>Antonio Duran</td>     <td>U202215721</td>     <td>Done</td>   </tr>   <tr>     <td>T02</td>     <td>Implementar NotificationController</td>     <td>Endpoints para alertas de la semana, hoy y stock bajo.</td>     <td>5</td>     <td>Joan Teves</td>     <td>U202117303</td>     <td>Done</td>   </tr>
 
 </table>
 
 #### 5.2.3.4. Development Evidence for Sprint Review
+
 En el presente Sprint 3 se avanzó significativamente en el desarrollo del backend de la plataforma Inventatrack. Se implementaron funcionalidades clave para la gestión de inventarios y reportes, además de la integración de servicios REST que permiten la comunicación eficiente entre frontend y backend. También se trabajó en la validación de datos, manejo de errores y aseguramiento de la integridad de los procesos de negocio, preparando la base para futuras funcionalidades y escalabilidad.
 
 https://github.com/1asi0729-2520-7394-InventaTech/Backend-Inventatrack/commits/main/
 
 Principales avances en implementación con relación al Sprint:
 
-| Repository   | Branch | Commit Id | Commit Message            | Commit Message Body               | Commited on (Date) |
-| ------------ | ------ | --------- | ------------------------- | --------------------------------- | ------------------ |
-| Backend      | main   | de6f665   | Initial commit            | create the README.md              | 22/10/2025         |
-|              | main   | c3592b2   | Create Inventory.java     | Create Inventory.java             | 28/10/2025         |
-|              | main   | c149ab3   | Create User.java          | Create User.java                  | 22/10/2025         |
-|              | main   | 43ff9ad   | Create UserRepository     | Create UserRepository.java        | 22/10/2025         |
-|              | main   | 08ed51a   | Update application.properties | Update application.properties     | 29/10/2025     |
+| Repository | Branch | Commit Id | Commit Message                | Commit Message Body           | Commited on (Date) |
+| ---------- | ------ | --------- | ----------------------------- | ----------------------------- | ------------------ |
+| Backend    | main   | de6f665   | Initial commit                | create the README.md          | 22/10/2025         |
+|            | main   | c3592b2   | Create Inventory.java         | Create Inventory.java         | 28/10/2025         |
+|            | main   | c149ab3   | Create User.java              | Create User.java              | 22/10/2025         |
+|            | main   | 43ff9ad   | Create UserRepository         | Create UserRepository.java    | 22/10/2025         |
+|            | main   | 08ed51a   | Update application.properties | Update application.properties | 29/10/2025         |
 
 #### 5.2.3.5. Execution Evidence for Sprint Review
 
@@ -2400,13 +2420,13 @@ Link del Backend: https://inventatrack-azekbja3h9eyb0fy.canadacentral-01.azurewe
 
 Durante el Sprint 3, el equipo de Inventatech organizó el desarrollo del backend siguiendo la metodología GitFlow, utilizando ramas por endpoint. Esto permitió trabajar de forma paralela en distintos servicios como inventarios, reportes y perfiles, facilitando la integración progresiva. Cada miembro gestionó sus tareas y revisiones mediante pull requests en GitHub, asegurando control de calidad y colaboración eficiente
 
-| Author              | Task completed                                      |
-| ------------------- | --------------------------------------------------- |
-| Gonzalo Carhuancote | update the landing page content                     |
-| Daiki Oshiro        | added inventory endpoint                            |
-| Juan Alvarado       | added Profile endpoint                              |
-| Joan Teves          | added Heuristic Evaluations                         |
-| Antonio Duran       | added Reports endpoint                              |
+| Author              | Task completed                  |
+| ------------------- | ------------------------------- |
+| Gonzalo Carhuancote | update the landing page content |
+| Daiki Oshiro        | added inventory endpoint        |
+| Juan Alvarado       | added Profile endpoint          |
+| Joan Teves          | added Heuristic Evaluations     |
+| Antonio Duran       | added Reports endpoint          |
 
 <img src="assets/Contributors3.png" width="100%" height="100%">
 
@@ -2522,13 +2542,13 @@ Link la organizacion de GitHub: https://github.com/1asi0729-2520-7394-InventaTec
 
 Esta matriz resume los roles de liderazgo (L) y colaboración (C) asumidos por los integrantes del equipo Inventatrack durante el Sprint 4. La asignación se realizó en función de la experiencia técnica y las responsabilidades asumidas por cada miembro en actividades clave como el despliegue y mejora del frontend y backend, la gestión de inventarios y la documentación final del proyecto. Esta distribución permitió consolidar el producto para su entrega final, asegurando eficiencia y coordinación en el trabajo colaborativo.
 
-| Miembro del Equipo   | GitHub Username       | Sprint 4 | Despliegue del Frontend | Despliegue del Backend | Inventarios | Documentación | 
-| -------------------- | --------------------- | ----- | ------------ | --------------- | ------- | ------------- | 
-| Gonzalo Carhuancote  | Gonzalo251104         | C     | L            | C               | C       | C             |  
-| Juan Carlos Alvarado | JuanCarlosAlvarado900 | C     | C            | L               | C       | C             |  
-| Joan Teves           | Joan3210              | C     | L            | C               | C       | C             |  
-| Antonio Duran        | Sltcrd                | C     | C            | C               | L       | C             |  
-| Daiki Oshiro         | DaikiOY               | L     | C            | C               | C       | L             | 
+| Miembro del Equipo   | GitHub Username       | Sprint 4 | Despliegue del Frontend | Despliegue del Backend | Inventarios | Documentación |
+| -------------------- | --------------------- | -------- | ----------------------- | ---------------------- | ----------- | ------------- |
+| Gonzalo Carhuancote  | Gonzalo251104         | C        | L                       | C                      | C           | C             |
+| Juan Carlos Alvarado | JuanCarlosAlvarado900 | C        | C                       | L                      | C           | C             |
+| Joan Teves           | Joan3210              | C        | L                       | C                      | C           | C             |
+| Antonio Duran        | Sltcrd                | C        | C                       | C                      | L           | C             |
+| Daiki Oshiro         | DaikiOY               | L        | C                       | C                      | C           | L             |
 
 #### 5.2.4.3. Sprint Backlog 4
 
@@ -2666,14 +2686,14 @@ https://github.com/1asi0729-2520-7394-InventaTech/inventatrack-website
 https://github.com/1asi0729-2520-7394-InventaTech/Frontend-Inventatrack
 https://github.com/1asi0729-2520-7394-InventaTech/Backend-Inventatrack
 
-| Repository   | Branch | Commit Id | Commit Message            | Commit Message Body               | Commited on (Date) |
-| ------------ | ------ | --------- | ------------------------- | --------------------------------- | ------------------ |
-| Landing      | main   | 9ad978d   | feat(video): add styles for about the team video section | add styles for about the team video section | 28/11/2025 |
-| Frontend     | main   | de6f665   | Initial commit            | create the README.md              | 07/10/2025         |
-|              | main   | 846000e   | Create footer-content.css | create the footer-content.css     | 07/10/2025         |
-| Backend      | main   | de6f665   | Initial commit            | create the README.md              | 22/10/2025         |
-|              | main   | c3592b2   | Create Inventory.java     | Create Inventory.java             | 28/10/2025         |
-|              | main   | 08ed51a   | Update application.properties | Update application.properties | 29/10/2025         |
+| Repository | Branch | Commit Id | Commit Message                                           | Commit Message Body                         | Commited on (Date) |
+| ---------- | ------ | --------- | -------------------------------------------------------- | ------------------------------------------- | ------------------ |
+| Landing    | main   | 9ad978d   | feat(video): add styles for about the team video section | add styles for about the team video section | 28/11/2025         |
+| Frontend   | main   | de6f665   | Initial commit                                           | create the README.md                        | 07/10/2025         |
+|            | main   | 846000e   | Create footer-content.css                                | create the footer-content.css               | 07/10/2025         |
+| Backend    | main   | de6f665   | Initial commit                                           | create the README.md                        | 22/10/2025         |
+|            | main   | c3592b2   | Create Inventory.java                                    | Create Inventory.java                       | 28/10/2025         |
+|            | main   | 08ed51a   | Update application.properties                            | Update application.properties               | 29/10/2025         |
 
 #### 5.2.4.5. Execution Evidence for Sprint Review
 
@@ -2711,24 +2731,24 @@ Durante este sprint, se integró y desplegó exitosamente una Web Application fu
 
 A continuación, se resumen los endpoints consumidos desde el frontend, indicando su funcionalidad, método HTTP:
 
-| Endpoint                     | Acción                     | Método HTTP | Sintaxis de llamada      | Parámetros principales           | URL Swagger                                         |
-|-----------------------------|----------------------------|-------------|---------------------------|----------------------------------|-----------------------------------------------------|
-| /api/v1/users/{id}          | Obtener usuario por ID     | GET         | /api/v1/users/5           | id (path)                        | #/user-controller/getUserById                       |
-| /api/v1/users/{id}          | Actualizar usuario         | PUT         | /api/v1/users/5           | id (path), body (usuario)        | #/user-controller/updateUser                        |
-| /api/v1/users/{id}          | Eliminar usuario           | DELETE      | /api/v1/users/5           | id (path)                        | #/user-controller/deleteUser                        |
-| /api/v1/users/{id}/password | Actualizar contraseña      | PUT         | /api/v1/users/5/password  | id (path), body (password)       | #/user-controller/updatePassword                    |
-| /api/v1/users               | Listar usuarios            | GET         | /api/v1/users             | Ninguno                          | #/user-controller/getAllUsers                       |
-| /api/v1/users               | Crear usuario              | POST        | /api/v1/users             | body (usuario)                   | #/user-controller/createUser                        |
-| /api/inventories/{id}                           | Obtener inventario por ID                 | GET         | /api/inventories/10                            | id (path)                                | #/inventory-controller/getInventoryById                  |
-| /api/inventories/{id}                           | Actualizar inventario                     | PUT         | /api/inventories/10                            | id (path), body (inventario)             | #/inventory-controller/updateInventory                   |
-| /api/inventories/{id}                           | Eliminar inventario                       | DELETE      | /api/inventories/10                            | id (path)                                | #/inventory-controller/deleteInventory                   |
-| /api/inventories                                | Listar inventarios                        | GET         | /api/inventories                               | Ninguno                                  | #/inventory-controller/getAllInventories                 |
-| /api/inventories                                | Crear inventario                          | POST        | /api/inventories                               | body (inventario)                        | #/inventory-controller/createInventory                   |
-| /api/inventories/search                         | Buscar inventarios                        | GET         | /api/inventories/search?query=x                | query (string)                            | #/inventory-controller/searchInventories                 |
-| /api/inventories/products/search                | Buscar productos                          | GET         | /api/inventories/products/search?query=x       | query (string)                            | #/inventory-controller/searchProducts                    |
-| /api/inventories/month/{month}                  | Inventarios por mes                       | GET         | /api/inventories/month/noviembre               | month (path)                              | #/inventory-controller/getByMonth                       |
-| /api/inventories/category/{categoryId}          | Inventarios por categoría                 | GET         | /api/inventories/category/4                    | categoryId (path)                         | #/inventory-controller/getByCategory                    |
-| /api/inventories/{inventoryId}/products/{productId} | Eliminar producto de inventario         | DELETE      | /api/inventories/10/products/3                 | inventoryId, productId (path)            | #/inventory-controller/deleteProductFromInventory        |
+| Endpoint                                            | Acción                          | Método HTTP | Sintaxis de llamada                      | Parámetros principales        | URL Swagger                                       |
+| --------------------------------------------------- | ------------------------------- | ----------- | ---------------------------------------- | ----------------------------- | ------------------------------------------------- |
+| /api/v1/users/{id}                                  | Obtener usuario por ID          | GET         | /api/v1/users/5                          | id (path)                     | #/user-controller/getUserById                     |
+| /api/v1/users/{id}                                  | Actualizar usuario              | PUT         | /api/v1/users/5                          | id (path), body (usuario)     | #/user-controller/updateUser                      |
+| /api/v1/users/{id}                                  | Eliminar usuario                | DELETE      | /api/v1/users/5                          | id (path)                     | #/user-controller/deleteUser                      |
+| /api/v1/users/{id}/password                         | Actualizar contraseña           | PUT         | /api/v1/users/5/password                 | id (path), body (password)    | #/user-controller/updatePassword                  |
+| /api/v1/users                                       | Listar usuarios                 | GET         | /api/v1/users                            | Ninguno                       | #/user-controller/getAllUsers                     |
+| /api/v1/users                                       | Crear usuario                   | POST        | /api/v1/users                            | body (usuario)                | #/user-controller/createUser                      |
+| /api/inventories/{id}                               | Obtener inventario por ID       | GET         | /api/inventories/10                      | id (path)                     | #/inventory-controller/getInventoryById           |
+| /api/inventories/{id}                               | Actualizar inventario           | PUT         | /api/inventories/10                      | id (path), body (inventario)  | #/inventory-controller/updateInventory            |
+| /api/inventories/{id}                               | Eliminar inventario             | DELETE      | /api/inventories/10                      | id (path)                     | #/inventory-controller/deleteInventory            |
+| /api/inventories                                    | Listar inventarios              | GET         | /api/inventories                         | Ninguno                       | #/inventory-controller/getAllInventories          |
+| /api/inventories                                    | Crear inventario                | POST        | /api/inventories                         | body (inventario)             | #/inventory-controller/createInventory            |
+| /api/inventories/search                             | Buscar inventarios              | GET         | /api/inventories/search?query=x          | query (string)                | #/inventory-controller/searchInventories          |
+| /api/inventories/products/search                    | Buscar productos                | GET         | /api/inventories/products/search?query=x | query (string)                | #/inventory-controller/searchProducts             |
+| /api/inventories/month/{month}                      | Inventarios por mes             | GET         | /api/inventories/month/noviembre         | month (path)                  | #/inventory-controller/getByMonth                 |
+| /api/inventories/category/{categoryId}              | Inventarios por categoría       | GET         | /api/inventories/category/4              | categoryId (path)             | #/inventory-controller/getByCategory              |
+| /api/inventories/{inventoryId}/products/{productId} | Eliminar producto de inventario | DELETE      | /api/inventories/10/products/3           | inventoryId, productId (path) | #/inventory-controller/deleteProductFromInventory |
 
 #### 5.2.4.7. Software Deployment Evidence for Sprint Review
 
@@ -2762,13 +2782,13 @@ Link del repositorio: https://github.com/1asi0729-2520-7394-InventaTech/Backend-
 
 Durante el Sprint 4, el equipo de Inventatrack enfocó su colaboración en la integración final del sistema, combinando el frontend y el backend previamente desarrollados. Se continuó utilizando la metodología GitFlow, manteniendo una estructura ordenada de ramas por funcionalidad, tanto para correcciones en el backend como para el desarrollo de vistas. Las tareas se distribuyeron equitativamente y se gestionaron mediante pull requests, lo que permitió mantener la trazabilidad de cambios y facilitar la revisión cruzada del código.
 
-| Author              | Task completed                                       |
-| ------------------- | ---------------------------------------------------  |
-| Gonzalo Carhuancote | update the landing page content                      |
-| Daiki Oshiro        | added sprint 4                                       |
-| Juan Alvarado       | update Profile endpoint                              |
-| Joan Teves          | update documentation                                 |
-| Antonio Duran       | update Reports endpoint                              |
+| Author              | Task completed                  |
+| ------------------- | ------------------------------- |
+| Gonzalo Carhuancote | update the landing page content |
+| Daiki Oshiro        | added sprint 4                  |
+| Juan Alvarado       | update Profile endpoint         |
+| Joan Teves          | update documentation            |
+| Antonio Duran       | update Reports endpoint         |
 
 <img src="assets/evidence121.png" width="100%" height="100%">
 
@@ -2788,33 +2808,31 @@ Validar la experiencia de usuario (UX) y la propuesta de valor de la app desde l
 
 1. **Contexto de uso**
 
-   * ¿Qué tarea buscabas realizar en tu primera sesión?
+   - ¿Qué tarea buscabas realizar en tu primera sesión?
 
-   * ¿En qué dispositivo la usaste principalmente?
+   - ¿En qué dispositivo la usaste principalmente?
 
 2. **Descubrimiento**
 
-   * ¿Cómo fue tu primera impresión al registrarte?
+   - ¿Cómo fue tu primera impresión al registrarte?
 
-   * ¿Hubo algo confuso o que te tomó tiempo entender?
+   - ¿Hubo algo confuso o que te tomó tiempo entender?
 
 3. **Búsqueda y registro de productos**
 
-   *¿Qué información te gustaría poder ver rápidamente al buscar un producto?
+   \*¿Qué información te gustaría poder ver rápidamente al buscar un producto?
 
-   * ¿Qué tipo de filtros o funciones te ayudarían a encontrar productos más rápido?
+   - ¿Qué tipo de filtros o funciones te ayudarían a encontrar productos más rápido?
 
 4. **Alertas y seguimiento**
 
-   * ¿Consideras más útil recibir notificaciones sobre productos críticos, o prefieres simplemente ver esa información destacada en los reportes?
-     
-   * ¿Qué tipo de notificaciones te resultarían más útiles?
+   - ¿Consideras más útil recibir notificaciones sobre productos críticos, o prefieres simplemente ver esa información destacada en los reportes?
+   - ¿Qué tipo de notificaciones te resultarían más útiles?
 
 5. **Percepción de uso**
 
-   * ¿Qué características te parecerían más útiles en una herramienta como InventaTrack?
-     
-   * Si pudieras cambiar una cosa de tu sistema actual, ¿cuál sería?
+   - ¿Qué características te parecerían más útiles en una herramienta como InventaTrack?
+   - Si pudieras cambiar una cosa de tu sistema actual, ¿cuál sería?
 
 ##### Segmento 2: Dueños, gerentes y administradores
 
@@ -2826,33 +2844,32 @@ Recoger feedback sobre las herramientas de gestión de inventarios y descubrir n
 
 1. **Contexto de uso**
 
-   * ¿Qué tarea buscabas realizar en tu primera sesión?
+   - ¿Qué tarea buscabas realizar en tu primera sesión?
 
-   * ¿En qué dispositivo la usaste principalmente?
+   - ¿En qué dispositivo la usaste principalmente?
 
 2. **Descubrimiento**
 
-   * ¿Cómo fue tu primera impresión al registrarte?
+   - ¿Cómo fue tu primera impresión al registrarte?
 
-   * ¿Hubo algo confuso o que te tomó tiempo entender?
+   - ¿Hubo algo confuso o que te tomó tiempo entender?
 
 3. **Necesidades de análisis**
 
-   * ¿Qué tipo de reportes o métricas son más valiosas para ti o tus clientes?
+   - ¿Qué tipo de reportes o métricas son más valiosas para ti o tus clientes?
 
-   * ¿Qué tipo de filtros o segmentaciones te ayudarían a hacer tus análisis más precisos?
+   - ¿Qué tipo de filtros o segmentaciones te ayudarían a hacer tus análisis más precisos?
 
 4. **Alertas y seguimiento**
 
-   * ¿Consideras más útil recibir notificaciones sobre productos críticos, o prefieres simplemente ver esa información destacada en los reportes?
-     
-   * ¿Qué tipo de notificaciones te resultarían más útiles?
+   - ¿Consideras más útil recibir notificaciones sobre productos críticos, o prefieres simplemente ver esa información destacada en los reportes?
+   - ¿Qué tipo de notificaciones te resultarían más útiles?
 
 5. **Percepción de valor**
-     
-   * ¿Qué beneficios esperas obtener de una plataforma como InventaTrack?
-  
-   * ¿Estarías dispuesto a recomendar o implementar una herramienta como InventaTrack en tus proyectos? ¿Por qué?
+
+   - ¿Qué beneficios esperas obtener de una plataforma como InventaTrack?
+
+   - ¿Estarías dispuesto a recomendar o implementar una herramienta como InventaTrack en tus proyectos? ¿Por qué?
 
 ### 5.3.2. Registro de Entrevistas
 
@@ -2860,34 +2877,34 @@ Recoger feedback sobre las herramientas de gestión de inventarios y descubrir n
 
 ###### Entrevista 1:
 
- - **Nombre:** Juan Ramos
- - **Edad:** 25 años
- - **Distrito:** San Borja
- - **Cargo:** Gerente de plaza vea
- - **Link:** https://upcedupe-my.sharepoint.com/:v:/g/personal/u202117303_upc_edu_pe/IQDu_zm_6y67TLlD1VEurd2HAbBl1wca-4J99pwDrX87Hho?e=ooJbKB
- - Juan Ramos, Gerente de plaza vea (supermercado), explicó que su gestión de perecibles se apoya en un ERP especializado que controla caducidad y rotación en tiempo real. Aunque esto reduce pérdidas, aún enfrentan mermas (estimadas entre 2% y 3% de los costos) en frutas, verduras y lácteos, debido a la logística de proveedores y picos de demanda. Considera indispensable que una solución digital ofrezca alertas predictivas, reportes en tiempo real y se integre con el ERP actual. Confirmó que estaría dispuesto a invertir en una herramienta que reduzca pérdidas y optimice el tiempo administrativo.
+- **Nombre:** Juan Ramos
+- **Edad:** 25 años
+- **Distrito:** San Borja
+- **Cargo:** Gerente de plaza vea
+- **Link:** https://upcedupe-my.sharepoint.com/:v:/g/personal/u202117303_upc_edu_pe/IQDu_zm_6y67TLlD1VEurd2HAbBl1wca-4J99pwDrX87Hho?e=ooJbKB
+- Juan Ramos, Gerente de plaza vea (supermercado), explicó que su gestión de perecibles se apoya en un ERP especializado que controla caducidad y rotación en tiempo real. Aunque esto reduce pérdidas, aún enfrentan mermas (estimadas entre 2% y 3% de los costos) en frutas, verduras y lácteos, debido a la logística de proveedores y picos de demanda. Considera indispensable que una solución digital ofrezca alertas predictivas, reportes en tiempo real y se integre con el ERP actual. Confirmó que estaría dispuesto a invertir en una herramienta que reduzca pérdidas y optimice el tiempo administrativo.
 
 <img src="assets/Val1.png" width="100%" height="100%">
 
 ###### Entrevista 2:
 
- - **Nombre:** Leslie Kasimiro
- - **Edad:** 27 años
- - **Distrito:** Jesús María
- - **Cargo:** Encargada de restaurante
- - **Link:** https://upcedupe-my.sharepoint.com/:v:/g/personal/u202117303_upc_edu_pe/IQDOwpNXb9yFR5qP3ObYwdEEATP2mshqEdG8zKsz96e2lTc?e=nBoDuY
- - Leslie Kasimiro, trabaja en un restaurante de mariscos, explicó que el control de insumos aún es manual y depende de Excel, lo que genera pérdidas recurrentes, sobre todo en pescados y mariscos. Reconoció que las auditorías sanitarias señalan mejoras en almacenamiento y que la rotación FIFO no siempre se cumple. Los fines de semana son un reto para mantener el orden en el stock, y gran parte del sobrestock proviene de compras poco planificadas. Estima que las mermas representan hasta el 10% de sus costos. Considera indispensable una aplicación que dé alertas de caducidad y reportes claros, y estaría dispuesta a invertir en ella si demuestra eficiencia.
+- **Nombre:** Leslie Kasimiro
+- **Edad:** 27 años
+- **Distrito:** Jesús María
+- **Cargo:** Encargada de restaurante
+- **Link:** https://upcedupe-my.sharepoint.com/:v:/g/personal/u202117303_upc_edu_pe/IQDOwpNXb9yFR5qP3ObYwdEEATP2mshqEdG8zKsz96e2lTc?e=nBoDuY
+- Leslie Kasimiro, trabaja en un restaurante de mariscos, explicó que el control de insumos aún es manual y depende de Excel, lo que genera pérdidas recurrentes, sobre todo en pescados y mariscos. Reconoció que las auditorías sanitarias señalan mejoras en almacenamiento y que la rotación FIFO no siempre se cumple. Los fines de semana son un reto para mantener el orden en el stock, y gran parte del sobrestock proviene de compras poco planificadas. Estima que las mermas representan hasta el 10% de sus costos. Considera indispensable una aplicación que dé alertas de caducidad y reportes claros, y estaría dispuesta a invertir en ella si demuestra eficiencia.
 
 <img src="assets/Val2.png" width="100%" height="100%">
 
 ###### Entrevista 3:
 
- - **Nombre:** Romulo Galvez
- - **Edad:** 32 años
- - **Distrito:** San Juan de Lurigancho
- - **Link:** https://upcedupe-my.sharepoint.com/:v:/g/personal/u202215721_upc_edu_pe/IQA1qeQAgL49RJVUUdwcJXgNAe9bWnkcmRdY6siKujCbEE8?e=GxLgMP&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D
+- **Nombre:** Romulo Galvez
+- **Edad:** 32 años
+- **Distrito:** San Juan de Lurigancho
+- **Link:** https://upcedupe-my.sharepoint.com/:v:/g/personal/u202215721_upc_edu_pe/IQA1qeQAgL49RJVUUdwcJXgNAe9bWnkcmRdY6siKujCbEE8?e=GxLgMP&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D
 
- - Rómulo encontró InventaTrack muy fácil de usar, destacando especialmente el sistema de colores en la tabla de inventario que le permite identificar rápidamente productos críticos. La aplicación cumplió perfectamente sus necesidades al centralizar toda la información que antes manejaba desordenadamente entre cuaderno y Excel.
+- Rómulo encontró InventaTrack muy fácil de usar, destacando especialmente el sistema de colores en la tabla de inventario que le permite identificar rápidamente productos críticos. La aplicación cumplió perfectamente sus necesidades al centralizar toda la información que antes manejaba desordenadamente entre cuaderno y Excel.
 
  <img src="assets/Val3.png" width="100%" height="100%">
    
@@ -2895,31 +2912,31 @@ Recoger feedback sobre las herramientas de gestión de inventarios y descubrir n
 
 ###### Entrevista 4:
 
- - **Nombre:** Ernesto Ruiz
- - **Edad:** 24 años
- - **Distrito:** Jesús María
- - **Link:** https://upcedupe-my.sharepoint.com/:v:/g/personal/u20201f846_upc_edu_pe/IQBa-qkQbq00SrdGp9_a-1IaAQQnjw-mC2-h9rth4zc_MGI?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJPbmVEcml2ZUZvckJ1c2luZXNzIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXciLCJyZWZlcnJhbFZpZXciOiJNeUZpbGVzTGlua0NvcHkifX0&e=QAiA0k
- - Ernesto Ruiz, quien buscaba mejorar la gestión de inventarios, comentó que la aplicación le parecía útil y que, de implementarla, la utilizaría a diario para optimizar su trabajo.
+- **Nombre:** Ernesto Ruiz
+- **Edad:** 24 años
+- **Distrito:** Jesús María
+- **Link:** https://upcedupe-my.sharepoint.com/:v:/g/personal/u20201f846_upc_edu_pe/IQBa-qkQbq00SrdGp9_a-1IaAQQnjw-mC2-h9rth4zc_MGI?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJPbmVEcml2ZUZvckJ1c2luZXNzIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXciLCJyZWZlcnJhbFZpZXciOiJNeUZpbGVzTGlua0NvcHkifX0&e=QAiA0k
+- Ernesto Ruiz, quien buscaba mejorar la gestión de inventarios, comentó que la aplicación le parecía útil y que, de implementarla, la utilizaría a diario para optimizar su trabajo.
 
 <img src="assets/Val4.png" width="100%" height="100%">
  
 ###### Entrevista 5:
 
- - **Nombre:** Adriana Diestra 
- - **Edad:** 20 años
- - **Distrito:** Rimac
- - **Link: ** [https://upcedupe-my.sharepoint.com/:v:/g/personal/u202210720_upc_edu_pe/IQAnKrZIGlRhTJc58YwDnyneAW87caDiIsHJ5aDKySZe8e8?e=6W7UQ7&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D](https://upcedupe-my.sharepoint.com/:v:/g/personal/u202210720_upc_edu_pe/IQAnKrZIGlRhTJc58YwDnyneAcdhRObvUJXLPoF4oFBRm28?e=iSZrz2&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D)
- - Adriana Diestra, quien buscaba mejorar la eficacia de el control de insumos de sus restaurante, comentó que la aplicacion era intuitiva y agilizaba los procesos, la recomendaria e utilizaria diariamente.
+- **Nombre:** Adriana Diestra
+- **Edad:** 20 años
+- **Distrito:** Rimac
+- **Link: ** [https://upcedupe-my.sharepoint.com/:v:/g/personal/u202210720_upc_edu_pe/IQAnKrZIGlRhTJc58YwDnyneAW87caDiIsHJ5aDKySZe8e8?e=6W7UQ7&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D](https://upcedupe-my.sharepoint.com/:v:/g/personal/u202210720_upc_edu_pe/IQAnKrZIGlRhTJc58YwDnyneAcdhRObvUJXLPoF4oFBRm28?e=iSZrz2&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D)
+- Adriana Diestra, quien buscaba mejorar la eficacia de el control de insumos de sus restaurante, comentó que la aplicacion era intuitiva y agilizaba los procesos, la recomendaria e utilizaria diariamente.
 
 <img src="assets/Val5.png" width="100%" height="100%">
 
 ###### Entrevista 6:
 
- - **Nombre:** Alicia Melgarejo
- - **Edad:** 53 años
- - **Distrito:** Jesús María
- - **Link:** https://upcedupe-my.sharepoint.com/:v:/g/personal/u202215721_upc_edu_pe/IQAHbGF8ja8GQqXpfrPprK8PAd0GqHbEXiy-OGMO2yomJyU?e=qfzcXm&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D
- - Alicia valoró positivamente la interfaz profesional e intuitiva de InventaTrack, resaltando la utilidad del resumen visual en el Home y la función de exportar reportes a PDF. La plataforma cumplió sus expectativas gerenciales al proporcionar información clara sobre productos críticos sin requerir capacitación compleja, por lo que está evaluando implementarla en todos sus puntos de venta.
+- **Nombre:** Alicia Melgarejo
+- **Edad:** 53 años
+- **Distrito:** Jesús María
+- **Link:** https://upcedupe-my.sharepoint.com/:v:/g/personal/u202215721_upc_edu_pe/IQAHbGF8ja8GQqXpfrPprK8PAd0GqHbEXiy-OGMO2yomJyU?e=qfzcXm&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D
+- Alicia valoró positivamente la interfaz profesional e intuitiva de InventaTrack, resaltando la utilidad del resumen visual en el Home y la función de exportar reportes a PDF. La plataforma cumplió sus expectativas gerenciales al proporcionar información clara sobre productos críticos sin requerir capacitación compleja, por lo que está evaluando implementarla en todos sus puntos de venta.
 
 <img src="assets/Val6.png" width="100%" height="100%">
 
@@ -2954,12 +2971,12 @@ Los errores serán puntuados tomando en cuenta la siguiente escala de severidad.
 
 ## Niveles de Severidad de Problemas de Usabilidad
 
-| **Nivel** | **Descripción** |
-|-------|-------------|
-| 1 | Problema superficial: puede ser fácilmente superador por el usuario ó ocurre con muy poco frecuencia. No necesita ser arreglado a no ser que exista disponibilidad de tiempo. |
-| 2 | Problema menor: puede ocurrir un poco más frecuentemente o es un poco más difícil de superar para el usuario. Se le debería asignar una prioridad baja resolverlo de cara al siguiente reléase. |
-| 3 | Problema mayor: ocurre frecuentemente o los usuarios no son capaces de resolverlos. Es importante que sean corregidos y se les debe asignar una prioridad alta. |
-| 4 | Problema muy grave: un error de gran impacto que impide al usuario continuar con el uso de la herramienta. Es imperativo que sea corregido antes del lanzamiento. |
+| **Nivel** | **Descripción**                                                                                                                                                                                 |
+| --------- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| 1         | Problema superficial: puede ser fácilmente superador por el usuario ó ocurre con muy poco frecuencia. No necesita ser arreglado a no ser que exista disponibilidad de tiempo.                   |
+| 2         | Problema menor: puede ocurrir un poco más frecuentemente o es un poco más difícil de superar para el usuario. Se le debería asignar una prioridad baja resolverlo de cara al siguiente reléase. |
+| 3         | Problema mayor: ocurre frecuentemente o los usuarios no son capaces de resolverlos. Es importante que sean corregidos y se les debe asignar una prioridad alta.                                 |
+| 4         | Problema muy grave: un error de gran impacto que impide al usuario continuar con el uso de la herramienta. Es imperativo que sea corregido antes del lanzamiento.                               |
 
 **TABLA RESUMEN:**
 
@@ -2967,14 +2984,14 @@ La siguiente tabla presenta un resumen de los resultados obtenidos en la evaluac
 
 ### Tabla Resumen de Evaluación Heurística - Inventatrack
 
-| Nº | Problema Detectado | Escala de Severidad | Heurística / Principio Violado |
-|----|---------------------|---------------------|---------------------------------|
-| 1 | Registro de nuevos usuarios | 3 | Usability: Flexibilidad y eficiencia de uso |
-| 2 | Falta de confirmación al añadir un nuevo producto | 2 | Usability: Visibilidad del estado del sistema |
-| 3 | Falta de filtros avanzados en la búsqueda de productos | 3 | Usability: Flexibilidad y eficiencia de uso |
-| 4 | Falta de criterios claros al visualizar el inventario | 3 | Usability: Visibilidad del estado del sistema |
-| 5 | Falta de previsualización de cambios antes de guardar | 2 | Usability: Visibilidad del estado del sistema |
-| 6 | Notificaciones sin acción directa desde la alerta | 3 | Usability: Flexibilidad y eficiencia de uso |
+| Nº  | Problema Detectado                                     | Escala de Severidad | Heurística / Principio Violado                |
+| --- | ------------------------------------------------------ | ------------------- | --------------------------------------------- |
+| 1   | Registro de nuevos usuarios                            | 3                   | Usability: Flexibilidad y eficiencia de uso   |
+| 2   | Falta de confirmación al añadir un nuevo producto      | 2                   | Usability: Visibilidad del estado del sistema |
+| 3   | Falta de filtros avanzados en la búsqueda de productos | 3                   | Usability: Flexibilidad y eficiencia de uso   |
+| 4   | Falta de criterios claros al visualizar el inventario  | 3                   | Usability: Visibilidad del estado del sistema |
+| 5   | Falta de previsualización de cambios antes de guardar  | 2                   | Usability: Visibilidad del estado del sistema |
+| 6   | Notificaciones sin acción directa desde la alerta      | 3                   | Usability: Flexibilidad y eficiencia de uso   |
 
 ### DESCRIPCIÓN DE PROBLEMAS:
 
@@ -3001,7 +3018,8 @@ La siguiente tabla presenta un resumen de los resultados obtenidos en la evaluac
 - **Heurística violada:** Usability: Flexibilidad y eficiencia de uso
 - **Problema:** La pantalla de "Inventario de Productos" actualmente solo permite buscar por nombre y filtrar por fecha (año/mes). Para un usuario gerencial o un jefe de almacén con cientos de artículos (como en un supermercado), esto es muy ineficiente. Los usuarios necesitan encontrar productos basándose en criterios más específicos, como el estado de caducidad o el tipo de producto.
 - **Recomendación:** Añadir opciones de filtros avanzados. Esto debe incluir, como mínimo, la capacidad de filtrar por **Estado** (ej. OK, Por Vencer, Vencido) y por **Categoría** (ej. Lácteos, Carnes, Bebidas). Esto permitiría a los usuarios identificar rápidamente los productos que requieren acción inmediata, mejorando la eficiencia.
-- 
+-
+
 #### PROBLEMA #4: Falta de criterios claros al visualizar el inventario
 
 - **Severidad:** 3
@@ -3067,22 +3085,22 @@ Link del video: https://upcedupe-my.sharepoint.com/:v:/g/personal/u202215721_upc
 Como equipo, consideramos importante continuar con el desarrollo de InventaTrack siguiendo un enfoque de mejora continua. Entre las principales acciones que proponemos se encuentran:
 
 - Validar con usuarios finales en entorno real:
-Realizar pruebas de usabilidad con negocios del segmento objetivo para identificar oportunidades de mejora en la navegación, visualización de alertas y reportes.
+  Realizar pruebas de usabilidad con negocios del segmento objetivo para identificar oportunidades de mejora en la navegación, visualización de alertas y reportes.
 
 - Optimizar la interfaz y experiencia de usuario:
-Ajustar el diseño visual y los flujos de interacción en base a la retroalimentación obtenida durante la validación, priorizando la simplicidad y claridad.
+  Ajustar el diseño visual y los flujos de interacción en base a la retroalimentación obtenida durante la validación, priorizando la simplicidad y claridad.
 
 - Ampliar las funcionalidades analíticas:
-Incorporar módulos de reportes avanzados, pronóstico de demanda y métricas de rotación de productos, fortaleciendo la toma de decisiones basada en datos.
+  Incorporar módulos de reportes avanzados, pronóstico de demanda y métricas de rotación de productos, fortaleciendo la toma de decisiones basada en datos.
 
 - Proyección a mediano plazo:
-Consideramos viable evolucionar la plataforma hacia modelos con inteligencia predictiva o módulos móviles independientes, lo que ampliaría su alcance en distintos sectores relacionados con la gestión de insumos perecederos.
+  Consideramos viable evolucionar la plataforma hacia modelos con inteligencia predictiva o módulos móviles independientes, lo que ampliaría su alcance en distintos sectores relacionados con la gestión de insumos perecederos.
 
 - Expansión sectorial y geográfica:
-Explorar nuevos mercados y añadir categorías de asesoría menos cubiertas por la competencia, como sostenibilidad e inteligencia artificial.
+  Explorar nuevos mercados y añadir categorías de asesoría menos cubiertas por la competencia, como sostenibilidad e inteligencia artificial.
 
 - Monitoreo y mejora continua:
-Evaluar constantemente métricas clave y ajustar las funcionalidades basándose en el feedback de los usuarios para garantizar que la plataforma siga siendo relevante y competitiva.
+  Evaluar constantemente métricas clave y ajustar las funcionalidades basándose en el feedback de los usuarios para garantizar que la plataforma siga siendo relevante y competitiva.
 
 ## Video About-the-Team
 
@@ -3104,7 +3122,7 @@ Link del video: https://upcedupe-my.sharepoint.com/:v:/g/personal/u202215721_upc
 
 ## Anexos
 
-#### Link del Landing Page: 
+#### Link del Landing Page:
 
 - https://1asi0729-2520-7394-inventatech.github.io/inventatrack-website/
 
@@ -3146,8 +3164,3 @@ Link del video: https://upcedupe-my.sharepoint.com/:v:/g/personal/u202215721_upc
 #### Canva:
 
 - https://www.canva.com/design/DAGzeDiLANQ/QA3fnBM8jb7-kl_Ywny25w/edit
-
-
-
-
-
